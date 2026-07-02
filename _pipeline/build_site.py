@@ -6,10 +6,12 @@ ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BLOG_SRC=os.path.join(ROOT,'_content','blog-source')
 cat=json.load(open(f'{DATA}/catalog.json'))
 info=json.load(open(f'{DATA}/info.json'))
+try: DESCS=json.load(open(f'{DATA}/descriptions.json'))
+except FileNotFoundError: DESCS={}
 ADDR=info['address']
 STREET=ADDR['street']; CITY=ADDR['city']; STATE=ADDR['state']; ZIP=ADDR['zip']
 PHONE='(719) 547-1850'; PHONE_TEL='7195471850'
-TODAY=datetime.date.today().isoformat()
+TODAY=os.environ.get('BUILD_DATE') or datetime.date.today().isoformat()
 os.makedirs(f'{SITE}/product',exist_ok=True)
 os.makedirs(f'{SITE}/data',exist_ok=True)
 os.makedirs(f'{SITE}/post',exist_ok=True)
@@ -49,6 +51,29 @@ CATS=[('flower','Flower','🌿'),('concentrate','Concentrates','💎'),('edible'
       ('topical','Topicals','🧴'),('merchandise','Gear','🧢')]
 counts={c:sum(1 for p in cat if p['category']==c) for c,_,_ in CATS}
 TOTAL=len(cat); STRAINS=sum(p['n_strains'] for p in cat)
+
+FAQS=[
+    ("Do I need to be 21 to shop at Terps Dispensary in Pueblo?",
+     "Yes. Terps is a licensed recreational dispensary — you must be 21 or older with a valid government-issued photo ID to enter and purchase. No medical card is required."),
+    ("What are your hours?",
+     "We're open Monday through Saturday 8:00am–8:00pm and Sunday 10:00am–5:00pm at {STREET}, {CITY}, {STATE} {ZIP}."),
+    ("Can I order cannabis online for pickup in Pueblo?",
+     "Yes — browse our live menu, add products to your order, and reserve online. Your order is ready when you walk in; you pay in store at pickup (21+, valid ID required)."),
+    ("What payment methods do you accept?",
+     "You pay in store at pickup. Call us at {PHONE} for current accepted payment options before your visit."),
+    ("Can out-of-state visitors buy at your dispensary?",
+     "Yes. Colorado allows recreational cannabis sales to any adult 21+ with a valid government-issued ID — out-of-state and international IDs are accepted."),
+    ("How much cannabis can I buy in Colorado?",
+     "Colorado law allows adults 21+ to purchase up to 1 ounce of flower (or its equivalent in concentrates or edibles) per transaction."),
+    ("What should I bring for my first visit?",
+     "Just a valid, unexpired government-issued photo ID proving you're 21+. Our budtenders will walk you through the menu and help you find the right product."),
+    ("Is your online menu accurate?",
+     "Yes — our menu syncs live from our point of sale, so products, prices, and stock levels update in real time throughout the day."),
+]
+def faqs():
+    return [(q,a.format(STREET=STREET,CITY=CITY,STATE=STATE,ZIP=ZIP,PHONE=PHONE)) for q,a in FAQS]
+def faq_items(fq):
+    return ''.join(f'<details class="faq-item"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q,a in fq)
 
 FALLBACK_SVG='<div class="ph-fallback"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2C9 6 5 8 5 13a7 7 0 0014 0c0-5-4-7-7-11z"/></svg><span>Terps</span></div>'
 
@@ -106,10 +131,20 @@ def footer(prefix=''):
 <div><img class="flogo" src="{prefix}img/logo_horizontal.png" alt="Terps Dispensary">
 <p>Pueblo's home for premium, locally-loved cannabis. Recreational 21+. Browse our full live menu and reserve for fast in-store pickup.</p></div>
 <div><p class="h4">Shop</p><a href="{prefix}menu.html">Full dispensary menu</a>{links}<a href="{prefix}blog/index.html">Blog</a></div>
+<div><p class="h4">Info</p><a href="{prefix}about.html">About us</a><a href="{prefix}contact.html">Contact</a><a href="{prefix}faq.html">FAQ</a><a href="{prefix}privacy.html">Privacy policy</a></div>
 <div><p class="h4">Visit</p><p>{e(STREET)}<br>{e(CITY)}, {e(STATE)} {e(ZIP)}<br><br>Mon–Sat 8am–8pm<br>Sun 10am–5pm<br><br><a href="tel:{PHONE_TEL}">{PHONE}</a></p></div>
 </div><div class="copy"><span>© 2026 Terps Dispensary. Rec 21+. Keep out of reach of children.</span>
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="{prefix}js/config.js"></script><script src="{prefix}js/orders.js"></script><script src="{prefix}js/app.js"></script>"""
+
+def plink(p,prefix=''):
+    bits=[p['name']]
+    if p['brand']: bits.append(p['brand'])
+    label=' — '.join(bits)
+    return f'<a href="{prefix}product/{p["slug"]}.html">{e(label)}</a>'
+
+def cat_products(c):
+    return sorted((p for p in cat if p['category']==c),key=lambda p:p['slug'])
 
 def price_str(p):
     u=p.get('unit','')
@@ -138,6 +173,12 @@ def build_home():
     featured=sorted([p for p in withphoto if p['category']=='flower' and p.get('thc_max')],key=lambda p:-p['thc_max'])[:8]
     if len(featured)<8: featured=withphoto[:8]
     value=sorted(withphoto,key=lambda p:p['price_min'])[:8]
+    hub_home=''
+    for c,n,_ in CATS:
+        plist=cat_products(c)[:8]
+        if not plist: continue
+        links=''.join(f'<li>{plink(p)}</li>' for p in plist)
+        hub_home+=f'<div class="cat-hub"><h3><a href="menu.html?cat={c}">{e(n)}</a></h3><ul class="plain-links">{links}</ul><a class="more" href="menu.html?cat={c}">All {counts.get(c,0)} {e(n.lower())} →</a></div>'
     feat_cards=''.join(card(p) for p in featured)
     val_cards=''.join(card(p) for p in value)
     ld={"@context":"https://schema.org","@type":["Store","LocalBusiness"],"name":"Terps Dispensary","image":f"{BASE}/img/badge.png",
@@ -145,27 +186,10 @@ def build_home():
         "address":{"@type":"PostalAddress","streetAddress":STREET,"addressLocality":CITY,"addressRegion":STATE,"postalCode":ZIP,"addressCountry":"US"},
         "geo":{"@type":"GeoCoordinates","latitude":38.3096,"longitude":-104.6810},
         "openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"17:00"}]}
-    faqs=[
-        ("Do I need to be 21 to shop at Terps Dispensary in Pueblo?",
-         "Yes. Terps is a licensed recreational dispensary — you must be 21 or older with a valid government-issued photo ID to enter and purchase. No medical card is required."),
-        ("What are your hours?",
-         f"We're open Monday through Saturday 8:00am–8:00pm and Sunday 10:00am–5:00pm at {STREET}, {CITY}, {STATE} {ZIP}."),
-        ("Can I order cannabis online for pickup in Pueblo?",
-         "Yes — browse our live menu, add products to your order, and reserve online. Your order is ready when you walk in; you pay in store at pickup (21+, valid ID required)."),
-        ("What payment methods do you accept?",
-         f"You pay in store at pickup. Call us at {PHONE} for current accepted payment options before your visit."),
-        ("Can out-of-state visitors buy at your dispensary?",
-         "Yes. Colorado allows recreational cannabis sales to any adult 21+ with a valid government-issued ID — out-of-state and international IDs are accepted."),
-        ("How much cannabis can I buy in Colorado?",
-         "Colorado law allows adults 21+ to purchase up to 1 ounce of flower (or its equivalent in concentrates or edibles) per transaction."),
-        ("What should I bring for my first visit?",
-         "Just a valid, unexpired government-issued photo ID proving you're 21+. Our budtenders will walk you through the menu and help you find the right product."),
-        ("Is your online menu accurate?",
-         "Yes — our menu syncs live from our point of sale, so products, prices, and stock levels update in real time throughout the day."),
-    ]
+    fq=faqs()
     faq_ld={"@context":"https://schema.org","@type":"FAQPage",
-        "mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faqs]}
-    faq_html=''.join(f'<details class="faq-item"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q,a in faqs)
+        "mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in fq]}
+    faq_html=faq_items(fq)
     h=head("Dispensary Pueblo CO — Terps Dispensary | Rec 21+ Menu",
            "Terps Dispensary — recreational dispensary in Pueblo, Colorado. 290+ cannabis products with live prices: flower, edibles, concentrates. Order online for pickup. 21+."[:155],
            BASE+'/',f'\n<script type="application/ld+json">{json.dumps(ld)}</script>\n<script type="application/ld+json">{json.dumps(faq_ld)}</script>').replace('{CSS}','css/style.css')
@@ -207,16 +231,25 @@ def build_home():
 <div class="row"><b>Sunday</b><span>10:00am – 5:00pm</span></div>
 <div class="row"><b>Menu</b><span><a href="menu.html" style="color:var(--gold-text);font-weight:700">Browse the full live menu →</a></span></div>
 </div>
-<div class="map"><iframe loading="lazy" title="Map to Terps Dispensary, 38 N Silicon Dr, Pueblo, CO" src="https://maps.google.com/maps?q=38%20N%20Silicon%20Dr%2C%20Pueblo%2C%20CO%2081007&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe></div>
+<div class="map">{MAPS_EMBED}</div>
 </div></div></section>
 
 <section class="block" id="faq"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Good to know</div><h2>Dispensary FAQs</h2></div></div>
 <div class="faq">{faq_html}</div></div></section>
+
+<section class="block" id="browse"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Browse the shelf</div><h2>Popular picks by category</h2></div><a class="more" href="menu.html">Full menu →</a></div>
+{hub_home}</div></section>
 {footer()}</body></html>"""
     open(f'{SITE}/index.html','w').write(h+body)
 
 # ---------------- MENU PAGE ----------------
 def build_menu():
+    hubs=''
+    for c,n,_ in CATS:
+        plist=cat_products(c)
+        if not plist: continue
+        links=''.join(f'<li>{plink(p)}</li>' for p in plist)
+        hubs+=f'<details class="cat-hub"><summary>{e(n)} ({len(plist)})</summary><ul class="plain-links">{links}</ul></details>'
     h=head("Weed Menu Pueblo CO — Terps Dispensary Live Menu 21+",
            f"Live dispensary menu in Pueblo, Colorado — {TOTAL}+ cannabis products, {STRAINS}+ strains. Filter flower, vapes, concentrates & edibles by price and THC. Pickup 21+."[:155],
            BASE+'/menu.html').replace('{CSS}','css/style.css')
@@ -235,6 +268,8 @@ def build_menu():
 <div class="chips" id="chips"></div>
 <div class="grid" id="grid"></div>
 </div></div></div>
+<section class="block" id="all-products"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Every product, A–Z</div><h2>Browse the full shelf by category</h2></div></div>
+{hubs}</div></section>
 {footer()}<script src="js/menu.js"></script></body></html>"""
     open(f'{SITE}/menu.html','w').write(h+body)
 
@@ -257,10 +292,14 @@ def build_products():
             f'<button class="strain-opt" data-strain="{e(s["name"])}" data-price="{s["price"]}">'
             f'<div class="sn">{e(s["name"])}</div><div class="sd">{money(s["price"])}{u}{" · "+str(round(s["thc"]))+"% THC" if s.get("thc") else ""}</div></button>'
             for s in p['strains'])
-        desc=p['description'] or f"{p['name']} by {p['brand'] or 'Terps'} — available now at Terps Dispensary in Pueblo, CO. {p['n_strains']} strain{'s' if p['n_strains']>1 else ''} in stock. Reserve online for fast in-store pickup."
+        desc=DESCS.get(p['id']) or p['description'] or f"{p['name']} by {p['brand'] or 'Terps'} — available now at Terps Dispensary in Pueblo, CO. {p['n_strains']} strain{'s' if p['n_strains']>1 else ''} in stock. Reserve online for fast in-store pickup."
         pool=[x for x in bycat.get(p['category'],[]) if x['id']!=p['id'] and x['photo']]
         related=([x for x in pool if x['subcategory']==p['subcategory']]+[x for x in pool if x['subcategory']!=p['subcategory']])[:4]
         rel=''.join(card(x,'../') for x in related)
+        catlist=cat_products(p['category'])
+        ci=next(i for i,x in enumerate(catlist) if x['id']==p['id'])
+        more=[catlist[(ci+k)%len(catlist)] for k in range(1,len(catlist))][:6]
+        morelinks=''.join(f'<li>{plink(x,"../")}</li>' for x in more)
         pr=price_str(p)
         canonical=f"{BASE}/product/{p['slug']}.html"
         pimg=f"{BASE}/{p['photo']}" if p['photo'] else f"{BASE}/img/badge.png"
@@ -300,6 +339,7 @@ def build_products():
 <div class="disclaimer">Prices and availability update live from our register and may change. Reserve online, pay in store at pickup. Must be 21+ with valid ID. Keep out of reach of children.</div>
 </div></div>
 {f'<section class="block"><div class="sec-head"><div><h2>More {e(catname.lower())} at Terps in Pueblo</h2></div><a class="more" href="../menu.html?cat={p["category"]}">Shop all {e(catname.lower())} in Pueblo, CO →</a></div><div class="grid">{rel}</div></section>' if rel else ''}
+{f'<section class="block cat-hub"><div class="sec-head"><div><h2>More in {e(catname)}</h2></div></div><ul class="plain-links">{morelinks}</ul></section>' if morelinks else ''}
 </div>
 {footer('../')}
 <script>
@@ -375,11 +415,12 @@ def build_blog():
             "mainEntityOfPage":canonical,"author":{"@type":"Person","name":"Evan Smith"},
             "publisher":{"@type":"Organization","name":"Terps Dispensary",
                          "logo":{"@type":"ImageObject","url":f"{BASE}/img/badge.png"}}}
-        if hero: ld["image"]=f"{BASE}/img/blog/{p['slug']}/hero.jpg"
+        ogimg=f"{BASE}/img/blog/{p['slug']}/hero.jpg" if hero else None
+        if ogimg: ld["image"]=ogimg
         extra=f'\n{BLOG_CSS.replace("{PREFIX}","../")}\n<script type="application/ld+json">{json.dumps(ld)}</script>'
-        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra,ogtype='article',prefix='../').replace('{CSS}','../css/style.css')
+        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra,ogtype='article',ogimage=ogimg,prefix='../').replace('{CSS}','../css/style.css')
         heroimg=f'<figure class="post-hero"><img src="{hero}" alt="{e(p["title"])}"></figure>' if hero else ''
-        body=f"""{header('../')}
+        body=f"""{header('../')}<main>
 <article class="post"><div class="wrap">
 <div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../blog/index.html">Blog</a> › {e(p['title'])}</div>
 <header class="post-head"><div class="eyebrow">Terps Dispensary Blog</div>
@@ -410,13 +451,104 @@ def build_blog():
     h=head("Blog — Terps Dispensary Pueblo | Cannabis News & Guides",
            "News and guides from Terps Dispensary in Pueblo, CO — Colorado cannabis industry insights, dispensary guides and market updates.",
            f'{BASE}/blog/',extra,prefix='../').replace('{CSS}','../css/style.css')
-    body=f"""{header('../')}
+    body=f"""{header('../')}<main>
 <div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">From the Terps team</div>
 <h1>The Terps blog</h1><p>Colorado cannabis news, guides and market insights</p></div></div>
 <div class="wrap"><div class="blog-grid">{cards}</div></div>
 {footer('../')}</body></html>"""
     open(f'{SITE}/blog/index.html','w').write(h+body)
     return posts
+
+# ---------------- TRUST PAGES ----------------
+MAPS_EMBED='<iframe loading="lazy" title="Map to Terps Dispensary, 38 N Silicon Dr, Pueblo, CO" src="https://maps.google.com/maps?q=38%20N%20Silicon%20Dr%2C%20Pueblo%2C%20CO%2081007&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>'
+
+def trust_page(fname,title,desc,body_html,extra=''):
+    h=head(title,desc,f'{BASE}/{fname}',extra).replace('{CSS}','css/style.css')
+    open(f'{SITE}/{fname}','w').write(f"{h}{header()}<main>{body_html}{footer()}</body></html>")
+
+def build_trust():
+    hours_rows="""<div class="row"><b>Mon–Sat</b><span>8:00am – 8:00pm</span></div>
+<div class="row"><b>Sunday</b><span>10:00am – 5:00pm</span></div>"""
+    nap_rows=f"""<div class="row"><b>Address</b><span>{e(STREET)}<br>{e(CITY)}, {e(STATE)} {e(ZIP)}</span></div>
+<div class="row"><b>Phone</b><span><a href="tel:{PHONE_TEL}">{PHONE}</a></span></div>
+{hours_rows}"""
+    # about.html
+    about_ld={"@context":"https://schema.org","@type":["Store","LocalBusiness"],"name":"Terps Dispensary",
+        "legalName":"High Demand LLC","image":f"{BASE}/img/badge.png","@id":BASE,"url":BASE,
+        "telephone":"+17195471850","priceRange":"$$",
+        "address":{"@type":"PostalAddress","streetAddress":STREET,"addressLocality":CITY,"addressRegion":STATE,"postalCode":ZIP,"addressCountry":"US"},
+        "geo":{"@type":"GeoCoordinates","latitude":38.3096,"longitude":-104.6810},
+        "openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"17:00"}]}
+    about_body=f"""
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">Pueblo, Colorado · Recreational 21+</div>
+<h1>About Terps Dispensary</h1><p>Pueblo's local premium dispensary</p></div></div>
+<section class="block"><div class="wrap">
+<div class="sec-head"><div><div class="eyebrow">Who we are</div><h2>Locally owned, locally loved</h2></div></div>
+<div class="visit"><div>
+<p>Terps Dispensary is Pueblo's local premium dispensary, operated by High Demand LLC at {e(STREET)}, {e(CITY)}, {e(STATE)} {e(ZIP)}. We're a licensed recreational store serving adults 21 and older with a valid government-issued ID.</p>
+<p>What sets us apart is our live-priced menu of {TOTAL}+ products — it syncs straight from our register, so the flower, concentrates, edibles, topicals and gear you see online are really on the shelf, priced in real time. Browse the menu, reserve online, and your order is ready when you walk in.</p>
+<p>Questions? Call us at <a href="tel:{PHONE_TEL}">{PHONE}</a> or stop by — Mon–Sat 8am–8pm, Sun 10am–5pm.</p>
+<p><a class="btn btn-gold" href="menu.html">Browse the live menu →</a></p>
+</div><div class="card-info">{nap_rows}
+<div class="row"><b>Operated by</b><span>High Demand LLC</span></div>
+<div class="row"><b>License</b><span>Recreational · 21+</span></div>
+</div></div></div></section>"""
+    trust_page('about.html',"About Terps Dispensary — Pueblo CO | Rec 21+",
+        f"Terps Dispensary, operated by High Demand LLC — Pueblo's local premium recreational dispensary at {STREET}, {CITY}, {STATE} {ZIP}. Live-priced menu of {TOTAL}+ products. 21+."[:155],
+        about_body,f'\n<script type="application/ld+json">{json.dumps(about_ld)}</script>')
+    # contact.html
+    contact_body=f"""
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">We're here to help</div>
+<h1>Contact Terps Dispensary</h1><p>Call, email, or come see us in Pueblo</p></div></div>
+<section class="block"><div class="wrap">
+<div class="visit"><div class="card-info">{nap_rows}
+<div class="row"><b>Email</b><span><a href="mailto:pueblo.terps@gmail.com">pueblo.terps@gmail.com</a></span></div>
+<div class="row"><b>Menu</b><span><a href="menu.html" style="color:var(--gold-text);font-weight:700">Browse the full live menu →</a></span></div>
+</div>
+<div class="map">{MAPS_EMBED}</div>
+</div></div></section>"""
+    trust_page('contact.html',"Contact Terps Dispensary — Pueblo CO | (719) 547-1850",
+        f"Contact Terps Dispensary in Pueblo, Colorado — {STREET}, {CITY}, {STATE} {ZIP}. Call {PHONE} or email pueblo.terps@gmail.com. Open Mon–Sat 8am–8pm, Sun 10am–5pm."[:155],
+        contact_body)
+    # privacy.html
+    privacy_body=f"""
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">Plain language, no fine print</div>
+<h1>Privacy Policy</h1><p>What we collect, why, and what we never do</p></div></div>
+<section class="block"><div class="wrap"><div style="max-width:720px">
+<div class="sec-head"><div><div class="eyebrow">Orders</div><h2>What we collect</h2></div></div>
+<p>When you reserve a pickup order, we collect your name, phone number, and email solely to prepare your order for pickup. That information is stored in our order system and used for nothing else.</p>
+<div class="sec-head"><div><div class="eyebrow">Our promise</div><h2>Never sold, never shared</h2></div></div>
+<p>We never sell or share your information with anyone. If you have questions about your data, or want it deleted, email <a href="mailto:pueblo.terps@gmail.com">pueblo.terps@gmail.com</a> and we'll take care of it.</p>
+<div class="sec-head"><div><div class="eyebrow">On this site</div><h2>Cookies &amp; tracking</h2></div></div>
+<p>This site uses only your browser's localStorage to remember your cart and your age-gate confirmation. We don't use ad trackers.</p>
+</div></div></section>"""
+    trust_page('privacy.html',"Privacy Policy — Terps Dispensary Pueblo CO",
+        "Terps Dispensary privacy policy in plain language: order info (name, phone, email) is used only to prepare your pickup, never sold or shared. No ad trackers."[:155],
+        privacy_body)
+    # faq.html (FAQPage JSON-LD stays on homepage only)
+    faq_body=f"""
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">Good to know</div>
+<h1>Dispensary FAQs</h1><p>Everything to know before you visit Terps in Pueblo</p></div></div>
+<section class="block"><div class="wrap">
+<div class="faq">{faq_items(faqs())}</div>
+<p style="margin-top:24px">Still have questions? <a href="contact.html">Contact us</a> or call <a href="tel:{PHONE_TEL}">{PHONE}</a>.</p>
+</div></section>"""
+    trust_page('faq.html',"FAQ — Terps Dispensary Pueblo CO | Hours, ID, Pickup",
+        f"Frequently asked questions about Terps Dispensary in Pueblo, CO — age requirements, hours, online pickup orders, payment, and purchase limits. Rec 21+."[:155],
+        faq_body)
+    # 404.html — served from any path, so all URLs derive from BASE
+    h404=head("Page Not Found — Terps Dispensary Pueblo CO",
+        "That page doesn't exist. Browse the live Terps Dispensary menu or head back home.",
+        f'{BASE}/404.html',prefix=f'{BASE}/').replace('{CSS}',f'{BASE}/css/style.css')
+    body404=f"""{header(f'{BASE}/')}<main>
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">404</div>
+<h1>This page went up in smoke</h1><p>The page you're looking for doesn't exist or has moved.</p></div></div>
+<section class="block"><div class="wrap">
+<div class="cta-row"><a class="btn btn-gold btn-lg" href="{BASE}/menu.html">Browse the menu →</a>
+<a class="btn btn-ghost btn-lg" href="{BASE}/">Back to home</a></div>
+</div></section>
+{footer(f'{BASE}/')}</body></html>"""
+    open(f'{SITE}/404.html','w').write(h404+body404)
 
 # ---------------- SITEMAP / ROBOTS ----------------
 def build_meta(posts):
@@ -428,12 +560,15 @@ def build_meta(posts):
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n')
     sm+=entry(f'{BASE}/',f'{BASE}/img/og-card.jpg','Terps Dispensary — Pueblo, Colorado')
     sm+=entry(f'{BASE}/menu.html')
+    for pg in ('about.html','contact.html','faq.html','privacy.html'):
+        sm+=entry(f'{BASE}/{pg}')
     for p in cat:
         img=f"{BASE}/{p['photo']}" if p['photo'] else None
         sm+=entry(f"{BASE}/product/{p['slug']}.html",img,f"{p['name']} — Terps Dispensary Pueblo" if img else None)
     sm+=entry(f'{BASE}/blog/')
     for p in posts:
-        sm+=entry(f"{BASE}/post/{p['slug']}")
+        img=f"{BASE}/img/blog/{p['slug']}/hero.jpg" if post_hero(p['slug']) else None
+        sm+=entry(f"{BASE}/post/{p['slug']}",img,p['title'] if img else None)
     sm+='</urlset>\n'
     open(f'{SITE}/sitemap.xml','w').write(sm)
     open(f'{SITE}/robots.txt','w').write(
@@ -441,6 +576,6 @@ def build_meta(posts):
         "Disallow: /staff.html\nDisallow: /order.html\n"
         f"Sitemap: {BASE}/sitemap.xml\n")
 
-build_home(); build_menu(); build_products(); posts=build_blog(); build_meta(posts)
-print(f'built: index.html, menu.html, {len(cat)} product pages, {len(posts)} blog posts + blog index, sitemap({len(cat)+3+len(posts)} urls)')
+build_home(); build_menu(); build_products(); build_trust(); posts=build_blog(); build_meta(posts)
+print(f'built: index.html, menu.html, {len(cat)} product pages, 4 trust pages + 404, {len(posts)} blog posts + blog index, sitemap({len(cat)+7+len(posts)} urls)')
 print(f'photos on {sum(1 for p in cat if p["photo"])} products')
