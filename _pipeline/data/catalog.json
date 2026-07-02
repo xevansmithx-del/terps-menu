@@ -837,7 +837,7 @@
    {
     "name": "Lemon Cookies",
     "price": 13.0,
-    "thc": 74.52
+    "thc": 77.21
    },
    {
     "name": "Lilac Diesel",
@@ -1770,12 +1770,12 @@
   "brand": "Craft",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 35.0,
+  "price_min": 29.03,
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.8,
-  "n_strains": 10,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1820,12 +1820,22 @@
    {
     "name": "Punchberry",
     "price": 35.0,
-    "thc": 73.64
+    "thc": 86.2
+   },
+   {
+    "name": "Strawberry Shortcake",
+    "price": 29.03,
+    "thc": 80.3
    },
    {
     "name": "Tropsicle",
     "price": 35.0,
     "thc": 70.64
+   },
+   {
+    "name": "Watermelon Ice",
+    "price": 35.0,
+    "thc": 76.92
    }
   ],
   "description": "",
@@ -2255,45 +2265,6 @@
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171637_IMG_20260505_163646075_2.jpg",
   "match_score": 1.098
- },
- {
-  "id": "3ff98d52-70bd-4486-b0c1-623f46caa771",
-  "slug": "14er-prerolls",
-  "name": "14er Prerolls",
-  "brand": "14ER",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 2.42,
-  "price_max": 6.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 28.39,
-  "n_strains": 4,
-  "strains": [
-   {
-    "name": "Bubblegum Marker",
-    "price": 2.42,
-    "thc": 26.48
-   },
-   {
-    "name": "Chem De La Chem",
-    "price": 2.42,
-    "thc": 26.69
-   },
-   {
-    "name": "Pupcake",
-    "price": 6.0,
-    "thc": 25.19
-   },
-   {
-    "name": "Snapjacks",
-    "price": 2.42,
-    "thc": 28.39
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440397573_IMG_3525.JPG",
-  "match_score": 0.655
  },
  {
   "id": "402ac2aa-bb59-44aa-bcf3-278e7dc759fd",
@@ -4352,8 +4323,8 @@
   "price_max": 12.1,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 84.64,
-  "n_strains": 6,
+  "thc_max": 89.95,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -4368,12 +4339,22 @@
    {
     "name": "Churroz",
     "price": 12.0,
-    "thc": 82.36
+    "thc": 83.63
+   },
+   {
+    "name": "Electric Lemonade",
+    "price": 12.0,
+    "thc": 89.95
    },
    {
     "name": "Grand Daddy Grape",
     "price": 12.0,
     "thc": 83.01
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 12.0,
+    "thc": 84.09
    },
    {
     "name": "Root Beer Kush",
@@ -4603,30 +4584,6 @@
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171927_IMG_20260505_164646943_2__1_.jpg",
   "match_score": 1.045
- },
- {
-  "id": "838a8a4d-43e3-4cb7-b312-00ca40bc3a52",
-  "slug": "preroll-pineapple-pastures",
-  "name": "Preroll - Pineapple Pastures",
-  "brand": "14ER",
-  "category": "flower",
-  "subcategory": "sativa",
-  "price_min": 2.42,
-  "price_max": 2.42,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 21.57,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Pineapple Pastures",
-    "price": 2.42,
-    "thc": 21.57
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437973621_180217P_25584_Preroll_2.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 1.069
  },
  {
   "id": "8563664a-3e31-4a0d-aee6-d29b0a414217",
@@ -6951,7 +6908,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 89.5,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Blackberry Gelato",
@@ -6967,11 +6924,6 @@
     "name": "Cereal Milk",
     "price": 12.0,
     "thc": 89.5
-   },
-   {
-    "name": "Melon Baller",
-    "price": 12.0,
-    "thc": 78.3
    },
    {
     "name": "Northern Lights",
@@ -9148,7 +9100,7 @@
   "category": "concentrate",
   "subcategory": "shatter",
   "price_min": 8.06,
-  "price_max": 10.0,
+  "price_max": 8.06,
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.4,
@@ -9161,7 +9113,7 @@
    },
    {
     "name": "Blue Dream",
-    "price": 10.0,
+    "price": 8.06,
     "thc": 78.78
    },
    {
@@ -9171,7 +9123,7 @@
    },
    {
     "name": "Ghost Glue",
-    "price": 10.0,
+    "price": 8.06,
     "thc": 76.42
    },
    {
@@ -9191,17 +9143,17 @@
    },
    {
     "name": "Lazar",
-    "price": 10.0,
+    "price": 8.06,
     "thc": 81.4
    },
    {
     "name": "Munchie Menace",
-    "price": 10.0,
+    "price": 8.06,
     "thc": 69.04
    },
    {
     "name": "Peach Cadillac",
-    "price": 10.0,
+    "price": 8.06,
     "thc": 71.19
    },
    {
