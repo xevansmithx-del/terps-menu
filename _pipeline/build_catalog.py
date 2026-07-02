@@ -174,6 +174,39 @@ for p in cat:
     p['match_score']=s
 withimg=sum(1 for p in cat if p['wm_img'])
 print(f'photo matches (cat-gated >=.55): {withimg}/{len(cat)} = {round(100*withimg/len(cat))}%')
+
+# ---- customer-facing brand (Gabriela 7/2: brand filter must show WM brand names, not vendor LLCs) ----
+def _clean_wm_brand(s):
+    s=re.sub(r'\((?:Linked|Not Badged)\)','',s or '').strip()
+    s=re.sub(r'\s*\(CO\)$','',s,flags=re.I).strip()
+    return s
+def _clean_vendor(s):
+    s=(s or '').strip()
+    while True:
+        t=re.sub(r'[\s,]+(llc|l\.l\.c\.?|inc\.?|corp\.?|co\.?|company)\.?$','',s,flags=re.I).strip(' ,.')
+        if t==s: break
+        s=t
+    return s
+try:
+    _mr=json.load(open(f'{DATA}/match_results.json'))
+    _wmb={}
+    for i in json.load(open(f'{DATA}/wm_items_pueblo.json')):
+        nm=i.get('name'); c=(i.get('cells') or [None])[0]
+        b=_clean_wm_brand(c)
+        if nm and b and nm not in _wmb: _wmb[nm]=b
+    _id2b={r['weave_id']:_wmb.get(r.get('wm_name'),'') for r in _mr if r.get('score',0)>=0.55}
+except Exception as _e:
+    print('brand map unavailable:', _e); _id2b={}
+try: _bo={k:v for k,v in json.load(open(f'{DATA}/brand_overrides.json')).items() if not k.startswith('_')}
+except Exception: _bo={}
+_nb=0
+for p in cat:
+    p['vendor_name']=p['brand']
+    b=_bo.get(p['name']) or _id2b.get(p['id']) or _clean_vendor(p['brand']) or 'Terps'
+    if b!=p['brand']: _nb+=1
+    p['brand']=b
+print(f'brands remapped to customer-facing names: {_nb}/{len(cat)}; distinct brands: {len(set(p["brand"] for p in cat))}; empty brands: {sum(1 for p in cat if not p["brand"])}')
+
 json.dump(cat,open(f'{DATA}/catalog.json','w'),indent=1)
 import collections
 byc=collections.Counter(p['category'] for p in cat); bci=collections.Counter(p['category'] for p in cat if p['wm_img'])

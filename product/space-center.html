@@ -37,6 +37,7 @@
 <div class="chead"><h3>Your pickup order</h3><button class="x" onclick="closeCart()">&times;</button></div>
 <div class="items" id="cart-items"></div>
 <div class="foot"><div class="tot"><span>Subtotal</span><span id="cart-total">$0.00</span></div>
+<div class="otd-tot" id="cart-otd"></div>
 <div class="note">Send your order to reserve it — we'll have it ready. Pay in store at pickup (21+, valid ID). Questions? Call <a href="tel:7195471850">(719) 547-1850</a> · 38 N Silicon Dr, Pueblo.</div>
 <button class="btn btn-gold" onclick="reservePickup()">Reserve for pickup →</button></div></aside><main>
 <div class="wrap"><div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../menu.html">Menu</a> › <a href="../menu.html?cat=flower">Flower</a> › Space Center</div></div>
@@ -46,6 +47,7 @@
 <div class="brand">Antero Sciences</div><h1>Space Center</h1>
 <div class="meta"><span class="pill">Flower</span><span class="pill">Hybrid</span><span class="pill gold">23% THC</span></div>
 <div class="priceline" id="priceline">$12.99<small> · 3.5g eighth</small></div>
+<div class="otd" id="otdline">≈ $16.08 out the door · taxes included</div>
 <div class="strain-sel"></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
@@ -56,20 +58,20 @@
 <div class="ph"><span class="tag">Flower</span><span class="thc">27% THC</span><img src="../img/products/04dd0339-2f07-4829-9e18-ae2054b81332.jpg" loading="lazy" decoding="async" width="450" height="600" alt="Blue Razzsicle by Antero Sciences — flower at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">Antero Sciences</div>
 <p class="name">Blue Razzsicle</p>
-<div class="foot"><span class="price" data-price>$10.50<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a><a class="card" href="../product/high-county-cones-2-pack.html" data-id="09239fc0-9e49-4ab1-8638-d58576da377f">
+<div class="foot"><span class="price" data-price>$12.01<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a><a class="card" href="../product/high-county-cones-2-pack.html" data-id="09239fc0-9e49-4ab1-8638-d58576da377f">
 <div class="ph"><span class="tag">Flower</span><span class="thc">18% THC</span><img src="../img/products/09239fc0-9e49-4ab1-8638-d58576da377f.jpg" loading="lazy" decoding="async" width="225" height="225" alt="High County Cones 2 Pack by High Country Management Group — flower at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">High Country Management Group</div>
 <p class="name">High County Cones 2 Pack</p>
 <div class="foot"><span class="price" data-price>$0.81<small>–$4.03</small></span><span class="strains">6 strains</span></div></div></a><a class="card" href="../product/the-bakery-brothers-deep-space.html" data-id="11bd9fd2-9441-4ea4-81e3-9a9cc40e9788">
-<div class="ph"><span class="tag">Flower</span><span class="thc">20% THC</span><img src="../img/products/11bd9fd2-9441-4ea4-81e3-9a9cc40e9788.jpg" loading="lazy" decoding="async" width="450" height="600" alt="The Bakery Brothers - Deep Space by TBB Llc — flower at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
-<div class="body"><div class="brand">TBB Llc</div>
+<div class="ph"><span class="tag">Flower</span><span class="thc">20% THC</span><img src="../img/products/11bd9fd2-9441-4ea4-81e3-9a9cc40e9788.jpg" loading="lazy" decoding="async" width="450" height="600" alt="The Bakery Brothers - Deep Space by The Bakery Brothers — flower at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
+<div class="body"><div class="brand">The Bakery Brothers</div>
 <p class="name">The Bakery Brothers - Deep Space</p>
 <div class="foot"><span class="price" data-price>$12.25<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a><a class="card" href="../product/cadillac-rainbows.html" data-id="12336f9b-311c-4f3e-b483-5fa2c80304f4">
 <div class="ph"><span class="tag">Flower</span><span class="thc">21% THC</span><img src="../img/products/12336f9b-311c-4f3e-b483-5fa2c80304f4.jpg" loading="lazy" decoding="async" width="450" height="600" alt="Cadillac Rainbows by Antero Sciences — flower at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">Antero Sciences</div>
 <p class="name">Cadillac Rainbows</p>
-<div class="foot"><span class="price" data-price>$12.99<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a></div></section>
-<section class="block cat-hub"><div class="sec-head"><div><h2>More in Flower</h2></div></div><ul class="plain-links"><li><a href="../product/space-kandy.html">Space Kandy — Silver Lake</a></li><li><a href="../product/spilled-paint.html">Spilled Paint — Antero Sciences</a></li><li><a href="../product/stay-puft.html">Stay Puft — Antero Sciences</a></li><li><a href="../product/strawberries-and-cream.html">Strawberries and Cream — Antero Sciences</a></li><li><a href="../product/strawnana.html">Strawnana — Silver Lake</a></li><li><a href="../product/sugar-cane.html">Sugar Cane — Antero Sciences</a></li></ul></section>
+<div class="foot"><span class="price" data-price>$12.01<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a></div></section>
+<section class="block cat-hub"><div class="sec-head"><div><h2>More in Flower</h2></div></div><ul class="plain-links"><li><a href="../product/space-kandy.html">Space Kandy — Silver Lake</a></li><li><a href="../product/spilled-paint.html">Spilled Paint — Antero Farms</a></li><li><a href="../product/stay-puft.html">Stay Puft — Antero Sciences</a></li><li><a href="../product/strawberries-and-cream.html">Strawberries and Cream — Silver Lake</a></li><li><a href="../product/strawnana.html">Strawnana — Nerd Bar</a></li><li><a href="../product/sugar-cane.html">Sugar Cane — Antero Sciences</a></li></ul></section>
 </div>
 </main><footer class="site"><div class="wrap"><div class="cols">
 <div><img class="flogo" src="../img/logo_horizontal.png" alt="Terps Dispensary">
@@ -88,6 +90,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.strain-opt').forEach(x=>x.classList.remove('sel'));b.classList.add('sel');
   selStrain={name:b.dataset.strain,price:+b.dataset.price};
   document.getElementById('priceline').innerHTML=money(selStrain.price)+(PROD.unit?'<small>'+PROD.unit+'</small>':'');
+  var _o=document.getElementById('otdline'); if(_o)_o.textContent='≈ '+otd(selStrain.price)+' out the door · taxes included';
 });
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}

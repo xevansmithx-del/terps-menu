@@ -44,7 +44,7 @@ function renderChips(){
 }
 function renderFilters(){
   const brands={};ALL.forEach(p=>{if(p.brand)brands[p.brand]=(brands[p.brand]||0)+1;});
-  const top=Object.entries(brands).sort((a,b)=>b[1]-a[1]).slice(0,18);
+  const top=Object.entries(brands).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0])); // all brands (Gabriela 7/2: every brand must populate)
   let h='<p class="h4">Category</p>';
   Object.keys(CAT_LABEL).forEach(c=>{const n=ALL.filter(p=>p.category===c).length;if(!n)return;
     h+=`<label class="frow"><input type="checkbox" ${state.cats.has(c)?'checked':''} onchange="tog('cats','${c}')">${CAT_LABEL[c]}<span class="n">${n}</span></label>`;});

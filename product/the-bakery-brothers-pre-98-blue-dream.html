@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,600&family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Product", "name": "The Bakery Brothers -Pre-98 Blue Dream", "sku": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a", "brand": {"@type": "Brand", "name": "TBB Llc"}, "category": "Flower", "description": "TBB Llc puts its stamp on The Bakery Brothers -Pre-98 Blue Dream, an indica flower you can grab at Terps in Pueblo, Colorado. Lab results show 23.5% THC. It is priced at $12.25 for a 3.5g eighth. Order ahead on the live menu and pick it up in store \u2014 Colorado recreational rules apply, 21+.", "image": "https://shop.terpsdispensary.com/img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg", "offers": {"@type": "Offer", "price": "12.25", "priceCurrency": "USD", "availability": "https://schema.org/InStock", "itemCondition": "https://schema.org/NewCondition", "url": "https://shop.terpsdispensary.com/product/the-bakery-brothers-pre-98-blue-dream.html"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Product", "name": "The Bakery Brothers -Pre-98 Blue Dream", "sku": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a", "brand": {"@type": "Brand", "name": "The Bakery Brothers"}, "category": "Flower", "description": "TBB Llc puts its stamp on The Bakery Brothers -Pre-98 Blue Dream, an indica flower you can grab at Terps in Pueblo, Colorado. Lab results show 23.5% THC. It is priced at $12.25 for a 3.5g eighth. Order ahead on the live menu and pick it up in store \u2014 Colorado recreational rules apply, 21+.", "image": "https://shop.terpsdispensary.com/img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg", "offers": {"@type": "Offer", "price": "12.25", "priceCurrency": "USD", "availability": "https://schema.org/InStock", "itemCondition": "https://schema.org/NewCondition", "url": "https://shop.terpsdispensary.com/product/the-bakery-brothers-pre-98-blue-dream.html"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://shop.terpsdispensary.com/"}, {"@type": "ListItem", "position": 2, "name": "Menu", "item": "https://shop.terpsdispensary.com/menu.html"}, {"@type": "ListItem", "position": 3, "name": "Flower", "item": "https://shop.terpsdispensary.com/menu.html?cat=flower"}, {"@type": "ListItem", "position": 4, "name": "The Bakery Brothers -Pre-98 Blue Dream", "item": "https://shop.terpsdispensary.com/product/the-bakery-brothers-pre-98-blue-dream.html"}]}</script></head><body><div id="agegate" role="dialog" aria-modal="true" aria-label="Age verification"><div class="card"><img src="../img/badge.png" alt="Terps Dispensary">
 <h2>Are you 21 or older?</h2><p>You must be 21+ with a valid government-issued ID to view this menu. Recreational · Pueblo, CO.</p>
 <button class="btn btn-gold" id="age-yes">Yes, I'm 21 or older</button>
@@ -37,15 +37,17 @@
 <div class="chead"><h3>Your pickup order</h3><button class="x" onclick="closeCart()">&times;</button></div>
 <div class="items" id="cart-items"></div>
 <div class="foot"><div class="tot"><span>Subtotal</span><span id="cart-total">$0.00</span></div>
+<div class="otd-tot" id="cart-otd"></div>
 <div class="note">Send your order to reserve it — we'll have it ready. Pay in store at pickup (21+, valid ID). Questions? Call <a href="tel:7195471850">(719) 547-1850</a> · 38 N Silicon Dr, Pueblo.</div>
 <button class="btn btn-gold" onclick="reservePickup()">Reserve for pickup →</button></div></aside><main>
 <div class="wrap"><div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../menu.html">Menu</a> › <a href="../menu.html?cat=flower">Flower</a> › The Bakery Brothers -Pre-98 Blue Dream</div></div>
 <div class="wrap"><div class="pdp">
-<div class="gallery"><img src="../img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg" fetchpriority="high" decoding="async" width="450" height="600" alt="The Bakery Brothers -Pre-98 Blue Dream by TBB Llc — flower available at Terps Dispensary, Pueblo, CO"></div>
+<div class="gallery"><img src="../img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg" fetchpriority="high" decoding="async" width="450" height="600" alt="The Bakery Brothers -Pre-98 Blue Dream by The Bakery Brothers — flower available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
-<div class="brand">TBB Llc</div><h1>The Bakery Brothers -Pre-98 Blue Dream</h1>
+<div class="brand">The Bakery Brothers</div><h1>The Bakery Brothers -Pre-98 Blue Dream</h1>
 <div class="meta"><span class="pill">Flower</span><span class="pill">Indica</span><span class="pill gold">24% THC</span></div>
 <div class="priceline" id="priceline">$12.25<small> · 3.5g eighth</small></div>
+<div class="otd" id="otdline">≈ $15.16 out the door · taxes included</div>
 <div class="strain-sel"></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
@@ -69,7 +71,7 @@
 <div class="body"><div class="brand">Silver Lake</div>
 <p class="name">LA Kush Cake</p>
 <div class="foot"><span class="price" data-price>$8.47<small> · 3.5g eighth</small></span><span class="strains">In stock</span></div></div></a></div></section>
-<section class="block cat-hub"><div class="sec-head"><div><h2>More in Flower</h2></div></div><ul class="plain-links"><li><a href="../product/the-fizz.html">The Fizz — Antero Sciences</a></li><li><a href="../product/thunderclap.html">Thunderclap — Antero Sciences</a></li><li><a href="../product/tropicana-cookies.html">Tropicana Cookies — Silver Lake</a></li><li><a href="../product/twax-1g-preroll.html">twax 1g Preroll — The Clear</a></li><li><a href="../product/twax-5-pack-preroll.html">twax 5 pack  preroll — The Clear</a></li><li><a href="../product/virgin-mary-llc-dante-s-inferno.html">Virgin Mary LLC - Dante&#x27;s Inferno</a></li></ul></section>
+<section class="block cat-hub"><div class="sec-head"><div><h2>More in Flower</h2></div></div><ul class="plain-links"><li><a href="../product/the-fizz.html">The Fizz — Vera Cultivation</a></li><li><a href="../product/thunderclap.html">Thunderclap — Antero Sciences</a></li><li><a href="../product/tropicana-cookies.html">Tropicana Cookies — Silver Lake Farms</a></li><li><a href="../product/twax-1g-preroll.html">twax 1g Preroll — CLEAR Brands</a></li><li><a href="../product/twax-5-pack-preroll.html">twax 5 pack  preroll — CLEAR Brands</a></li><li><a href="../product/virgin-mary-llc-dante-s-inferno.html">Virgin Mary LLC - Dante&#x27;s Inferno — Terps</a></li></ul></section>
 </div>
 </main><footer class="site"><div class="wrap"><div class="cols">
 <div><img class="flogo" src="../img/logo_horizontal.png" alt="Terps Dispensary">
@@ -81,13 +83,14 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a", "name": "The Bakery Brothers -Pre-98 Blue Dream", "brand": "TBB Llc", "photo": "../img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg", "price": 12.25, "unit": " \u00b7 3.5g eighth", "unit_label": "3.5g eighth", "strains": [{"name": "Loose", "price": 12.25, "thc": 23.51}]};
+const PROD={"id": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a", "name": "The Bakery Brothers -Pre-98 Blue Dream", "brand": "The Bakery Brothers", "photo": "../img/products/8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a.jpg", "price": 12.25, "unit": " \u00b7 3.5g eighth", "unit_label": "3.5g eighth", "strains": [{"name": "Loose", "price": 12.25, "thc": 23.51}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.strain-opt').forEach(x=>x.classList.remove('sel'));b.classList.add('sel');
   selStrain={name:b.dataset.strain,price:+b.dataset.price};
   document.getElementById('priceline').innerHTML=money(selStrain.price)+(PROD.unit?'<small>'+PROD.unit+'</small>':'');
+  var _o=document.getElementById('otdline'); if(_o)_o.textContent='≈ '+otd(selStrain.price)+' out the door · taxes included';
 });
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}

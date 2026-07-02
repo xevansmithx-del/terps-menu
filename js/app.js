@@ -6,6 +6,8 @@ const WEAVE_LOC = 'bcb66b17-88c8-4139-a6d4-f8dd8099521e';
 const WEAVE_API = `https://order.api.weaveiq.com/${WEAVE_LOC}/search/variant`;
 const STORE_PHONE = '7195471850';
 const money = c => '$' + Number(c).toFixed(2);
+const TAX_FACTOR = 1.2375; // Gabriela 7/2: $12 -> $14.85, $8 -> $9.90 out the door
+const otd = c => money(Number(c) * TAX_FACTOR);
 const CATEGORY_ICON = {flower:'🌿',concentrate:'💎',edible:'🍬',topical:'🧴',merchandise:'🧢','pre roll':'🚬'};
 
 /* ---------- Age gate ---------- */
@@ -48,6 +50,7 @@ const Cart = {
         <div class="pr">${money(i.price*i.qty)}</div>
       </div>`).join('');
     const t=document.getElementById('cart-total'); if(t) t.textContent=money(this.total());
+    const o=document.getElementById('cart-otd'); if(o) o.textContent='≈ '+otd(this.total())+' out the door';
   }
 };
 function openCart(){ document.getElementById('cartov')?.classList.add('open'); document.getElementById('cart')?.classList.add('open'); }
@@ -98,7 +101,8 @@ function renderCheckoutSummary(){
   const el=document.getElementById('co-summary'); if(!el) return;
   el.innerHTML =
     items.map(i=>`<div class="co-li"><span>${i.qty}× ${esc(i.name)}${i.strain?' · '+esc(i.strain):''}${i.unit?' ('+esc(i.unit)+')':''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
-    + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`;
+    + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`
+    + `<div class="co-li co-otd"><span>Est. total with taxes (what you'll pay in store)</span><b>${otd(Cart.total())}</b></div>`;
 }
 function closeCheckout(){
   document.getElementById('checkout')?.classList.remove('open');

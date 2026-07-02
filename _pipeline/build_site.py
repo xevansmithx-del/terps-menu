@@ -122,6 +122,7 @@ def cart_drawer(prefix=''):
 <div class="chead"><h3>Your pickup order</h3><button class="x" onclick="closeCart()">&times;</button></div>
 <div class="items" id="cart-items"></div>
 <div class="foot"><div class="tot"><span>Subtotal</span><span id="cart-total">$0.00</span></div>
+<div class="otd-tot" id="cart-otd"></div>
 <div class="note">Send your order to reserve it — we'll have it ready. Pay in store at pickup (21+, valid ID). Questions? Call <a href="tel:7195471850">(719) 547-1850</a> · 38 N Silicon Dr, Pueblo.</div>
 <button class="btn btn-gold" onclick="reservePickup()">Reserve for pickup →</button></div></aside>"""
 
@@ -151,6 +152,10 @@ def price_str(p):
     us=f'<small>{u}</small>' if u else ''
     return (money(p['price_min'])+us) if p['price_min']==p['price_max'] else f"{money(p['price_min'])}<small>–{money(p['price_max'])}{u}</small>"
 def money(x): return '$'+format(x,'.2f')
+TAX_FACTOR=1.2375  # Gabriela 7/2: $12 -> $14.85, $8 -> $9.90 out the door
+def otd_str(p):
+    lo,hi=p['price_min']*TAX_FACTOR,p['price_max']*TAX_FACTOR
+    return money(lo) if p['price_min']==p['price_max'] else f"{money(lo)}–{money(hi)}"
 # package label carried onto cart line items (flower = pre-packaged eighths per
 # owner directive 2026-07-02; see _pipeline/build_catalog.py)
 CART_UNIT={'eighth':'3.5g eighth','quarter':'7g quarter','half':'14g half','ounce':'28g ounce'}
@@ -335,6 +340,7 @@ def build_products():
 <div class="brand">{e(p['brand'] or 'Terps')}</div><h1>{e(p['name'])}</h1>
 <div class="meta">{''.join(pills)}</div>
 <div class="priceline" id="priceline">{pr}</div>
+<div class="otd" id="otdline">≈ {otd_str(p)} out the door · taxes included</div>
 <div class="strain-sel">{f'<p class="h4">Choose a strain ({p["n_strains"]})</p><div class="strain-grid">{strain_opts}</div>' if p['n_strains']>1 else ''}</div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
@@ -353,6 +359,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{{
   document.querySelectorAll('.strain-opt').forEach(x=>x.classList.remove('sel'));b.classList.add('sel');
   selStrain={{name:b.dataset.strain,price:+b.dataset.price}};
   document.getElementById('priceline').innerHTML=money(selStrain.price)+(PROD.unit?'<small>'+PROD.unit+'</small>':'');
+  var _o=document.getElementById('otdline'); if(_o)_o.textContent='≈ '+otd(selStrain.price)+' out the door · taxes included';
 }});
 function addPDP(){{
   if(PROD.strains.length>1 && !selStrain){{toast('Pick a strain first');return;}}
