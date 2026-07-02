@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate the Terps storefront: homepage, menu, 290 product pages, blog, sitemap."""
 import json, os, html, re, struct, datetime
-DATA='data'; SITE='..'; BASE='https://shop.terpsdispensary.com'
+DATA='data'; SITE='..'; BASE='https://terpsdispensary.com'
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BLOG_SRC=os.path.join(ROOT,'_content','blog-source')
 cat=json.load(open(f'{DATA}/catalog.json'))

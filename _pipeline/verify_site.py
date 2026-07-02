@@ -3,9 +3,9 @@
 
 Checks:
   1. Canonical host: served files must not reference www.terpsdispensary.com
-     or the bare apex https://terpsdispensary.com — canonical is exactly
-     https://shop.terpsdispensary.com until the apex cutover.
-  2. CNAME content must be exactly shop.terpsdispensary.com.
+     or shop.terpsdispensary.com — canonical is exactly
+     https://terpsdispensary.com (apex, post-cutover 2026-07-02).
+  2. CNAME content must be exactly terpsdispensary.com.
   3. robots.txt must Disallow: /staff.html and Disallow: /order.html.
   4. Every internal href/src in served HTML must resolve to a file in the repo.
   5. sitemap.xml must be valid XML and every <loc> must map to an existing file.
@@ -19,7 +19,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse, unquote
 
 ROOT = os.getcwd()
-CANONICAL_HOST = 'shop.terpsdispensary.com'
+CANONICAL_HOST = 'terpsdispensary.com'
 errors = []
 
 
@@ -40,7 +40,7 @@ def served_text_files():
 
 
 # ---- 1. canonical host -------------------------------------------------
-BAD_HOST = re.compile(r'(?:www\.terpsdispensary\.com|https?://terpsdispensary\.com)')
+BAD_HOST = re.compile(r'(?:www\.terpsdispensary\.com|shop\.terpsdispensary\.com)')
 for f in served_text_files():
     text = open(f, encoding='utf-8', errors='replace').read()
     for m in BAD_HOST.finditer(text):
