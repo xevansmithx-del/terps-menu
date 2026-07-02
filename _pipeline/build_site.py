@@ -468,13 +468,13 @@ def build_trust():
 <h1>Contact Terps Dispensary</h1><p>Call, email, or come see us in Pueblo</p></div></div>
 <section class="block"><div class="wrap">
 <div class="visit"><div class="card-info">{nap_rows}
-<div class="row"><b>Email</b><span><a href="mailto:info@terpsdispensary.com">info@terpsdispensary.com</a></span></div>
+<div class="row"><b>Email</b><span><a href="mailto:pueblo.terps@gmail.com">pueblo.terps@gmail.com</a></span></div>
 <div class="row"><b>Menu</b><span><a href="menu.html" style="color:var(--gold-text);font-weight:700">Browse the full live menu →</a></span></div>
 </div>
 <div class="map">{MAPS_EMBED}</div>
 </div></div></section>"""
     trust_page('contact.html',"Contact Terps Dispensary — Pueblo CO | (719) 547-1850",
-        f"Contact Terps Dispensary in Pueblo, Colorado — {STREET}, {CITY}, {STATE} {ZIP}. Call {PHONE} or email info@terpsdispensary.com. Open Mon–Sat 8am–8pm, Sun 10am–5pm."[:155],
+        f"Contact Terps Dispensary in Pueblo, Colorado — {STREET}, {CITY}, {STATE} {ZIP}. Call {PHONE} or email pueblo.terps@gmail.com. Open Mon–Sat 8am–8pm, Sun 10am–5pm."[:155],
         contact_body)
     # privacy.html
     privacy_body=f"""
