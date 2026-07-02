@@ -260,9 +260,8 @@ footer.site .copy{padding-top:22px;font-size:.8rem;color:#7f978a;display:flex;ju
   .filters.open{display:block}
   .filter-toggle{display:inline-flex}
   footer.site .cols{grid-template-columns:1fr;gap:24px}
-  .mobile-nav{display:flex!important}
 }
-/* mobile slide nav */
+/* mobile slide nav (hidden until the ☰ toggle adds .open) */
 .mobile-nav{display:none;position:fixed;inset:0;z-index:130;background:var(--green-900);flex-direction:column;padding:80px 30px;gap:6px}
 .mobile-nav.open{display:flex}
 .mobile-nav a{color:var(--cream);font-family:var(--serif);font-size:1.6rem;padding:12px 0;border-bottom:1px solid rgba(255,255,255,.1)}
