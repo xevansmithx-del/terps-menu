@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xevansmithx-del.github.io/terps-menu/sitemap.xml
