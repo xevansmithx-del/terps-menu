@@ -22162,7 +22162,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": " ",
@@ -22170,13 +22170,13 @@
    "images": [
     {
      "default": true,
-     "url": ""
+     "url": "bcb66b17-88c8-4139-a6d4-f8dd8099521e/products/121dc545-65c3-4e89-98f1-73cfc5431f63"
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Mary Jane's Medicinals Original Salve",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783010233271,
    "slug": "inventory/variant/blue-cottage-llc-mary-jane-s-medicinals-original-salve-3-3-oz-204112",
    "subcategory": "balm",
    "suggest": "mary jane's medicinals original salve blue cottage llc topical balm 3.3 oz",
@@ -22241,7 +22241,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": " ",
@@ -22249,13 +22249,13 @@
    "images": [
     {
      "default": true,
-     "url": ""
+     "url": "bcb66b17-88c8-4139-a6d4-f8dd8099521e/products/121dc545-65c3-4e89-98f1-73cfc5431f63"
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Mary Jane's Medicinals Original Salve",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783010233271,
    "slug": "inventory/variant/blue-cottage-llc-mary-jane-s-medicinals-original-salve-3oz-203945",
    "subcategory": "balm",
    "suggest": "mary jane's medicinals original salve blue cottage llc topical balm .3oz",
@@ -22282,7 +22282,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 900
+       "price": 1000
       }
      ],
      "pricing_group": null,
