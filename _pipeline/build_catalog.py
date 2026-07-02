@@ -23,17 +23,48 @@ raw=json.load(open(f'{DATA}/menu_raw.json'))['results']
 byid=defaultdict(list)
 for p in raw: byid[p['id']].append(p)
 
+# ---- units --------------------------------------------------------------
+# Owner directive (2026-07-02): "We do not sell by the gram, we only sell
+# pre-packaged 1/8th oz increments on all our flower unless it specifically
+# says otherwise. Joints and everything else are case by case."
+# The Weave POS models loose bud as a per-gram unit price (an eighth rings up
+# as 3500mg x $/g — verified against real register transactions), so the
+# package price of an eighth = per-gram cents x 3.5.
+EIGHTH_G=3.5
+# Real per-gram prices at Terps run $1.21-$3.71/g. A "loose" variant at >=$10/g
+# is a package price that was entered as loose in the POS (e.g. the $45
+# half-ounce deals) — display it as-is, never multiply.
+MAX_LOOSE_PER_GRAM_CENTS=1000
+NOT_BUD=re.compile(r'pre.?roll|cone|joint|blunt|infused|\bpack\b|\bpk\b|\bkief\b|caviar',re.I)
+try: UX=json.load(open(f'{DATA}/unit_exceptions.json'))
+except FileNotFoundError: UX={}
+PER_GRAM_OK=set(UX.get('per_gram_ok') or [])
+NO_EIGHTH_MATH=set(UX.get('no_eighth_math') or [])
+PREPACK_KIND={3500:'eighth',7000:'quarter',14000:'half',28000:'ounce'}
+UNIT_LABEL={'eighth':' · 3.5g eighth','quarter':' · 7g quarter','half':' · 14g half',
+            'ounce':' · 28g ounce','per_gram':'/g','package':'','':''}
+
 def visible_variants(rows):
     out=[]
     for r in rows:
+        name=(r.get('name') or '').strip()
+        bud=(r.get('category')=='flower') and not NOT_BUD.search(name)
         for v in (r.get('variants') or []):
             if v.get('hidden_from_menu'): continue
             if (v.get('quantity',0) or 0)<=0: continue
             if (v.get('price',0) or 0)<50: continue
             pot=(v.get('potency_result') or {}).get('thc') or {}
+            cents=v['price']; kind=''
+            if bud and v.get('type')=='loose':
+                if name in PER_GRAM_OK: kind='per_gram'
+                elif cents>=MAX_LOOSE_PER_GRAM_CENTS or name in NO_EIGHTH_MATH: kind='package'
+                else: cents=int(cents*EIGHTH_G+0.5); kind='eighth'
+            elif bud and v.get('type')=='prepack':
+                kind=PREPACK_KIND.get((v.get('packaging') or {}).get('thc_weight'),'package')
             out.append({
-                'strain': (v.get('name') or r.get('name') or '').strip(),
-                'price': round(v['price']/100.0,2),
+                'strain': (v.get('name') or name or '').strip(),
+                'price': round(cents/100.0,2),
+                'kind': kind,
                 'thc_min': pot.get('min_percentage'), 'thc_max': pot.get('max_percentage'),
                 'sub': r.get('subcategory',''),
             })
@@ -60,8 +91,13 @@ for pid,rows in byid.items():
     while slug in seen_slug: slug=f"{base}-{n}"; n+=1
     seen_slug.add(slug)
     category=(r0.get('category') or '').strip()
-    is_bud = category=='flower' and not re.search(r'pre.?roll|cone|joint|blunt|infused|\bpack\b|\bpk\b|\bkief\b|caviar',name,re.I)
-    unit = '/g' if is_bud else ''
+    kinds=set(v['kind'] for v in vs)
+    if len(kinds)==1:
+        unit_kind=kinds.pop()
+    else:
+        unit_kind=''  # mixed pricing kinds in one product: label nothing, prices stay per-variant-correct
+        print(f'WARN: mixed unit kinds {sorted(kinds)} on "{name}" — no unit label')
+    unit=UNIT_LABEL.get(unit_kind,'')
     thc_max = max(thcs) if thcs else None
     if category=='flower' and thc_max and thc_max>42: thc_max=None
     def cs(t): return None if (category=='flower' and t and t>42) else t
@@ -70,7 +106,7 @@ for pid,rows in byid.items():
         'brand':(r0.get('vendor') or {}).get('name','').strip(),
         'category':category,
         'subcategory':(r0.get('subcategory') or '').strip(),
-        'price_min':min(prices),'price_max':max(prices),'unit':unit,
+        'price_min':min(prices),'price_max':max(prices),'unit':unit,'unit_kind':unit_kind,
         'thc_max':thc_max,
         'n_strains':len(strains),
         'strains':[{'name':s['strain'],'price':s['price'],'thc':cs(s.get('thc_max'))} for s in strains],

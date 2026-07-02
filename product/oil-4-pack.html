@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0", "name": "Oil 4 Pack", "brand": "Craft", "photo": "../img/products/a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0.jpg", "price": 34.0, "unit": "", "strains": [{"name": "Hybrid Multipack", "price": 34.0, "thc": 84.16}, {"name": "Indica Multipack", "price": 34.0, "thc": 86.16}, {"name": "Sativa Multipack", "price": 34.0, "thc": 83.27}]};
+const PROD={"id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0", "name": "Oil 4 Pack", "brand": "Craft", "photo": "../img/products/a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0.jpg", "price": 34.0, "unit": "", "unit_label": "", "strains": [{"name": "Hybrid Multipack", "price": 34.0, "thc": 84.16}, {"name": "Indica Multipack", "price": 34.0, "thc": 86.16}, {"name": "Sativa Multipack", "price": 34.0, "thc": 83.27}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

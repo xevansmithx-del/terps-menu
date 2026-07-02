@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "7b786c77-ed4a-4fc1-a736-cfc6a2d4f08f", "name": "All-in-One GT", "brand": "NATTY REMS LLC", "photo": "", "price": 45.0, "unit": "", "strains": [{"name": "Gorilla Pie", "price": 45.0, "thc": 67.89}, {"name": "Slowpoke", "price": 45.0, "thc": 64.96}, {"name": "Space Cat", "price": 45.0, "thc": 62.68}]};
+const PROD={"id": "7b786c77-ed4a-4fc1-a736-cfc6a2d4f08f", "name": "All-in-One GT", "brand": "NATTY REMS LLC", "photo": "", "price": 45.0, "unit": "", "unit_label": "", "strains": [{"name": "Gorilla Pie", "price": 45.0, "thc": 67.89}, {"name": "Slowpoke", "price": 45.0, "thc": 64.96}, {"name": "Space Cat", "price": 45.0, "thc": 62.68}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

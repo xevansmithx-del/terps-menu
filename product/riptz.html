@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "99aa7be9-7673-407d-8af4-0cec1b3565d1", "name": "Riptz", "brand": "Lifestyle Foods Inc", "photo": "../img/products/99aa7be9-7673-407d-8af4-0cec1b3565d1.jpg", "price": 13.0, "unit": "", "strains": [{"name": "Variety 40pk", "price": 13.0, "thc": null}]};
+const PROD={"id": "99aa7be9-7673-407d-8af4-0cec1b3565d1", "name": "Riptz", "brand": "Lifestyle Foods Inc", "photo": "../img/products/99aa7be9-7673-407d-8af4-0cec1b3565d1.jpg", "price": 13.0, "unit": "", "unit_label": "", "strains": [{"name": "Variety 40pk", "price": 13.0, "thc": null}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

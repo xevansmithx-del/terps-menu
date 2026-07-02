@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "b66ada0c-f871-42ea-9eca-7e6918a669d3", "name": "Oil Twist Cartridge", "brand": "Craft", "photo": "../img/products/b66ada0c-f871-42ea-9eca-7e6918a669d3.jpg", "price": 9.68, "unit": "", "strains": [{"name": "Apple Sauce", "price": 9.68, "thc": 80.37}, {"name": "Baked Banana", "price": 9.68, "thc": 74.58}, {"name": "Blueberry Swirl", "price": 9.68, "thc": 86.6}, {"name": "Citrus Splash", "price": 9.68, "thc": 78.36}, {"name": "Mango Squeezed", "price": 9.68, "thc": 87.41}, {"name": "Maple Drip", "price": 9.68, "thc": 83.35}, {"name": "Orange Krush", "price": 9.68, "thc": 77.82}, {"name": "Punchberry", "price": 9.68, "thc": 76.63}, {"name": "Strawberry Shortcake", "price": 9.68, "thc": 87.41}, {"name": "Tropsicle", "price": 9.68, "thc": 88.44}, {"name": "Watermelon Ice", "price": 9.68, "thc": 83.8}]};
+const PROD={"id": "b66ada0c-f871-42ea-9eca-7e6918a669d3", "name": "Oil Twist Cartridge", "brand": "Craft", "photo": "../img/products/b66ada0c-f871-42ea-9eca-7e6918a669d3.jpg", "price": 9.68, "unit": "", "unit_label": "", "strains": [{"name": "Apple Sauce", "price": 9.68, "thc": 80.37}, {"name": "Baked Banana", "price": 9.68, "thc": 74.58}, {"name": "Blueberry Swirl", "price": 9.68, "thc": 86.6}, {"name": "Citrus Splash", "price": 9.68, "thc": 78.36}, {"name": "Mango Squeezed", "price": 9.68, "thc": 87.41}, {"name": "Maple Drip", "price": 9.68, "thc": 83.35}, {"name": "Orange Krush", "price": 9.68, "thc": 77.82}, {"name": "Punchberry", "price": 9.68, "thc": 76.63}, {"name": "Strawberry Shortcake", "price": 9.68, "thc": 87.41}, {"name": "Tropsicle", "price": 9.68, "thc": 88.44}, {"name": "Watermelon Ice", "price": 9.68, "thc": 83.8}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

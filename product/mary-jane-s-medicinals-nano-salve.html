@@ -73,7 +73,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "6baffaac-7aeb-4db7-ac89-0be12f0187b4", "name": "Mary Jane's Medicinals Nano Salve", "brand": "Blue Cottage LLC", "photo": "../img/products/6baffaac-7aeb-4db7-ac89-0be12f0187b4.jpg", "price": 14.0, "unit": "", "strains": [{"name": ".3 oz Nano Salve", "price": 14.0, "thc": null}, {"name": "3.3oz", "price": 60.0, "thc": null}]};
+const PROD={"id": "6baffaac-7aeb-4db7-ac89-0be12f0187b4", "name": "Mary Jane's Medicinals Nano Salve", "brand": "Blue Cottage LLC", "photo": "../img/products/6baffaac-7aeb-4db7-ac89-0be12f0187b4.jpg", "price": 14.0, "unit": "", "unit_label": "", "strains": [{"name": ".3 oz Nano Salve", "price": 14.0, "thc": null}, {"name": "3.3oz", "price": 60.0, "thc": null}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -84,7 +84,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

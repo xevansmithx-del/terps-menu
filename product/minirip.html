@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "1ceeac17-2e7f-4b4b-bfc0-51f138230b0e", "name": "Minirip", "brand": "Green Dot (OCC)", "photo": "../img/products/1ceeac17-2e7f-4b4b-bfc0-51f138230b0e.jpg", "price": 50.0, "unit": "", "strains": [{"name": "Sherbaccio", "price": 50.0, "thc": 72.12}, {"name": "subzero", "price": 50.0, "thc": 76.69}, {"name": "Trippy Paradise", "price": 50.0, "thc": 76.69}]};
+const PROD={"id": "1ceeac17-2e7f-4b4b-bfc0-51f138230b0e", "name": "Minirip", "brand": "Green Dot (OCC)", "photo": "../img/products/1ceeac17-2e7f-4b4b-bfc0-51f138230b0e.jpg", "price": 50.0, "unit": "", "unit_label": "", "strains": [{"name": "Sherbaccio", "price": 50.0, "thc": 72.12}, {"name": "subzero", "price": 50.0, "thc": 76.69}, {"name": "Trippy Paradise", "price": 50.0, "thc": 76.69}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

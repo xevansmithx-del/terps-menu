@@ -1,0 +1,5 @@
+{
+ "_note": "Owner directive 2026-07-02: flower sells ONLY as pre-packaged 3.5g eighths unless a product explicitly says otherwise. per_gram_ok = product NAMES allowed to display true per-gram pricing (feeds catalog unit_kind='per_gram', which verify_site.py uses as the '/g' allowlist). no_eighth_math = loose-priced product NAMES whose 'loose' POS price is really a package price, never multiplied by 3.5 (the >=$10/g guard in build_catalog.py catches these automatically; listed here for the record).",
+ "per_gram_ok": [],
+ "no_eighth_math": ["Black Ice", "Farmers Daughter #5"]
+}

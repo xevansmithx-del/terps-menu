@@ -151,6 +151,9 @@ def price_str(p):
     us=f'<small>{u}</small>' if u else ''
     return (money(p['price_min'])+us) if p['price_min']==p['price_max'] else f"{money(p['price_min'])}<small>–{money(p['price_max'])}{u}</small>"
 def money(x): return '$'+format(x,'.2f')
+# package label carried onto cart line items (flower = pre-packaged eighths per
+# owner directive 2026-07-02; see _pipeline/build_catalog.py)
+CART_UNIT={'eighth':'3.5g eighth','quarter':'7g quarter','half':'14g half','ounce':'28g ounce'}
 
 def card(p,prefix=''):
     catname_a={c:n for c,n,_ in CATS}.get(p['category'],p['category'].title())
@@ -343,7 +346,7 @@ def build_products():
 </div>
 {footer('../')}
 <script>
-const PROD={json.dumps({'id':p['id'],'name':p['name'],'brand':p['brand'],'photo':('../'+p['photo']) if p['photo'] else '','price':p['price_min'],'unit':p.get('unit',''),'strains':p['strains']})};
+const PROD={json.dumps({'id':p['id'],'name':p['name'],'brand':p['brand'],'photo':('../'+p['photo']) if p['photo'] else '','price':p['price_min'],'unit':p.get('unit',''),'unit_label':CART_UNIT.get(p.get('unit_kind',''),''),'strains':p['strains']})};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){{qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{{
@@ -354,7 +357,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{{
 function addPDP(){{
   if(PROD.strains.length>1 && !selStrain){{toast('Pick a strain first');return;}}
   const s=selStrain||{{name:'',price:PROD.price}};
-  Cart.add({{id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo}});
+  Cart.add({{id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label}});
   openCart();
 }}
 </script></body></html>"""

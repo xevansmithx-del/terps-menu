@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "9168e49f-340d-416d-979b-5bb55999af9b", "name": "Sesh super Seshie All in One", "brand": "Craft", "photo": "../img/products/9168e49f-340d-416d-979b-5bb55999af9b.jpg", "price": 45.0, "unit": "", "strains": [{"name": "Cherry Limeade", "price": 45.0, "thc": 75.28}, {"name": "Electric Lemonade", "price": 45.0, "thc": 81.43}, {"name": "Orange Creamsicle", "price": 45.0, "thc": 77.25}, {"name": "Pineapple Cake Express", "price": 45.0, "thc": 79.05}, {"name": "White Runtz", "price": 45.0, "thc": 76.91}]};
+const PROD={"id": "9168e49f-340d-416d-979b-5bb55999af9b", "name": "Sesh super Seshie All in One", "brand": "Craft", "photo": "../img/products/9168e49f-340d-416d-979b-5bb55999af9b.jpg", "price": 45.0, "unit": "", "unit_label": "", "strains": [{"name": "Cherry Limeade", "price": 45.0, "thc": 75.28}, {"name": "Electric Lemonade", "price": 45.0, "thc": 81.43}, {"name": "Orange Creamsicle", "price": 45.0, "thc": 77.25}, {"name": "Pineapple Cake Express", "price": 45.0, "thc": 79.05}, {"name": "White Runtz", "price": 45.0, "thc": 76.91}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

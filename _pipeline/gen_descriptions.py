@@ -38,8 +38,15 @@ def kind(p):
     sp = SUBPHRASE.get(p['subcategory'])
     return sp or CATNAME.get(p['category'], p['category'])
 
+# flower sells as pre-packaged eighths (owner directive 2026-07-02) — price
+# phrasing must name the package, never "per gram" (unless unit_kind='per_gram',
+# an explicit exception in data/unit_exceptions.json)
+UNIT_TEXT = {'eighth': ' for a 3.5g eighth', 'quarter': ' for a 7g quarter',
+             'half': ' for a 14g half-ounce', 'ounce': ' for a 28g ounce',
+             'per_gram': ' per gram'}
+
 def price_phrase(p, i):
-    u = ' per gram' if p.get('unit') == '/g' else ''
+    u = UNIT_TEXT.get(p.get('unit_kind') or '', '')
     if p['price_min'] == p['price_max']:
         opts = [f"priced at {money(p['price_min'])}{u}",
                 f"on the shelf at {money(p['price_min'])}{u}",
