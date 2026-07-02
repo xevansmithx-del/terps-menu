@@ -6,6 +6,8 @@ ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BLOG_SRC=os.path.join(ROOT,'_content','blog-source')
 cat=json.load(open(f'{DATA}/catalog.json'))
 info=json.load(open(f'{DATA}/info.json'))
+try: DESCS=json.load(open(f'{DATA}/descriptions.json'))
+except FileNotFoundError: DESCS={}
 ADDR=info['address']
 STREET=ADDR['street']; CITY=ADDR['city']; STATE=ADDR['state']; ZIP=ADDR['zip']
 PHONE='(719) 547-1850'; PHONE_TEL='7195471850'
@@ -135,6 +137,15 @@ def footer(prefix=''):
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="{prefix}js/config.js"></script><script src="{prefix}js/orders.js"></script><script src="{prefix}js/app.js"></script>"""
 
+def plink(p,prefix=''):
+    bits=[p['name']]
+    if p['brand']: bits.append(p['brand'])
+    label=' — '.join(bits)
+    return f'<a href="{prefix}product/{p["slug"]}.html">{e(label)}</a>'
+
+def cat_products(c):
+    return sorted((p for p in cat if p['category']==c),key=lambda p:p['slug'])
+
 def price_str(p):
     u=p.get('unit','')
     us=f'<small>{u}</small>' if u else ''
@@ -162,6 +173,12 @@ def build_home():
     featured=sorted([p for p in withphoto if p['category']=='flower' and p.get('thc_max')],key=lambda p:-p['thc_max'])[:8]
     if len(featured)<8: featured=withphoto[:8]
     value=sorted(withphoto,key=lambda p:p['price_min'])[:8]
+    hub_home=''
+    for c,n,_ in CATS:
+        plist=cat_products(c)[:8]
+        if not plist: continue
+        links=''.join(f'<li>{plink(p)}</li>' for p in plist)
+        hub_home+=f'<div class="cat-hub"><h3><a href="menu.html?cat={c}">{e(n)}</a></h3><ul class="plain-links">{links}</ul><a class="more" href="menu.html?cat={c}">All {counts.get(c,0)} {e(n.lower())} →</a></div>'
     feat_cards=''.join(card(p) for p in featured)
     val_cards=''.join(card(p) for p in value)
     ld={"@context":"https://schema.org","@type":["Store","LocalBusiness"],"name":"Terps Dispensary","image":f"{BASE}/img/badge.png",
@@ -219,11 +236,20 @@ def build_home():
 
 <section class="block" id="faq"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Good to know</div><h2>Dispensary FAQs</h2></div></div>
 <div class="faq">{faq_html}</div></div></section>
+
+<section class="block" id="browse"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Browse the shelf</div><h2>Popular picks by category</h2></div><a class="more" href="menu.html">Full menu →</a></div>
+{hub_home}</div></section>
 {footer()}</body></html>"""
     open(f'{SITE}/index.html','w').write(h+body)
 
 # ---------------- MENU PAGE ----------------
 def build_menu():
+    hubs=''
+    for c,n,_ in CATS:
+        plist=cat_products(c)
+        if not plist: continue
+        links=''.join(f'<li>{plink(p)}</li>' for p in plist)
+        hubs+=f'<details class="cat-hub"><summary>{e(n)} ({len(plist)})</summary><ul class="plain-links">{links}</ul></details>'
     h=head("Weed Menu Pueblo CO — Terps Dispensary Live Menu 21+",
            f"Live dispensary menu in Pueblo, Colorado — {TOTAL}+ cannabis products, {STRAINS}+ strains. Filter flower, vapes, concentrates & edibles by price and THC. Pickup 21+."[:155],
            BASE+'/menu.html').replace('{CSS}','css/style.css')
@@ -242,6 +268,8 @@ def build_menu():
 <div class="chips" id="chips"></div>
 <div class="grid" id="grid"></div>
 </div></div></div>
+<section class="block" id="all-products"><div class="wrap"><div class="sec-head"><div><div class="eyebrow">Every product, A–Z</div><h2>Browse the full shelf by category</h2></div></div>
+{hubs}</div></section>
 {footer()}<script src="js/menu.js"></script></body></html>"""
     open(f'{SITE}/menu.html','w').write(h+body)
 
@@ -264,10 +292,14 @@ def build_products():
             f'<button class="strain-opt" data-strain="{e(s["name"])}" data-price="{s["price"]}">'
             f'<div class="sn">{e(s["name"])}</div><div class="sd">{money(s["price"])}{u}{" · "+str(round(s["thc"]))+"% THC" if s.get("thc") else ""}</div></button>'
             for s in p['strains'])
-        desc=p['description'] or f"{p['name']} by {p['brand'] or 'Terps'} — available now at Terps Dispensary in Pueblo, CO. {p['n_strains']} strain{'s' if p['n_strains']>1 else ''} in stock. Reserve online for fast in-store pickup."
+        desc=DESCS.get(p['id']) or p['description'] or f"{p['name']} by {p['brand'] or 'Terps'} — available now at Terps Dispensary in Pueblo, CO. {p['n_strains']} strain{'s' if p['n_strains']>1 else ''} in stock. Reserve online for fast in-store pickup."
         pool=[x for x in bycat.get(p['category'],[]) if x['id']!=p['id'] and x['photo']]
         related=([x for x in pool if x['subcategory']==p['subcategory']]+[x for x in pool if x['subcategory']!=p['subcategory']])[:4]
         rel=''.join(card(x,'../') for x in related)
+        catlist=cat_products(p['category'])
+        ci=next(i for i,x in enumerate(catlist) if x['id']==p['id'])
+        more=[catlist[(ci+k)%len(catlist)] for k in range(1,len(catlist))][:6]
+        morelinks=''.join(f'<li>{plink(x,"../")}</li>' for x in more)
         pr=price_str(p)
         canonical=f"{BASE}/product/{p['slug']}.html"
         pimg=f"{BASE}/{p['photo']}" if p['photo'] else f"{BASE}/img/badge.png"
@@ -307,6 +339,7 @@ def build_products():
 <div class="disclaimer">Prices and availability update live from our register and may change. Reserve online, pay in store at pickup. Must be 21+ with valid ID. Keep out of reach of children.</div>
 </div></div>
 {f'<section class="block"><div class="sec-head"><div><h2>More {e(catname.lower())} at Terps in Pueblo</h2></div><a class="more" href="../menu.html?cat={p["category"]}">Shop all {e(catname.lower())} in Pueblo, CO →</a></div><div class="grid">{rel}</div></section>' if rel else ''}
+{f'<section class="block cat-hub"><div class="sec-head"><div><h2>More in {e(catname)}</h2></div></div><ul class="plain-links">{morelinks}</ul></section>' if morelinks else ''}
 </div>
 {footer('../')}
 <script>
