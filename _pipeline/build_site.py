@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Generate the Terps storefront: homepage, menu, 290 product pages, sitemap."""
+"""Generate the Terps storefront: homepage, menu, 290 product pages, blog, sitemap."""
 import json, os, html, re, struct, datetime
 DATA='data'; SITE='..'; BASE='https://terpsdispensary.com'
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BLOG_SRC=os.path.join(ROOT,'_content','blog-source')
 cat=json.load(open(f'{DATA}/catalog.json'))
 info=json.load(open(f'{DATA}/info.json'))
 ADDR=info['address']
@@ -10,6 +12,8 @@ PHONE='(719) 547-1850'; PHONE_TEL='7195471850'
 TODAY=datetime.date.today().isoformat()
 os.makedirs(f'{SITE}/product',exist_ok=True)
 os.makedirs(f'{SITE}/data',exist_ok=True)
+os.makedirs(f'{SITE}/post',exist_ok=True)
+os.makedirs(f'{SITE}/blog',exist_ok=True)
 
 def e(s): return html.escape(str(s or ''))
 def has_img(p): return os.path.exists(f"{SITE}/img/products/{p['id']}.jpg")
@@ -75,12 +79,12 @@ def header(prefix=''):
 <button class="btn btn-ghost" id="age-no">No, take me back</button></div></div>
 <div class="mobile-nav" id="mobilenav" role="navigation" aria-label="Mobile menu"><span class="x">&times;</span>
 <a href="{prefix}menu.html">Menu</a><a href="{prefix}menu.html?cat=flower">Flower</a><a href="{prefix}menu.html?cat=concentrate">Concentrates</a>
-<a href="{prefix}menu.html?cat=edible">Edibles</a><a href="{prefix}index.html#visit">Visit</a></div>
+<a href="{prefix}menu.html?cat=edible">Edibles</a><a href="{prefix}blog/index.html">Blog</a><a href="{prefix}index.html#visit">Visit</a></div>
 <header class="site"><div class="wrap nav">
 <a class="logo" href="{prefix}index.html"><img src="{prefix}img/logo_horizontal.png" alt="Terps Dispensary"></a>
 <nav><a href="{prefix}menu.html">Menu</a><a href="{prefix}menu.html?cat=flower">Flower</a>
 <a href="{prefix}menu.html?cat=concentrate">Concentrates</a><a href="{prefix}menu.html?cat=edible">Edibles</a>
-<a href="{prefix}index.html#visit">Visit</a></nav>
+<a href="{prefix}blog/index.html">Blog</a><a href="{prefix}index.html#visit">Visit</a></nav>
 <div class="spacer"></div>
 <div class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
 <input id="headsearch" placeholder="Search 290+ products…"></div>
@@ -101,7 +105,7 @@ def footer(prefix=''):
     return f"""</main><footer class="site"><div class="wrap"><div class="cols">
 <div><img class="flogo" src="{prefix}img/logo_horizontal.png" alt="Terps Dispensary">
 <p>Pueblo's home for premium, locally-loved cannabis. Recreational 21+. Browse our full live menu and reserve for fast in-store pickup.</p></div>
-<div><p class="h4">Shop</p><a href="{prefix}menu.html">Full dispensary menu</a>{links}</div>
+<div><p class="h4">Shop</p><a href="{prefix}menu.html">Full dispensary menu</a>{links}<a href="{prefix}blog/index.html">Blog</a></div>
 <div><p class="h4">Visit</p><p>{e(STREET)}<br>{e(CITY)}, {e(STATE)} {e(ZIP)}<br><br>Mon–Sat 8am–8pm<br>Sun 10am–5pm<br><br><a href="tel:{PHONE_TEL}">{PHONE}</a></p></div>
 </div><div class="copy"><span>© 2026 Terps Dispensary. Rec 21+. Keep out of reach of children.</span>
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
@@ -316,8 +320,106 @@ function addPDP(){{
 </script></body></html>"""
         open(f"{SITE}/product/{p['slug']}.html",'w').write(h+body)
 
+# ---------------- BLOG ----------------
+def load_posts():
+    posts=[]
+    if not os.path.isdir(BLOG_SRC): return posts
+    for fn in sorted(os.listdir(BLOG_SRC)):
+        if not fn.endswith('.md'): continue
+        raw=open(f'{BLOG_SRC}/{fn}').read()
+        m=re.match(r'(?s)^---\n(.*?)\n---\n(.*)$',raw)
+        fm,body=m.groups()
+        meta={}
+        for line in fm.splitlines():
+            km=re.match(r'^(\w+):\s*(.*)$',line)
+            if km: meta[km.group(1)]=km.group(2).strip().strip('"')
+        posts.append({'title':meta['title'],'slug':meta['slug'],'date':meta['date'],
+                      'description':meta['description'],'body':body.strip()})
+    posts.sort(key=lambda p:(p['date'],p['slug']),reverse=True)
+    return posts
+
+def fmt_date(d): return datetime.date.fromisoformat(d).strftime('%b %-d, %Y')
+
+def md_html(md):
+    def inline(s):
+        s=e(s)
+        return re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',s)
+    out=[];ul=[]
+    def flush():
+        if ul: out.append('<ul>'+''.join(f'<li>{i}</li>' for i in ul)+'</ul>'); ul.clear()
+    for block in re.split(r'\n\s*\n',md):
+        b=re.sub(r'\s+',' ',block.strip())
+        if not b: continue
+        if b.startswith('- '): ul.append(inline(b[2:])); continue
+        flush()
+        if b.startswith('### '): out.append(f'<h3>{inline(b[4:])}</h3>')
+        elif b.startswith('## '): out.append(f'<h2>{inline(b[3:])}</h2>')
+        else: out.append(f'<p>{inline(b)}</p>')
+    flush()
+    return '\n'.join(out)
+
+def post_hero(slug,prefix=''):
+    src=f'img/blog/{slug}/hero.jpg'
+    local=os.path.exists(f'{SITE}/{src}') or os.path.exists(os.path.join(ROOT,src))
+    return f'{prefix}{src}' if local else ''
+
+BLOG_CSS='<link rel="stylesheet" href="{PREFIX}css/blog.css">'
+
+def build_blog():
+    posts=load_posts()
+    for p in posts:
+        canonical=f"{BASE}/post/{p['slug']}"
+        hero=post_hero(p['slug'],'../')
+        ld={"@context":"https://schema.org","@type":"Article","headline":p['title'],
+            "datePublished":p['date'],"description":p['description'],
+            "mainEntityOfPage":canonical,"author":{"@type":"Person","name":"Evan Smith"},
+            "publisher":{"@type":"Organization","name":"Terps Dispensary",
+                         "logo":{"@type":"ImageObject","url":f"{BASE}/img/badge.png"}}}
+        if hero: ld["image"]=f"{BASE}/img/blog/{p['slug']}/hero.jpg"
+        extra=f'\n{BLOG_CSS.replace("{PREFIX}","../")}\n<script type="application/ld+json">{json.dumps(ld)}</script>'
+        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra).replace('{CSS}','../css/style.css')
+        heroimg=f'<figure class="post-hero"><img src="{hero}" alt="{e(p["title"])}"></figure>' if hero else ''
+        body=f"""{header('../')}
+<article class="post"><div class="wrap">
+<div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../blog/index.html">Blog</a> › {e(p['title'])}</div>
+<header class="post-head"><div class="eyebrow">Terps Dispensary Blog</div>
+<h1>{e(p['title'])}</h1>
+<div class="post-meta">By Evan Smith · <time datetime="{p['date']}">{fmt_date(p['date'])}</time></div></header>
+{heroimg}
+<div class="post-body">
+{md_html(p['body'])}
+</div>
+<aside class="post-cta"><div class="eyebrow">Visit us in Pueblo</div>
+<h3>Shop Pueblo's deepest shelf</h3>
+<p>Browse 290+ products and 740+ strains on our live menu — priced in real time. Reserve online, pay in store.</p>
+<a class="btn btn-gold" href="../menu.html">Browse the live menu →</a></aside>
+</div></article>
+{footer('../')}</body></html>"""
+        open(f"{SITE}/post/{p['slug']}.html",'w').write(h+body)
+    # blog index
+    cards=''
+    for p in posts:
+        hero=post_hero(p['slug'],'../')
+        thumb=f'<img src="{hero}" loading="lazy" alt="{e(p["title"])}">' if hero else FALLBACK_SVG
+        cards+=f"""<a class="blog-card" href="../post/{p['slug']}.html">
+<div class="ph">{thumb}</div>
+<div class="body"><time datetime="{p['date']}">{fmt_date(p['date'])}</time>
+<h2>{e(p['title'])}</h2><p>{e(p['description'][:180].rstrip())}…</p>
+<span class="more">Read more →</span></div></a>"""
+    extra='\n'+BLOG_CSS.replace('{PREFIX}','../')
+    h=head("Blog — Terps Dispensary Pueblo | Cannabis News & Guides",
+           "News and guides from Terps Dispensary in Pueblo, CO — Colorado cannabis industry insights, dispensary guides and market updates.",
+           f'{BASE}/blog/',extra).replace('{CSS}','../css/style.css')
+    body=f"""{header('../')}
+<div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">From the Terps team</div>
+<h1>The Terps blog</h1><p>Colorado cannabis news, guides and market insights</p></div></div>
+<div class="wrap"><div class="blog-grid">{cards}</div></div>
+{footer('../')}</body></html>"""
+    open(f'{SITE}/blog/index.html','w').write(h+body)
+    return posts
+
 # ---------------- SITEMAP / ROBOTS ----------------
-def build_meta():
+def build_meta(posts):
     def entry(loc,img=None,img_title=None):
         s=f'  <url><loc>{loc}</loc><lastmod>{TODAY}</lastmod><changefreq>daily</changefreq>'
         if img: s+=f'<image:image><image:loc>{img}</image:loc><image:title>{e(img_title or "")}</image:title></image:image>'
@@ -329,6 +431,9 @@ def build_meta():
     for p in cat:
         img=f"{BASE}/{p['photo']}" if p['photo'] else None
         sm+=entry(f"{BASE}/product/{p['slug']}.html",img,f"{p['name']} — Terps Dispensary Pueblo" if img else None)
+    sm+=entry(f'{BASE}/blog/')
+    for p in posts:
+        sm+=entry(f"{BASE}/post/{p['slug']}")
     sm+='</urlset>\n'
     open(f'{SITE}/sitemap.xml','w').write(sm)
     open(f'{SITE}/robots.txt','w').write(
@@ -336,6 +441,6 @@ def build_meta():
         "Disallow: /staff.html\nDisallow: /order.html\n"
         f"Sitemap: {BASE}/sitemap.xml\n")
 
-build_home(); build_menu(); build_products(); build_meta()
-print(f'built: index.html, menu.html, {len(cat)} product pages, sitemap({len(cat)+2} urls)')
+build_home(); build_menu(); build_products(); posts=build_blog(); build_meta(posts)
+print(f'built: index.html, menu.html, {len(cat)} product pages, {len(posts)} blog posts + blog index, sitemap({len(cat)+3+len(posts)} urls)')
 print(f'photos on {sum(1 for p in cat if p["photo"])} products')

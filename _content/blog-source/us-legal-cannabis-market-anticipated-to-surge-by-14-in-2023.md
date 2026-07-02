@@ -14,14 +14,6 @@ images:
   - https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/01c3aff52f2a4dffa526d7a9843d46ea.png
 ---
 
-US Legal Cannabis Market Anticipated to Surge by 14% in 2023
-
-Evan Smith
-
-Mar 15, 2023
-
-2 min read
-
 A comprehensive report from Colorado-based cannabis industry market analysis firm BDSA predicts a 14% growth in legal cannabis sales in the United States in 2023. The updated five-year global legal cannabis market forecast highlights that global spending on legal cannabis rose by 4.8% to $32 billion in 2022. Between 2022 and 2027, the global cannabis market is projected to experience a compound annual growth rate (CAGR) of 13.2%, culminating in a total regulated market size of $59.6 billion by 2027.
 
 The US legal cannabis market has witnessed substantial expansion as a growing number of states legalize adult-use cannabis and medical marijuana. Despite the industry's slowed growth in 2022 due to increasing inflation and economic uncertainty, BDSA projects a 14% increase in the US legal cannabis market in 2023.
