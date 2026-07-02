@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate the Terps storefront: homepage, menu, 290 product pages, blog, sitemap."""
-import json, os, html, re, struct, datetime
+import json, os, html, re, struct, datetime, glob
 DATA='data'; SITE='..'; BASE='https://shop.terpsdispensary.com'
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BLOG_SRC=os.path.join(ROOT,'_content','blog-source')
@@ -362,6 +362,20 @@ function addPDP(){{
 }}
 </script></body></html>"""
         open(f"{SITE}/product/{p['slug']}.html",'w').write(h+body)
+
+# ---- prune product pages whose product left the catalog -------------------
+# A product delisted in the POS or hidden by the wm_scope launch gate
+# (data/wm_scope_allowlist.json) must STOP being served: its page is removed
+# so the URL 404s instead of showing a stale price. Pages regenerate from the
+# catalog on any rebuild, so restoring a product (or turning wm_scope off)
+# brings its page back identically.
+_want={p['slug'] for p in cat}
+_pruned=0
+for _f in glob.glob(f'{SITE}/product/*.html'):
+    _slug=os.path.splitext(os.path.basename(_f))[0]
+    if _slug not in _want:
+        os.remove(_f); _pruned+=1
+if _pruned: print(f'pruned {_pruned} stale product pages (not in catalog)')
 
 # ---------------- BLOG ----------------
 def load_posts():
