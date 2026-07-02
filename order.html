@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Track your order · Terps Dispensary</title>
+<link rel="icon" href="img/icon-32.png"><link rel="apple-touch-icon" href="img/icon-180.png">
+<meta name="theme-color" content="#0e3b2e">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,600&family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --green-900:#0b2e22;--green-800:#0e3b2e;--green-700:#124a39;--green-600:#1a5c45;
+  --gold:#e8b54b;--gold-600:#d29e2f;--teal:#3e9b96;--coral:#ee4b3b;
+  --cream:#f6f2e9;--cream-2:#efe9db;--paper:#fffdf8;
+  --ink:#14201b;--ink-2:#3c4a43;--muted:#6b776f;--line:#e2dccd;
+  --shadow-sm:0 1px 3px rgba(11,46,34,.08),0 1px 2px rgba(11,46,34,.06);
+  --shadow:0 6px 24px rgba(11,46,34,.10);--shadow-lg:0 20px 50px rgba(11,46,34,.18);
+  --r:14px;--r-lg:22px;
+  --serif:"Fraunces",Georgia,serif;--sans:"Manrope",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--sans);color:var(--ink);background:var(--cream);line-height:1.55;-webkit-font-smoothing:antialiased;font-size:16.5px;min-height:100vh}
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer;border:none;background:none}
+h1,h2,h3,h4{font-family:var(--serif);font-weight:600;line-height:1.12;letter-spacing:-.01em;color:var(--green-900)}
+.wrap{max-width:640px;margin:0 auto;padding:0 18px}
+
+/* header */
+header.site{background:linear-gradient(155deg,var(--green-900),var(--green-700));position:sticky;top:0;z-index:10}
+header.site .wrap{display:flex;align-items:center;gap:12px;height:60px}
+header.site img{height:28px;filter:brightness(0) invert(1)}
+header.site .sp{flex:1}
+header.site a.home{color:#cfe0d4;font-weight:700;font-size:.85rem}
+header.site a.home:hover{color:var(--gold)}
+
+.pad{padding:22px 0 60px}
+
+/* status banner */
+.banner{border-radius:var(--r-lg);padding:22px 22px;color:#fff;box-shadow:var(--shadow);margin-bottom:8px}
+.banner .code{font-size:.82rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.9}
+.banner .lbl{font-family:var(--serif);font-size:2rem;line-height:1.05;color:#fff;margin-top:4px}
+.banner .sub{font-size:.9rem;opacity:.95;margin-top:6px}
+.banner.cancelled{background:var(--coral)}
+
+/* step progress */
+.steps{display:flex;gap:6px;margin:18px 0 22px}
+.step{flex:1;text-align:center}
+.step .bar{height:6px;border-radius:999px;background:var(--line);transition:.3s}
+.step.done .bar,.step.active .bar{background:var(--teal)}
+.step.active .bar{background:var(--gold)}
+.step .t{font-size:.72rem;font-weight:700;color:var(--muted);margin-top:7px;line-height:1.2}
+.step.done .t,.step.active .t{color:var(--green-800)}
+
+/* generic card */
+.card{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);padding:18px 18px;margin-bottom:16px;box-shadow:var(--shadow-sm)}
+.card h4{font-family:var(--sans);font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+
+/* items */
+.li{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:.94rem}
+.li:last-of-type{border-bottom:none}
+.li .q{color:var(--muted);font-weight:700}
+.li .nm{font-weight:700}
+.li .vr{color:var(--teal);font-size:.82rem;font-weight:700}
+.li .pr{font-family:var(--serif);font-weight:700;color:var(--green-900);white-space:nowrap}
+.subtot{display:flex;justify-content:space-between;padding-top:12px;margin-top:6px;border-top:2px solid var(--line);font-weight:800;font-size:1.08rem}
+
+/* timeline */
+.tl{display:flex;gap:12px;padding:7px 0;font-size:.9rem;align-items:flex-start}
+.tl .dot{width:11px;height:11px;border-radius:50%;margin-top:5px;flex-shrink:0;background:var(--muted)}
+.tl .txt{flex:1}
+.tl .tm{color:var(--muted);font-size:.8rem}
+
+/* chat */
+.chat{display:flex;flex-direction:column;max-height:420px}
+.chat .msgs{display:flex;flex-direction:column;gap:10px;overflow:auto;padding:2px 2px 12px;min-height:60px}
+.chat .m{max-width:82%;padding:9px 13px;border-radius:15px;font-size:.9rem;line-height:1.4;word-wrap:break-word;overflow-wrap:anywhere}
+.chat .m .who{font-size:.68rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;opacity:.7;margin-bottom:2px}
+.chat .m.customer{align-self:flex-end;background:var(--green-800);color:#fff;border-bottom-right-radius:5px}
+.chat .m.staff{align-self:flex-start;background:var(--cream-2);color:var(--ink);border-bottom-left-radius:5px}
+.chat .m .tm{font-size:.68rem;opacity:.7;margin-top:3px}
+.chat .empty{color:var(--muted);font-size:.88rem;text-align:center;padding:16px 0}
+.chat .hint{font-size:.76rem;color:var(--muted);margin:4px 0 10px}
+.chat form{display:flex;gap:8px;margin-top:auto}
+.chat input{flex:1;padding:.7em .9em;border:1.5px solid var(--line);border-radius:999px;font-family:inherit;font-size:1rem;background:#fff}
+.chat input:focus{outline:none;border-color:var(--teal)}
+.chat .send{background:var(--gold);color:var(--green-900);border-radius:999px;padding:0 1.2em;font-weight:800;font-size:.9rem}
+.chat .send[disabled]{opacity:.55;cursor:default}
+
+/* cancel */
+.cancelrow{margin-bottom:16px}
+.cancelrow .cbtn{width:100%;background:none;border:1.5px solid var(--line);color:var(--muted);border-radius:12px;padding:.9em;font-weight:700;font-size:.9rem}
+.cancelrow .cbtn:hover{border-color:var(--coral);color:var(--coral)}
+.cancelrow .cbtn[disabled]{opacity:.5;cursor:default}
+
+/* store info */
+.store .row{display:flex;gap:10px;padding:6px 0;font-size:.92rem}
+.store .row b{min-width:74px;color:var(--green-900)}
+.store a{color:var(--teal);font-weight:700}
+
+/* states */
+.center{text-align:center;padding:50px 20px}
+.center .big{font-family:var(--serif);font-size:1.7rem;color:var(--green-900);margin-bottom:8px}
+.center p{color:var(--muted);margin-bottom:18px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5em;font-weight:800;font-size:.95rem;padding:.85em 1.6em;border-radius:999px;transition:.15s}
+.btn-gold{background:var(--gold);color:var(--green-900);box-shadow:var(--shadow-sm)}
+.btn-gold:hover{background:var(--gold-600)}
+.btn-ghost{border:1.5px solid var(--line);color:var(--green-900);background:var(--paper)}
+.skeleton{color:var(--muted);text-align:center;padding:60px 20px;font-size:.95rem}
+
+/* recent orders list */
+.recent a{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:14px 16px;background:var(--paper);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;transition:.15s}
+.recent a:hover{border-color:var(--gold);transform:translateY(-1px);box-shadow:var(--shadow-sm)}
+.recent .c{font-weight:800;color:var(--green-900)}
+.recent .m{font-size:.82rem;color:var(--muted)}
+.recent .go{color:var(--teal);font-weight:800}
+
+footer.mini{text-align:center;font-size:.78rem;color:var(--muted);padding:24px 0 40px}
+footer.mini a{color:var(--teal);font-weight:700}
+</style></head><body>
+<header class="site"><div class="wrap">
+  <a href="index.html"><img src="img/logo_horizontal.png" alt="Terps Dispensary"></a>
+  <span class="sp"></span>
+  <a class="home" href="menu.html">Menu</a>
+</div></header>
+<main class="wrap pad">
+  <div id="track-root"><div class="skeleton">Loading your order…</div></div>
+</main>
+<footer class="mini">Terps Dispensary · 38 N Silicon Dr, Pueblo, CO · <a href="tel:7195471850">(719) 547-1850</a></footer>
+
+<script src="js/config.js"></script>
+<script src="js/orders.js"></script>
+<script src="js/track.js"></script>
+</body></html>

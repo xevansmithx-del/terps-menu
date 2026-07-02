@@ -53,55 +53,160 @@ const Cart = {
 function openCart(){ document.getElementById('cartov')?.classList.add('open'); document.getElementById('cart')?.classList.add('open'); }
 function closeCart(){ document.getElementById('cartov')?.classList.remove('open'); document.getElementById('cart')?.classList.remove('open'); }
 const STORE_EMAIL='info@terpsdispensary.com';
+const STORE_PHONE_DISPLAY='(719) 547-1850';
+/* escape untrusted strings before injecting into innerHTML */
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function validEmail(v){ return /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v); }
+
+/* one-time injection of checkout-specific styles (keeps style.css untouched) */
+function injectCheckoutCSS(){
+  if(document.getElementById('co-xcss')) return;
+  const s=document.createElement('style'); s.id='co-xcss';
+  s.textContent=`
+  #checkout .co-req{color:var(--coral)}
+  #checkout .co-err{background:#fdecea;border:1px solid #f5b5ae;color:#8a2a20;border-radius:10px;padding:10px 12px;font-size:.85rem;margin-bottom:14px;display:none}
+  #checkout .co-err.show{display:block}
+  #checkout .co-fielderr{color:var(--coral);font-size:.76rem;font-weight:700;margin-top:4px;display:none}
+  #checkout label.bad input{border-color:var(--coral)}
+  #checkout label.bad .co-fielderr{display:block}
+  #checkout .co-submit[disabled]{opacity:.6;cursor:default}
+  #checkout .co-spin{width:16px;height:16px;border:2px solid rgba(11,46,34,.35);border-top-color:var(--green-900);border-radius:50%;display:inline-block;animation:cospin .7s linear infinite;vertical-align:-3px;margin-right:8px}
+  @keyframes cospin{to{transform:rotate(360deg)}}
+  #checkout .co-compliance{font-size:.76rem;color:var(--muted);text-align:center;margin-top:12px;line-height:1.5}
+  #checkout .co-code{font-family:var(--serif);font-weight:700;font-size:2.4rem;letter-spacing:.02em;color:var(--green-900);background:var(--cream);border:1.5px dashed var(--gold-600);border-radius:14px;padding:14px 10px;margin:6px 0 14px;text-align:center;user-select:all}
+  #checkout .co-track{display:flex;flex-direction:column;gap:10px;margin-top:6px}
+  #checkout .co-track .btn{width:100%;justify-content:center}
+  #checkout .co-track a.co-tracklink{color:var(--teal);font-weight:700;font-size:.85rem;text-align:center}
+  #checkout .co-errbox{text-align:center}
+  #checkout .co-errbox .co-x-icon{width:60px;height:60px;background:var(--coral);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.8rem;margin:0 auto 14px}`;
+  document.head.appendChild(s);
+}
+
 function reservePickup(){
   const items=Cart.get(); if(!items.length){ toast('Add items first'); return; }
   buildCheckout();
-  document.getElementById('co-summary').innerHTML =
-    items.map(i=>`<div class="co-li"><span>${i.qty}× ${i.name}${i.strain?' · '+i.strain:''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
-    + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`;
+  renderCheckoutSummary();
+  // reset to the form view every time it opens
+  const body=document.getElementById('co-body');
+  body.dataset.state='form';
   document.getElementById('checkout').classList.add('open');
+  document.body.style.overflow='hidden';
+  setTimeout(()=>document.getElementById('checkout-name')?.focus(),60);
+}
+function renderCheckoutSummary(){
+  const items=Cart.get();
+  const el=document.getElementById('co-summary'); if(!el) return;
+  el.innerHTML =
+    items.map(i=>`<div class="co-li"><span>${i.qty}× ${esc(i.name)}${i.strain?' · '+esc(i.strain):''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
+    + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`;
+}
+function closeCheckout(){
+  document.getElementById('checkout')?.classList.remove('open');
+  document.body.style.overflow='';
 }
 function buildCheckout(){
+  injectCheckoutCSS();
   if(document.getElementById('checkout')) return;
   const el=document.createElement('div'); el.id='checkout';
   el.innerHTML=`<div class="co-card">
-    <button class="co-x" onclick="document.getElementById('checkout').classList.remove('open')">&times;</button>
-    <div id="co-body">
+    <button class="co-x" aria-label="Close" onclick="closeCheckout()">&times;</button>
+    <div id="co-body" data-state="form">
       <h3>Reserve for pickup</h3>
-      <p class="co-sub">We'll prep your order and send you updates. Pay in store at pickup (21+, valid ID).</p>
+      <p class="co-sub">Reserve your items and we'll have them ready. We'll email you as your order moves along.</p>
+      <div class="co-err" id="co-err"></div>
       <div class="co-summary" id="co-summary"></div>
-      <label>Your name<input id="co-name" autocomplete="name" placeholder="First & last name"></label>
-      <label>Mobile phone <span class="co-hint">(for order updates)</span><input id="co-phone" type="tel" autocomplete="tel" placeholder="(719) 000-0000"></label>
-      <label>Email<input id="co-email" type="email" autocomplete="email" placeholder="you@email.com"></label>
-      <label>Pickup time<select id="co-time"><option>As soon as possible</option><option>Within 1 hour</option><option>Later today</option><option>Tomorrow</option></select></label>
-      <button class="co-submit" onclick="submitOrder()">Place pickup order →</button>
-      <div class="co-alt">or <a href="#" onclick="emailOrder();return false;">email your order</a> · call <a href="tel:7195471850">(719) 547-1850</a></div>
+      <label for="checkout-name">Your name <span class="co-req">*</span>
+        <input id="checkout-name" data-testid="checkout-name" autocomplete="name" placeholder="First & last name">
+        <span class="co-fielderr">Please enter your name.</span></label>
+      <label for="checkout-phone">Mobile phone <span class="co-req">*</span> <span class="co-hint">(so we can reach you)</span>
+        <input id="checkout-phone" data-testid="checkout-phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="(719) 000-0000">
+        <span class="co-fielderr">Please enter a valid phone number.</span></label>
+      <label for="checkout-email">Email <span class="co-req">*</span> <span class="co-hint">(we'll email you order updates)</span>
+        <input id="checkout-email" data-testid="checkout-email" type="email" inputmode="email" autocomplete="email" placeholder="you@email.com">
+        <span class="co-fielderr">Please enter a valid email so we can send updates.</span></label>
+      <label for="checkout-note">Note <span class="co-hint">(optional)</span>
+        <input id="checkout-note" data-testid="checkout-note" maxlength="500" placeholder="Pickup time, questions…"></label>
+      <button class="co-submit" id="checkout-submit" data-testid="checkout-submit" onclick="submitOrder()">Reserve for pickup →</button>
+      <div class="co-compliance">Pay in store · 21+ w/ valid ID · This is a reservation, not a sale.</div>
+      <div class="co-alt">Questions? Call <a href="tel:7195471850">${STORE_PHONE_DISPLAY}</a></div>
     </div></div>`;
   document.body.appendChild(el);
 }
-async function submitOrder(){
-  const name=document.getElementById('co-name').value.trim();
-  const phone=document.getElementById('co-phone').value.trim();
-  const email=document.getElementById('co-email').value.trim();
-  const time=document.getElementById('co-time').value;
-  if(!name||(!phone&&!email)){ toast('Add your name and a phone or email'); return; }
-  const items=Cart.get();
-  const order={customer:{name,phone,email},items,subtotal:Cart.total(),pickupTime:time,source:'terpsdispensary.com'};
-  let saved=order;
-  if(typeof Orders!=='undefined'){ try{ saved=await Orders.create(order); }catch(e){} }
-  Cart.save([]);
-  document.getElementById('co-body').innerHTML=`<div class="co-done">
-    <div class="co-check">✓</div><h3>Order received!</h3>
-    <p class="co-sub">Your order <b>#${saved.id||''}</b> is in. We'll ${phone?'text':'email'} you when it's ready for pickup at 38 N Silicon Dr.</p>
-    <p class="co-sub" style="margin-top:8px">Bring a valid 21+ ID. Pay in store.</p>
-    <button class="co-submit" onclick="document.getElementById('checkout').classList.remove('open')">Done</button></div>`;
-  closeCart();
+function markBad(id,bad){
+  const inp=document.getElementById(id); if(!inp) return;
+  inp.closest('label')?.classList.toggle('bad',!!bad);
 }
-function emailOrder(){
-  const items=Cart.get(); let body='TERPS PICKUP ORDER%0D%0A%0D%0A';
-  items.forEach(i=>{ body+=`• ${i.qty} x ${i.name}${i.strain?' ('+i.strain+')':''} — ${money(i.price)}%0D%0A`; });
-  body+=`%0D%0ASubtotal: ${money(Cart.total())}%0D%0A%0D%0AName:%0D%0APhone:%0D%0APickup time:`;
-  window.location.href=`mailto:${STORE_EMAIL}?subject=${encodeURIComponent('Pickup order — Terps')}&body=${body}`;
+async function submitOrder(){
+  const nameEl=document.getElementById('checkout-name');
+  const phoneEl=document.getElementById('checkout-phone');
+  const emailEl=document.getElementById('checkout-email');
+  const noteEl=document.getElementById('checkout-note');
+  const name=(nameEl?.value||'').trim();
+  const phone=(phoneEl?.value||'').trim();
+  const email=(emailEl?.value||'').trim();
+  const note=(noteEl?.value||'').trim();
+
+  // client-side validation — all three required
+  const badName=name.length<2;
+  const badPhone=phone.replace(/[^0-9]/g,'').length<7;
+  const badEmail=!validEmail(email);
+  markBad('checkout-name',badName); markBad('checkout-phone',badPhone); markBad('checkout-email',badEmail);
+  const err=document.getElementById('co-err'); err.classList.remove('show');
+  if(badName||badPhone||badEmail){
+    err.textContent='Please fill in your name, phone and email so we can hold your order and send updates.';
+    err.classList.add('show');
+    (badName?nameEl:badPhone?phoneEl:emailEl)?.focus();
+    return;
+  }
+
+  const items=Cart.get();
+  if(!items.length){ closeCheckout(); toast('Your order is empty'); return; }
+
+  const btn=document.getElementById('checkout-submit');
+  const orig=btn.innerHTML;
+  btn.disabled=true; btn.innerHTML='<span class="co-spin"></span>Reserving…';
+
+  try{
+    if(typeof Orders==='undefined'||!Orders.placeOrder) throw new Error('unavailable');
+    const {code,token}=await Orders.placeOrder(items,{name,phone,email},note);
+    // remember for returning-visitor lookup
+    try{ Orders.saveMine({code,token,name,subtotal:Cart.total(),item_count:Cart.count()}); }catch(e){}
+    Cart.save([]);
+    showCheckoutSuccess(code,token);
+    closeCart();
+  }catch(e){
+    btn.disabled=false; btn.innerHTML=orig;
+    showCheckoutError();
+  }
+}
+/* order.html lives at the site root; product pages sit one level down in
+   /product/, so prefix the tracking link accordingly (works for local file
+   preview AND GitHub Pages, regardless of domain). */
+function siteRootPrefix(){ return /\/product\//.test(location.pathname) ? '../' : ''; }
+function showCheckoutSuccess(code,token){
+  const url=siteRootPrefix()+'order.html?c='+encodeURIComponent(code)+'&t='+encodeURIComponent(token);
+  const body=document.getElementById('co-body'); body.dataset.state='done';
+  body.innerHTML=`<div class="co-done" data-testid="checkout-success">
+    <div class="co-check">✓</div>
+    <h3>You're all set!</h3>
+    <p class="co-sub">Your reservation is in. Show this code at the counter:</p>
+    <div class="co-code">${esc(code)}</div>
+    <p class="co-sub">We'll email you when it's ready for pickup at 38 N Silicon Dr. Bring a valid 21+ ID and pay in store.</p>
+    <div class="co-track">
+      <a class="btn btn-gold" data-testid="track-link" href="${esc(url)}">Track your order →</a>
+      <a class="btn btn-ghost" href="#" onclick="closeCheckout();return false;">Keep shopping</a>
+    </div></div>`;
+}
+function showCheckoutError(){
+  const body=document.getElementById('co-body'); body.dataset.state='error';
+  body.innerHTML=`<div class="co-errbox">
+    <div class="co-x-icon">!</div>
+    <h3>We couldn't place that</h3>
+    <p class="co-sub">Something went wrong reserving your order. Your cart is saved — please try again, or give us a call and we'll set it aside for you.</p>
+    <div class="co-track">
+      <button class="btn btn-gold" onclick="reservePickup()">Try again</button>
+      <a class="btn btn-ghost" href="tel:7195471850">Call ${STORE_PHONE_DISPLAY}</a>
+    </div></div>`;
 }
 
 /* ---------- Toast ---------- */
