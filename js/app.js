@@ -55,12 +55,53 @@ function closeCart(){ document.getElementById('cartov')?.classList.remove('open'
 const STORE_EMAIL='info@terpsdispensary.com';
 function reservePickup(){
   const items=Cart.get(); if(!items.length){ toast('Add items first'); return; }
-  let body='TERPS DISPENSARY — PICKUP ORDER%0D%0A%0D%0A';
+  buildCheckout();
+  document.getElementById('co-summary').innerHTML =
+    items.map(i=>`<div class="co-li"><span>${i.qty}× ${i.name}${i.strain?' · '+i.strain:''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
+    + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`;
+  document.getElementById('checkout').classList.add('open');
+}
+function buildCheckout(){
+  if(document.getElementById('checkout')) return;
+  const el=document.createElement('div'); el.id='checkout';
+  el.innerHTML=`<div class="co-card">
+    <button class="co-x" onclick="document.getElementById('checkout').classList.remove('open')">&times;</button>
+    <div id="co-body">
+      <h3>Reserve for pickup</h3>
+      <p class="co-sub">We'll prep your order and send you updates. Pay in store at pickup (21+, valid ID).</p>
+      <div class="co-summary" id="co-summary"></div>
+      <label>Your name<input id="co-name" autocomplete="name" placeholder="First & last name"></label>
+      <label>Mobile phone <span class="co-hint">(for order updates)</span><input id="co-phone" type="tel" autocomplete="tel" placeholder="(719) 000-0000"></label>
+      <label>Email<input id="co-email" type="email" autocomplete="email" placeholder="you@email.com"></label>
+      <label>Pickup time<select id="co-time"><option>As soon as possible</option><option>Within 1 hour</option><option>Later today</option><option>Tomorrow</option></select></label>
+      <button class="co-submit" onclick="submitOrder()">Place pickup order →</button>
+      <div class="co-alt">or <a href="#" onclick="emailOrder();return false;">email your order</a> · call <a href="tel:7195471850">(719) 547-1850</a></div>
+    </div></div>`;
+  document.body.appendChild(el);
+}
+async function submitOrder(){
+  const name=document.getElementById('co-name').value.trim();
+  const phone=document.getElementById('co-phone').value.trim();
+  const email=document.getElementById('co-email').value.trim();
+  const time=document.getElementById('co-time').value;
+  if(!name||(!phone&&!email)){ toast('Add your name and a phone or email'); return; }
+  const items=Cart.get();
+  const order={customer:{name,phone,email},items,subtotal:Cart.total(),pickupTime:time,source:'terpsdispensary.com'};
+  let saved=order;
+  if(typeof Orders!=='undefined'){ try{ saved=await Orders.create(order); }catch(e){} }
+  Cart.save([]);
+  document.getElementById('co-body').innerHTML=`<div class="co-done">
+    <div class="co-check">✓</div><h3>Order received!</h3>
+    <p class="co-sub">Your order <b>#${saved.id||''}</b> is in. We'll ${phone?'text':'email'} you when it's ready for pickup at 38 N Silicon Dr.</p>
+    <p class="co-sub" style="margin-top:8px">Bring a valid 21+ ID. Pay in store.</p>
+    <button class="co-submit" onclick="document.getElementById('checkout').classList.remove('open')">Done</button></div>`;
+  closeCart();
+}
+function emailOrder(){
+  const items=Cart.get(); let body='TERPS PICKUP ORDER%0D%0A%0D%0A';
   items.forEach(i=>{ body+=`• ${i.qty} x ${i.name}${i.strain?' ('+i.strain+')':''} — ${money(i.price)}%0D%0A`; });
-  body+=`%0D%0ASubtotal (pre-tax): ${money(Cart.total())}%0D%0A%0D%0A`;
-  body+='Please have this ready for pickup. My details:%0D%0AName:%0D%0APhone:%0D%0APickup time:%0D%0A%0D%0A(I understand I pay in store at pickup, 21+ with valid ID.)';
-  const subject='Pickup order — Terps Dispensary';
-  window.location.href=`mailto:${STORE_EMAIL}?subject=${encodeURIComponent(subject)}&body=${body}`;
+  body+=`%0D%0ASubtotal: ${money(Cart.total())}%0D%0A%0D%0AName:%0D%0APhone:%0D%0APickup time:`;
+  window.location.href=`mailto:${STORE_EMAIL}?subject=${encodeURIComponent('Pickup order — Terps')}&body=${body}`;
 }
 
 /* ---------- Toast ---------- */

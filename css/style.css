@@ -213,6 +213,27 @@ footer.site .copy{padding-top:22px;font-size:.8rem;color:#7f978a;display:flex;ju
 .why .w h3{font-family:var(--sans);font-weight:800;font-size:1.1rem;margin-bottom:8px}
 .why .w p{color:var(--muted);font-size:.92rem}
 
+/* ---------- Checkout modal ---------- */
+#checkout{position:fixed;inset:0;z-index:170;background:rgba(11,46,34,.55);display:none;align-items:center;justify-content:center;padding:20px}
+#checkout.open{display:flex}
+#checkout .co-card{background:var(--paper);border-radius:var(--r-lg);max-width:440px;width:100%;padding:30px 28px;position:relative;box-shadow:var(--shadow-lg);max-height:92vh;overflow:auto}
+#checkout .co-x{position:absolute;top:14px;right:18px;font-size:1.7rem;color:var(--muted);background:none;border:none}
+#checkout h3{font-size:1.5rem;margin-bottom:4px}
+#checkout .co-sub{color:var(--muted);font-size:.9rem;margin-bottom:16px}
+#checkout .co-summary{background:var(--cream);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:18px;font-size:.9rem}
+#checkout .co-li{display:flex;justify-content:space-between;padding:3px 0}
+#checkout .co-tot{border-top:1px solid var(--line);margin-top:6px;padding-top:8px;font-weight:800}
+#checkout label{display:block;font-weight:700;font-size:.85rem;color:var(--green-900);margin-bottom:12px}
+#checkout .co-hint{color:var(--muted);font-weight:600}
+#checkout input,#checkout select{width:100%;margin-top:5px;padding:.7em .9em;border:1.5px solid var(--line);border-radius:10px;font-family:inherit;font-size:1rem;background:#fff}
+#checkout input:focus,#checkout select:focus{outline:none;border-color:var(--teal)}
+#checkout .co-submit{width:100%;background:var(--gold);color:var(--green-900);border:none;border-radius:999px;padding:1em;font-weight:800;font-size:1.05rem;cursor:pointer;margin-top:4px}
+#checkout .co-submit:hover{background:var(--gold-600)}
+#checkout .co-alt{text-align:center;font-size:.82rem;color:var(--muted);margin-top:14px}
+#checkout .co-alt a{color:var(--teal);font-weight:700}
+#checkout .co-done{text-align:center;padding:10px 0}
+#checkout .co-check{width:64px;height:64px;background:var(--teal);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:2rem;margin:0 auto 16px}
+
 /* ---------- toast ---------- */
 #toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(120px);background:var(--green-900);color:#fff;padding:.9em 1.4em;border-radius:999px;font-weight:700;font-size:.92rem;z-index:180;transition:.3s;box-shadow:var(--shadow-lg)}
 #toast.show{transform:translateX(-50%)}
