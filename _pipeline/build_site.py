@@ -375,11 +375,12 @@ def build_blog():
             "mainEntityOfPage":canonical,"author":{"@type":"Person","name":"Evan Smith"},
             "publisher":{"@type":"Organization","name":"Terps Dispensary",
                          "logo":{"@type":"ImageObject","url":f"{BASE}/img/badge.png"}}}
-        if hero: ld["image"]=f"{BASE}/img/blog/{p['slug']}/hero.jpg"
+        ogimg=f"{BASE}/img/blog/{p['slug']}/hero.jpg" if hero else None
+        if ogimg: ld["image"]=ogimg
         extra=f'\n{BLOG_CSS.replace("{PREFIX}","../")}\n<script type="application/ld+json">{json.dumps(ld)}</script>'
-        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra,ogtype='article',prefix='../').replace('{CSS}','../css/style.css')
+        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra,ogtype='article',ogimage=ogimg,prefix='../').replace('{CSS}','../css/style.css')
         heroimg=f'<figure class="post-hero"><img src="{hero}" alt="{e(p["title"])}"></figure>' if hero else ''
-        body=f"""{header('../')}
+        body=f"""{header('../')}<main>
 <article class="post"><div class="wrap">
 <div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../blog/index.html">Blog</a> › {e(p['title'])}</div>
 <header class="post-head"><div class="eyebrow">Terps Dispensary Blog</div>
@@ -410,7 +411,7 @@ def build_blog():
     h=head("Blog — Terps Dispensary Pueblo | Cannabis News & Guides",
            "News and guides from Terps Dispensary in Pueblo, CO — Colorado cannabis industry insights, dispensary guides and market updates.",
            f'{BASE}/blog/',extra,prefix='../').replace('{CSS}','../css/style.css')
-    body=f"""{header('../')}
+    body=f"""{header('../')}<main>
 <div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">From the Terps team</div>
 <h1>The Terps blog</h1><p>Colorado cannabis news, guides and market insights</p></div></div>
 <div class="wrap"><div class="blog-grid">{cards}</div></div>
@@ -433,7 +434,8 @@ def build_meta(posts):
         sm+=entry(f"{BASE}/product/{p['slug']}.html",img,f"{p['name']} — Terps Dispensary Pueblo" if img else None)
     sm+=entry(f'{BASE}/blog/')
     for p in posts:
-        sm+=entry(f"{BASE}/post/{p['slug']}")
+        img=f"{BASE}/img/blog/{p['slug']}/hero.jpg" if post_hero(p['slug']) else None
+        sm+=entry(f"{BASE}/post/{p['slug']}",img,p['title'] if img else None)
     sm+='</urlset>\n'
     open(f'{SITE}/sitemap.xml','w').write(sm)
     open(f'{SITE}/robots.txt','w').write(
