@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets to Starting a Dispensary in Colorado:"
 slug: unveiling-the-secrets-to-starting-a-dispensary-in-colorado
-original_url: https://www.terpsdispensary.com/post/unveiling-the-secrets-to-starting-a-dispensary-in-colorado
+original_url: https://terpsdispensary.com/post/unveiling-the-secrets-to-starting-a-dispensary-in-colorado
 date: 2023-02-16
 description: "Your Comprehensive Guide to Obtaining the Right LicensesAs experts in the cannabis industry, we understand the complexities of starting a dispensary in Colorado. In this comprehensive guide, we will walk you through the licenses needed to start a dispensary in Colorado and provide you with valuable "
 images:

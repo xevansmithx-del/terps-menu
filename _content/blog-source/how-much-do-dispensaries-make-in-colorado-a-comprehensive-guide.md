@@ -1,7 +1,7 @@
 ---
 title: "How Much Do Dispensaries Make in Colorado? A Comprehensive Guide"
 slug: how-much-do-dispensaries-make-in-colorado-a-comprehensive-guide
-original_url: https://www.terpsdispensary.com/post/how-much-do-dispensaries-make-in-colorado-a-comprehensive-guide
+original_url: https://terpsdispensary.com/post/how-much-do-dispensaries-make-in-colorado-a-comprehensive-guide
 date: 2023-02-16
 description: "As one of the first states to legalize marijuana, Colorado has been a trailblazer in the cannabis industry. The state's dispensaries have been consistently generating high revenues since legalization, but how much do they really make? In this guide, we'll dive into the details of dispensary earnings"
 images:

@@ -3,7 +3,7 @@
 A standalone, SEO-first, **live** cannabis storefront for terpsdispensary.com.
 Powered by the live Weave POS menu, enriched with Terps' own Weedmaps product photography.
 
-**Live (staging):** https://xevansmithx-del.github.io/terps-menu/
+**Live:** https://terpsdispensary.com/
 **Repo:** github.com/xevansmithx-del/terps-menu (GitHub Pages, `main` branch root)
 
 ---
@@ -45,11 +45,8 @@ cd /tmp/terps-menu-deploy && cp -R ".../site/." . && git add -A && git commit -m
 - Flower is priced **per gram** in the POS → displayed as `$/g`. Prerolls/edibles/concentrates per item.
 - Photos matched by name+brand with a category gate (never shows a wrong-category photo; 263/290 have real photos, rest get a branded droplet placeholder).
 
-## Going live on the domain (the remaining step — needs Evan)
-Recommended, reversible, zero email/blog risk:
-1. Add a `CNAME` file (`shop.terpsdispensary.com`) to the repo.
-2. In Wix domain DNS: add `CNAME  shop → xevansmithx-del.github.io`.
-3. GitHub repo → Settings → Pages → custom domain = `shop.terpsdispensary.com`.
-4. Point the Wix homepage "MENU" nav at `https://shop.terpsdispensary.com`.
-
-Alternative (bigger): replace the apex entirely — migrate the blog, preserve Google Workspace MX. Do with Evan present.
+## Going live on the domain
+The site is served on the apex domain:
+1. The repo `CNAME` file contains `terpsdispensary.com`.
+2. In domain DNS: point the apex (`@`) A/ALIAS records at GitHub Pages, keeping Google Workspace MX records intact.
+3. GitHub repo → Settings → Pages → custom domain = `terpsdispensary.com`.

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Weed Vending Machine with Live Labeling Launches in Colorado"
 slug: revolutionary-weed-vending-machine-with-live-labeling-launches-in-colorado
-original_url: https://www.terpsdispensary.com/post/revolutionary-weed-vending-machine-with-live-labeling-launches-in-colorado
+original_url: https://terpsdispensary.com/post/revolutionary-weed-vending-machine-with-live-labeling-launches-in-colorado
 date: 2023-03-15
 description: "The Future of Cannabis Dispensaries is HereThe cannabis industry has seen rapid evolution, and now, a groundbreaking weed vending machine with live labeling capabilities has arrived in Colorado. This next-generation vending solution aims to revolutionize the way consumers purchase cannabis products,"
 images:

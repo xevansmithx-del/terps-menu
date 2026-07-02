@@ -1,7 +1,7 @@
 ---
 title: "Discover Colorado's Top Dispensaries: A Comprehensive Guide to the Best in the State"
 slug: discover-colorado-s-top-dispensaries-a-comprehensive-guide-to-the-best-in-the-state
-original_url: https://www.terpsdispensary.com/post/discover-colorado-s-top-dispensaries-a-comprehensive-guide-to-the-best-in-the-state
+original_url: https://terpsdispensary.com/post/discover-colorado-s-top-dispensaries-a-comprehensive-guide-to-the-best-in-the-state
 date: 2023-02-16
 description: "The Top Dispensaries in Colorado1. LivWell Enlightened Health LivWell Enlightened Health is a prominent dispensary in Colorado, with several locations throughout the state. LivWell is known for its high-quality product selection, competitive pricing, and friendly staff. They offer both recreational "
 images:

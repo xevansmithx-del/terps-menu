@@ -1,7 +1,7 @@
 ---
 title: "Opening a Dispensary in Colorado: What You Need to Know"
 slug: opening-a-dispensary-in-colorado-what-you-need-to-know
-original_url: https://www.terpsdispensary.com/post/opening-a-dispensary-in-colorado-what-you-need-to-know
+original_url: https://terpsdispensary.com/post/opening-a-dispensary-in-colorado-what-you-need-to-know
 date: 2023-02-16
 description: "If you're considering opening a dispensary in Colorado, there are many things to consider. In this guide, we'll provide you with all the information you need to get started on this exciting and potentially lucrative journey.Understanding the Legal RequirementsFirst and foremost, it's important to un"
 images:

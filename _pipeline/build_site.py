@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate the Terps storefront: homepage, menu, 290 product pages, sitemap."""
 import json, os, html, re
-DATA='data'; SITE='site'; BASE='https://www.terpsdispensary.com'
+DATA='data'; SITE='site'; BASE='https://terpsdispensary.com'
 cat=json.load(open(f'{DATA}/catalog.json'))
 os.makedirs(f'{SITE}/product',exist_ok=True)
 os.makedirs(f'{SITE}/data',exist_ok=True)

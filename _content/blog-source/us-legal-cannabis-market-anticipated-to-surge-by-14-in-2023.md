@@ -1,7 +1,7 @@
 ---
 title: "US Legal Cannabis Market Anticipated to Surge by 14% in 2023"
 slug: us-legal-cannabis-market-anticipated-to-surge-by-14-in-2023
-original_url: https://www.terpsdispensary.com/post/us-legal-cannabis-market-anticipated-to-surge-by-14-in-2023
+original_url: https://terpsdispensary.com/post/us-legal-cannabis-market-anticipated-to-surge-by-14-in-2023
 date: 2023-03-15
 description: "A comprehensive report from Colorado-based cannabis industry market analysis firm BDSA predicts a 14% growth in legal cannabis sales in the United States in 2023. The updated five-year global legal cannabis market forecast highlights that global spending on legal cannabis rose by 4.8% to $32 billion"
 images:
