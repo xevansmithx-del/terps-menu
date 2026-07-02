@@ -114,6 +114,31 @@ for pid,rows in byid.items():
     })
 print(f'distinct products: {len(cat)}')
 
+# ---- WM launch scope gate (2026-07-02) -----------------------------------
+# Owner directive: at launch the shop must MIRROR THE WEEDMAPS MENU EXACTLY --
+# only products with a live WM listing may render. The allowlist is generated
+# (and asserted against the WM parity report) by build_wm_scope.py from a WM
+# snapshot; it is COMMITTED, so the scheduled refresh keeps enforcing it on
+# every rebuild until it is turned off.
+# REVERSIBLE: set "enabled": false in data/wm_scope_allowlist.json (or delete
+# the file) and rebuild -- the full menu returns; photos, prices and
+# descriptions of hidden products are untouched and reappear as-is.
+# FAIL-CLOSED: a malformed allowlist or an implausibly small survivor set
+# aborts the build (a wrong menu must never publish silently).
+try: WM_SCOPE=json.load(open(f'{DATA}/wm_scope_allowlist.json'))
+except FileNotFoundError: WM_SCOPE=None
+if WM_SCOPE and WM_SCOPE.get('enabled'):
+    _allowed=set(WM_SCOPE.get('allowed_ids') or [])
+    if not _allowed: raise SystemExit('FAIL-CLOSED: wm_scope enabled but allowed_ids is empty')
+    _kept=[p for p in cat if p['id'] in _allowed]
+    _dropped=[p for p in cat if p['id'] not in _allowed]
+    if len(_kept)<150: raise SystemExit(f'FAIL-CLOSED: wm_scope keeps only {len(_kept)} products (<150) -- allowlist/id drift? refusing to publish')
+    for p in _dropped: print(f'  wm_scope hide: {p["name"]} ({p["category"]})')
+    print(f'wm_scope: ON (WM snapshot {WM_SCOPE.get("snapshot_date")}) -- kept {len(_kept)}/{len(cat)}, hidden {len(_dropped)}')
+    cat=_kept
+else:
+    print('wm_scope: OFF -- full menu')
+
 # ---- photo match (per product) ----
 wm=json.load(open(f'{DATA}/wm_items_pueblo.json'))
 wmr=[]
