@@ -123,12 +123,19 @@ test.describe.serial('Consumer order flow', () => {
     const pending: Array<[string, string]> = [];
     if (orderCode1 && orderToken1) pending.push([orderCode1, orderToken1]);
     if (orderCode2 && orderToken2) pending.push([orderCode2, orderToken2]);
+    const failed: string[] = [];
     for (const [code, token] of pending) {
       try {
-        await cancelOrderViaRpc(request, code, token);
+        const ok = await cancelOrderViaRpc(request, code, token);
+        // HTTP-level failure = real leak risk (body {ok:false} for already-cancelled still returns HTTP 200)
+        if (!ok) failed.push(code);
       } catch (e) {
         console.error(`teardown: failed to cancel ${code}:`, e);
+        failed.push(code);
       }
+    }
+    if (failed.length) {
+      throw new Error(`teardown: could not cancel test order(s) ${failed.join(', ')} — check the live staff queue and cancel manually`);
     }
   });
 
