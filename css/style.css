@@ -281,3 +281,13 @@ footer.site .copy{padding-top:22px;font-size:.8rem;color:#7f978a;display:flex;ju
 .mobile-nav.open{display:flex}
 .mobile-nav a{color:var(--cream);font-family:var(--serif);font-size:1.6rem;padding:12px 0;border-bottom:1px solid rgba(255,255,255,.1)}
 .mobile-nav .x{position:absolute;top:24px;right:28px;color:var(--cream);font-size:2rem}
+
+/* static category hubs + plain internal link lists */
+.cat-hub{margin:14px 0}
+.cat-hub summary{cursor:pointer;font-family:var(--serif);font-size:1.15rem;font-weight:600;padding:10px 0;color:var(--green-900)}
+.cat-hub h3 a{color:var(--green-900)}
+.plain-links{list-style:none;margin:8px 0 12px;padding:0;columns:2;column-gap:28px}
+.plain-links li{margin:0 0 6px;break-inside:avoid}
+.plain-links a{color:var(--green-900);text-decoration:underline;text-underline-offset:2px;font-size:.92rem}
+.plain-links a:hover{color:var(--gold-text)}
+@media(min-width:800px){.plain-links{columns:3}}
