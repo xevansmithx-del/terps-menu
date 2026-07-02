@@ -22,7 +22,7 @@ Powered by the live Weave POS menu, enriched with Terps' own Weedmaps product ph
 build_catalog.py     # live Weave feed -> data/catalog.json (290 products, strains grouped,
                      #   flower priced /g, implausible flower THC suppressed), matches WM photos
 download_images.py   # downloads + optimizes matched Weedmaps photos -> site/img/products/<id>.jpg
-build_site.py        # generates index/menu/290 product pages + sitemap into site/
+build_site.py        # generates index/menu/290 product pages + sitemap into the repo root (run from _pipeline/)
 ```
 
 Source data in `data/`:
