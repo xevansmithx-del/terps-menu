@@ -377,7 +377,7 @@ def build_blog():
                          "logo":{"@type":"ImageObject","url":f"{BASE}/img/badge.png"}}}
         if hero: ld["image"]=f"{BASE}/img/blog/{p['slug']}/hero.jpg"
         extra=f'\n{BLOG_CSS.replace("{PREFIX}","../")}\n<script type="application/ld+json">{json.dumps(ld)}</script>'
-        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra).replace('{CSS}','../css/style.css')
+        h=head(f"{p['title']} | Terps Dispensary Blog",p['description'][:155],canonical,extra,ogtype='article',prefix='../').replace('{CSS}','../css/style.css')
         heroimg=f'<figure class="post-hero"><img src="{hero}" alt="{e(p["title"])}"></figure>' if hero else ''
         body=f"""{header('../')}
 <article class="post"><div class="wrap">
@@ -409,7 +409,7 @@ def build_blog():
     extra='\n'+BLOG_CSS.replace('{PREFIX}','../')
     h=head("Blog — Terps Dispensary Pueblo | Cannabis News & Guides",
            "News and guides from Terps Dispensary in Pueblo, CO — Colorado cannabis industry insights, dispensary guides and market updates.",
-           f'{BASE}/blog/',extra).replace('{CSS}','../css/style.css')
+           f'{BASE}/blog/',extra,prefix='../').replace('{CSS}','../css/style.css')
     body=f"""{header('../')}
 <div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">From the Terps team</div>
 <h1>The Terps blog</h1><p>Colorado cannabis news, guides and market insights</p></div></div>
