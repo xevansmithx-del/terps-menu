@@ -1,0 +1,15 @@
+{
+  "name": "terps-menu-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "description": "End-to-end tests for Terps Dispensary storefront order system",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:consumer": "npx playwright test tests/consumer.spec.ts",
+    "test:staff": "npx playwright test tests/staff.spec.ts",
+    "install:browsers": "npx playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
