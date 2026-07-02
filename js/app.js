@@ -52,13 +52,15 @@ const Cart = {
 };
 function openCart(){ document.getElementById('cartov')?.classList.add('open'); document.getElementById('cart')?.classList.add('open'); }
 function closeCart(){ document.getElementById('cartov')?.classList.remove('open'); document.getElementById('cart')?.classList.remove('open'); }
+const STORE_EMAIL='info@terpsdispensary.com';
 function reservePickup(){
   const items=Cart.get(); if(!items.length){ toast('Add items first'); return; }
-  let msg=`TERPS PICKUP ORDER%0a`;
-  items.forEach(i=>{ msg+=`• ${i.qty}× ${i.name}${i.strain?' ('+i.strain+')':''} — ${money(i.price)}%0a`; });
-  msg+=`Total (pre-tax): ${money(Cart.total())}%0a%0aName: `;
-  // SMS handoff — compliant, pay in store at pickup
-  window.location.href=`sms:${STORE_PHONE}&body=${msg}`;
+  let body='TERPS DISPENSARY — PICKUP ORDER%0D%0A%0D%0A';
+  items.forEach(i=>{ body+=`• ${i.qty} x ${i.name}${i.strain?' ('+i.strain+')':''} — ${money(i.price)}%0D%0A`; });
+  body+=`%0D%0ASubtotal (pre-tax): ${money(Cart.total())}%0D%0A%0D%0A`;
+  body+='Please have this ready for pickup. My details:%0D%0AName:%0D%0APhone:%0D%0APickup time:%0D%0A%0D%0A(I understand I pay in store at pickup, 21+ with valid ID.)';
+  const subject='Pickup order — Terps Dispensary';
+  window.location.href=`mailto:${STORE_EMAIL}?subject=${encodeURIComponent(subject)}&body=${body}`;
 }
 
 /* ---------- Toast ---------- */
