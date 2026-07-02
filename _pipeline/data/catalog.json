@@ -1,0 +1,8937 @@
+[
+ {
+  "id": "92354437-645d-49c5-beb9-bce786c32aef",
+  "slug": "grape-fritter",
+  "name": "Grape Fritter",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 30.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 30.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235476_IMG_1372.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "3dcba6d3-5f64-47e3-8056-3fbd22af2753",
+  "slug": "platinum-punch-mints",
+  "name": "Platinum Punch Mints",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171637_IMG_20260505_163646075_2.jpg",
+  "match_score": 1.098
+ },
+ {
+  "id": "543ab9ce-db72-4bf1-af06-e56551ac32e5",
+  "slug": "jupiter-joints",
+  "name": "Jupiter Joints",
+  "brand": "JKC Manufacturing LLC",
+  "category": "concentrate",
+  "subcategory": "distillate",
+  "price_min": 14.0,
+  "price_max": 14.0,
+  "unit": "",
+  "thc_max": 33.9,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Big Bang Blueberry",
+    "price": 14.0,
+    "thc": null
+   },
+   {
+    "name": "Eclipse Elixir",
+    "price": 14.0,
+    "thc": 31
+   },
+   {
+    "name": "Gravitational Grape",
+    "price": 14.0,
+    "thc": 28.1
+   },
+   {
+    "name": "Pandora's Peach",
+    "price": 14.0,
+    "thc": 33.9
+   },
+   {
+    "name": "Pluto's Popsicle",
+    "price": 14.0,
+    "thc": 33.4
+   },
+   {
+    "name": "Supernova Strawberry",
+    "price": 14.0,
+    "thc": 31.7
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.076
+ },
+ {
+  "id": "46191f5e-6eac-4dcc-9ef4-84dc00dd810d",
+  "slug": "virgin-mary-llc-trich-beast",
+  "name": "Virgin Mary LLC - Trich Beast",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 13.78,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 13.78
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443222585_20260510_095754__1_.jpg",
+  "match_score": 0.567
+ },
+ {
+  "id": "cc5751ff-f948-46bd-95ac-750b562ef419",
+  "slug": "ript-blazed-blue-razz",
+  "name": "RIPT Blazed Blue Razz",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 4.03,
+  "price_max": 4.03,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "100mg",
+    "price": 4.03,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429615286_rasp.jpg",
+  "match_score": 0.93
+ },
+ {
+  "id": "6a0d16fc-ca60-4cb8-9516-ffea06ce3ae4",
+  "slug": "del-fresca",
+  "name": "Del Fresca",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 23,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443106820_IMG_8668.jpg",
+  "match_score": 1.021
+ },
+ {
+  "id": "ad24a878-4f7d-4a64-b793-7bb0b0ffe038",
+  "slug": "mints",
+  "name": "Mints",
+  "brand": "Medically Correct LLC",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Fire Mints",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Fruit Tart",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Ice Mints",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437549997_20250319_134609.jpg",
+  "match_score": 0.633
+ },
+ {
+  "id": "d3fd9d31-3583-44f6-a784-56f066506dbd",
+  "slug": "devil-driver",
+  "name": "Devil Driver",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236703_IMG_1385.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "85f5de87-7ed1-4eb5-917e-d6cd5586fcaf",
+  "slug": "the-bakery-brothers-melted-strawberries",
+  "name": "The Bakery Brothers - Melted Strawberries",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 18.63,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 18.63
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443754570_unnamed__12_.jpg",
+  "match_score": 0.782
+ },
+ {
+  "id": "e6e97ac9-7f23-4d1a-9565-dd7fbd00223a",
+  "slug": "lime-optix",
+  "name": "Lime Optix",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 25.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 25.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442570670_20260401_162759.jpg",
+  "match_score": 0.989
+ },
+ {
+  "id": "3246de6c-4a21-40cf-bdac-cf4cea9185fc",
+  "slug": "dialed-in-gummies",
+  "name": "DIALED IN GUMMIES",
+  "brand": "FOREST ST MANUFACTURING LLC",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 20.0,
+  "price_max": 24.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Animal Mints",
+    "price": 24.0,
+    "thc": null
+   },
+   {
+    "name": "Cherry St",
+    "price": 24.0,
+    "thc": null
+   },
+   {
+    "name": "Fourteener Fruits",
+    "price": 24.0,
+    "thc": null
+   },
+   {
+    "name": "Hybrid",
+    "price": 20.0,
+    "thc": null
+   },
+   {
+    "name": "Indica",
+    "price": 20.0,
+    "thc": null
+   },
+   {
+    "name": "sour chem",
+    "price": 24.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443737265_Screenshot_2026-06-24_082902.png",
+  "match_score": 0.689
+ },
+ {
+  "id": "d6907cf8-8fc5-4a33-9304-7b31125de9a3",
+  "slug": "egozi-rosin-8g",
+  "name": "Egozi Rosin 8g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 150.0,
+  "price_max": 150.0,
+  "unit": "",
+  "thc_max": 72.82,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Garlic Ice Cream",
+    "price": 150.0,
+    "thc": 72.82
+   },
+   {
+    "name": "Spritzer",
+    "price": 150.0,
+    "thc": 72.55
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
+  "match_score": 0.963
+ },
+ {
+  "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
+  "slug": "808-dabs",
+  "name": "808 Dabs",
+  "brand": "",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 3.23,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": 81.77,
+  "n_strains": 16,
+  "strains": [
+   {
+    "name": "Apricot Cookies",
+    "price": 6.0,
+    "thc": 68.67
+   },
+   {
+    "name": "Big Wedding",
+    "price": 6.0,
+    "thc": 79.31
+   },
+   {
+    "name": "Blue Lobster",
+    "price": 4.84,
+    "thc": 65.2
+   },
+   {
+    "name": "Blue Tiki",
+    "price": 6.0,
+    "thc": 66
+   },
+   {
+    "name": "Cotton Kandy Cookies",
+    "price": 6.0,
+    "thc": 55.4
+   },
+   {
+    "name": "French MAC",
+    "price": 6.0,
+    "thc": 81.77
+   },
+   {
+    "name": "Galaxy Mintz",
+    "price": 6.0,
+    "thc": 61.7
+   },
+   {
+    "name": "Gary Payton",
+    "price": 6.0,
+    "thc": 71.7
+   },
+   {
+    "name": "Ice Berry Cake",
+    "price": 4.84,
+    "thc": 68.4
+   },
+   {
+    "name": "Monkey Cookies",
+    "price": 6.0,
+    "thc": 69.9
+   },
+   {
+    "name": "OG Double Mintz",
+    "price": 6.0,
+    "thc": 77
+   },
+   {
+    "name": "Peyote Cookies",
+    "price": 6.0,
+    "thc": 65.49
+   },
+   {
+    "name": "Sour Diesel",
+    "price": 4.84,
+    "thc": 66.1
+   },
+   {
+    "name": "Tallymon Gold",
+    "price": 3.23,
+    "thc": 69.4
+   },
+   {
+    "name": "Ultra Mintz",
+    "price": 4.84,
+    "thc": 68.6
+   },
+   {
+    "name": "Zangria",
+    "price": 4.84,
+    "thc": 66
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429721715_PXL_20231221_212643309.jpg",
+  "match_score": 0.705
+ },
+ {
+  "id": "9fca594a-774b-4b24-b9df-f35f7f4a6b9e",
+  "slug": "yin-yang",
+  "name": "Yin Yang",
+  "brand": "Clearview Industries",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 20.0,
+  "price_max": 20.0,
+  "unit": "",
+  "thc_max": 76.97,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Banana Breeze",
+    "price": 20.0,
+    "thc": 76.97
+   },
+   {
+    "name": "Citrus Smash",
+    "price": 20.0,
+    "thc": 75.9
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.26
+ },
+ {
+  "id": "0ba21c79-2192-4190-b890-d20b921af912",
+  "slug": "riplets",
+  "name": "Riplets",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 18.0,
+  "price_max": 18.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Max Relief",
+    "price": 18.0,
+    "thc": null
+   },
+   {
+    "name": "Revive",
+    "price": 18.0,
+    "thc": null
+   },
+   {
+    "name": "Sleep",
+    "price": 18.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.083
+ },
+ {
+  "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+  "slug": "denver-dabs-2g",
+  "name": "Denver Dabs 2G",
+  "brand": "Denver Dab Co",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 12.0,
+  "price_max": 12.9,
+  "unit": "",
+  "thc_max": 77.4,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Biscotti Sherb",
+    "price": 12.0,
+    "thc": 77.4
+   },
+   {
+    "name": "Blue Diesel",
+    "price": 12.0,
+    "thc": 68.3
+   },
+   {
+    "name": "Chem GG4",
+    "price": 12.9,
+    "thc": 70.7
+   },
+   {
+    "name": "Diesel Cake",
+    "price": 12.0,
+    "thc": null
+   },
+   {
+    "name": "Mad Mango",
+    "price": 12.0,
+    "thc": 74.8
+   },
+   {
+    "name": "Sorbet De Uva",
+    "price": 12.0,
+    "thc": 65.1
+   },
+   {
+    "name": "Spritzer",
+    "price": 12.0,
+    "thc": 72.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/427833623_20230529_133801.jpg",
+  "match_score": 1.072
+ },
+ {
+  "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
+  "slug": "zoobies",
+  "name": "Zoobies",
+  "brand": "Loud Labs LLC",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 4.84,
+  "price_max": 9.92,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 8,
+  "strains": [
+   {
+    "name": "1:1 Hybrid",
+    "price": 9.92,
+    "thc": null
+   },
+   {
+    "name": "1:1 Indica",
+    "price": 9.92,
+    "thc": null
+   },
+   {
+    "name": "1:1 Sativa",
+    "price": 9.92,
+    "thc": null
+   },
+   {
+    "name": "Hybrid",
+    "price": 4.84,
+    "thc": null
+   },
+   {
+    "name": "Midnight Fruit Gummies",
+    "price": 9.92,
+    "thc": null
+   },
+   {
+    "name": "RSO Hybrid",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "RSO Sativa",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "Sativa",
+    "price": 4.84,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443280312_mixed_fruit_zoobie.jpg",
+  "match_score": 0.661
+ },
+ {
+  "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
+  "slug": "natty-rems-preroll",
+  "name": "Natty Rems Preroll",
+  "brand": "NATTY REMS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 4.0,
+  "unit": "",
+  "thc_max": 24.77,
+  "n_strains": 12,
+  "strains": [
+   {
+    "name": "Alien Haze",
+    "price": 4.0,
+    "thc": 16.11
+   },
+   {
+    "name": "Blueberry Muffin",
+    "price": 4.0,
+    "thc": 16.14
+   },
+   {
+    "name": "Caked Up Cherries",
+    "price": 4.0,
+    "thc": 17.22
+   },
+   {
+    "name": "Flo Driver",
+    "price": 4.0,
+    "thc": 17.51
+   },
+   {
+    "name": "GMO",
+    "price": 4.0,
+    "thc": 23.17
+   },
+   {
+    "name": "Golden Goat",
+    "price": 4.0,
+    "thc": 21.57
+   },
+   {
+    "name": "Gorilla Pie",
+    "price": 4.0,
+    "thc": 24.77
+   },
+   {
+    "name": "Grape Essence",
+    "price": 4.0,
+    "thc": 21.35
+   },
+   {
+    "name": "Jungle Cake",
+    "price": 4.0,
+    "thc": 20.45
+   },
+   {
+    "name": "Lemon Tree Punch",
+    "price": 4.0,
+    "thc": 19.82
+   },
+   {
+    "name": "runtz",
+    "price": 2.42,
+    "thc": 15.85
+   },
+   {
+    "name": "super boof",
+    "price": 4.0,
+    "thc": 20.91
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438204059_180215_54292_Prerolls_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+  "match_score": 1.099
+ },
+ {
+  "id": "50f220ed-ac88-45e5-a4d5-c1fdf149317f",
+  "slug": "seshie-1gram",
+  "name": "Seshie 1gram",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "distillate",
+  "price_min": 15.0,
+  "price_max": 15.0,
+  "unit": "",
+  "thc_max": 83.29,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Apple Fizz",
+    "price": 15.0,
+    "thc": 69.92
+   },
+   {
+    "name": "Cherry Limeade",
+    "price": 15.0,
+    "thc": 83.15
+   },
+   {
+    "name": "Churroz",
+    "price": 15.0,
+    "thc": 79.67
+   },
+   {
+    "name": "Electric Lemonade",
+    "price": 15.0,
+    "thc": 80.84
+   },
+   {
+    "name": "Grand Daddy Grape",
+    "price": 15.0,
+    "thc": 74.35
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 15.0,
+    "thc": 83.29
+   },
+   {
+    "name": "Rootbeer Kush",
+    "price": 15.0,
+    "thc": 76.21
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/940/459/avatar/1767901556-churroz_-_seshie.jpeg",
+  "match_score": 0.808
+ },
+ {
+  "id": "c6feabe3-f35b-40da-9144-21c0c4c07454",
+  "slug": "water-hash-infused-preoll",
+  "name": "Water Hash Infused Preoll",
+  "brand": "TS Labs (OCC)",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 4.03,
+  "price_max": 5.65,
+  "unit": "",
+  "thc_max": 34.83,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Banana Ice Pops",
+    "price": 5.65,
+    "thc": 25.02
+   },
+   {
+    "name": "GMO Z",
+    "price": 4.03,
+    "thc": 34.83
+   },
+   {
+    "name": "Sour Chillz",
+    "price": 5.65,
+    "thc": 27.55
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437973621_180217P_25584_Preroll_2.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+  "match_score": 0.553
+ },
+ {
+  "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
+  "slug": "sesh-syringe-1g",
+  "name": "Sesh Syringe 1g",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "syringe",
+  "price_min": 12.0,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": 84.64,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Apple Fizz OG",
+    "price": 12.0,
+    "thc": 84.64
+   },
+   {
+    "name": "Cherry Limeade",
+    "price": 12.0,
+    "thc": 80.92
+   },
+   {
+    "name": "Churroz",
+    "price": 12.0,
+    "thc": 82.36
+   },
+   {
+    "name": "Grand Daddy Grape",
+    "price": 12.0,
+    "thc": 83.01
+   },
+   {
+    "name": "Root Beer Kush",
+    "price": 12.0,
+    "thc": 80.59
+   },
+   {
+    "name": "Watermelon Bubblegum",
+    "price": 12.1,
+    "thc": 74.78
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/924/355/avatar/1769195536-white_runtz_-_syringe.jpeg",
+  "match_score": 0.905
+ },
+ {
+  "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+  "slug": "timberline-extracts-4g-jar",
+  "name": "Timberline Extracts 4g Jar",
+  "brand": "David Jackson LLC",
+  "category": "concentrate",
+  "subcategory": "budder",
+  "price_min": 17.74,
+  "price_max": 17.74,
+  "unit": "",
+  "thc_max": 67.65,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "AfterBurners",
+    "price": 17.74,
+    "thc": 58.21
+   },
+   {
+    "name": "Blueberry Head Band",
+    "price": 17.74,
+    "thc": 58.16
+   },
+   {
+    "name": "Frosted Melonz",
+    "price": 17.74,
+    "thc": 67.65
+   },
+   {
+    "name": "Grape Gas x Klone Cake",
+    "price": 17.74,
+    "thc": 64.02
+   },
+   {
+    "name": "Kush Mintz",
+    "price": 17.74,
+    "thc": 62.67
+   },
+   {
+    "name": "Subzero",
+    "price": 17.74,
+    "thc": 59.68
+   },
+   {
+    "name": "Thrist Trap",
+    "price": 17.74,
+    "thc": 64.85
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436729551_1000009515.jpg",
+  "match_score": 0.562
+ },
+ {
+  "id": "79e3eaba-8d74-4ec0-b33c-563a383e00a6",
+  "slug": "oil-twist-tugboat-2000",
+  "name": "Oil Twist Tugboat 2000",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 24.0,
+  "price_max": 24.0,
+  "unit": "",
+  "thc_max": 84.48,
+  "n_strains": 9,
+  "strains": [
+   {
+    "name": "Apple Sauce",
+    "price": 24.0,
+    "thc": 78.91
+   },
+   {
+    "name": "Baked Banana",
+    "price": 24.0,
+    "thc": 78.62
+   },
+   {
+    "name": "Blueberry Swirl",
+    "price": 24.0,
+    "thc": 78.04
+   },
+   {
+    "name": "Mango Squeeze",
+    "price": 24.0,
+    "thc": 73.24
+   },
+   {
+    "name": "Maple Drip",
+    "price": 24.0,
+    "thc": 81.18
+   },
+   {
+    "name": "Orange Krush",
+    "price": 24.0,
+    "thc": 83.96
+   },
+   {
+    "name": "Punchberry",
+    "price": 24.0,
+    "thc": 76.28
+   },
+   {
+    "name": "Tropsicle",
+    "price": 24.0,
+    "thc": 82.82
+   },
+   {
+    "name": "Watermelon Ice",
+    "price": 24.0,
+    "thc": 84.48
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/434425390_oil_2000mg_tugboat.jpg",
+  "match_score": 0.738
+ },
+ {
+  "id": "a9f6f386-a83f-467a-8cac-0d4342518e05",
+  "slug": "oil-twist-tugboat-1000",
+  "name": "Oil Twist Tugboat 1000",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 15.0,
+  "price_max": 15.0,
+  "unit": "",
+  "thc_max": 84.48,
+  "n_strains": 10,
+  "strains": [
+   {
+    "name": "Apple Sauce",
+    "price": 15.0,
+    "thc": 78.91
+   },
+   {
+    "name": "Baked Banana",
+    "price": 15.0,
+    "thc": 71.96
+   },
+   {
+    "name": "Blueberry Swirl",
+    "price": 15.0,
+    "thc": 75.36
+   },
+   {
+    "name": "Cherry Slush",
+    "price": 15.0,
+    "thc": 83.2
+   },
+   {
+    "name": "Citrus Splash",
+    "price": 15.0,
+    "thc": 76.04
+   },
+   {
+    "name": "Maple Drip",
+    "price": 15.0,
+    "thc": 81.7
+   },
+   {
+    "name": "Orange Krush",
+    "price": 15.0,
+    "thc": null
+   },
+   {
+    "name": "Punchberry",
+    "price": 15.0,
+    "thc": 82.39
+   },
+   {
+    "name": "Strawberry Shortcake",
+    "price": 15.0,
+    "thc": 72.57
+   },
+   {
+    "name": "Watermelon Ice",
+    "price": 15.0,
+    "thc": 84.48
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/434425390_oil_2000mg_tugboat.jpg",
+  "match_score": 0.738
+ },
+ {
+  "id": "75b9c08d-890b-4b18-a41f-54492473df15",
+  "slug": "green-leaf-1000mg-cart",
+  "name": "Green Leaf 1000mg Cart",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "",
+  "thc_max": 80.32,
+  "n_strains": 13,
+  "strains": [
+   {
+    "name": "Banana Mimosa",
+    "price": 12.0,
+    "thc": 78.2
+   },
+   {
+    "name": "Birthday Cake",
+    "price": 12.0,
+    "thc": 73.51
+   },
+   {
+    "name": "Citrus Breeze",
+    "price": 12.0,
+    "thc": 69.3
+   },
+   {
+    "name": "Clementine",
+    "price": 12.0,
+    "thc": 73.8
+   },
+   {
+    "name": "Dosi Mango",
+    "price": 12.0,
+    "thc": 76.71
+   },
+   {
+    "name": "Grape Soda",
+    "price": 12.0,
+    "thc": 80.32
+   },
+   {
+    "name": "Jungleato",
+    "price": 12.0,
+    "thc": 71.51
+   },
+   {
+    "name": "Lemon Lime Soda",
+    "price": 12.0,
+    "thc": 73.9
+   },
+   {
+    "name": "Pineapple OG",
+    "price": 12.0,
+    "thc": 73.56
+   },
+   {
+    "name": "Sour Pebbles",
+    "price": 12.0,
+    "thc": 67.5
+   },
+   {
+    "name": "Strawnana",
+    "price": 12.0,
+    "thc": 74.63
+   },
+   {
+    "name": "Watermelon bubblegum",
+    "price": 12.0,
+    "thc": 76.79
+   },
+   {
+    "name": "Wedding Cake",
+    "price": 12.0,
+    "thc": 68.01
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437538879_green_leaf.jpg",
+  "match_score": 0.82
+ },
+ {
+  "id": "e67d9b9a-89f9-422c-a0e5-335dcc0daf39",
+  "slug": "fizz",
+  "name": "Fizz",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.23,
+  "price_max": 3.23,
+  "unit": "/g",
+  "thc_max": 24.47,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.23,
+    "thc": 24.47
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587051_FIZZ.jpg",
+  "match_score": 0.964
+ },
+ {
+  "id": "23672ac7-5e7c-4701-8075-b2211734a4c2",
+  "slug": "slow-burn",
+  "name": "Slow Burn",
+  "brand": "JKC Manufacturing LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 11.29,
+  "price_max": 11.29,
+  "unit": "/g",
+  "thc_max": 30.7,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Starburstz",
+    "price": 11.29,
+    "thc": 29.1
+   },
+   {
+    "name": "Strawberry Pancakes",
+    "price": 11.29,
+    "thc": 27.5
+   },
+   {
+    "name": "Tally Man",
+    "price": 11.29,
+    "thc": 30.7
+   },
+   {
+    "name": "Why U Gelly",
+    "price": 11.29,
+    "thc": 28.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440888617_268692_IMG_1785.jpg",
+  "match_score": 0.605
+ },
+ {
+  "id": "7d51fcfa-063e-4e05-9b18-fb075f7c7116",
+  "slug": "sherblaster",
+  "name": "Sherblaster",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 21.4,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 21.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872702_IMG_1200.jpeg",
+  "match_score": 1.014
+ },
+ {
+  "id": "1d7ef632-20b2-45f7-aade-e212594a793f",
+  "slug": "modified-grapes",
+  "name": "Modified Grapes",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 26.69,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 26.69
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441287027_IMG_7820.jpg",
+  "match_score": 0.989
+ },
+ {
+  "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+  "slug": "timberline-extracts-1g",
+  "name": "Timberline Extracts 1g",
+  "brand": "David Jackson LLC",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 4.84,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": 77.64,
+  "n_strains": 16,
+  "strains": [
+   {
+    "name": "Afterburners",
+    "price": 6.0,
+    "thc": 58.21
+   },
+   {
+    "name": "Banana Float",
+    "price": 6.0,
+    "thc": 66.9
+   },
+   {
+    "name": "Banana Runtz",
+    "price": 4.84,
+    "thc": 61.38
+   },
+   {
+    "name": "Bounty Bull",
+    "price": 4.84,
+    "thc": 63.5
+   },
+   {
+    "name": "Bursted Grapes",
+    "price": 6.0,
+    "thc": 77.64
+   },
+   {
+    "name": "Cereal Milk",
+    "price": 4.84,
+    "thc": 62.67
+   },
+   {
+    "name": "Dream Kush C@ke",
+    "price": 6.0,
+    "thc": 61.38
+   },
+   {
+    "name": "Flavor Pebbles",
+    "price": 4.84,
+    "thc": 70.74
+   },
+   {
+    "name": "GG",
+    "price": 6.0,
+    "thc": 67.54
+   },
+   {
+    "name": "Hollywood Slapz",
+    "price": 4.84,
+    "thc": 61.05
+   },
+   {
+    "name": "Kush Mintz",
+    "price": 6.0,
+    "thc": 62.67
+   },
+   {
+    "name": "Mellowz",
+    "price": 6.0,
+    "thc": 71.52
+   },
+   {
+    "name": "Poison Peaches",
+    "price": 4.84,
+    "thc": 62.11
+   },
+   {
+    "name": "Pookie Style",
+    "price": 6.0,
+    "thc": 73.65
+   },
+   {
+    "name": "Subzero",
+    "price": 6.0,
+    "thc": 59.68
+   },
+   {
+    "name": "Zushi Party",
+    "price": 6.0,
+    "thc": 63.32
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436729551_1000009515.jpg",
+  "match_score": 0.83
+ },
+ {
+  "id": "c6813635-67a8-4689-8cb9-99b900a81106",
+  "slug": "dulce-de-uva-x-pink-tape-5",
+  "name": "Dulce de Uva x Pink Tape #5",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594109_IMG_4359.jpeg",
+  "match_score": 1.134
+ },
+ {
+  "id": "d90e0bf3-7a43-4d9b-aec0-697cde54f3e1",
+  "slug": "battery",
+  "name": "Battery",
+  "brand": "Craft",
+  "category": "merchandise",
+  "subcategory": "accessory",
+  "price_min": 10.0,
+  "price_max": 13.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Battery",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Mini Battery",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Palm Battery",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Round Batteries",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "Battery",
+  "wm_img": "",
+  "match_score": 0.057
+ },
+ {
+  "id": "eaa1c104-ec80-47be-b9b6-7a7e53898528",
+  "slug": "budder",
+  "name": "Budder",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "budder",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "",
+  "thc_max": 71.47,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Blueberry Muffin",
+    "price": 8.0,
+    "thc": 65.27
+   },
+   {
+    "name": "Frosted Velvet",
+    "price": 8.0,
+    "thc": 71.47
+   },
+   {
+    "name": "Peachberry Muffin",
+    "price": 8.0,
+    "thc": 64.85
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/541/859/avatar/1728311921-1698088165-an002-2b.png",
+  "match_score": 0.73
+ },
+ {
+  "id": "feb879eb-afbd-4d68-8540-f31ce536e382",
+  "slug": "liquid-diamonds",
+  "name": "Liquid Diamonds",
+  "brand": "Colorado's Best Dabs",
+  "category": "concentrate",
+  "subcategory": "live extract",
+  "price_min": 24.0,
+  "price_max": 24.0,
+  "unit": "",
+  "thc_max": 80.23,
+  "n_strains": 5,
+  "strains": [
+   {
+    "name": "Fortissimo",
+    "price": 24.0,
+    "thc": 76.67
+   },
+   {
+    "name": "Ice Cream Cake",
+    "price": 24.0,
+    "thc": 73.35
+   },
+   {
+    "name": "MAC Cake",
+    "price": 24.0,
+    "thc": 80.23
+   },
+   {
+    "name": "The Fizz",
+    "price": 24.0,
+    "thc": null
+   },
+   {
+    "name": "Troplato",
+    "price": 24.0,
+    "thc": 72.07
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.466
+ },
+ {
+  "id": "df62bf53-4a16-418e-b5b5-51cd110a0ddc",
+  "slug": "permanent-chimera",
+  "name": "Permanent Chimera",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 23,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442660436_20260408_103959__1_.jpg",
+  "match_score": 1.084
+ },
+ {
+  "id": "7c493d5f-f268-4f3c-a420-84076e8b6802",
+  "slug": "shatter",
+  "name": "Shatter",
+  "brand": "Chaos",
+  "category": "concentrate",
+  "subcategory": "shatter",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "",
+  "thc_max": 46.53,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Lemon Cake",
+    "price": 8.0,
+    "thc": 46.53
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443686468_20180117_46928_C_SpaceRaceGenetics_RottenBananasShatter_TVB_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+  "match_score": 1.099
+ },
+ {
+  "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
+  "slug": "ao-wax",
+  "name": "AO Wax",
+  "brand": "AO Extracts",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "",
+  "thc_max": 75.9,
+  "n_strains": 11,
+  "strains": [
+   {
+    "name": "Banana OG",
+    "price": 8.0,
+    "thc": 68.7
+   },
+   {
+    "name": "Black Inferno",
+    "price": 8.0,
+    "thc": 69.8
+   },
+   {
+    "name": "Black Truffle",
+    "price": 8.0,
+    "thc": 71.4
+   },
+   {
+    "name": "Bloo Berry",
+    "price": 8.0,
+    "thc": 71.9
+   },
+   {
+    "name": "Boo Berry",
+    "price": 8.0,
+    "thc": 66.2
+   },
+   {
+    "name": "Rainbow Belts",
+    "price": 8.0,
+    "thc": 71
+   },
+   {
+    "name": "Roast Mellow",
+    "price": 8.0,
+    "thc": 68.5
+   },
+   {
+    "name": "RX Sugar",
+    "price": 8.0,
+    "thc": 73
+   },
+   {
+    "name": "Sunrise Sherbert",
+    "price": 8.0,
+    "thc": 67.4
+   },
+   {
+    "name": "Sunset Sherbet",
+    "price": 8.0,
+    "thc": 71.7
+   },
+   {
+    "name": "Tropicanna Banana",
+    "price": 8.0,
+    "thc": 75.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437590203_PXL_20250323_174410864.PORTRAIT.ORIGINAL__1_.jpg",
+  "match_score": 1.01
+ },
+ {
+  "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
+  "slug": "haze-silver-preroll",
+  "name": "Haze Silver Preroll",
+  "brand": "NATTY REMS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "",
+  "thc_max": 14.7,
+  "n_strains": 10,
+  "strains": [
+   {
+    "name": "Alien Haze",
+    "price": 2.42,
+    "thc": 13.67
+   },
+   {
+    "name": "Blueberry Muffin",
+    "price": 2.42,
+    "thc": 7.39
+   },
+   {
+    "name": "Confucius Kush",
+    "price": 2.42,
+    "thc": 14.3
+   },
+   {
+    "name": "Flo Driver",
+    "price": 2.42,
+    "thc": 13.65
+   },
+   {
+    "name": "Freedom OG",
+    "price": 2.42,
+    "thc": 14.07
+   },
+   {
+    "name": "Ghost Train Haze",
+    "price": 2.42,
+    "thc": 10.14
+   },
+   {
+    "name": "Golden Goat",
+    "price": 2.42,
+    "thc": 8.5
+   },
+   {
+    "name": "Grape Cream Cake",
+    "price": 2.42,
+    "thc": 11.4
+   },
+   {
+    "name": "Shawshank",
+    "price": 2.42,
+    "thc": 11.43
+   },
+   {
+    "name": "Space Cat",
+    "price": 2.42,
+    "thc": 14.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438204059_180215_54292_Prerolls_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+  "match_score": 0.903
+ },
+ {
+  "id": "2cf42a18-252e-4791-8fd4-fc23df0b32dd",
+  "slug": "black-cherry-gelato",
+  "name": "Black Cherry Gelato",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 24.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 24.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595631_Image_260610_144753.jpeg",
+  "match_score": 1.096
+ },
+ {
+  "id": "bb738ca5-f063-439f-8bb0-a56944c8c008",
+  "slug": "sherb-cream-pie",
+  "name": "Sherb Cream Pie",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595603_Image_260610_144703.jpeg",
+  "match_score": 1.088
+ },
+ {
+  "id": "a1279ac1-80cb-4e82-b1f0-dc5518e9598d",
+  "slug": "le-moon-cake",
+  "name": "Le'Moon Cake",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595442_Image_260610_144614.jpeg",
+  "match_score": 1.079
+ },
+ {
+  "id": "9851c775-f6d3-474e-9ebc-28003ac9ea6d",
+  "slug": "purple-garlic-x-peach-breath-11",
+  "name": "Purple Garlic x Peach Breath #11",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 24,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 24
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594141_Image_260610_133704.jpeg",
+  "match_score": 1.128
+ },
+ {
+  "id": "5c8f8b54-a338-404c-b1f1-e31a1e882c77",
+  "slug": "paul-morphy",
+  "name": "Paul Morphy",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594268_Image_260610_134431__1_.jpeg",
+  "match_score": 1.064
+ },
+ {
+  "id": "c5ff6519-4291-4815-82a8-f7f1ee5da757",
+  "slug": "greendot-black-label-flower-3-5g",
+  "name": "Greendot Black label flower 3.5g",
+  "brand": "Green Dot (OCC)",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 48.39,
+  "price_max": 48.39,
+  "unit": "/g",
+  "thc_max": 25.21,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Kashmir",
+    "price": 48.39,
+    "thc": 25.21
+   },
+   {
+    "name": "Krunk Berries",
+    "price": 48.39,
+    "thc": 17.57
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430725752_g.jpg",
+  "match_score": 0.892
+ },
+ {
+  "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
+  "slug": "high-county-cones-5-pack",
+  "name": "High County Cones 5 Pack",
+  "brand": "High Country Management Group",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 22.58,
+  "price_max": 22.58,
+  "unit": "",
+  "thc_max": 27.56,
+  "n_strains": 5,
+  "strains": [
+   {
+    "name": "Jealous Melon",
+    "price": 22.58,
+    "thc": 27.56
+   },
+   {
+    "name": "Morning Dew",
+    "price": 22.58,
+    "thc": 23.24
+   },
+   {
+    "name": "Runtz Buttonz",
+    "price": 22.58,
+    "thc": 24.02
+   },
+   {
+    "name": "Zamboni Berry",
+    "price": 22.58,
+    "thc": 23.5
+   },
+   {
+    "name": "Zoap",
+    "price": 22.58,
+    "thc": 22.13
+   }
+  ],
+  "description": "a",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
+  "match_score": 0.734
+ },
+ {
+  "id": "283e26a7-fe79-4ba5-b073-c6c594a2d129",
+  "slug": "black-label",
+  "name": "Black Label",
+  "brand": "Green Dot (OCC)",
+  "category": "concentrate",
+  "subcategory": "budder",
+  "price_min": 34.68,
+  "price_max": 36.0,
+  "unit": "",
+  "thc_max": 73.32,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Garlic Banger",
+    "price": 36.0,
+    "thc": 68.1
+   },
+   {
+    "name": "Gimlet",
+    "price": 36.0,
+    "thc": 63.17
+   },
+   {
+    "name": "Lemon Butter Rum",
+    "price": 34.68,
+    "thc": 73.32
+   },
+   {
+    "name": "Monet",
+    "price": 36.0,
+    "thc": 65.53
+   },
+   {
+    "name": "Numbskull",
+    "price": 36.0,
+    "thc": 66.69
+   },
+   {
+    "name": "Red Rose",
+    "price": 36.0,
+    "thc": 64.23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430007092_PXL_20240123_213026192.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.963
+ },
+ {
+  "id": "8a0bf113-f85f-48a4-9a54-ed71778b536f",
+  "slug": "greendot-black-label-1g-prerolls",
+  "name": "Greendot Black label 1G prerolls",
+  "brand": "Green Dot (OCC)",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 13.71,
+  "price_max": 14.0,
+  "unit": "",
+  "thc_max": 24.04,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "D-Lish",
+    "price": 14.0,
+    "thc": 17.45
+   },
+   {
+    "name": "Paloma",
+    "price": 14.0,
+    "thc": 22.41
+   },
+   {
+    "name": "Red Froot",
+    "price": 14.0,
+    "thc": 24.04
+   },
+   {
+    "name": "Red Rose",
+    "price": 13.71,
+    "thc": 17.45
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443738111_blacklable_green_dot_joint.jpg",
+  "match_score": 0.728
+ },
+ {
+  "id": "d413eb17-9487-405c-818e-86a13ee3aa2c",
+  "slug": "lemon-dankess-x-peach-breath-5",
+  "name": "Lemon Dankess x Peach Breath #5",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594618_Image_260610_140724.jpeg",
+  "match_score": 0.913
+ },
+ {
+  "id": "ddf1f2f2-24d1-4850-b558-2173ea570af4",
+  "slug": "grape-cream-cake-x-peach-breath-12",
+  "name": "Grape Cream Cake x Peach Breath #12",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594280_Image_260610_134528.jpeg",
+  "match_score": 1.14
+ },
+ {
+  "id": "f8bb1fc4-4094-4bd5-a252-77eb1efda18f",
+  "slug": "thunderclap",
+  "name": "Thunderclap",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 19.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 19.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595973_Image_260610_150722.jpeg",
+  "match_score": 1.0
+ },
+ {
+  "id": "aa2d2643-89aa-4b14-9705-ce53569cbfa3",
+  "slug": "debebe",
+  "name": "Debebe",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595909_Image_260610_150632.jpeg",
+  "match_score": 0.968
+ },
+ {
+  "id": "2772ab70-afeb-4867-9c34-8c793c18bf43",
+  "slug": "cap-junky",
+  "name": "Cap Junky",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236690_IMG_1380.jpeg",
+  "match_score": 1.04
+ },
+ {
+  "id": "72eb5bea-f665-4a40-b5da-dd3568bcc385",
+  "slug": "zero-gravity",
+  "name": "Zero Gravity",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236248_IMG_1390.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "d7a2d3d6-250d-4dc5-8441-c3f89e01867d",
+  "slug": "virgin-mary-llc-dante-s-inferno",
+  "name": "Virgin Mary LLC - Dante's Inferno",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 18.44,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 18.44
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221487_dantes.jpg",
+  "match_score": 1.03
+ },
+ {
+  "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
+  "slug": "sesh-infused-nug-cone",
+  "name": "Sesh Infused Nug Cone",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 6.0,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": 23.93,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Apricot Scone x Chem Rock Runtz",
+    "price": 6.0,
+    "thc": 16.3
+   },
+   {
+    "name": "Apricot Scone x Orange Julius",
+    "price": 6.0,
+    "thc": 19.79
+   },
+   {
+    "name": "Black Cherry Soda x Terp 30",
+    "price": 6.0,
+    "thc": 23.93
+   },
+   {
+    "name": "Choco Mint x Cherry Garlic",
+    "price": 6.0,
+    "thc": 15.99
+   },
+   {
+    "name": "Couch Queen x OG triangle",
+    "price": 6.0,
+    "thc": 18.33
+   },
+   {
+    "name": "Dessert Lime x OG Triangle",
+    "price": 6.0,
+    "thc": 23.08
+   },
+   {
+    "name": "Trop Cherry x Lazer Fuel",
+    "price": 6.0,
+    "thc": 19.07
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.426
+ },
+ {
+  "id": "eb9fb2cc-c1a8-4fa2-9280-7ffa36ef2c3e",
+  "slug": "crystal-smoothie",
+  "name": "Crystal Smoothie",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 25,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 25
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443106759_IMG_8670.jpg",
+  "match_score": 1.046
+ },
+ {
+  "id": "b43a6a47-ad38-497a-836f-412916d4a680",
+  "slug": "apples-and-bananas-x-runtz",
+  "name": "Apples and Bananas x Runtz",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 29,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 29
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443106703_IMG_8672.jpg",
+  "match_score": 1.081
+ },
+ {
+  "id": "11bd9fd2-9441-4ea4-81e3-9a9cc40e9788",
+  "slug": "the-bakery-brothers-deep-space",
+  "name": "The Bakery Brothers - Deep Space",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 20,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 20
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442198568_IMG_4009.JPG",
+  "match_score": 0.952
+ },
+ {
+  "id": "4e519fd3-d125-428e-9308-a6b2e80b9769",
+  "slug": "jokerz",
+  "name": "Jokerz",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 22.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 22.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595843_Image_260610_145850.jpeg",
+  "match_score": 0.968
+ },
+ {
+  "id": "b5c7c1e0-c1ad-42c8-9b74-fc220f0c6a89",
+  "slug": "clarity-gardens-mac-daddy",
+  "name": "Clarity Gardens -Mac Daddy",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 24.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 24.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442172303_IMG_0358.jpeg",
+  "match_score": 1.03
+ },
+ {
+  "id": "14e2926a-69cd-4426-b616-f24831038b09",
+  "slug": "clarity-gardens-trop-jerry",
+  "name": "Clarity Gardens - Trop Jerry",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 22.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 22.1
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.544
+ },
+ {
+  "id": "7b31798d-ebdc-4d07-8a6b-ab93650ec283",
+  "slug": "truffle-monkey",
+  "name": "Truffle Monkey",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595734_Image_260610_145641.jpeg",
+  "match_score": 1.079
+ },
+ {
+  "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
+  "slug": "egozi-rosin-2g",
+  "name": "Egozi Rosin 2g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 16.13,
+  "price_max": 42.0,
+  "unit": "",
+  "thc_max": 73.32,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "G Spritz",
+    "price": 16.13,
+    "thc": 73.32
+   },
+   {
+    "name": "Garlic Ice Cream",
+    "price": 16.13,
+    "thc": 72.33
+   },
+   {
+    "name": "Spritz Scotti",
+    "price": 42.0,
+    "thc": 65.77
+   },
+   {
+    "name": "Spritzer",
+    "price": 42.0,
+    "thc": 72.55
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
+  "match_score": 0.963
+ },
+ {
+  "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
+  "slug": "doinks",
+  "name": "Doinks",
+  "brand": "Loud Labs LLC",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "/g",
+  "thc_max": 29.44,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Blueberry",
+    "price": 12.0,
+    "thc": 29.23
+   },
+   {
+    "name": "Green Apple",
+    "price": 12.0,
+    "thc": 28.39
+   },
+   {
+    "name": "Lime Sorbet",
+    "price": 12.0,
+    "thc": 25.95
+   },
+   {
+    "name": "Strawnana",
+    "price": 12.0,
+    "thc": 26.66
+   },
+   {
+    "name": "Sweet Grape",
+    "price": 12.0,
+    "thc": 29.44
+   },
+   {
+    "name": "Unflavored",
+    "price": 12.0,
+    "thc": 24.41
+   },
+   {
+    "name": "Wild Melon",
+    "price": 12.0,
+    "thc": 29.35
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441839691_IMG_1324.jpeg",
+  "match_score": 0.643
+ },
+ {
+  "id": "547ec28a-6fba-48ce-9cdf-2c022a797a8e",
+  "slug": "710-labs-joint",
+  "name": "710 Labs Joint",
+  "brand": "Jolet Ventures LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 12.1,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": 20.26,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Britney's Frozen Lemons #5",
+    "price": 12.1,
+    "thc": 20.26
+   },
+   {
+    "name": "Lemon Tart Pucker #1",
+    "price": 12.1,
+    "thc": 13.81
+   },
+   {
+    "name": "The Sweeties #7",
+    "price": 12.1,
+    "thc": 18.03
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/598/429/avatar/1776263137-1715211198-1gpr-sativav2.png",
+  "match_score": 0.659
+ },
+ {
+  "id": "780f92c9-5eca-4caa-8bc5-530da83583ea",
+  "slug": "egozi-1st-wash-rosin-2g",
+  "name": "Egozi 1st Wash Rosin 2g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 8.06,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": 75.66,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Biscotti Chunks",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "Captain Cream",
+    "price": 12.1,
+    "thc": 72.38
+   },
+   {
+    "name": "Garlic Ice Cream",
+    "price": 8.06,
+    "thc": 72.82
+   },
+   {
+    "name": "Wilfunk",
+    "price": 8.06,
+    "thc": 75.66
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441299499_20260107_143556__1_.jpg",
+  "match_score": 0.99
+ },
+ {
+  "id": "06392a9e-096b-41aa-9919-ab512e6345db",
+  "slug": "deep-space-102",
+  "name": "Deep Space #102",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 18.38,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 18.38
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439448910_IMG_5348.jpg",
+  "match_score": 0.782
+ },
+ {
+  "id": "1fce1fdd-aad8-4560-bc3c-0d3de2b30351",
+  "slug": "strawberries-and-cream",
+  "name": "Strawberries and Cream",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 19.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 19.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440574993_IMG_3563.JPG",
+  "match_score": 0.818
+ },
+ {
+  "id": "182f2a74-c67b-4961-9eda-d74a99aec39b",
+  "slug": "caps-frozen-lemons",
+  "name": "Caps Frozen Lemons",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 20,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 20
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596049_Image_260610_150943.jpeg",
+  "match_score": 1.094
+ },
+ {
+  "id": "913570f8-ccb7-40ba-b9a0-ee7e0d2f81d9",
+  "slug": "platinum-pave",
+  "name": "Platinum Pave",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596648_Image_260610_151044.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "166af637-2508-4e4c-9827-635b490c34a0",
+  "slug": "sherb-crasher",
+  "name": "Sherb Crasher",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596667_Image_260610_151129.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "b4d6c852-0cd7-4340-bc47-89bc8f37773a",
+  "slug": "carbon-fiber",
+  "name": "Carbon Fiber",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 17.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 17.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235990_IMG_1392.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "09239fc0-9e49-4ab1-8638-d58576da377f",
+  "slug": "high-county-cones-2-pack",
+  "name": "High County Cones 2 Pack",
+  "brand": "High Country Management Group",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 0.81,
+  "price_max": 4.03,
+  "unit": "",
+  "thc_max": 18.12,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Bussin",
+    "price": 2.42,
+    "thc": 16.05
+   },
+   {
+    "name": "French Whore",
+    "price": 2.42,
+    "thc": 13.98
+   },
+   {
+    "name": "Pipe Dream",
+    "price": 4.03,
+    "thc": 17.99
+   },
+   {
+    "name": "Purple Mountain",
+    "price": 4.03,
+    "thc": 12.88
+   },
+   {
+    "name": "Sugar Bomb",
+    "price": 4.03,
+    "thc": 18.12
+   },
+   {
+    "name": "The Gas",
+    "price": 0.81,
+    "thc": 16.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
+  "match_score": 0.734
+ },
+ {
+  "id": "a392163f-bc88-4816-80e4-ab62f0ee86b8",
+  "slug": "sesh-1000-cart",
+  "name": "Sesh 1000 cart",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "",
+  "thc_max": 85.81,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Apple Fizz OG",
+    "price": 12.0,
+    "thc": 84.64
+   },
+   {
+    "name": "Churroz",
+    "price": 12.0,
+    "thc": 76.97
+   },
+   {
+    "name": "Electric Lemonade",
+    "price": 12.0,
+    "thc": 72.74
+   },
+   {
+    "name": "Grand Daddy Grape",
+    "price": 12.0,
+    "thc": 83.01
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 12.0,
+    "thc": 83.43
+   },
+   {
+    "name": "White Runtz",
+    "price": 12.0,
+    "thc": 85.81
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433327021_IMG_4441.jpg",
+  "match_score": 0.585
+ },
+ {
+  "id": "1a1d3212-35f2-4fe4-a602-b3013ff8c7d3",
+  "slug": "twax-preroll",
+  "name": "Twax preroll",
+  "brand": "The Clear",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 8.06,
+  "price_max": 8.07,
+  "unit": "",
+  "thc_max": 36.4,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Banana Cream",
+    "price": 8.06,
+    "thc": 34.8
+   },
+   {
+    "name": "Blueberry",
+    "price": 8.06,
+    "thc": 32.6
+   },
+   {
+    "name": "Grapevine",
+    "price": 8.07,
+    "thc": 31.9
+   },
+   {
+    "name": "Lime Sorbet",
+    "price": 8.06,
+    "thc": 29.3
+   },
+   {
+    "name": "Pure Pear",
+    "price": 8.06,
+    "thc": 32.5
+   },
+   {
+    "name": "Strawberry Banana",
+    "price": 8.07,
+    "thc": 36.4
+   },
+   {
+    "name": "XJ-13",
+    "price": 8.06,
+    "thc": 29.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439145193_HS_preroll.jpg",
+  "match_score": 0.652
+ },
+ {
+  "id": "0ce9cd11-b2fb-4016-a71c-91c1c28e781f",
+  "slug": "mountain-high-suckers-10mg",
+  "name": "Mountain High Suckers 10mg",
+  "brand": "Mountain High Suckers",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 4.0,
+  "price_max": 4.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 9,
+  "strains": [
+   {
+    "name": "Apple",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Blue Raspberry",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "blueberry",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Grape",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Lemon",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Lime",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Orange",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Pineapple (Blue Dream)",
+    "price": 4.0,
+    "thc": null
+   },
+   {
+    "name": "Strawberry",
+    "price": 4.0,
+    "thc": null
+   }
+  ],
+  "description": "Suckers",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439089324_gRxARBbaSwG0Fm1Po3Cf_mountain_high_suckers_2.png",
+  "match_score": 1.108
+ },
+ {
+  "id": "0b82ea2f-2850-47fe-954e-bf78c37222b8",
+  "slug": "platinum-cherry-gelato",
+  "name": "Platinum Cherry Gelato",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 23.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 23.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441753721_20260205_122950.jpg",
+  "match_score": 0.953
+ },
+ {
+  "id": "60e76a2b-2d81-4eb0-a553-908d6d4b8710",
+  "slug": "pu-tang-2-0",
+  "name": "Pu-Tang 2.0",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 22.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 22.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441753969_IMG_7991.jpg",
+  "match_score": 0.855
+ },
+ {
+  "id": "de5463e2-389a-4567-94c8-ce3995d222ae",
+  "slug": "wax",
+  "name": "Wax",
+  "brand": "Kodo",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 4.84,
+  "price_max": 4.84,
+  "unit": "",
+  "thc_max": 71.99,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Lemon Berries",
+    "price": 4.84,
+    "thc": 71.99
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438981660_1000012355.jpg",
+  "match_score": 0.803
+ },
+ {
+  "id": "48a3a314-2624-4e89-8bdd-d17b666e65d4",
+  "slug": "nerd-bar-4g",
+  "name": "Nerd Bar 4G",
+  "brand": "Clearview Industries",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 60.0,
+  "price_max": 60.0,
+  "unit": "",
+  "thc_max": 85.21,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Blackberry",
+    "price": 60.0,
+    "thc": 83.4
+   },
+   {
+    "name": "Jaffa Orange",
+    "price": 60.0,
+    "thc": 84.64
+   },
+   {
+    "name": "Peach Mango",
+    "price": 60.0,
+    "thc": 82.95
+   },
+   {
+    "name": "Pear Jam",
+    "price": 60.0,
+    "thc": 85.21
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442418631_nerdbar4g_screenshot.png",
+  "match_score": 0.828
+ },
+ {
+  "id": "c27ccf21-134d-4db3-9da3-cec598a7e7f7",
+  "slug": "1g-cart",
+  "name": "1G Cart",
+  "brand": "SPHEREX",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 12.0,
+  "price_max": 12.01,
+  "unit": "",
+  "thc_max": 89.5,
+  "n_strains": 8,
+  "strains": [
+   {
+    "name": "Blackberry Gelato",
+    "price": 12.0,
+    "thc": 80.1
+   },
+   {
+    "name": "Blueberry Cake",
+    "price": 12.0,
+    "thc": 85.5
+   },
+   {
+    "name": "Cereal Milk",
+    "price": 12.0,
+    "thc": 89.5
+   },
+   {
+    "name": "Melon Baller",
+    "price": 12.0,
+    "thc": 78.3
+   },
+   {
+    "name": "Northern Lights",
+    "price": 12.0,
+    "thc": 77.9
+   },
+   {
+    "name": "Papaya Dream",
+    "price": 12.01,
+    "thc": 83
+   },
+   {
+    "name": "Strawguava",
+    "price": 12.0,
+    "thc": 75.1
+   },
+   {
+    "name": "Tropical Runtz",
+    "price": 12.0,
+    "thc": 79.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
+  "match_score": 0.68
+ },
+ {
+  "id": "baf7a2e6-47d3-4b71-9cd4-c9c4f7a2a655",
+  "slug": "zoomies",
+  "name": "Zoomies",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 20.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 20.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595450_Image_260610_144522.jpeg",
+  "match_score": 0.977
+ },
+ {
+  "id": "1d00dad3-9f0f-475b-9a78-3674506b71de",
+  "slug": "modified-grapes-2",
+  "name": "Modified Grapes",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442873313_IMG_1205.jpeg",
+  "match_score": 1.074
+ },
+ {
+  "id": "315742e2-517b-4fe8-a0ab-12681ac00046",
+  "slug": "blanco",
+  "name": "Blanco",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 22.73,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 22.73
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442478874_20260326_090016.jpg",
+  "match_score": 0.94
+ },
+ {
+  "id": "1144db0a-3268-4ad2-bb9c-dabdac04d137",
+  "slug": "g-x-zg-162",
+  "name": "G x ZG #162",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 24.55,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 24.55
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438733313_IMG_2586.jpg",
+  "match_score": 0.877
+ },
+ {
+  "id": "7d1ebcd1-3453-48ae-ba87-79939a14dc15",
+  "slug": "wisenheimer-infused-3-pack",
+  "name": "Wisenheimer Infused 3 Pack",
+  "brand": "Craft",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 12.1,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": 26,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Rosin",
+    "price": 12.1,
+    "thc": 26
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432078143_PXL_20240520_165857991.PORTRAIT.jpg",
+  "match_score": 0.941
+ },
+ {
+  "id": "25fe520e-926a-4919-847d-f924bc0c90b6",
+  "slug": "stardawg-x-marshmello-og",
+  "name": "Stardawg x Marshmello OG",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.23,
+  "price_max": 3.23,
+  "unit": "/g",
+  "thc_max": 25.82,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.23,
+    "thc": 25.82
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587009_SDM.jpg",
+  "match_score": 0.85
+ },
+ {
+  "id": "5165bf4d-936f-4997-bf6b-5f1d74dc84d4",
+  "slug": "clarity-gardens-apricot-haze",
+  "name": "Clarity Gardens - Apricot Haze",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442172030_IMG_4005.JPG",
+  "match_score": 1.03
+ },
+ {
+  "id": "fa1b658f-3619-4f4a-8ec7-6f055361a9cb",
+  "slug": "daily-grape-x-dip-n-stix",
+  "name": "Daily Grape x Dip N Stix",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 20.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 20.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443597080_Image_260610_151214.jpeg",
+  "match_score": 1.113
+ },
+ {
+  "id": "d5df5395-745f-4b04-ade6-4d3a5f64f58b",
+  "slug": "spilled-paint",
+  "name": "Spilled Paint",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 26.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 26.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442873602_IMG_1207.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "bd706e87-e88e-41b6-8141-fb6a12d96e67",
+  "slug": "rotten-fruit-cocktail",
+  "name": "Rotten Fruit Cocktail",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236641_IMG_1387.jpeg",
+  "match_score": 0.834
+ },
+ {
+  "id": "160f9e63-aefb-4199-95d6-cff2d694467f",
+  "slug": "packwoods-1g-disposable",
+  "name": "PackWoods 1g Disposable",
+  "brand": "CC Brands LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 36.0,
+  "price_max": 36.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Black Cherry Gelato",
+    "price": 36.0,
+    "thc": null
+   },
+   {
+    "name": "Guava Bubble Gum",
+    "price": 36.0,
+    "thc": null
+   },
+   {
+    "name": "Jelly Dulce",
+    "price": 36.0,
+    "thc": null
+   },
+   {
+    "name": "Marshmallow Fluff",
+    "price": 36.0,
+    "thc": null
+   },
+   {
+    "name": "Miami Haze",
+    "price": 36.0,
+    "thc": null
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 36.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.518
+ },
+ {
+  "id": "e7283a22-ff03-4850-bbfa-2c4283786a6f",
+  "slug": "tincture",
+  "name": "Tincture",
+  "brand": "Medically Correct LLC",
+  "category": "edible",
+  "subcategory": "tincture",
+  "price_min": 16.0,
+  "price_max": 16.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "100MG THC",
+    "price": 16.0,
+    "thc": null
+   },
+   {
+    "name": "1:1",
+    "price": 16.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.067
+ },
+ {
+  "id": "20e7cdd9-a3e9-4041-aa91-5d71f6ed5143",
+  "slug": "oil-tugboat-2000mg",
+  "name": "Oil Tugboat 2000mg",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 20.16,
+  "price_max": 24.0,
+  "unit": "",
+  "thc_max": 85.84,
+  "n_strains": 9,
+  "strains": [
+   {
+    "name": "Banana  Kush",
+    "price": 24.0,
+    "thc": 70.11
+   },
+   {
+    "name": "Blueberry Bubble",
+    "price": 24.0,
+    "thc": 79.84
+   },
+   {
+    "name": "Fresh Squeeze",
+    "price": 24.0,
+    "thc": 71.05
+   },
+   {
+    "name": "Grand Daddy Purps",
+    "price": 24.0,
+    "thc": 85.84
+   },
+   {
+    "name": "Mango Kush",
+    "price": 24.0,
+    "thc": 71.56
+   },
+   {
+    "name": "OG Kush",
+    "price": 20.16,
+    "thc": 83.53
+   },
+   {
+    "name": "Purple Punch",
+    "price": 20.16,
+    "thc": 80.3
+   },
+   {
+    "name": "Super Lemon Haze",
+    "price": 24.0,
+    "thc": 74.53
+   },
+   {
+    "name": "Tangerine Haze",
+    "price": 24.0,
+    "thc": 79.22
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433521252_20240809_084008.jpg",
+  "match_score": 0.927
+ },
+ {
+  "id": "33a8efa5-4999-441d-8e29-eb45ac6494b5",
+  "slug": "deep-space-52",
+  "name": "Deep Space #52",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 21.19,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 21.19
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439448910_IMG_5348.jpg",
+  "match_score": 0.782
+ },
+ {
+  "id": "f946dac4-c029-47a1-ba69-c2fd2c2eaf1c",
+  "slug": "ript-pucked-up-peach",
+  "name": "RIPT Pucked Up Peach",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 4.03,
+  "price_max": 4.03,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "100mg",
+    "price": 4.03,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429615318_peach.jpg",
+  "match_score": 0.928
+ },
+ {
+  "id": "f861e068-3178-4cff-a67f-2fab25e33374",
+  "slug": "banana-zkittlez",
+  "name": "Banana Zkittlez",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555432_IMG_0973.jpeg",
+  "match_score": 1.063
+ },
+ {
+  "id": "add5299b-e624-45f5-914c-542c1cfdbd89",
+  "slug": "notorious-thc",
+  "name": "Notorious THC",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443169841_IMG_9294.jpeg",
+  "match_score": 1.07
+ },
+ {
+  "id": "8a4c66fc-c015-4218-a266-768c1b55d768",
+  "slug": "blamo",
+  "name": "Blamo",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167652_IMG_20260505_144453271_2.jpg",
+  "match_score": 0.977
+ },
+ {
+  "id": "9e8ec73d-54c0-451c-bfa2-2bcab44d6c4d",
+  "slug": "sweet-heat",
+  "name": "Sweet Heat",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 21.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 21.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167317_IMG_20260505_142715377.jpg",
+  "match_score": 1.06
+ },
+ {
+  "id": "f59bd96f-f078-45b1-83af-b33e1ff0cb5c",
+  "slug": "the-bakery-brothers-watermelon-rush",
+  "name": "The Bakery Brothers - Watermelon Rush",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 15,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 15
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442195715_20260306_121631.jpg",
+  "match_score": 0.955
+ },
+ {
+  "id": "7b786c77-ed4a-4fc1-a736-cfc6a2d4f08f",
+  "slug": "all-in-one-gt",
+  "name": "All-in-One GT",
+  "brand": "NATTY REMS LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "",
+  "thc_max": 67.89,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Gorilla Pie",
+    "price": 45.0,
+    "thc": 67.89
+   },
+   {
+    "name": "Slowpoke",
+    "price": 45.0,
+    "thc": 64.96
+   },
+   {
+    "name": "Space Cat",
+    "price": 45.0,
+    "thc": 62.68
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.342
+ },
+ {
+  "id": "ba7086cf-9cd7-423e-815b-7221f466cd37",
+  "slug": "double-mandarin-daiquiri",
+  "name": "Double Mandarin Daiquiri",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 18.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 18.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594594_Image_260610_140509.jpeg",
+  "match_score": 1.111
+ },
+ {
+  "id": "81ea7f39-6561-484e-b1f0-3aca34beecd6",
+  "slug": "egozi-rosin-4g",
+  "name": "Egozi Rosin 4g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 32.26,
+  "price_max": 75.0,
+  "unit": "",
+  "thc_max": 73.32,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Captain Cream",
+    "price": 32.26,
+    "thc": 72.38
+   },
+   {
+    "name": "G Spritz",
+    "price": 32.26,
+    "thc": 73.32
+   },
+   {
+    "name": "Garlic Ice Cream",
+    "price": 75.0,
+    "thc": 72.82
+   },
+   {
+    "name": "Spritz Scotti",
+    "price": 75.0,
+    "thc": 65.77
+   },
+   {
+    "name": "Spritzer",
+    "price": 75.0,
+    "thc": 72.55
+   },
+   {
+    "name": "Zmuckers",
+    "price": 75.0,
+    "thc": 63.64
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
+  "match_score": 0.963
+ },
+ {
+  "id": "595b04d2-fd72-455c-bb2b-1b6452bf6231",
+  "slug": "live-resin-carts",
+  "name": "Live Resin Carts",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 8.06,
+  "price_max": 8.06,
+  "unit": "",
+  "thc_max": 68.03,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Cookies N Cream",
+    "price": 8.06,
+    "thc": 68.03
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432575211_20240610_080446.jpg",
+  "match_score": 0.687
+ },
+ {
+  "id": "190bad87-787e-4325-bdb4-c569c50f29c5",
+  "slug": "medusa-x-peach-breath-10",
+  "name": "Medusa x Peach Breath #10",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 21.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 21.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594221_Image_260610_134249.jpeg",
+  "match_score": 1.106
+ },
+ {
+  "id": "edf1fe37-3d97-45aa-ae2d-078ec0847b21",
+  "slug": "black-ice",
+  "name": "Black Ice",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 23.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 23.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240742_IMG_0532.jpeg",
+  "match_score": 0.977
+ },
+ {
+  "id": "d2b3e296-7338-4e09-ad45-44ee91fc1403",
+  "slug": "chronic-thearapy-applelatti",
+  "name": "Chronic Thearapy : Applelatti",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.21,
+  "price_max": 1.21,
+  "unit": "/g",
+  "thc_max": 16.93,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.21,
+    "thc": 16.93
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.48
+ },
+ {
+  "id": "3ff98d52-70bd-4486-b0c1-623f46caa771",
+  "slug": "14er-prerolls",
+  "name": "14er Prerolls",
+  "brand": "14ER",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": 28.39,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Bubblegum Marker",
+    "price": 2.42,
+    "thc": 26.48
+   },
+   {
+    "name": "Chem De La Chem",
+    "price": 2.42,
+    "thc": 26.69
+   },
+   {
+    "name": "Pupcake",
+    "price": 6.0,
+    "thc": 25.19
+   },
+   {
+    "name": "Snapjacks",
+    "price": 2.42,
+    "thc": 28.39
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440397573_IMG_3525.JPG",
+  "match_score": 0.655
+ },
+ {
+  "id": "838a8a4d-43e3-4cb7-b312-00ca40bc3a52",
+  "slug": "preroll-pineapple-pastures",
+  "name": "Preroll - Pineapple Pastures",
+  "brand": "14ER",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "",
+  "thc_max": 21.57,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Pineapple Pastures",
+    "price": 2.42,
+    "thc": 21.57
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437973621_180217P_25584_Preroll_2.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
+  "match_score": 1.069
+ },
+ {
+  "id": "e375255a-6896-4a39-a1ee-25f435213f49",
+  "slug": "strawnana",
+  "name": "Strawnana",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 23.58,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 23.58
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441633591_IMG_1133.jpeg",
+  "match_score": 0.91
+ },
+ {
+  "id": "af1402c9-855b-41ce-9d20-ae7cc0201f3d",
+  "slug": "egozi-rosin-1g",
+  "name": "Egozi Rosin 1g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 8.06,
+  "price_max": 8.06,
+  "unit": "",
+  "thc_max": 74.65,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Garlic Ice Cream",
+    "price": 8.06,
+    "thc": 70.26
+   },
+   {
+    "name": "Peach Cobbler",
+    "price": 8.06,
+    "thc": 74.65
+   },
+   {
+    "name": "Spritzer",
+    "price": 8.06,
+    "thc": 69.78
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
+  "match_score": 0.963
+ },
+ {
+  "id": "5375c84c-206c-4a3a-83b2-5b9826a2baab",
+  "slug": "virgin-mary-llc-mallows",
+  "name": "Virgin Mary LLC - Mallows",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 17.98,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 17.98
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221492_mallows.jpg",
+  "match_score": 1.03
+ },
+ {
+  "id": "642400da-8d58-4ed8-b51a-3f68aecf416f",
+  "slug": "the-bakery-brothers-deep-space-2",
+  "name": "The Bakery Brothers - Deep Space",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 19.54,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 19.54
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442198568_IMG_4009.JPG",
+  "match_score": 0.952
+ },
+ {
+  "id": "320d4432-2384-4932-911d-e66f3907e059",
+  "slug": "black-velvet",
+  "name": "Black Velvet",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 20.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 20.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236532_IMG_1391.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "ccf64035-c6be-4207-9d78-c3408b5fb921",
+  "slug": "astronaut-status",
+  "name": "Astronaut Status",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235634_IMG_1377.jpeg",
+  "match_score": 1.065
+ },
+ {
+  "id": "e712619a-d828-4ef5-a47c-4818df47d00f",
+  "slug": "zkittlez-cake-x-blue-razzsicle-4",
+  "name": "Zkittlez Cake x Blue Razzsicle #4",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235455_IMG_1371.jpeg",
+  "match_score": 1.122
+ },
+ {
+  "id": "a16cd49d-1e78-4a8a-85dc-130b75586600",
+  "slug": "tahoe-alien",
+  "name": "Tahoe Alien",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443172190_IMG_20260505_171501121_2.jpg",
+  "match_score": 1.05
+ },
+ {
+  "id": "62151e5d-84a9-4d2c-9ced-efc2b042eb27",
+  "slug": "dog-whisperer",
+  "name": "Dog Whisperer",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 24.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 24.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167496_IMG_20260505_143403138_2.jpg",
+  "match_score": 0.7
+ },
+ {
+  "id": "be060176-28d2-466d-9312-3bd033a327ec",
+  "slug": "gold-tip-live-resin1000mg",
+  "name": "Gold Tip Live Resin1000mg",
+  "brand": "NATTY REMS LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 40.0,
+  "price_max": 40.0,
+  "unit": "",
+  "thc_max": 76.17,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "GMO",
+    "price": 40.0,
+    "thc": 67.87
+   },
+   {
+    "name": "golden goat",
+    "price": 40.0,
+    "thc": 62.48
+   },
+   {
+    "name": "Grape Cream Cake",
+    "price": 40.0,
+    "thc": 76.17
+   },
+   {
+    "name": "Motor Breath #15",
+    "price": 40.0,
+    "thc": 68.31
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/541/086/avatar/1749142807-gold_tip_mylar___cart_menu_image_natty_rems__jun2025.jpg",
+  "match_score": 0.818
+ },
+ {
+  "id": "0287e89b-4c14-4986-a8da-893315964da0",
+  "slug": "black-tip-live-resin1000mg",
+  "name": "Black Tip Live Resin1000mg",
+  "brand": "NATTY REMS LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 28.0,
+  "price_max": 28.0,
+  "unit": "",
+  "thc_max": 80.66,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Glue x Major Tom",
+    "price": 28.0,
+    "thc": 78.45
+   },
+   {
+    "name": "Natty OG x Garlic Apples",
+    "price": 28.0,
+    "thc": 80.66
+   },
+   {
+    "name": "Wedding Cake x Sundae Driver",
+    "price": 28.0,
+    "thc": 76.85
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442947609_image1__10_.jpeg",
+  "match_score": 0.795
+ },
+ {
+  "id": "74348541-77e4-42f3-a1a7-387fb23f9b52",
+  "slug": "green-dot-labs-live-rosin-badder",
+  "name": "Green Dot Labs Live Rosin Badder",
+  "brand": "Green Dot (OCC)",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 20.16,
+  "price_max": 46.77,
+  "unit": "",
+  "thc_max": 74.24,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Amsterdam '97",
+    "price": 46.77,
+    "thc": 66.2
+   },
+   {
+    "name": "Devil Driver",
+    "price": 20.16,
+    "thc": 74.24
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429516908_IMG_3448.jpg",
+  "match_score": 1.135
+ },
+ {
+  "id": "fc0c244d-aa88-460e-a3ea-df589c37f6ed",
+  "slug": "green-leaf-500mg-cart",
+  "name": "Green Leaf 500mg Cart",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 7.0,
+  "price_max": 7.0,
+  "unit": "",
+  "thc_max": 79.5,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Apple Fritter",
+    "price": 7.0,
+    "thc": 79.5
+   },
+   {
+    "name": "Dosi Mango",
+    "price": 7.0,
+    "thc": 76.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437538879_green_leaf.jpg",
+  "match_score": 0.82
+ },
+ {
+  "id": "0bede171-124f-4a0b-9e8d-e05241ae945f",
+  "slug": "astronaught-stratus-88",
+  "name": "ASTRONAUGHT STRATUS #88",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 20.39,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 20.39
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748754_IMG_0685.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "6baffaac-7aeb-4db7-ac89-0be12f0187b4",
+  "slug": "mary-jane-s-medicinals-nano-salve",
+  "name": "Mary Jane's Medicinals Nano Salve",
+  "brand": "Blue Cottage LLC",
+  "category": "topical",
+  "subcategory": "salve",
+  "price_min": 14.0,
+  "price_max": 60.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": ".3 oz Nano Salve",
+    "price": 14.0,
+    "thc": null
+   },
+   {
+    "name": "3.3oz",
+    "price": 60.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433258737_nano_.3.jpeg",
+  "match_score": 1.03
+ },
+ {
+  "id": "067f6cda-bccd-49d0-a3d5-1a46978030bd",
+  "slug": "green-dot-blr-5g-cart",
+  "name": "Green Dot BLR .5g Cart",
+  "brand": "Green Dot (OCC)",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 27.42,
+  "price_max": 27.42,
+  "unit": "",
+  "thc_max": 71.23,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Soul Cleanser #10",
+    "price": 27.42,
+    "thc": 71.23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/320044863_IMG_1002.jpg",
+  "match_score": 0.66
+ },
+ {
+  "id": "dfdc182f-71fe-4cec-8317-981653619260",
+  "slug": "greendot-black-label-flower-14g",
+  "name": "Greendot Black label flower 14g",
+  "brand": "Green Dot (OCC)",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 161.29,
+  "price_max": 161.29,
+  "unit": "/g",
+  "thc_max": 29.56,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "$@%&! Cake",
+    "price": 161.29,
+    "thc": 29.56
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430725752_g.jpg",
+  "match_score": 0.892
+ },
+ {
+  "id": "fa0632c6-8735-4893-8775-56f9db9fc890",
+  "slug": "battery-2",
+  "name": "battery",
+  "brand": "Craft",
+  "category": "merchandise",
+  "subcategory": "accessory",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "hex",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.06
+ },
+ {
+  "id": "6f44e12b-04ee-4ae0-a02c-2caae0a5177c",
+  "slug": "la-kush-cake",
+  "name": "La Kush Cake",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 21.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 21.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441242138_IMG_0699.jpeg",
+  "match_score": 1.056
+ },
+ {
+  "id": "331b14a2-f2af-49fa-b052-d1cdd1c391f0",
+  "slug": "oreoz",
+  "name": "Oreoz",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 21.18,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 21.18
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442870839_IMG_1198.jpeg",
+  "match_score": 0.929
+ },
+ {
+  "id": "aaacfbd1-aa74-4f8b-8b75-cc855f3c6f69",
+  "slug": "ript",
+  "name": "Ript",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 4.03,
+  "price_max": 8.06,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Crushed Pineapple",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "Strawberry Fieldtrip",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "Wild Cherry",
+    "price": 4.03,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429865596_Ript_Cherry.png",
+  "match_score": 0.626
+ },
+ {
+  "id": "500c52f6-fb04-44dc-8830-ecd18aab0f2d",
+  "slug": "gg4",
+  "name": "GG4",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 25.76,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 25.76
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440694650_Image_251130_124143.jpeg",
+  "match_score": 0.935
+ },
+ {
+  "id": "734e6993-e88e-4d82-a522-bc07e9e2ca0e",
+  "slug": "peach-pit",
+  "name": "Peach Pit",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 29.49,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 29.49
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440694373_Image_251130_124256.jpeg",
+  "match_score": 1.047
+ },
+ {
+  "id": "7183cfd1-c059-4271-93a3-68c80dbd396f",
+  "slug": "candy-fumez",
+  "name": "Candy Fumez",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 28.0,
+  "price_max": 28.0,
+  "unit": "/g",
+  "thc_max": 19.19,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 28.0,
+    "thc": 19.19
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440014495_Subject.PNG",
+  "match_score": 1.03
+ },
+ {
+  "id": "b6de1e36-6127-4140-8290-6d9136e9a62b",
+  "slug": "inhouse-rosin-2g",
+  "name": "InHouse Rosin 2g",
+  "brand": "In House LLC",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 35.0,
+  "price_max": 35.0,
+  "unit": "",
+  "thc_max": 69.1,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "C.Fumez BX3",
+    "price": 35.0,
+    "thc": 67.2
+   },
+   {
+    "name": "GM x RG #5",
+    "price": 35.0,
+    "thc": 69.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439697830_image0__5_.jpeg",
+  "match_score": 0.686
+ },
+ {
+  "id": "3c8bf7a6-a778-4da5-83c4-e0f7e65bdf61",
+  "slug": "twax-5g-preroll",
+  "name": "twax .5g preroll",
+  "brand": "The Clear",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 30.0,
+  "price_max": 30.0,
+  "unit": "",
+  "thc_max": 31.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Banana Cream",
+    "price": 30.0,
+    "thc": 31.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/429/061/avatar/1753897332-download.png",
+  "match_score": 0.858
+ },
+ {
+  "id": "a69ee56a-037f-4fa9-8758-a57e2f3d637a",
+  "slug": "rainbow-sherbert-11",
+  "name": "Rainbow Sherbert 11",
+  "brand": "14ER",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "/g",
+  "thc_max": 21.39,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Eighth",
+    "price": 12.0,
+    "thc": 21.39
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439372329_IMG_7074.jpg",
+  "match_score": 1.076
+ },
+ {
+  "id": "402ac2aa-bb59-44aa-bcf3-278e7dc759fd",
+  "slug": "pink-melons",
+  "name": "Pink Melons",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 24.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 24.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443170425_IMG_9298.jpeg",
+  "match_score": 1.072
+ },
+ {
+  "id": "525a2cf0-fd52-4693-bb00-b09b2e111b55",
+  "slug": "mary-jane-s-medicinals-original-salve",
+  "name": "Mary Jane's Medicinals Original Salve",
+  "brand": "Blue Cottage LLC",
+  "category": "topical",
+  "subcategory": "balm",
+  "price_min": 10.0,
+  "price_max": 42.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": ".3oz",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "3.3 oz",
+    "price": 42.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433258818_download__3_.jpeg",
+  "match_score": 0.836
+ },
+ {
+  "id": "c1f8af6f-0cf5-4f3f-ae03-500a918c9f64",
+  "slug": "lavender",
+  "name": "Lavender",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236726_IMG_1389.jpeg",
+  "match_score": 0.984
+ },
+ {
+  "id": "93444be7-5464-46df-b6d2-30419552f24a",
+  "slug": "papaya-juice",
+  "name": "Papaya Juice",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443172294_IMG_20260505_172844035_2.jpg",
+  "match_score": 1.054
+ },
+ {
+  "id": "4c5df225-02e1-4078-9261-9057eed93f5b",
+  "slug": "grape-hindu-cake",
+  "name": "Grape Hindu Cake",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594895_Image_260610_141112.jpeg",
+  "match_score": 1.101
+ },
+ {
+  "id": "362a8b67-3324-4271-87fd-0dd7b804ade0",
+  "slug": "cart",
+  "name": "Cart",
+  "brand": "",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 4.3,
+  "price_max": 4.3,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Black",
+    "price": 4.3,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
+  "match_score": 0.68
+ },
+ {
+  "id": "9f54bed1-cde4-4ff3-b052-96903477fd23",
+  "slug": "dante-s-wrath-48",
+  "name": "Dante's Wrath #48",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 23.21,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 23.21
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442478989_20260326_090151__1_.jpg",
+  "match_score": 1.027
+ },
+ {
+  "id": "6ad157ce-0990-4569-8441-b81c057c4239",
+  "slug": "keef-cola-100mg",
+  "name": "Keef Cola 100mg",
+  "brand": "Denver Packaging Company",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 12.1,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Orange Kush",
+    "price": 12.1,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/021/818/avatar/1628609896-keef-classics-orange-kush-can-ca.png",
+  "match_score": 0.688
+ },
+ {
+  "id": "b40c5035-dfe8-42d4-85af-40f14e553f8c",
+  "slug": "greendot-black-label-fse",
+  "name": "Greendot black label FSE",
+  "brand": "Green Dot (OCC)",
+  "category": "concentrate",
+  "subcategory": "live extract",
+  "price_min": 38.72,
+  "price_max": 38.72,
+  "unit": "",
+  "thc_max": 75.39,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Underdawg OG x HSB 13",
+    "price": 38.72,
+    "thc": 75.39
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430007092_PXL_20240123_213026192.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.708
+ },
+ {
+  "id": "ac1eb535-4360-4aaf-8dd2-9e0d573e989e",
+  "slug": "ript-smashed-watermelon",
+  "name": "RIPT Smashed Watermelon",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 4.03,
+  "price_max": 4.03,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "100mg",
+    "price": 4.03,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429624002_water_melon.jpg",
+  "match_score": 0.918
+ },
+ {
+  "id": "0fcd36f4-cb0c-4ec4-9e87-5a627e276ff0",
+  "slug": "ript-knockout-punch",
+  "name": "Ript Knockout Punch",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 8.07,
+  "price_max": 8.07,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Knockout Punch",
+    "price": 8.07,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429615327_sleep.jpg",
+  "match_score": 0.912
+ },
+ {
+  "id": "8694ddd2-fbae-4b02-bcf9-ae87c467eec4",
+  "slug": "sour-patch-kids",
+  "name": "Sour Patch Kids",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 29.48,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 29.48
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555051_IMG_0970.jpeg",
+  "match_score": 1.019
+ },
+ {
+  "id": "bfdaf2fa-8cbc-40bd-b5bc-59f7999f88f7",
+  "slug": "lemon-pound-cake",
+  "name": "Lemon Pound Cake",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 31.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 31.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429906326_LemonPoundCake.jpg",
+  "match_score": 0.915
+ },
+ {
+  "id": "1ceeac17-2e7f-4b4b-bfc0-51f138230b0e",
+  "slug": "minirip",
+  "name": "Minirip",
+  "brand": "Green Dot (OCC)",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 50.0,
+  "price_max": 50.0,
+  "unit": "",
+  "thc_max": 76.69,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Sherbaccio",
+    "price": 50.0,
+    "thc": 72.12
+   },
+   {
+    "name": "subzero",
+    "price": 50.0,
+    "thc": 76.69
+   },
+   {
+    "name": "Trippy Paradise",
+    "price": 50.0,
+    "thc": 76.69
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443479187_Screenshot_2026-06-02_122226.png",
+  "match_score": 0.791
+ },
+ {
+  "id": "d0938bf4-7621-4c48-a972-4b60ae11c7b8",
+  "slug": "gmo-mac",
+  "name": "GMO MAC",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 31.4,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 31.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236482_IMG_1386.jpeg",
+  "match_score": 1.027
+ },
+ {
+  "id": "e0146c56-d7d2-417b-9d5f-ee30d8f23079",
+  "slug": "pink-limonada",
+  "name": "Pink Limonada",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235613_IMG_1375.jpeg",
+  "match_score": 0.692
+ },
+ {
+  "id": "0a0a7f53-9817-461d-a108-830ad2255e6d",
+  "slug": "papaya-sorbet",
+  "name": "Papaya Sorbet",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429659717_20231214_122208.jpg",
+  "match_score": 0.647
+ },
+ {
+  "id": "566717a2-69ab-4b28-9642-090b073e1fb2",
+  "slug": "super-boof",
+  "name": "Super Boof",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235685_IMG_1388.jpeg",
+  "match_score": 1.045
+ },
+ {
+  "id": "4e424afb-f1d2-4f50-abae-f97e34e6951b",
+  "slug": "space-center",
+  "name": "Space Center",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 23.4,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 23.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235627_IMG_1376.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "58191d4c-0a32-43fd-8ace-2daba871619d",
+  "slug": "wet-wet",
+  "name": "Wet Wet",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236670_IMG_1379.jpeg",
+  "match_score": 0.977
+ },
+ {
+  "id": "b1636d75-25d4-4237-a1d2-bc0bae8bff94",
+  "slug": "jack-herer-x-peach-breath-6",
+  "name": "Jack Herer x Peach Breath #6",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 24,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 24
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594169_Image_260610_133830.jpeg",
+  "match_score": 0.903
+ },
+ {
+  "id": "3579fb32-8837-481d-be32-dcdb992e9ba3",
+  "slug": "rotten-rozay",
+  "name": "Rotten Rozay",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 18.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 18.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442282828_20260312_084041__1_.jpg",
+  "match_score": 1.074
+ },
+ {
+  "id": "acc415c3-e790-453f-8e70-26ba463ede2c",
+  "slug": "10mg-keef-cola",
+  "name": "10mg Keef Cola",
+  "brand": "Keef Cola",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 6.0,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": 10,
+  "n_strains": 9,
+  "strains": [
+   {
+    "name": "Blue Razz",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Bubba Kush Root Beer",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Cream",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Mango 1:1",
+    "price": 6.0,
+    "thc": 10
+   },
+   {
+    "name": "Mr.Puffer",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Orange Kush",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Original Cola",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Pineapple X-press",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Purple Passion Grape",
+    "price": 6.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/029/945/avatar/1628610982-keef-classics-og-cola-can-ca.png",
+  "match_score": 0.863
+ },
+ {
+  "id": "36b26e6f-46c4-4a8a-a963-cdced7a83c40",
+  "slug": "slapz",
+  "name": "Slapz",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 28.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 28.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872982_IMG_1206.jpeg",
+  "match_score": 0.957
+ },
+ {
+  "id": "bbb2ea5c-f5b7-42a5-9f83-8ac2c6a9ca21",
+  "slug": "black-orchard",
+  "name": "Black Orchard",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595677_Image_260610_145451.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "5e9e5ebd-64df-45c0-9914-35de420b3600",
+  "slug": "ab-x-runtz-40",
+  "name": "AB x Runtz #40",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 22.87,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 22.87
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552860_IMG_0962.jpeg",
+  "match_score": 1.008
+ },
+ {
+  "id": "7ddc36b7-e72e-44d2-a4c1-ccae69710597",
+  "slug": "flvrz",
+  "name": "FLVRZ",
+  "brand": "Starbuds Mips",
+  "category": "concentrate",
+  "subcategory": "distillate",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": 34.1,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Blueberry Pie",
+    "price": 10.0,
+    "thc": 32.9
+   },
+   {
+    "name": "Mango Gelato",
+    "price": 10.0,
+    "thc": 31.1
+   },
+   {
+    "name": "Strawberry Kiwi",
+    "price": 10.0,
+    "thc": 34.1
+   },
+   {
+    "name": "Watermelon",
+    "price": 10.0,
+    "thc": 32.8
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.06
+ },
+ {
+  "id": "57a85372-1798-49ef-b814-a3f037fae7f3",
+  "slug": "rosin-stick",
+  "name": "Rosin Stick",
+  "brand": "1-11 LLC",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": 17.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Sunshine Daydream",
+    "price": 10.0,
+    "thc": 17.1
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.485
+ },
+ {
+  "id": "07e8b240-a862-4d8a-83ac-f88af71d1b85",
+  "slug": "incredible-bars",
+  "name": "Incredible Bars",
+  "brand": "Medically Correct LLC",
+  "category": "edible",
+  "subcategory": "chocolate",
+  "price_min": 13.0,
+  "price_max": 13.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 10,
+  "strains": [
+   {
+    "name": "Banana Pudding",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Black Cherry 1:1",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Boulder Bar",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Cookies &Cream",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Mile High Mint",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Monkey Bar",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Red Velvet Cake",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "S'mores",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Snoozzzeberry 2:10",
+    "price": 13.0,
+    "thc": null
+   },
+   {
+    "name": "Strawberry Crunch",
+    "price": 13.0,
+    "thc": null
+   }
+  ],
+  "description": "Infused chocolate bars in a variety of delicious flavors",
+  "wm_img": "",
+  "match_score": 0.092
+ },
+ {
+  "id": "18a5254e-a755-4a7c-af46-0262ffda889b",
+  "slug": "kief-cones",
+  "name": "kief cones",
+  "brand": "High Country Management Group",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 7.26,
+  "price_max": 7.26,
+  "unit": "",
+  "thc_max": 22.79,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Boof Scottie",
+    "price": 7.26,
+    "thc": 22.12
+   },
+   {
+    "name": "Fritter Cake",
+    "price": 7.26,
+    "thc": 22.79
+   },
+   {
+    "name": "Neon Super Skunk",
+    "price": 7.26,
+    "thc": 22.03
+   },
+   {
+    "name": "Sour Papaya",
+    "price": 7.26,
+    "thc": 22.49
+   }
+  ],
+  "description": "kief cones",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
+  "match_score": 0.846
+ },
+ {
+  "id": "9f6de832-0797-42fa-a8cc-cda680ad2dec",
+  "slug": "greendot-black-label-flower-7g",
+  "name": "Greendot Black label flower 7g",
+  "brand": "Green Dot (OCC)",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 87.9,
+  "price_max": 87.9,
+  "unit": "/g",
+  "thc_max": 28.24,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "F.A.F.O.",
+    "price": 87.9,
+    "thc": 28.24
+   },
+   {
+    "name": "Kashmir",
+    "price": 87.9,
+    "thc": 25.21
+   },
+   {
+    "name": "Krunk Berries",
+    "price": 87.9,
+    "thc": 17.57
+   },
+   {
+    "name": "Lemon Grinder",
+    "price": 87.9,
+    "thc": 20.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430725752_g.jpg",
+  "match_score": 0.892
+ },
+ {
+  "id": "c4120029-a861-4a8f-bac0-bf7802c79438",
+  "slug": "garlic-breath",
+  "name": "Garlic Breath",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 25.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 25.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872849_IMG_8634.jpg",
+  "match_score": 1.057
+ },
+ {
+  "id": "43c1a00d-2568-4d65-82be-3ca124e70eb4",
+  "slug": "black-garlic",
+  "name": "Black Garlic",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 24,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 24
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235562_IMG_1373.jpeg",
+  "match_score": 1.074
+ },
+ {
+  "id": "35191783-4b55-4239-b9ea-88f873b87a38",
+  "slug": "stay-puft",
+  "name": "Stay Puft",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 27.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 27.1
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.385
+ },
+ {
+  "id": "4b3ffc63-c956-42bf-9533-39c8c1ea4ef4",
+  "slug": "oreo-blizzard",
+  "name": "Oreo Blizzard",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 28,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 28
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748775_IMG_4413.JPG",
+  "match_score": 1.036
+ },
+ {
+  "id": "9df05e31-ecf3-4370-a3bc-870a708d5d98",
+  "slug": "farmers-daughter-5",
+  "name": "Farmers Daughter #5",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 18.25,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 45.0,
+    "thc": 18.25
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442049601_1000011483.jpg",
+  "match_score": 0.683
+ },
+ {
+  "id": "8e3dcc96-4509-4c56-b89f-95b4a71136e5",
+  "slug": "pez-sour",
+  "name": "Pez Sour",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596029_Image_260610_150852.jpeg",
+  "match_score": 1.034
+ },
+ {
+  "id": "ee55a42f-2d36-4951-a0ad-b75baf8d0ea7",
+  "slug": "the-bakery-brothers-dark-plasma",
+  "name": "The Bakery Brothers - Dark Plasma",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 22.85,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 22.85
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442193433_IMG_0365.jpeg",
+  "match_score": 1.03
+ },
+ {
+  "id": "4dcb81c3-990d-49ef-aea7-18b269de867f",
+  "slug": "filthy-animal",
+  "name": "Filthy Animal",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235645_IMG_1378.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "7c0de1d6-ccc7-4447-b750-52eee1e69f3e",
+  "slug": "packwoods-2g-disposable",
+  "name": "Packwoods 2g Disposable",
+  "brand": "CC Brands LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 60.0,
+  "price_max": 60.0,
+  "unit": "",
+  "thc_max": 89.3,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Area 51",
+    "price": 60.0,
+    "thc": 86.4
+   },
+   {
+    "name": "Blue Slurpie",
+    "price": 60.0,
+    "thc": 81
+   },
+   {
+    "name": "Donut Shop 2G",
+    "price": 60.0,
+    "thc": 83.1
+   },
+   {
+    "name": "Strawberry Gas",
+    "price": 60.0,
+    "thc": 89.3
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.518
+ },
+ {
+  "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+  "slug": "keef-cola-10mg",
+  "name": "Keef Cola 10mg",
+  "brand": "Denver Packaging Company",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 6.0,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Blackberry Coconut 1:1",
+    "price": 6.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/155/966/avatar/1753291380-slims_by_keef_blackberry_coconut.png",
+  "match_score": 0.719
+ },
+ {
+  "id": "5995095d-7eed-4d24-b992-ccc37640c631",
+  "slug": "tally-mon",
+  "name": "Tally Mon",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 23.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 23.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594706_Image_260610_140905.jpeg",
+  "match_score": 1.056
+ },
+ {
+  "id": "ac8287b9-0128-45fe-a59e-6c5853df5980",
+  "slug": "free-mac",
+  "name": "Free MAC",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 23.63,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 23.63
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552246_IMG_0945.jpeg",
+  "match_score": 0.835
+ },
+ {
+  "id": "b014d9bc-547b-4293-b704-1f6b9df84855",
+  "slug": "haze-silver",
+  "name": "Haze Silver",
+  "brand": "NATTY REMS LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 12.1,
+  "price_max": 12.1,
+  "unit": "",
+  "thc_max": 79.87,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Blue Razz Slushy",
+    "price": 12.1,
+    "thc": 79.6
+   },
+   {
+    "name": "Guava Melon",
+    "price": 12.1,
+    "thc": 79.87
+   },
+   {
+    "name": "Pink Rozay",
+    "price": 12.1,
+    "thc": 76.94
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/831/204/avatar/1745529399-haze_pink_rozay_5x7.jpg",
+  "match_score": 0.767
+ },
+ {
+  "id": "04dd0339-2f07-4829-9e18-ae2054b81332",
+  "slug": "blue-razzsicle",
+  "name": "Blue Razzsicle",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 27.1,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 27.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872925_IMG_1204.jpeg",
+  "match_score": 1.06
+ },
+ {
+  "id": "ecc88ac8-b7b6-4a77-95ad-631326d6f63b",
+  "slug": "bear-claws",
+  "name": "Bear Claws",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 28.4,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 28.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236659_IMG_1381.jpeg",
+  "match_score": 0.683
+ },
+ {
+  "id": "45d714d4-85bb-4546-bac4-c556840e1c6c",
+  "slug": "shatter-4g",
+  "name": "Shatter 4g",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "shatter",
+  "price_min": 30.0,
+  "price_max": 30.0,
+  "unit": "",
+  "thc_max": 70.71,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Fried Fuit Pie",
+    "price": 30.0,
+    "thc": 70.71
+   },
+   {
+    "name": "Jam Sandwich",
+    "price": 30.0,
+    "thc": 69.22
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432063111_PXL_20240519_172503038.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.824
+ },
+ {
+  "id": "d6cff5de-a6bf-422c-95aa-e0832752e11c",
+  "slug": "midnite",
+  "name": "Midnite",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.23,
+  "price_max": 3.23,
+  "unit": "/g",
+  "thc_max": 22.61,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.23,
+    "thc": 22.61
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442586938_midnite.jpg",
+  "match_score": 0.994
+ },
+ {
+  "id": "ab3b4669-7946-4cc9-832c-7614a41814ce",
+  "slug": "glazed-donut",
+  "name": "Glazed Donut",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595824_Image_260610_145748.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "ff193c75-0255-4416-a6f7-c16024a84ac1",
+  "slug": "shatter-2",
+  "name": "Shatter",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "shatter",
+  "price_min": 8.06,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": 81.4,
+  "n_strains": 12,
+  "strains": [
+   {
+    "name": "Berry Cobbler",
+    "price": 8.06,
+    "thc": 68.13
+   },
+   {
+    "name": "Blue Dream",
+    "price": 10.0,
+    "thc": 78.78
+   },
+   {
+    "name": "Dante's Inferno",
+    "price": 8.06,
+    "thc": 69.9
+   },
+   {
+    "name": "Ghost Glue",
+    "price": 10.0,
+    "thc": 76.42
+   },
+   {
+    "name": "Ice Box Pie",
+    "price": 8.06,
+    "thc": 64.82
+   },
+   {
+    "name": "Klone Cake",
+    "price": 8.06,
+    "thc": 68.16
+   },
+   {
+    "name": "Kush Mints",
+    "price": 8.06,
+    "thc": 70.25
+   },
+   {
+    "name": "Lazar",
+    "price": 10.0,
+    "thc": 81.4
+   },
+   {
+    "name": "Munchie Menace",
+    "price": 10.0,
+    "thc": 69.04
+   },
+   {
+    "name": "Peach Cadillac",
+    "price": 10.0,
+    "thc": 71.19
+   },
+   {
+    "name": "Sunny Side Sammie",
+    "price": 8.06,
+    "thc": 65.5
+   },
+   {
+    "name": "Vanilla Glaze",
+    "price": 8.06,
+    "thc": 62.37
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432063111_PXL_20240519_172503038.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.824
+ },
+ {
+  "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+  "slug": "rippys",
+  "name": "Rippys",
+  "brand": "Loud Labs LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 8.06,
+  "price_max": 8.07,
+  "unit": "",
+  "thc_max": 71.25,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Bubba Kush",
+    "price": 8.06,
+    "thc": 64.03
+   },
+   {
+    "name": "Bubonic Chronic",
+    "price": 8.07,
+    "thc": 70.86
+   },
+   {
+    "name": "Melted Strawberries",
+    "price": 8.07,
+    "thc": 71.25
+   },
+   {
+    "name": "Skylin OG",
+    "price": 8.06,
+    "thc": 61.28
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.275
+ },
+ {
+  "id": "99aa7be9-7673-407d-8af4-0cec1b3565d1",
+  "slug": "riptz",
+  "name": "Riptz",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 13.0,
+  "price_max": 13.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Variety 40pk",
+    "price": 13.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443738071_IMG_4411.jpeg",
+  "match_score": 0.738
+ },
+ {
+  "id": "6a5c5ff3-db9e-4547-96cb-de52729aaef3",
+  "slug": "hype",
+  "name": "HYPE",
+  "brand": "",
+  "category": "concentrate",
+  "subcategory": "shatter",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "",
+  "thc_max": 79.54,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Rainbow",
+    "price": 8.0,
+    "thc": 79.54
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443807087_20260630_130520.jpg",
+  "match_score": 0.867
+ },
+ {
+  "id": "6437cda1-913b-490e-9351-eaf5de6f8871",
+  "slug": "egozi-1st-wash-rosin-2g-2",
+  "name": "Egozi 1st Wash Rosin 2g",
+  "brand": "Egozi",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 42.0,
+  "price_max": 42.0,
+  "unit": "",
+  "thc_max": 72.82,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Biscotti Chunks",
+    "price": 42.0,
+    "thc": 69.6
+   },
+   {
+    "name": "Garlic Ice Cream",
+    "price": 42.0,
+    "thc": 72.82
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441299499_20260107_143556__1_.jpg",
+  "match_score": 0.99
+ },
+ {
+  "id": "935b29d0-ab09-479f-8df2-3732a173693f",
+  "slug": "live-resin-aio",
+  "name": "Live Resin AIO",
+  "brand": "14ER",
+  "category": "concentrate",
+  "subcategory": "resin",
+  "price_min": 32.0,
+  "price_max": 32.0,
+  "unit": "",
+  "thc_max": 74.2,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Lemon Face",
+    "price": 32.0,
+    "thc": 74.2
+   },
+   {
+    "name": "Waffle Cakes",
+    "price": 32.0,
+    "thc": 68.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432575211_20240610_080446.jpg",
+  "match_score": 0.702
+ },
+ {
+  "id": "51f6b306-f527-4eac-a724-813627e6662d",
+  "slug": "white-mousse-jousse",
+  "name": "White Mousse Jousse",
+  "brand": "(White Mousse) WM Concentrates LLC",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 6.0,
+  "price_max": 6.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Coco Berry",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Peach Passion Fruit",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Strawberry Banana",
+    "price": 6.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443808926_images__2_.jpg",
+  "match_score": 0.98
+ },
+ {
+  "id": "943e0bc0-d48c-4f75-8374-802bdf45fd35",
+  "slug": "oil-tugboat-1000",
+  "name": "Oil Tugboat 1000",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 15.0,
+  "price_max": 15.0,
+  "unit": "",
+  "thc_max": 83.55,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Banana Kush",
+    "price": 15.0,
+    "thc": 71.96
+   },
+   {
+    "name": "Fresh Squeeze",
+    "price": 15.0,
+    "thc": 71.05
+   },
+   {
+    "name": "Grand Daddy Purps",
+    "price": 15.0,
+    "thc": 77.34
+   },
+   {
+    "name": "Green Skunk",
+    "price": 15.0,
+    "thc": 79.29
+   },
+   {
+    "name": "OG Kush",
+    "price": 15.0,
+    "thc": 83.55
+   },
+   {
+    "name": "Purple Punch",
+    "price": 15.0,
+    "thc": 80.3
+   },
+   {
+    "name": "Super Lemon Haze",
+    "price": 15.0,
+    "thc": 74.53
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433521252_20240809_084008.jpg",
+  "match_score": 0.927
+ },
+ {
+  "id": "90fa2ccd-8f70-4968-9f16-008bc92abd6c",
+  "slug": "sugar-cane",
+  "name": "Sugar Cane",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 26.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 26.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442824239_20260418_125304.jpg",
+  "match_score": 1.045
+ },
+ {
+  "id": "3cee26bc-58b4-4db9-9a99-c2011ddb52b7",
+  "slug": "peanut-butter-souffle",
+  "name": "Peanut Butter Souffle",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 26.35,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 26.35
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436530119_IMG_5216.jpg",
+  "match_score": 1.034
+ },
+ {
+  "id": "734558ef-b3ca-4ddc-bec5-1ec4b38c112e",
+  "slug": "the-bakery-brothers-face-on-fire-og",
+  "name": "The Bakery Brothers - Face on Fire OG",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 24.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 24.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751175_unnamed__18_.jpg",
+  "match_score": 0.852
+ },
+ {
+  "id": "54735047-7f65-4aa5-b1b2-fe481fcbd223",
+  "slug": "black-maple",
+  "name": "Black Maple",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 22.97,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 22.97
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240302_IMG_0529.jpeg",
+  "match_score": 0.987
+ },
+ {
+  "id": "7272e743-7583-4d3c-88d0-a216261f76b1",
+  "slug": "permanent-marker",
+  "name": "Permanent Marker",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 17.22,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 17.22
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552461_IMG_0956__1_.jpeg",
+  "match_score": 0.896
+ },
+ {
+  "id": "f23affa5-6a61-4b5a-904f-82e07fecda20",
+  "slug": "tangilope",
+  "name": "Tangilope",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 28.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 28.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441514516_20260120_133241.jpg",
+  "match_score": 0.91
+ },
+ {
+  "id": "b86a64d5-784f-4c65-af85-a225119df480",
+  "slug": "c13-haze",
+  "name": "C13 Haze",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 27.25,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 27.25
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555033_IMG_0967__1_.jpeg",
+  "match_score": 0.953
+ },
+ {
+  "id": "baa347a2-f872-4d05-a257-301cf2819c2c",
+  "slug": "doggy-style",
+  "name": "Doggy Style",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236774_IMG_1383__1_.jpeg",
+  "match_score": 1.05
+ },
+ {
+  "id": "0b7f8481-4179-460e-a3ab-2c303091e0db",
+  "slug": "the-bakery-brothers-zero-tolerance-4",
+  "name": "The Bakery Brothers - Zero Tolerance #4",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 20,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 20
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442194010_IMG_0363.jpeg",
+  "match_score": 1.03
+ },
+ {
+  "id": "96e610d4-095d-42d1-8cbe-7f9e0689db17",
+  "slug": "milk-bath",
+  "name": "Milk Bath",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595870_Image_260610_145933.jpeg",
+  "match_score": 1.065
+ },
+ {
+  "id": "12336f9b-311c-4f3e-b483-5fa2c80304f4",
+  "slug": "cadillac-rainbows",
+  "name": "Cadillac Rainbows",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 21.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 21.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235449_IMG_1370.jpeg",
+  "match_score": 1.067
+ },
+ {
+  "id": "ad9105cc-4c41-40c7-b7f7-e65659da8cc0",
+  "slug": "kept-secret",
+  "name": "Kept Secret",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 29.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 29.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236749_IMG_1382.jpeg",
+  "match_score": 1.05
+ },
+ {
+  "id": "9eaf47b5-7705-4b9c-bcbf-cebfe0eaa0b1",
+  "slug": "dante-s-inferno-6",
+  "name": "Dante's Inferno #6",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443164528_IMG_20260505_122726208_2.jpg",
+  "match_score": 1.057
+ },
+ {
+  "id": "dbd957ba-7884-41b0-a461-e58eac162fa4",
+  "slug": "headphones-jam",
+  "name": "Headphones Jam",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 29.6,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 29.6
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235602_IMG_1374.jpeg",
+  "match_score": 1.06
+ },
+ {
+  "id": "329fba92-060a-423c-8fe3-a995a718af03",
+  "slug": "peanut-butter-gelato",
+  "name": "Peanut Butter Gelato",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.7,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.7
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595992_Image_260610_150804.jpeg",
+  "match_score": 1.098
+ },
+ {
+  "id": "8364485d-917f-42be-bf7e-b890caea1af9",
+  "slug": "moon-blend",
+  "name": "Moon Blend",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171927_IMG_20260505_164646943_2__1_.jpg",
+  "match_score": 1.045
+ },
+ {
+  "id": "17e7319f-c91b-492f-95a9-718ab394fffa",
+  "slug": "zmuckers-3",
+  "name": "Zmuckers #3",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 19.86,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 19.86
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240616_IMG_0530.jpeg",
+  "match_score": 0.92
+ },
+ {
+  "id": "d9c0716f-a794-4c27-b1d2-33b6b6b9413c",
+  "slug": "fizzy-cola",
+  "name": "Fizzy Cola",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 21.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 21.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442569023_IMG_7948.jpeg",
+  "match_score": 0.989
+ },
+ {
+  "id": "e587ddd8-2383-4b1d-a3c7-f745ecc33a9a",
+  "slug": "big-dipper-123",
+  "name": "Big Dipper #123",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 25.28,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 25.28
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552539_IMG_0949.jpeg",
+  "match_score": 1.021
+ },
+ {
+  "id": "f95da273-3f85-42df-bcb6-0fad8612b3e1",
+  "slug": "twax-5-pack-preroll",
+  "name": "twax 5 pack  preroll",
+  "brand": "The Clear",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 30.0,
+  "price_max": 30.0,
+  "unit": "",
+  "thc_max": 32.9,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Banana Cream",
+    "price": 30.0,
+    "thc": 32.6
+   },
+   {
+    "name": "Blueberry",
+    "price": 30.0,
+    "thc": 32.9
+   },
+   {
+    "name": "Lime Sorbet",
+    "price": 30.0,
+    "thc": 32.1
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439145193_HS_preroll.jpg",
+  "match_score": 0.652
+ },
+ {
+  "id": "9ed579d2-da0d-42a9-86d1-6783620de2a2",
+  "slug": "the-fizz",
+  "name": "The Fizz",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 28.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 28.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236703_IMG_1385.jpeg",
+  "match_score": 0.943
+ },
+ {
+  "id": "f65f79e1-1640-4457-b481-adec3bf1d4b7",
+  "slug": "black-ice-2",
+  "name": "Black Ice",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 20.89,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 45.0,
+    "thc": 20.89
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240742_IMG_0532.jpeg",
+  "match_score": 0.977
+ },
+ {
+  "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+  "slug": "denver-dab-wax-1g",
+  "name": "Denver Dab Wax 1g",
+  "brand": "Denver Dab Co",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 7.0,
+  "price_max": 7.0,
+  "unit": "",
+  "thc_max": 84.6,
+  "n_strains": 35,
+  "strains": [
+   {
+    "name": "Alien Chemtrails",
+    "price": 7.0,
+    "thc": 66.1
+   },
+   {
+    "name": "Alien Runtz",
+    "price": 7.0,
+    "thc": 75.6
+   },
+   {
+    "name": "Bio Chem Ice",
+    "price": 7.0,
+    "thc": 74.3
+   },
+   {
+    "name": "Cement Sherbert Cake",
+    "price": 7.0,
+    "thc": 76.8
+   },
+   {
+    "name": "Chem GMO Cake",
+    "price": 7.0,
+    "thc": 74.2
+   },
+   {
+    "name": "Diesel Chemdawg",
+    "price": 7.0,
+    "thc": 63.5
+   },
+   {
+    "name": "Dip N Grapes",
+    "price": 7.0,
+    "thc": 71.6
+   },
+   {
+    "name": "Driver N Grapes",
+    "price": 7.0,
+    "thc": 70.2
+   },
+   {
+    "name": "Dulce Syrup",
+    "price": 7.0,
+    "thc": 69.2
+   },
+   {
+    "name": "Durban Face Off",
+    "price": 7.0,
+    "thc": 73.2
+   },
+   {
+    "name": "Flo White #7",
+    "price": 7.0,
+    "thc": 76.7
+   },
+   {
+    "name": "Forbidden Dreams",
+    "price": 7.0,
+    "thc": 84.6
+   },
+   {
+    "name": "Gas Face Marshmello",
+    "price": 7.0,
+    "thc": 72.5
+   },
+   {
+    "name": "GG4 Butter",
+    "price": 7.0,
+    "thc": 75.7
+   },
+   {
+    "name": "GMO Banana",
+    "price": 7.0,
+    "thc": 67.9
+   },
+   {
+    "name": "Goldmember",
+    "price": 7.0,
+    "thc": 67
+   },
+   {
+    "name": "Head Banger Sherbert",
+    "price": 7.0,
+    "thc": 70.4
+   },
+   {
+    "name": "monkey spunk",
+    "price": 7.0,
+    "thc": 69.4
+   },
+   {
+    "name": "OG Grape Kush",
+    "price": 7.0,
+    "thc": 69.8
+   },
+   {
+    "name": "Pablo's Driver",
+    "price": 7.0,
+    "thc": 68
+   },
+   {
+    "name": "Peanut Butter Pancakes",
+    "price": 7.0,
+    "thc": 70.8
+   },
+   {
+    "name": "Pie Breath",
+    "price": 7.0,
+    "thc": 73
+   },
+   {
+    "name": "Platinum Driver X",
+    "price": 7.0,
+    "thc": 74.3
+   },
+   {
+    "name": "Purple Thai",
+    "price": 7.0,
+    "thc": 72.5
+   },
+   {
+    "name": "Red Velvet Cake",
+    "price": 7.0,
+    "thc": 77.2
+   },
+   {
+    "name": "Scoops",
+    "price": 7.0,
+    "thc": 72
+   },
+   {
+    "name": "SFV Chem",
+    "price": 7.0,
+    "thc": 70.6
+   },
+   {
+    "name": "Sherbanger",
+    "price": 7.0,
+    "thc": 71.6
+   },
+   {
+    "name": "Sour Durban",
+    "price": 7.0,
+    "thc": 64.18
+   },
+   {
+    "name": "StarDawg",
+    "price": 7.0,
+    "thc": 60.9
+   },
+   {
+    "name": "Stardawg Guava",
+    "price": 7.0,
+    "thc": 65.7
+   },
+   {
+    "name": "Tropicana cherry",
+    "price": 7.0,
+    "thc": 69.6
+   },
+   {
+    "name": "Truffle Breath",
+    "price": 7.0,
+    "thc": 66.2
+   },
+   {
+    "name": "Uva Banger",
+    "price": 7.0,
+    "thc": 67.5
+   },
+   {
+    "name": "Wicked Glueball",
+    "price": 7.0,
+    "thc": 77
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/030/987/avatar/1778692271-denver-dab-co_wax_durban-gorilla-haze_4.jpg",
+  "match_score": 1.18
+ },
+ {
+  "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+  "slug": "denver-dabs-4g",
+  "name": "Denver Dabs 4g",
+  "brand": "Denver Dab Co",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 22.0,
+  "price_max": 22.0,
+  "unit": "",
+  "thc_max": 73.2,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Black Maple Bacon",
+    "price": 22.0,
+    "thc": 64.6
+   },
+   {
+    "name": "ChemDawg",
+    "price": 22.0,
+    "thc": 73.2
+   },
+   {
+    "name": "Maple Molasses",
+    "price": 22.0,
+    "thc": 67.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/427833623_20230529_133801.jpg",
+  "match_score": 1.072
+ },
+ {
+  "id": "f5e8fc47-d444-47fd-a7d6-0ebb13ab1bda",
+  "slug": "virgin-mary-llc-flaming-hot-cheetoz",
+  "name": "Virgin Mary LLC - Flaming Hot Cheetoz",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 17.51,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 17.51
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.49
+ },
+ {
+  "id": "c9871da5-bac1-4435-945f-85a3ddecde6c",
+  "slug": "butter-pecan",
+  "name": "Butter Pecan",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 24.2,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 24.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442873287_IMG_1203.jpeg",
+  "match_score": 1.074
+ },
+ {
+  "id": "1ca48c5f-0588-4341-8288-c576386c6eff",
+  "slug": "clarity-gardens-zpie",
+  "name": "Clarity Gardens - ZPie",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 3.0,
+  "price_max": 3.0,
+  "unit": "/g",
+  "thc_max": 24.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.0,
+    "thc": 24.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442172030_IMG_4005.JPG",
+  "match_score": 0.637
+ },
+ {
+  "id": "91c8a9fc-86b9-422c-adfe-ba182470ce13",
+  "slug": "sherbert-cream-pie",
+  "name": "Sherbert Cream Pie",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 21.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 21.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167090_IMG_20260505_141618923_2.jpg",
+  "match_score": 1.105
+ },
+ {
+  "id": "a3f8a62a-63fa-437e-91f8-94671a1c389a",
+  "slug": "doobski",
+  "name": "Doobski",
+  "brand": "Bespoke extracts colorado LLC.",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 4.0,
+  "price_max": 4.0,
+  "unit": "/g",
+  "thc_max": 24.2,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Chromatic Rainbow",
+    "price": 4.0,
+    "thc": 21.99
+   },
+   {
+    "name": "Martini Sprinkles",
+    "price": 4.0,
+    "thc": 23.81
+   },
+   {
+    "name": "Safety Meeting",
+    "price": 4.0,
+    "thc": 23.38
+   },
+   {
+    "name": "Sour Lemon Valley",
+    "price": 4.0,
+    "thc": 24.2
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443731312_image0__46_.jpeg",
+  "match_score": 0.632
+ },
+ {
+  "id": "16de6e83-479d-4af6-9dea-f83854be0168",
+  "slug": "panacea-live-resin-cart-1000mg",
+  "name": "Panacea Live Resin Cart 1000mg",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "live extract",
+  "price_min": 13.0,
+  "price_max": 13.0,
+  "unit": "",
+  "thc_max": 78.01,
+  "n_strains": 10,
+  "strains": [
+   {
+    "name": "Bubba Haze",
+    "price": 13.0,
+    "thc": 77.48
+   },
+   {
+    "name": "Cake Dough",
+    "price": 13.0,
+    "thc": 74.25
+   },
+   {
+    "name": "Divine Kush Breath",
+    "price": 13.0,
+    "thc": 74.1
+   },
+   {
+    "name": "Glueball",
+    "price": 13.0,
+    "thc": 75.8
+   },
+   {
+    "name": "Goji Berry",
+    "price": 13.0,
+    "thc": 77.06
+   },
+   {
+    "name": "Kake Kush",
+    "price": 13.0,
+    "thc": 76.82
+   },
+   {
+    "name": "Lemon Cookies",
+    "price": 13.0,
+    "thc": 74.52
+   },
+   {
+    "name": "Lilac Diesel",
+    "price": 13.0,
+    "thc": 74.01
+   },
+   {
+    "name": "MAC",
+    "price": 13.0,
+    "thc": 68.2
+   },
+   {
+    "name": "Strawberry Lemonade",
+    "price": 13.0,
+    "thc": 78.01
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433545646_th__1_.jpg",
+  "match_score": 0.95
+ },
+ {
+  "id": "b13c1b1d-8c32-4a30-8fb2-34dc8b7c5f3e",
+  "slug": "palm-battery",
+  "name": "Palm Battery",
+  "brand": "Craft",
+  "category": "merchandise",
+  "subcategory": "vape",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "CCELL",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.065
+ },
+ {
+  "id": "f7f3bdfb-966a-4446-8d71-979e27e11580",
+  "slug": "pyramid-fullspectrum",
+  "name": "PYRAMID - FullSpectrum",
+  "brand": "Loud Labs LLC",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 16.0,
+  "price_max": 16.0,
+  "unit": "",
+  "thc_max": 71.14,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Apricot Pie",
+    "price": 16.0,
+    "thc": 69.68
+   },
+   {
+    "name": "Heavy Grapefruit",
+    "price": 16.0,
+    "thc": 71.14
+   },
+   {
+    "name": "Melted Strawberries",
+    "price": 16.0,
+    "thc": 67.79
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.449
+ },
+ {
+  "id": "6e27f7e4-f15e-42be-bd86-4884825c3f8c",
+  "slug": "the-clear-efx",
+  "name": "The Clear EFX",
+  "brand": "The Clear",
+  "category": "edible",
+  "subcategory": "gummies",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Blue Raz",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441898267_clear_blue_raz.jpg",
+  "match_score": 1.036
+ },
+ {
+  "id": "e0af0531-73ba-42c8-8cb7-a64f89cc321f",
+  "slug": "1g-infused-joint",
+  "name": "1g Infused Joint",
+  "brand": "Juicy",
+  "category": "concentrate",
+  "subcategory": "distillate",
+  "price_min": 9.0,
+  "price_max": 9.0,
+  "unit": "",
+  "thc_max": 41.9,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "BlueRazzled",
+    "price": 9.0,
+    "thc": 36.8
+   },
+   {
+    "name": "Lord of the peach rings",
+    "price": 9.0,
+    "thc": 34.3
+   },
+   {
+    "name": "Mangolorian",
+    "price": 9.0,
+    "thc": 39.9
+   },
+   {
+    "name": "Pineapples In Paradise",
+    "price": 9.0,
+    "thc": 39.8
+   },
+   {
+    "name": "Planet of the Grapes",
+    "price": 9.0,
+    "thc": 38.8
+   },
+   {
+    "name": "Revenge of the Blueberries",
+    "price": 9.0,
+    "thc": 41.9
+   },
+   {
+    "name": "Stawnana Split",
+    "price": 9.0,
+    "thc": 31.3
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.296
+ },
+ {
+  "id": "8c82c41c-29c8-401a-a9af-852fb4bec8a0",
+  "slug": "sesh-cart-1000",
+  "name": "Sesh Cart 1000",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 15.0,
+  "price_max": 15.0,
+  "unit": "",
+  "thc_max": 84.8,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Grand Daddy Purps",
+    "price": 15.0,
+    "thc": 84.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/135/207/avatar/1767906107-granddaddy_purps_-_cart.jpeg",
+  "match_score": 0.725
+ },
+ {
+  "id": "9395052f-19ed-446f-9ee9-b7de2f9fba29",
+  "slug": "dablets",
+  "name": "Dablets",
+  "brand": "Craft",
+  "category": "edible",
+  "subcategory": "capsule",
+  "price_min": 4.84,
+  "price_max": 4.84,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "ENERGY",
+    "price": 4.84,
+    "thc": null
+   },
+   {
+    "name": "SLEEP",
+    "price": 4.84,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.069
+ },
+ {
+  "id": "9168e49f-340d-416d-979b-5bb55999af9b",
+  "slug": "sesh-super-seshie-all-in-one",
+  "name": "Sesh super Seshie All in One",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "",
+  "thc_max": 81.43,
+  "n_strains": 5,
+  "strains": [
+   {
+    "name": "Cherry Limeade",
+    "price": 45.0,
+    "thc": 75.28
+   },
+   {
+    "name": "Electric Lemonade",
+    "price": 45.0,
+    "thc": 81.43
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 45.0,
+    "thc": 77.25
+   },
+   {
+    "name": "Pineapple Cake Express",
+    "price": 45.0,
+    "thc": 79.05
+   },
+   {
+    "name": "White Runtz",
+    "price": 45.0,
+    "thc": 76.91
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/616/430/avatar/1741718032-hp13.png",
+  "match_score": 0.651
+ },
+ {
+  "id": "69ad4971-f7ff-4c27-a37b-af144911fe27",
+  "slug": "ao-live-resin",
+  "name": "AO Live Resin",
+  "brand": "AO Extracts",
+  "category": "concentrate",
+  "subcategory": "live extract",
+  "price_min": 18.0,
+  "price_max": 18.0,
+  "unit": "",
+  "thc_max": 72.9,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Black Cherry Soda",
+    "price": 18.0,
+    "thc": 72.9
+   },
+   {
+    "name": "Fruit Stripez",
+    "price": 18.0,
+    "thc": 71.9
+   },
+   {
+    "name": "Pineapple Donut",
+    "price": 18.0,
+    "thc": 71.99
+   },
+   {
+    "name": "Starfruit",
+    "price": 18.0,
+    "thc": 66.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440225932_IMG_4706__1_.jpg",
+  "match_score": 1.061
+ },
+ {
+  "id": "b967df56-1b09-42a8-913b-a46fcbe30d99",
+  "slug": "the-bakery-brothers-bewitched-1",
+  "name": "The Bakery Brothers - Bewitched #1",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 18.59,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 18.59
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443750985_unnamed__15_.jpg",
+  "match_score": 0.708
+ },
+ {
+  "id": "f8564e70-03f2-4ddf-bbfd-56c99471aea1",
+  "slug": "juicy-concentrates",
+  "name": "Juicy Concentrates",
+  "brand": "Juicy Concentrates",
+  "category": "merchandise",
+  "subcategory": "vape",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Variable Voltage 510 Thread",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.063
+ },
+ {
+  "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
+  "slug": "oil-twist-cartridge",
+  "name": "Oil Twist Cartridge",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 9.68,
+  "price_max": 9.68,
+  "unit": "",
+  "thc_max": 88.44,
+  "n_strains": 11,
+  "strains": [
+   {
+    "name": "Apple Sauce",
+    "price": 9.68,
+    "thc": 80.37
+   },
+   {
+    "name": "Baked Banana",
+    "price": 9.68,
+    "thc": 74.58
+   },
+   {
+    "name": "Blueberry Swirl",
+    "price": 9.68,
+    "thc": 86.6
+   },
+   {
+    "name": "Citrus Splash",
+    "price": 9.68,
+    "thc": 78.36
+   },
+   {
+    "name": "Mango Squeezed",
+    "price": 9.68,
+    "thc": 87.41
+   },
+   {
+    "name": "Maple Drip",
+    "price": 9.68,
+    "thc": 83.35
+   },
+   {
+    "name": "Orange Krush",
+    "price": 9.68,
+    "thc": 77.82
+   },
+   {
+    "name": "Punchberry",
+    "price": 9.68,
+    "thc": 76.63
+   },
+   {
+    "name": "Strawberry Shortcake",
+    "price": 9.68,
+    "thc": 87.41
+   },
+   {
+    "name": "Tropsicle",
+    "price": 9.68,
+    "thc": 88.44
+   },
+   {
+    "name": "Watermelon Ice",
+    "price": 9.68,
+    "thc": 83.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
+  "match_score": 0.816
+ },
+ {
+  "id": "43c21b13-4047-43e1-b097-147b16653d28",
+  "slug": "kaviar-pre-roll",
+  "name": "Kaviar Pre roll",
+  "brand": "Starbuds Mips",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 21.0,
+  "price_max": 21.0,
+  "unit": "",
+  "thc_max": 32.8,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Hybrid",
+    "price": 21.0,
+    "thc": 31.3
+   },
+   {
+    "name": "Indica",
+    "price": 21.0,
+    "thc": 32.1
+   },
+   {
+    "name": "Sativa",
+    "price": 21.0,
+    "thc": 32.8
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430725524_PXL_20240316_160658709.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.628
+ },
+ {
+  "id": "5ab00e99-6eab-4b5c-a7d1-11fe53769e55",
+  "slug": "kaviar-moonrocks",
+  "name": "Kaviar Moonrocks",
+  "brand": "Starbuds Mips",
+  "category": "concentrate",
+  "subcategory": "cured extract",
+  "price_min": 22.0,
+  "price_max": 22.0,
+  "unit": "",
+  "thc_max": 63.5,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Hybrid",
+    "price": 22.0,
+    "thc": 60
+   },
+   {
+    "name": "Indica",
+    "price": 22.0,
+    "thc": 63.5
+   },
+   {
+    "name": "Sativa",
+    "price": 22.0,
+    "thc": 58.8
+   }
+  ],
+  "description": "1g Kaviar Moonrocks. Kaviar Moonrocks start with select flower that is infused with hash oil, then rolled in kief. This proprietary infused flower blend is smooth, flavorful and slow-burning with 60-80% THC potency.",
+  "wm_img": "",
+  "match_score": 0.073
+ },
+ {
+  "id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0",
+  "slug": "oil-4-pack",
+  "name": "Oil 4 Pack",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 34.0,
+  "price_max": 34.0,
+  "unit": "",
+  "thc_max": 86.16,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Hybrid Multipack",
+    "price": 34.0,
+    "thc": 84.16
+   },
+   {
+    "name": "Indica Multipack",
+    "price": 34.0,
+    "thc": 86.16
+   },
+   {
+    "name": "Sativa Multipack",
+    "price": 34.0,
+    "thc": 83.27
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
+  "match_score": 0.809
+ },
+ {
+  "id": "c50921a9-3d16-4b81-bafb-e00eb6468ec9",
+  "slug": "fritter-runtz",
+  "name": "Fritter Runtz",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 26.06,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 26.06
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443597097_IMG_9637.jpeg",
+  "match_score": 0.877
+ },
+ {
+  "id": "53498334-3bdb-4665-a989-b5f907ecb7cf",
+  "slug": "oil-cartridge-1000-mg",
+  "name": "Oil Cartridge 1000 mg",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 9.68,
+  "price_max": 9.68,
+  "unit": "",
+  "thc_max": 82.29,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Blueberry Bubble",
+    "price": 9.68,
+    "thc": 82.29
+   },
+   {
+    "name": "Fresh Squeeze",
+    "price": 9.68,
+    "thc": 75.78
+   },
+   {
+    "name": "Grand Daddy Purps",
+    "price": 9.68,
+    "thc": 74.37
+   },
+   {
+    "name": "Mango Kush",
+    "price": 9.68,
+    "thc": 69.01
+   },
+   {
+    "name": "Sour Diesel",
+    "price": 9.68,
+    "thc": 76.83
+   },
+   {
+    "name": "Super Lemon Haze",
+    "price": 9.68,
+    "thc": 76.15
+   },
+   {
+    "name": "Tangerine Haze",
+    "price": 9.68,
+    "thc": 76.09
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
+  "match_score": 1.054
+ },
+ {
+  "id": "f4910b45-c276-40c0-a534-21643b69548d",
+  "slug": "4g-bucket",
+  "name": "4g Bucket",
+  "brand": "Cold Baked",
+  "category": "concentrate",
+  "subcategory": "budder",
+  "price_min": 28.0,
+  "price_max": 28.0,
+  "unit": "",
+  "thc_max": 66.89,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Blueberry Muffin",
+    "price": 28.0,
+    "thc": 62.69
+   },
+   {
+    "name": "GG4",
+    "price": 28.0,
+    "thc": 61.52
+   },
+   {
+    "name": "Ice Jam",
+    "price": 28.0,
+    "thc": 64.02
+   },
+   {
+    "name": "Zenith Berry",
+    "price": 28.0,
+    "thc": 66.89
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439540360_IMG_5392.jpg",
+  "match_score": 0.76
+ },
+ {
+  "id": "eff39341-a5b5-40f3-9350-4f3bb4435f15",
+  "slug": "space-kandy",
+  "name": "Space Kandy",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 27.09,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 27.09
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441514541_20260120_133406.jpg",
+  "match_score": 0.972
+ },
+ {
+  "id": "19e13142-462e-4477-b4a4-2e0f50bb1c9b",
+  "slug": "jet-fuel",
+  "name": "Jet Fuel",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 26.99,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 26.99
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437472737_IMG_5579.jpg",
+  "match_score": 0.953
+ },
+ {
+  "id": "8a41ffcc-98b2-4ca4-9f03-a6334d6d2f9a",
+  "slug": "fruity-pebbles",
+  "name": "Fruity Pebbles",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 29.55,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 29.55
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/435211144_PXL_20240903_014323722.PORTRAIT.ORIGINAL.jpg",
+  "match_score": 0.985
+ },
+ {
+  "id": "2c901e6b-dff9-48e0-9b5f-66bd8ba7ae23",
+  "slug": "oil-twist-tanker",
+  "name": "Oil Twist Tanker",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 35.0,
+  "price_max": 35.0,
+  "unit": "",
+  "thc_max": 87.8,
+  "n_strains": 10,
+  "strains": [
+   {
+    "name": "Apple Sauce",
+    "price": 35.0,
+    "thc": 80.61
+   },
+   {
+    "name": "Baked Banana",
+    "price": 35.0,
+    "thc": 87.8
+   },
+   {
+    "name": "Blueberry Swirl",
+    "price": 35.0,
+    "thc": 73.98
+   },
+   {
+    "name": "Cherry Slush",
+    "price": 35.0,
+    "thc": 76.05
+   },
+   {
+    "name": "Citrus Splash",
+    "price": 35.0,
+    "thc": 73.95
+   },
+   {
+    "name": "Mango Squeeze",
+    "price": 35.0,
+    "thc": 79.77
+   },
+   {
+    "name": "Maple Drip",
+    "price": 35.0,
+    "thc": 76.07
+   },
+   {
+    "name": "Orange Krush",
+    "price": 35.0,
+    "thc": 85.67
+   },
+   {
+    "name": "Punchberry",
+    "price": 35.0,
+    "thc": 73.64
+   },
+   {
+    "name": "Tropsicle",
+    "price": 35.0,
+    "thc": 70.64
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429501568_IMG_0151.JPEG",
+  "match_score": 0.769
+ },
+ {
+  "id": "1e5f23a8-1f5d-4e50-b722-e2d5eca96156",
+  "slug": "cap-junky-2",
+  "name": "Cap Junky",
+  "brand": "Egozi",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 45.0,
+  "price_max": 45.0,
+  "unit": "/g",
+  "thc_max": 24.41,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Half",
+    "price": 45.0,
+    "thc": 24.41
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443579296_capjunky_24.41_.jpeg",
+  "match_score": 0.875
+ },
+ {
+  "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
+  "slug": "oil-distillate-tanker",
+  "name": "Oil Distillate Tanker",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 35.0,
+  "price_max": 35.0,
+  "unit": "",
+  "thc_max": 82.47,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Diesel Dawg",
+    "price": 35.0,
+    "thc": 71.73
+   },
+   {
+    "name": "Grape Gorilla",
+    "price": 35.0,
+    "thc": 77.86
+   },
+   {
+    "name": "Hawaiian Sour",
+    "price": 35.0,
+    "thc": 74.25
+   },
+   {
+    "name": "Orange Sorbet",
+    "price": 35.0,
+    "thc": 76.34
+   },
+   {
+    "name": "Tangie Tart",
+    "price": 35.0,
+    "thc": 82.47
+   },
+   {
+    "name": "Tropical Punch",
+    "price": 35.0,
+    "thc": 77.83
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429501568_IMG_0151.JPEG",
+  "match_score": 0.752
+ },
+ {
+  "id": "d4ce9adc-a37e-4401-84fb-1ab7b0ef4380",
+  "slug": "orange-push-pop",
+  "name": "Orange Push Pop",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 28.06,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 28.06
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440600702_IMG_3564__1_.JPG",
+  "match_score": 1.019
+ },
+ {
+  "id": "5fa0604f-50f7-4061-a351-e729b445f1bb",
+  "slug": "super-buff-cherry",
+  "name": "Super Buff Cherry",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 20,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 20
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442566098_IMG_8339.jpg",
+  "match_score": 1.042
+ },
+ {
+  "id": "a0524ac7-7930-4572-bf37-d44be6df446c",
+  "slug": "sour-gorilla",
+  "name": "Sour Gorilla",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 28.79,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 28.79
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443239713_IMG_0528.jpeg",
+  "match_score": 0.977
+ },
+ {
+  "id": "cf7867f3-1264-460c-a4a8-3bf3bde3f389",
+  "slug": "ripple-quicksticks",
+  "name": "Ripple QuickSticks",
+  "brand": "Lifestyle Foods Inc",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 17.0,
+  "price_max": 17.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Sleep 1:1 THC/CBN/CBD",
+    "price": 17.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429764974_Sleep.png",
+  "match_score": 0.855
+ },
+ {
+  "id": "bc360d22-4b65-4d96-9b4d-7a87501c0e0f",
+  "slug": "twax-1g-preroll",
+  "name": "twax 1g Preroll",
+  "brand": "The Clear",
+  "category": "flower",
+  "subcategory": "other",
+  "price_min": 8.06,
+  "price_max": 8.06,
+  "unit": "",
+  "thc_max": 34.3,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "Banana Cream",
+    "price": 8.06,
+    "thc": 31.8
+   },
+   {
+    "name": "Blueberry",
+    "price": 8.06,
+    "thc": 34.3
+   },
+   {
+    "name": "Lime Sorbet",
+    "price": 8.06,
+    "thc": 32.1
+   },
+   {
+    "name": "Pure Pear",
+    "price": 8.06,
+    "thc": 30
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439145193_HS_preroll.jpg",
+  "match_score": 0.652
+ },
+ {
+  "id": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a",
+  "slug": "the-bakery-brothers-pre-98-blue-dream",
+  "name": "The Bakery Brothers -Pre-98 Blue Dream",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 23.51,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 23.51
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751084_unnamed__16_.jpg",
+  "match_score": 0.822
+ },
+ {
+  "id": "7bcdcf06-6377-457a-b200-8cb1faa0a1c8",
+  "slug": "the-bakery-brothers-jelly-cake",
+  "name": "The Bakery Brothers -Jelly Cake",
+  "brand": "TBB Llc",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "unit": "/g",
+  "thc_max": 18.99,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.5,
+    "thc": 18.99
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751163_unnamed__17_.jpg",
+  "match_score": 0.777
+ },
+ {
+  "id": "8759452d-694c-4f18-a4f8-a4b9a5128c02",
+  "slug": "abr-40",
+  "name": "ABR #40",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 17.84,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 17.84
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442870764_IMG_1199.jpeg",
+  "match_score": 0.898
+ },
+ {
+  "id": "15f80fbe-dcf4-46ca-b7e1-73c8eb7a7df1",
+  "slug": "xj-13",
+  "name": "XJ-13",
+  "brand": "Twax",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 8.06,
+  "price_max": 8.06,
+  "unit": "/g",
+  "thc_max": 31.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "1g // Infused Joint",
+    "price": 8.06,
+    "thc": 31.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/627/209/avatar/1753897332-download.png",
+  "match_score": 0.728
+ },
+ {
+  "id": "61b5ff79-8c85-42d0-accc-7a0c950cbfb9",
+  "slug": "strawberry-banana",
+  "name": "Strawberry Banana",
+  "brand": "Twax",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 8.06,
+  "price_max": 8.06,
+  "unit": "/g",
+  "thc_max": 37,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "1g // Infused Joint",
+    "price": 8.06,
+    "thc": 37
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/627/210/avatar/1753897332-download.png",
+  "match_score": 0.882
+ },
+ {
+  "id": "c0bd6680-3597-4b3f-81be-0d1d3f828e89",
+  "slug": "sesh-4-pack",
+  "name": "Sesh 4 Pack",
+  "brand": "Craft",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 36.0,
+  "price_max": 36.0,
+  "unit": "",
+  "thc_max": 85.5,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Pack #1",
+    "price": 36.0,
+    "thc": 84.69
+   },
+   {
+    "name": "Pack #2",
+    "price": 36.0,
+    "thc": 85.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/847/799/avatar/1767901226-1_-_churroz_-_cart.jpeg",
+  "match_score": 0.807
+ },
+ {
+  "id": "8563664a-3e31-4a0d-aee6-d29b0a414217",
+  "slug": "gello",
+  "name": "Gello",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 24.08,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 24.08
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587103_Gello.jpeg",
+  "match_score": 0.874
+ },
+ {
+  "id": "f2fc70d4-9722-4bab-bd7c-fc732b326fc5",
+  "slug": "oil-infused-cone-5pk",
+  "name": "Oil Infused Cone (5pk)",
+  "brand": "Craft",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 14.0,
+  "price_max": 14.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Infused Cones Variety 5pk",
+    "price": 14.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436219858_5pk.jfif",
+  "match_score": 0.91
+ },
+ {
+  "id": "ade3d44b-abfc-4f7c-a760-2910647589d1",
+  "slug": "hi-chew",
+  "name": "Hi - Chew",
+  "brand": "Antero Sciences",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 27.5,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 27.5
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443169814_IMG_9291__1_.jpeg",
+  "match_score": 1.027
+ },
+ {
+  "id": "ea0ce9d8-4ec3-4278-9155-a78668a8bb30",
+  "slug": "5280",
+  "name": "5280",
+  "brand": "Hi-Fuel",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.02,
+  "price_max": 2.02,
+  "unit": "/g",
+  "thc_max": 26.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.02,
+    "thc": 26.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429574910_20231205_123651.jpg",
+  "match_score": 0.699
+ },
+ {
+  "id": "fa529e04-12dd-4dfc-b217-1778ceda8cb9",
+  "slug": "french-cookies",
+  "name": "French Cookies",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 30.08,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 30.08
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440198758_IMG_3486.JPG",
+  "match_score": 0.985
+ },
+ {
+  "id": "9aba0756-6356-424a-a683-db6d81054328",
+  "slug": "don-mega",
+  "name": "Don Mega",
+  "brand": "Vera",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 25.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 25.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594767_Image_260610_141007.jpeg",
+  "match_score": 1.05
+ },
+ {
+  "id": "be6f0c7f-6f4e-4a53-a0ad-516ba245c7ae",
+  "slug": "sesh-infused-5-pack",
+  "name": "Sesh infused 5-Pack",
+  "brand": "Craft",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 16.0,
+  "price_max": 16.0,
+  "unit": "",
+  "thc_max": 26.26,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "variety pack",
+    "price": 16.0,
+    "thc": 26.26
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/616/460/avatar/1737064916-new_cone_5_pack.png",
+  "match_score": 1.071
+ },
+ {
+  "id": "551e7509-6d01-42b6-a445-d08003c352bf",
+  "slug": "acai-berry-gelato",
+  "name": "Acai Berry Gelato",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 25.72,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 25.72
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441537472_IMG_0177.jpeg",
+  "match_score": 1.025
+ },
+ {
+  "id": "c2c82cfe-1577-49f8-b59b-f41a82a59873",
+  "slug": "la-kush-cake-2",
+  "name": "LA Kush Cake",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 31.41,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 31.41
+   }
+  ],
+  "description": "This cross of the popular Wedding Cake and Kush Mints comes from Liberty Health Sciences and Seed Junky Genetics. La Kush Cake is an indica-dominant strain that smells like vanilla and has an earthy peppermint taste. It\u2019s an easy, smooth hitter, and effects take a while to come on. This is a beautiful flower, with green and purple buds covered in frosty trichomes. It\u2019s great for relaxing and winding down at the end of the night without much else to do.",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442711906_IMG_4141.JPG",
+  "match_score": 1.007
+ },
+ {
+  "id": "0e03cc76-b17e-47e7-a656-4b744bb0828d",
+  "slug": "ao-live-rosin",
+  "name": "AO Live Rosin",
+  "brand": "AO Extracts",
+  "category": "concentrate",
+  "subcategory": "solventless",
+  "price_min": 28.0,
+  "price_max": 28.0,
+  "unit": "",
+  "thc_max": 73.27,
+  "n_strains": 5,
+  "strains": [
+   {
+    "name": "Caked Up Bananas",
+    "price": 28.0,
+    "thc": 68.85
+   },
+   {
+    "name": "Red Runtz",
+    "price": 28.0,
+    "thc": 73.27
+   },
+   {
+    "name": "Red Velvet Mints",
+    "price": 28.0,
+    "thc": 68.93
+   },
+   {
+    "name": "Strawberry Banana",
+    "price": 28.0,
+    "thc": 70.01
+   },
+   {
+    "name": "Trop Cherry",
+    "price": 28.0,
+    "thc": 65.68
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437199168_IMG_5806.jpeg",
+  "match_score": 1.061
+ },
+ {
+  "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
+  "slug": "ao-cartridges-1g",
+  "name": "AO Cartridges 1g",
+  "brand": "AO Extracts",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "",
+  "thc_max": 87,
+  "n_strains": 14,
+  "strains": [
+   {
+    "name": "Apples & Bananas",
+    "price": 12.0,
+    "thc": 86.7
+   },
+   {
+    "name": "Banana Runtz",
+    "price": 12.0,
+    "thc": 83.9
+   },
+   {
+    "name": "Blackberry Kush",
+    "price": 12.0,
+    "thc": 84.5
+   },
+   {
+    "name": "Bubble Gum",
+    "price": 12.0,
+    "thc": 84.7
+   },
+   {
+    "name": "Grape Runtz",
+    "price": 12.0,
+    "thc": 86.7
+   },
+   {
+    "name": "Lime Sorbet",
+    "price": 12.0,
+    "thc": 85.8
+   },
+   {
+    "name": "Lychee",
+    "price": 12.0,
+    "thc": 87
+   },
+   {
+    "name": "Rainbow Belts",
+    "price": 12.0,
+    "thc": 84.2
+   },
+   {
+    "name": "Red Apple",
+    "price": 12.0,
+    "thc": 85.9
+   },
+   {
+    "name": "Rocket Pop",
+    "price": 12.0,
+    "thc": 81.5
+   },
+   {
+    "name": "Rocket Power",
+    "price": 12.0,
+    "thc": 72.1
+   },
+   {
+    "name": "Soda Pop",
+    "price": 12.0,
+    "thc": 85.3
+   },
+   {
+    "name": "Sour Tangie",
+    "price": 12.0,
+    "thc": 82.5
+   },
+   {
+    "name": "Watermelon Zlushie",
+    "price": 12.0,
+    "thc": 79.98
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442068379_ao_cart.jpg",
+  "match_score": 0.643
+ },
+ {
+  "id": "3696f4f3-6566-4604-b3aa-885d07b6cc55",
+  "slug": "dante-s-wrath-47",
+  "name": "Dante's Wrath #47",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 20.9,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 20.9
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442478989_20260326_090151__1_.jpg",
+  "match_score": 1.027
+ },
+ {
+  "id": "859f98fc-02ca-4729-b7f6-15141db9f458",
+  "slug": "hype-wax",
+  "name": "HYPE Wax",
+  "brand": "",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "",
+  "thc_max": 78.3,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Sherb Crasher",
+    "price": 8.0,
+    "thc": 78.3
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443807251_20260630_135010.jpg",
+  "match_score": 1.03
+ },
+ {
+  "id": "e1d956ec-9bb9-4e08-bc20-b7c925eb35ed",
+  "slug": "strawberries-n-cream",
+  "name": "Strawberries n Cream",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 25.64,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 25.64
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440574993_IMG_3563.JPG",
+  "match_score": 0.998
+ },
+ {
+  "id": "15a22fa9-5bf0-4b27-8ddf-f6c8d7ba4879",
+  "slug": "sundae-driver",
+  "name": "Sundae Driver",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 24.62,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 24.62
+   }
+  ],
+  "description": "Sundae Driver is a hybrid marijuana strain made by crossing FPOG with Grape Pie. The effects of this strain will make you feel balanced, calm, and happy. Sundae Driver has a sweet, mellow and creamy flavor. Growers say this strain comes in light green and purple buds that are drenched in trichomes",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440709505_Image_251201_133142.jpeg",
+  "match_score": 1.057
+ },
+ {
+  "id": "6f4251ab-01c5-4ca8-b2b6-dd4d8a03f0ec",
+  "slug": "astronaught-stratus-24",
+  "name": "ASTRONAUGHT STRATUS #24",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 22.16,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 22.16
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748754_IMG_0685.jpeg",
+  "match_score": 1.054
+ },
+ {
+  "id": "2a1b08b8-1c06-4201-bc91-b613441f09a9",
+  "slug": "gary-payton",
+  "name": "Gary Payton",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 26.79,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 26.79
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555008_IMG_0966.jpeg",
+  "match_score": 0.972
+ },
+ {
+  "id": "754640fc-892e-41da-b9fb-29a3e3b48ba2",
+  "slug": "mbxbv-3",
+  "name": "MBxBV#3",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 23,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441328335_IMG_7834.jpg",
+  "match_score": 0.929
+ },
+ {
+  "id": "b11d9eee-bcd8-48c1-98c0-9787001a399c",
+  "slug": "omt-114",
+  "name": "OMT #114",
+  "brand": "CLEARWATER BUDS LLC",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 1.71,
+  "price_max": 1.71,
+  "unit": "/g",
+  "thc_max": 23.15,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 1.71,
+    "thc": 23.15
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748958_IMG_0686.jpeg",
+  "match_score": 0.898
+ },
+ {
+  "id": "9aecba5f-1d8d-418d-96f6-3d11edeb48a9",
+  "slug": "meat-breath",
+  "name": "Meat Breath",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 25.23,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 25.23
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441441741_IMG_3728.JPG",
+  "match_score": 1.05
+ },
+ {
+  "id": "e2574b3c-47c4-497f-a9c1-6043768fd805",
+  "slug": "virgin-mary-llc-runtz",
+  "name": "Virgin Mary LLC - Runtz",
+  "brand": "",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 3.71,
+  "price_max": 3.71,
+  "unit": "/g",
+  "thc_max": 16.79,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 3.71,
+    "thc": 16.79
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221508_runtz.jpg",
+  "match_score": 0.929
+ },
+ {
+  "id": "f974e86b-3ead-4ffa-90e8-9e423791f648",
+  "slug": "sour-patch-kids-2",
+  "name": "Sour Patch Kids",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 29.48,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 29.48
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555051_IMG_0970.jpeg",
+  "match_score": 1.019
+ },
+ {
+  "id": "cfa52440-b927-4f77-80be-7ad5bcc49d3b",
+  "slug": "pineapple-punch",
+  "name": "Pineapple Punch",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "indica",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 24.69,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 24.69
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436989964_IMG_1077.jpg",
+  "match_score": 1.063
+ },
+ {
+  "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
+  "slug": "1g-cart-2",
+  "name": "1g Cart",
+  "brand": "Juicy",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 9.68,
+  "price_max": 9.68,
+  "unit": "",
+  "thc_max": 81.8,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Pineapples In Paradise",
+    "price": 9.68,
+    "thc": 81.8
+   },
+   {
+    "name": "What A Melon",
+    "price": 9.68,
+    "thc": 81.4
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
+  "match_score": 0.86
+ },
+ {
+  "id": "6c38376e-f424-48f5-a12d-2640f71d2d78",
+  "slug": "tropicana-cookies",
+  "name": "Tropicana Cookies",
+  "brand": "Silver Lake",
+  "category": "flower",
+  "subcategory": "sativa",
+  "price_min": 2.42,
+  "price_max": 2.42,
+  "unit": "/g",
+  "thc_max": 33,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Loose",
+    "price": 2.42,
+    "thc": 33
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440198978_IMG_3488__1_.jpg",
+  "match_score": 0.995
+ },
+ {
+  "id": "f5e971e4-a5a1-46f6-9fa0-b4c3e003a2c3",
+  "slug": "nerd-bar-5g",
+  "name": "Nerd Bar 5g",
+  "brand": "Clearview Industries",
+  "category": "concentrate",
+  "subcategory": "cartridge",
+  "price_min": 50.0,
+  "price_max": 50.0,
+  "unit": "",
+  "thc_max": 73.48,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Strawberry Surge",
+    "price": 50.0,
+    "thc": 73.48
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442418631_nerdbar4g_screenshot.png",
+  "match_score": 0.828
+ },
+ {
+  "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+  "slug": "twister-pak",
+  "name": "Twister Pak",
+  "brand": "Chaos",
+  "category": "concentrate",
+  "subcategory": "crumble",
+  "price_min": 22.58,
+  "price_max": 22.58,
+  "unit": "",
+  "thc_max": 82.24,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Blue Dog, Mach Cake, Galactic Mac",
+    "price": 22.58,
+    "thc": 82.24
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443684491_chaos32.jpg",
+  "match_score": 1.004
+ },
+ {
+  "id": "54dc030a-e402-4f69-8595-fd44c9a3612a",
+  "slug": "chaos-crispies",
+  "name": "Chaos Crispies",
+  "brand": "Chaos",
+  "category": "edible",
+  "subcategory": "candy",
+  "price_min": 10.0,
+  "price_max": 10.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 3,
+  "strains": [
+   {
+    "name": "Cookies 'N Cream",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Fruity",
+    "price": 10.0,
+    "thc": null
+   },
+   {
+    "name": "Peanut Butter & Chocolate",
+    "price": 10.0,
+    "thc": null
+   }
+  ],
+  "description": "A package of ten rice crispy treats. 10 mg THC per piece, comes in a variety of flavors.",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431288826_IMG_1330.jpg",
+  "match_score": 0.977
+ },
+ {
+  "id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de",
+  "slug": "wax-2",
+  "name": "wax",
+  "brand": "Chaos",
+  "category": "concentrate",
+  "subcategory": "wax",
+  "price_min": 7.0,
+  "price_max": 7.0,
+  "unit": "",
+  "thc_max": 79.69,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": "Ice Breath",
+    "price": 7.0,
+    "thc": 67.76
+   },
+   {
+    "name": "MR.G",
+    "price": 7.0,
+    "thc": 79.69
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443684281_IMG_20260618_130717756.jpg",
+  "match_score": 0.86
+ },
+ {
+  "id": "2cea9b63-bbfc-40db-9807-04df85edb620",
+  "slug": "patches",
+  "name": "Patches",
+  "brand": "Loud Labs LLC",
+  "category": "topical",
+  "subcategory": "patch",
+  "price_min": 12.0,
+  "price_max": 12.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 4,
+  "strains": [
+   {
+    "name": "1:1 CBD/THC",
+    "price": 12.0,
+    "thc": null
+   },
+   {
+    "name": "CBN",
+    "price": 12.0,
+    "thc": null
+   },
+   {
+    "name": "Entourage",
+    "price": 12.0,
+    "thc": null
+   },
+   {
+    "name": "RSO",
+    "price": 12.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.052
+ },
+ {
+  "id": "8ffd5c49-93d2-4ef7-b243-2161da5ad521",
+  "slug": "nano-cream",
+  "name": "Nano Cream",
+  "brand": "Blue Cottage LLC",
+  "category": "topical",
+  "subcategory": "lotion",
+  "price_min": 14.0,
+  "price_max": 65.0,
+  "unit": "",
+  "thc_max": null,
+  "n_strains": 2,
+  "strains": [
+   {
+    "name": ".3oz",
+    "price": 14.0,
+    "thc": null
+   },
+   {
+    "name": "2oz",
+    "price": 65.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443726837_7271.jpg",
+  "match_score": 0.668
+ },
+ {
+  "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+  "slug": "tarantulas",
+  "name": "Tarantulas",
+  "brand": "CALI BLAZE (OCC)",
+  "category": "flower",
+  "subcategory": "hybrid",
+  "price_min": 8.0,
+  "price_max": 8.0,
+  "unit": "/g",
+  "thc_max": 39.78,
+  "n_strains": 7,
+  "strains": [
+   {
+    "name": "Blueberry",
+    "price": 8.0,
+    "thc": 37.37
+   },
+   {
+    "name": "Cherry Cola",
+    "price": 8.0,
+    "thc": 33.1
+   },
+   {
+    "name": "Cinnamon Churro",
+    "price": 8.0,
+    "thc": 39.78
+   },
+   {
+    "name": "Green Apple",
+    "price": 8.0,
+    "thc": 34.24
+   },
+   {
+    "name": "Pina Colada",
+    "price": 8.0,
+    "thc": 36.81
+   },
+   {
+    "name": "Vanilla Lava Cake",
+    "price": 8.0,
+    "thc": 33.22
+   },
+   {
+    "name": "Watermelon",
+    "price": 8.0,
+    "thc": 34.24
+   }
+  ],
+  "description": "",
+  "wm_img": "",
+  "match_score": 0.247
+ }
+]
