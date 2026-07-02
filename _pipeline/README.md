@@ -53,3 +53,22 @@ Recommended, reversible, zero email/blog risk:
 4. Point the Wix homepage "MENU" nav at `https://shop.terpsdispensary.com`.
 
 Alternative (bigger): replace the apex entirely — migrate the blog, preserve Google Workspace MX. Do with Evan present.
+
+## Auto-refresh (2026-07-02)
+
+The site keeps itself in lockstep with the Weave POS — no human step:
+
+- `.github/workflows/refresh.yml` runs ~6am / noon / 6pm Mountain (and on
+  manual dispatch): `refresh_menu.py` (fail-closed live-feed pull, canonicalized
+  so only real menu changes produce diffs) → `build_catalog.py` →
+  `sync_images.py` → `build_site.py` → `verify_site.py` → commit + Pages deploy
+  only if something changed.
+- **Photos**: `sync_images.py` prefers photos uploaded in the Weave POS itself
+  (feed `images[].url`), falls back to the 2026-07 Weedmaps harvest for
+  products with no Weave photo, else the branded placeholder. The store team
+  uploads photos in Weave; they appear on the site at the next refresh.
+- Between refreshes the browser still live-hydrates stock/visibility from the
+  Weave API on every page load (menu.js/app.js), so OFF-menu and sold-out are
+  near-instant; the rebuild handles new products, removals, prices, photos, SEO.
+- `download_images.py` (one-shot WM harvest, stale `site/` path) is superseded
+  by `sync_images.py` for ongoing use.
