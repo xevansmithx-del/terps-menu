@@ -7,7 +7,10 @@
  *   - Verifies: menu loads, product add-to-cart, checkout validation,
  *     order placement, tracking page rendering, chat, and cancellation.
  */
-import { test, expect, Page } from '@playwright/test';
+import { test, expect, Page, APIRequestContext } from '@playwright/test';
+
+// No retries for this spec: each retry would place additional real orders.
+test.describe.configure({ retries: 0 });
 
 const CUSTOMER = {
   name: 'E2E TEST - ignore',
@@ -23,6 +26,34 @@ let trackUrl1: string;
 let orderCode2: string;
 let orderToken2: string;
 let trackUrl2: string;
+
+// ---------- Teardown helpers ----------
+
+/** Read the Supabase RPC config the storefront itself uses (js/config.js). */
+async function backendConfig(request: APIRequestContext) {
+  const res = await request.get('/js/config.js');
+  const src = await res.text();
+  const supabaseUrl = src.match(/supabaseUrl:\s*"([^"]+)"/)?.[1];
+  const supabaseAnonKey = src.match(/supabaseAnonKey:\s*"([^"]+)"/)?.[1];
+  if (!supabaseUrl || !supabaseAnonKey) throw new Error('could not parse js/config.js');
+  return { supabaseUrl, supabaseAnonKey };
+}
+
+/** Cancel an order via the customer_cancel RPC. Safe to call on already-cancelled orders. */
+async function cancelOrderViaRpc(request: APIRequestContext, code: string, token: string) {
+  const { supabaseUrl, supabaseAnonKey } = await backendConfig(request);
+  const res = await request.post(`${supabaseUrl.replace(/\/+$/, '')}/rest/v1/rpc/customer_cancel`, {
+    headers: {
+      apikey: supabaseAnonKey,
+      Authorization: `Bearer ${supabaseAnonKey}`,
+      'Content-Type': 'application/json',
+    },
+    data: { p_code: code, p_token: token },
+  });
+  const body = await res.text();
+  console.log(`teardown: customer_cancel ${code} -> ${res.status()} ${body}`);
+  return res.ok();
+}
 
 // ---------- Helpers ----------
 
@@ -84,6 +115,22 @@ async function fillCheckout(page: Page) {
 // ---------- Tests ----------
 
 test.describe.serial('Consumer order flow', () => {
+
+  // Guaranteed cleanup: cancel BOTH test orders even if a test failed mid-chain.
+  // customer_cancel is idempotent-safe here — cancelling an already-cancelled
+  // order returns {ok:false, reason} which we tolerate.
+  test.afterAll(async ({ request }) => {
+    const pending: Array<[string, string]> = [];
+    if (orderCode1 && orderToken1) pending.push([orderCode1, orderToken1]);
+    if (orderCode2 && orderToken2) pending.push([orderCode2, orderToken2]);
+    for (const [code, token] of pending) {
+      try {
+        await cancelOrderViaRpc(request, code, token);
+      } catch (e) {
+        console.error(`teardown: failed to cancel ${code}:`, e);
+      }
+    }
+  });
 
   test('menu loads with products', async ({ page }) => {
     await page.goto('/menu.html');
@@ -183,6 +230,21 @@ test.describe.serial('Consumer order flow', () => {
     // Message should appear in chat-messages
     const messages = page.getByTestId('chat-messages');
     await expect(messages.locator('.m').filter({ hasText: msg }).first()).toBeVisible({ timeout: 15000 });
+  });
+
+  test('ORDER 1: cancel via tracking page', async ({ page }) => {
+    test.skip(!trackUrl1, 'No tracking URL from previous test');
+
+    await page.goto(trackUrl1);
+    await expect(page.getByTestId('track-status')).toBeVisible({ timeout: 15000 });
+
+    const cancelBtn = page.getByTestId('track-cancel');
+    await expect(cancelBtn).toBeVisible({ timeout: 5000 });
+
+    page.on('dialog', (dialog) => dialog.accept());
+    await cancelBtn.click();
+
+    await expect(page.getByTestId('track-status')).toContainText(/cancel/i, { timeout: 15000 });
   });
 
   test('ORDER 2: place order and cancel it', async ({ page }) => {
