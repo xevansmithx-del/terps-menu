@@ -9,7 +9,7 @@ info=json.load(open(f'{DATA}/info.json'))
 ADDR=info['address']
 STREET=ADDR['street']; CITY=ADDR['city']; STATE=ADDR['state']; ZIP=ADDR['zip']
 PHONE='(719) 547-1850'; PHONE_TEL='7195471850'
-TODAY=datetime.date.today().isoformat()
+TODAY=os.environ.get('BUILD_DATE') or datetime.date.today().isoformat()
 os.makedirs(f'{SITE}/product',exist_ok=True)
 os.makedirs(f'{SITE}/data',exist_ok=True)
 os.makedirs(f'{SITE}/post',exist_ok=True)
