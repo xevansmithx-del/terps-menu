@@ -1,22 +1,23 @@
 {
  "brands": {
-  "": 29,
+  "": 28,
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 4,
-  "AO Extracts": 34,
+  "AO Extracts": 33,
   "Allgreens": 1,
   "Antero Sciences": 56,
-  "Bespoke extracts colorado LLC.": 6,
+  "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
+  "Bud Fox": 7,
   "CALI BLAZE (OCC)": 7,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 19,
   "Chaos": 7,
   "Clearview Industries": 9,
-  "Cold Baked": 37,
+  "Cold Baked": 36,
   "Colorado's Best Dabs": 5,
-  "Craft": 133,
+  "Craft": 135,
   "David Jackson LLC": 23,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -33,63 +34,63 @@
   "Keef Cola": 9,
   "Kind Goods LLC": 1,
   "Kodo": 1,
-  "Lifestyle Foods Inc": 17,
+  "Lifestyle Foods Inc": 16,
   "Loud Labs LLC": 26,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 39,
+  "NATTY REMS LLC": 38,
   "SPHEREX": 7,
   "Silver Lake": 24,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
   "TS Labs (OCC)": 3,
-  "The Clear": 17,
+  "The Clear": 18,
   "Twax": 2,
-  "Vera": 22
+  "Vera": 24
  },
  "categories": {
   "concentrate": {
-   "count": 401,
+   "count": 400,
    "subcategories": {
     "budder": 20,
     "cartridge": 175,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
-    "live extract": 20,
+    "live extract": 21,
     "resin": 2,
-    "shatter": 16,
+    "shatter": 15,
     "solventless": 33,
     "syringe": 8,
-    "wax": 99
+    "wax": 98
    }
   },
   "edible": {
-   "count": 78,
+   "count": 76,
    "subcategories": {
     "candy": 24,
-    "capsule": 3,
+    "capsule": 2,
     "chocolate": 10,
-    "drink": 16,
+    "drink": 15,
     "gummies": 23,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 267,
+   "count": 275,
    "subcategories": {
-    "hybrid": 207,
+    "hybrid": 215,
     "indica": 18,
     "other": 28,
     "sativa": 14
    }
   },
   "merchandise": {
-   "count": 7,
+   "count": 8,
    "subcategories": {
-    "accessory": 5,
+    "accessory": 6,
     "vape": 2
    }
   },
@@ -103,7 +104,7 @@
    }
   }
  },
- "hits": 764,
+ "hits": 770,
  "results": [
   {
    "availability": "",
@@ -450,7 +451,7 @@
        "min_percentage": 26.9
       }
      },
-     "price": 300,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -4246,7 +4247,7 @@
        "min_percentage": 21.2
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -5767,90 +5768,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7748",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1783018434042,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-cake-dough-571434",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract cake dough",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571434",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Cake Dough",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.25,
-       "min_percentage": 74.25
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7425",
        "thca": null
       }
      ],
@@ -9928,7 +9845,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -9942,7 +9859,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-banana-cream-634150",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid banana cream",
@@ -9965,21 +9882,24 @@
      "potency_result": {
       "thc": {
        "max_percentage": 34.8,
-       "min_percentage": 34.8
+       "min_percentage": 33.9
       }
      },
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3390",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10012,7 +9932,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10026,7 +9946,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-blueberry-633193",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid blueberry",
@@ -10049,21 +9969,24 @@
      "potency_result": {
       "thc": {
        "max_percentage": 32.6,
-       "min_percentage": 32.6
+       "min_percentage": 31.5
       }
      },
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3150",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10096,7 +10019,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10110,7 +10033,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-grapevine-633196",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid grapevine",
@@ -10132,8 +10055,8 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 31.9,
-       "min_percentage": 31.9
+       "max_percentage": 35.7,
+       "min_percentage": 31.2
       }
      },
      "price": 807,
@@ -10142,7 +10065,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
+       "price": 806
       }
      ],
      "pricing_group": null,
@@ -10155,7 +10078,27 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
+       "thc": "3120",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
        "thc": "3190",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3570",
        "thca": null
       }
      ],
@@ -10180,7 +10123,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10194,7 +10137,94 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
+   "slug": "inventory/variant/the-clear-twax-preroll-lemon-haze-633197",
+   "subcategory": "hybrid",
+   "suggest": "twax preroll the clear flower hybrid lemon haze",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "633197",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lemon Haze",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 31.7,
+       "min_percentage": 29.6
+      }
+     },
+     "price": 806,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2960",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3170",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
+    "license": "404R-0073",
+    "medical": false,
+    "name": "The Clear",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "1a1d3212-35f2-4fe4-a602-b3013ff8c7d3",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twax preroll",
+   "non_trans": false,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-lime-sorbet-634152",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid lime sorbet",
@@ -10216,22 +10246,25 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 29.3,
+       "max_percentage": 34.8,
        "min_percentage": 29.3
       }
      },
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3480",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10264,7 +10297,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10278,7 +10311,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-pure-pear-633198",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid pure pear",
@@ -10301,21 +10334,24 @@
      "potency_result": {
       "thc": {
        "max_percentage": 32.5,
-       "min_percentage": 32.5
+       "min_percentage": 29.3
       }
      },
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2930",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10348,7 +10384,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10362,7 +10398,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-strawberry-banana-634151",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid strawberry banana",
@@ -10385,7 +10421,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 36.4,
-       "min_percentage": 32.2
+       "min_percentage": 30.7
       }
      },
      "price": 807,
@@ -10394,7 +10430,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 800
+       "price": 806
       }
      ],
      "pricing_group": null,
@@ -10408,6 +10444,16 @@
        "cbn": null,
        "dthc": null,
        "thc": "3330",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3070",
        "thca": null
       },
       {
@@ -10452,7 +10498,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -10466,7 +10512,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783029753747,
+   "slug": "inventory/variant/the-clear-twax-preroll-twax-og-633205",
+   "subcategory": "hybrid",
+   "suggest": "twax preroll the clear flower hybrid twax og",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "633205",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Twax OG",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 33.7,
+       "min_percentage": 33.7
+      }
+     },
+     "price": 806,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 806
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3370",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
+    "license": "404R-0073",
+    "medical": false,
+    "name": "The Clear",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "1a1d3212-35f2-4fe4-a602-b3013ff8c7d3",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twax preroll",
+   "non_trans": false,
+   "rebuild_gen": 1783029753747,
    "slug": "inventory/variant/the-clear-twax-preroll-xj-13-633199",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid xj-13",
@@ -10493,14 +10623,7 @@
       }
      },
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -10536,7 +10659,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -10550,111 +10673,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-apples-bananas-550906",
-   "subcategory": "cartridge",
-   "suggest": "ao cartridges 1g ao extracts concentrate cartridge apples & bananas",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "550906",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Apples & Bananas",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 86.7,
-       "min_percentage": 81.8
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8670",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8180",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8180",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Cartridges 1g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-banana-runtz-532381",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge banana runtz",
@@ -10686,7 +10705,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -10744,7 +10763,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -10758,7 +10777,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blackberry-kush-532382",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blackberry kush",
@@ -10790,7 +10809,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -10828,7 +10847,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -10842,7 +10861,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-bubble-gum-532383",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge bubble gum",
@@ -10874,7 +10893,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -10922,7 +10941,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -10936,7 +10955,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-grape-runtz-532384",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge grape runtz",
@@ -10968,7 +10987,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11026,7 +11045,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11040,7 +11059,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lime-sorbet-570658",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lime sorbet",
@@ -11072,7 +11091,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11110,7 +11129,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11124,7 +11143,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
@@ -11156,7 +11175,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11194,7 +11213,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11208,7 +11227,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -11240,7 +11259,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11278,7 +11297,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11292,7 +11311,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-red-apple-550908",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge red apple",
@@ -11324,7 +11343,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11372,7 +11391,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11386,7 +11405,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-pop-555495",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket pop",
@@ -11408,7 +11427,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 81.5,
+       "max_percentage": 82.3,
        "min_percentage": 81.5
       }
      },
@@ -11418,12 +11437,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8230",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -11456,7 +11485,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11470,7 +11499,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
@@ -11533,7 +11562,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11547,7 +11576,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-soda-pop-532378",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge soda pop",
@@ -11579,7 +11608,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11627,7 +11656,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11641,7 +11670,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-sour-tangie-538078",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge sour tangie",
@@ -11673,7 +11702,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -11721,7 +11750,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -11735,7 +11764,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783034600539,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-watermelon-zlushie-564268",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge watermelon zlushie",
@@ -11767,7 +11796,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -12134,7 +12163,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -12148,7 +12177,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Modified Grapes",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783025576142,
    "slug": "inventory/variant/vera-modified-grapes-loose-626112",
    "subcategory": "indica",
    "suggest": "modified grapes vera flower indica loose",
@@ -12170,7 +12199,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 26.6,
+       "max_percentage": 27.8,
        "min_percentage": 23.9
       }
      },
@@ -12179,6 +12208,26 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2780",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2780",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -12248,6 +12297,26 @@
        "dthc": null,
        "thc": "2390",
        "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2390",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2390",
+       "thca": null
       }
      ],
      "tags": [
@@ -12268,6 +12337,391 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "indica"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "PREROLLS",
+   "non_trans": false,
+   "rebuild_gen": 1783024041048,
+   "slug": "inventory/variant/bud-fox-prerolls-cherry-lac-vortex-650301",
+   "subcategory": "hybrid",
+   "suggest": "prerolls bud fox flower hybrid cherry lac vortex",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650301",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry LAC Vortex",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 17.35,
+       "min_percentage": 17.35
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1735",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "PREROLLS",
+   "non_trans": false,
+   "rebuild_gen": 1783024041048,
+   "slug": "inventory/variant/bud-fox-prerolls-farmhouse-flo-650305",
+   "subcategory": "hybrid",
+   "suggest": "prerolls bud fox flower hybrid farmhouse flo",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650305",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Farmhouse Flo",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 17.73,
+       "min_percentage": 17.73
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1773",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "PREROLLS",
+   "non_trans": false,
+   "rebuild_gen": 1783024041048,
+   "slug": "inventory/variant/bud-fox-prerolls-field-trip-650299",
+   "subcategory": "hybrid",
+   "suggest": "prerolls bud fox flower hybrid field trip",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650299",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Field Trip",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 600,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 14.4,
+       "min_percentage": 14.4
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1440",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "PREROLLS",
+   "non_trans": false,
+   "rebuild_gen": 1783024041048,
+   "slug": "inventory/variant/bud-fox-prerolls-mixed-signals-650294",
+   "subcategory": "hybrid",
+   "suggest": "prerolls bud fox flower hybrid mixed signals",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650294",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mixed Signals",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 600,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 11.91,
+       "min_percentage": 11.91
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1191",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "PREROLLS",
+   "non_trans": false,
+   "rebuild_gen": 1783024041048,
+   "slug": "inventory/variant/bud-fox-prerolls-peeley-s-drop-650300",
+   "subcategory": "hybrid",
+   "suggest": "prerolls bud fox flower hybrid peeley's drop",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650300",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Peeley's Drop",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 600,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 14.91,
+       "min_percentage": 14.91
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1491",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -17212,7 +17666,7 @@
        "min_percentage": 25.7
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -18084,7 +18538,7 @@
        "min_percentage": 28.7
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -18268,7 +18722,7 @@
        "min_percentage": 18.4
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -19459,7 +19913,7 @@
        "min_percentage": 26.6
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -24009,7 +24463,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
+   "slug": "inventory/variant/craft-oil-distillate-tanker-chem-lemons-523597",
+   "subcategory": "cartridge",
+   "suggest": "oil distillate tanker craft concentrate cartridge chem lemons",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "523597",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Chem Lemons",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 81.6,
+       "min_percentage": 81.6
+      }
+     },
+     "price": 3500,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 2581
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8160",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Oil Distillate Tanker",
+   "non_trans": false,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-diesel-dawg-523598",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge diesel dawg",
@@ -24036,14 +24574,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -24093,7 +24624,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-grape-gorilla-523599",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge grape gorilla",
@@ -24120,14 +24651,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -24187,7 +24711,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-hawaiian-sour-524647",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge hawaiian sour",
@@ -24209,22 +24733,25 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 74.25,
+       "max_percentage": 81.6,
        "min_percentage": 74.25
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8160",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -24271,7 +24798,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-orange-sorbet-523603",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge orange sorbet",
@@ -24298,14 +24825,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -24365,7 +24885,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tangie-tart-523608",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tangie tart",
@@ -24392,14 +24912,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -24449,7 +24962,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1782423705548,
+   "rebuild_gen": 1783021007747,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tropical-punch-523609",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tropical punch",
@@ -24476,14 +24989,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -24676,7 +25182,7 @@
        "min_percentage": 27.1
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -25077,83 +25583,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7931",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "dcebb4e5-5aba-41c7-b02a-337ccb015af4",
-    "license": "",
-    "medical": false,
-    "name": "",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "808 Dabs",
-   "non_trans": false,
-   "rebuild_gen": 1782767329440,
-   "slug": "inventory/variant/808-dabs-blue-lobster-571318",
-   "subcategory": "wax",
-   "suggest": "808 dabs concentrate wax blue lobster",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571318",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blue Lobster",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 65.2,
-       "min_percentage": 65.2
-      }
-     },
-     "price": 484,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6520",
        "thca": null
       }
      ],
@@ -27373,6 +27802,133 @@
   {
    "availability": "",
    "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "67f9ddbb-5bd9-43b2-9fd0-567a5c6689c3",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Jackie Treehorn",
+   "non_trans": false,
+   "rebuild_gen": 1783027036839,
+   "slug": "inventory/variant/vera-jackie-treehorn-loose-626097",
+   "subcategory": "hybrid",
+   "suggest": "jackie treehorn vera flower hybrid loose",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "626097",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Loose",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 27.1,
+       "min_percentage": 27.1
+      }
+     },
+     "price": 371,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2710",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "loose"
+    }
+   ],
+   "vendor": {
+    "id": "d48e654d-ce06-44e6-a85a-a81d8f6fac4e",
+    "license": "403R-01063",
+    "medical": false,
+    "name": "Vera",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": "",
@@ -27910,6 +28466,103 @@
    },
    "weave_category": "edible",
    "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "6b762bb7-254a-43c5-a660-109abb56c138",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Modified Grapes x Early Orange 5",
+   "non_trans": false,
+   "rebuild_gen": 1783024942850,
+   "slug": "inventory/variant/vera-modified-grapes-x-early-orange-5-loose-650308",
+   "subcategory": "hybrid",
+   "suggest": "modified grapes x early orange 5 vera flower hybrid loose",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650308",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Loose",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 25.7,
+       "min_percentage": 25.7
+      }
+     },
+     "price": 371,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2570",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2570",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2570",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "loose"
+    }
+   ],
+   "vendor": {
+    "id": "d48e654d-ce06-44e6-a85a-a81d8f6fac4e",
+    "license": "403R-01063",
+    "medical": false,
+    "name": "Vera",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -35255,6 +35908,160 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "82a8e295-62d2-42da-97c2-3e34946b0ae9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Resin Sugar",
+   "non_trans": false,
+   "rebuild_gen": 1783023562141,
+   "slug": "inventory/variant/bud-fox-live-resin-sugar-guava-572796",
+   "subcategory": "live extract",
+   "suggest": "live resin sugar bud fox concentrate live extract guava",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572796",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Guava",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 70.79,
+       "min_percentage": 70.79
+      }
+     },
+     "price": 1600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7079",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "82a8e295-62d2-42da-97c2-3e34946b0ae9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Resin Sugar",
+   "non_trans": false,
+   "rebuild_gen": 1783023562141,
+   "slug": "inventory/variant/bud-fox-live-resin-sugar-lemon-mint-cream-572800",
+   "subcategory": "live extract",
+   "suggest": "live resin sugar bud fox concentrate live extract lemon mint cream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572800",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lemon Mint Cream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 79.7,
+       "min_percentage": 79.7
+      }
+     },
+     "price": 1600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7970",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
+    "license": "403R-00930",
+    "medical": false,
+    "name": "Bud Fox",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -37469,7 +38276,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -37483,7 +38290,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sherbert Cream Pie",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783027106842,
    "slug": "inventory/variant/vera-sherbert-cream-pie-loose-646773",
    "subcategory": "hybrid",
    "suggest": "sherbert cream pie vera flower hybrid loose",
@@ -37506,7 +38313,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 21.9,
-       "min_percentage": 21.9
+       "min_percentage": 20.6
       }
      },
      "price": 371,
@@ -37514,6 +38321,46 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2190",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -37636,7 +38483,7 @@
        "min_percentage": 30.2
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -38855,78 +39702,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "98880881-d74e-40a2-a43a-1cddf52e7b02",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "sample 1gram joint",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/bespoke-extracts-colorado-llc-sample-1gram-joint-sample-1-g-622410",
-   "subcategory": "hybrid",
-   "suggest": "sample 1gram joint bespoke extracts colorado llc. flower hybrid sample 1 g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "622410",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "sample 1 g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 2,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
-    "license": "404r-00162",
-    "medical": false,
-    "name": "Bespoke extracts colorado LLC.",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "edible",
    "default_image": "",
    "description": "",
@@ -39246,7 +40021,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -39260,7 +40035,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sweet Heat",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783026248639,
    "slug": "inventory/variant/vera-sweet-heat-loose-646756",
    "subcategory": "hybrid",
    "suggest": "sweet heat vera flower hybrid loose",
@@ -39282,7 +40057,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 21.7,
+       "max_percentage": 28.1,
        "min_percentage": 19.4
       }
      },
@@ -39291,6 +40066,56 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -40325,7 +41150,7 @@
        "min_percentage": 29.2
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -42911,7 +43736,7 @@
        "min_percentage": 27.3
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -44391,7 +45216,7 @@
        "min_percentage": 18.3
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -45569,7 +46394,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-apple-sauce-530461",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge apple sauce",
@@ -45646,7 +46471,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-baked-banana-549685",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge baked banana",
@@ -45753,7 +46578,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-blueberry-swirl-530462",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge blueberry swirl",
@@ -45880,7 +46705,94 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
+   "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
+   "subcategory": "cartridge",
+   "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "549686",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Slush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 74.95,
+       "min_percentage": 74.95
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7495",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7495",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Oil Twist Cartridge",
+   "non_trans": false,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-citrus-splash-564897",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge citrus splash",
@@ -45907,17 +46819,20 @@
       }
      },
      "price": 968,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 806
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7214",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -45974,7 +46889,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-mango-squeezed-530463",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge mango squeezed",
@@ -46005,6 +46920,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7909",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -46081,7 +47006,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-maple-drip-559097",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge maple drip",
@@ -46178,7 +47103,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-orange-krush-556296",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge orange krush",
@@ -46275,7 +47200,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
@@ -46362,7 +47287,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -46393,6 +47318,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8309",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -46479,7 +47414,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
@@ -46566,7 +47501,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1782423503226,
+   "rebuild_gen": 1783020500948,
    "slug": "inventory/variant/craft-oil-twist-cartridge-watermelon-ice-530466",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge watermelon ice",
@@ -46597,6 +47532,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7541",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -47098,7 +48043,7 @@
        "min_percentage": 24.3
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -47379,7 +48324,7 @@
        "min_percentage": 29.3
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -49582,78 +50527,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "c1807893-dd43-4b80-8b6b-98ba04661e83",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sample Carts",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/natty-rems-llc-sample-carts-1g-509694",
-   "subcategory": "cartridge",
-   "suggest": "sample carts natty rems llc concentrate cartridge 1g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "509694",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "1g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -50642,7 +51515,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -50656,7 +51529,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Fritter Runtz",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783025514545,
    "slug": "inventory/variant/vera-fritter-runtz-loose-645558",
    "subcategory": "hybrid",
    "suggest": "fritter runtz vera flower hybrid loose",
@@ -50687,6 +51560,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2040",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -51654,78 +52537,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "cf7867f3-1264-460c-a4a8-3bf3bde3f389",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Ripple QuickSticks",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/lifestyle-foods-inc-ripple-quicksticks-sleep-1-1-thc-cbn-cbd-125025",
-   "subcategory": "drink",
-   "suggest": "ripple quicksticks lifestyle foods inc edible drink sleep 1:1 thc/cbn/cbd",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "125025",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sleep 1:1 THC/CBN/CBD",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1700,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
-    "license": "404R-00177",
-    "medical": false,
-    "name": "Lifestyle Foods Inc",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "drink"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -51852,7 +52663,7 @@
        "min_percentage": 26.2
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -52026,7 +52837,7 @@
        "min_percentage": 29.1
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -54785,7 +55596,7 @@
        "min_percentage": 29.6
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -55768,7 +56579,7 @@
        "min_percentage": 19
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -56995,7 +57806,7 @@
        "min_percentage": 24.6
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -59411,7 +60222,7 @@
        "min_percentage": 28.4
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -61390,7 +62201,7 @@
        "min_percentage": 19.6
       }
      },
-     "price": 371,
+     "price": 343,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -61967,78 +62778,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "sativa"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": "",
-   "id": "f9c9f549-e854-440b-99b6-5e15c7528de2",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "sample",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/the-clear-sample-gummie-144330",
-   "subcategory": "capsule",
-   "suggest": "sample the clear edible capsule gummie",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "144330",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "gummie",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
-    "license": "404R-0073",
-    "medical": false,
-    "name": "The Clear",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "capsule"
   },
   {
    "availability": "",
@@ -63000,7 +63739,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "battery",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783019286048,
    "slug": "inventory/variant/craft-battery-hex-430750",
    "subcategory": "accessory",
    "suggest": "battery craft merchandise accessory hex",
@@ -63030,6 +63769,78 @@
        "price": 900
       }
      ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "merchandise",
+   "weave_subcategory": "accessory"
+  },
+  {
+   "availability": "",
+   "cannabis": false,
+   "category": "merchandise",
+   "default_image": "",
+   "description": "",
+   "id": "fa0632c6-8735-4893-8775-56f9db9fc890",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "battery",
+   "non_trans": false,
+   "rebuild_gen": 1783019286048,
+   "slug": "inventory/variant/craft-battery-mini-433272",
+   "subcategory": "accessory",
+   "suggest": "battery craft merchandise accessory mini",
+   "suggest_weight": 11,
+   "type": "other",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "433272",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mini",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 0,
+      "thc_weight": 0,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1322,
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -64102,83 +64913,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7642",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "shatter"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "ff193c75-0255-4416-a6f7-c16024a84ac1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Shatter",
-   "non_trans": false,
-   "rebuild_gen": 1782835406768,
-   "slug": "inventory/variant/cold-baked-shatter-ice-box-pie-567297",
-   "subcategory": "shatter",
-   "suggest": "shatter cold baked concentrate ice box pie",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "567297",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Ice Box Pie",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 64.82,
-       "min_percentage": 64.82
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6482",
        "thca": null
       }
      ],

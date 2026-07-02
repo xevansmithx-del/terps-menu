@@ -3,7 +3,7 @@
   "id": "0287e89b-4c14-4986-a8da-893315964da0",
   "slug": "black-tip-live-resin1000mg",
   "name": "Black Tip Live Resin1000mg",
-  "brand": "NATTY REMS LLC",
+  "brand": "Natty Rems",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 28.0,
@@ -31,7 +31,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442947609_image1__10_.jpeg",
-  "match_score": 0.795
+  "match_score": 0.795,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "04dd0339-2f07-4829-9e18-ae2054b81332",
@@ -40,8 +41,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 10.5,
-  "price_max": 10.5,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.1,
@@ -49,19 +50,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 10.5,
+    "price": 12.01,
     "thc": 27.1
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872925_IMG_1204.jpeg",
-  "match_score": 1.06
+  "match_score": 1.06,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
   "slug": "denver-dabs-4g",
   "name": "Denver Dabs 4g",
-  "brand": "Denver Dab Co",
+  "brand": "Denver Dab",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 22.0,
@@ -89,13 +91,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/427833623_20230529_133801.jpg",
-  "match_score": 1.072
+  "match_score": 1.072,
+  "vendor_name": "Denver Dab Co"
  },
  {
   "id": "07e8b240-a862-4d8a-83ac-f88af71d1b85",
   "slug": "incredible-bars",
   "name": "Incredible Bars",
-  "brand": "Medically Correct LLC",
+  "brand": "Medically Correct",
   "category": "edible",
   "subcategory": "chocolate",
   "price_min": 13.0,
@@ -158,7 +161,8 @@
   ],
   "description": "Infused chocolate bars in a variety of delicious flavors",
   "wm_img": "",
-  "match_score": 0.092
+  "match_score": 0.092,
+  "vendor_name": "Medically Correct LLC"
  },
  {
   "id": "09239fc0-9e49-4ab1-8638-d58576da377f",
@@ -207,13 +211,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
-  "match_score": 0.734
+  "match_score": 0.734,
+  "vendor_name": "High Country Management Group"
  },
  {
   "id": "0ba21c79-2192-4190-b890-d20b921af912",
   "slug": "riplets",
   "name": "Riplets",
-  "brand": "Lifestyle Foods Inc",
+  "brand": "Lifestyle Foods",
   "category": "edible",
   "subcategory": "candy",
   "price_min": 18.0,
@@ -241,7 +246,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.083
+  "match_score": 0.083,
+  "vendor_name": "Lifestyle Foods Inc"
  },
  {
   "id": "0ce9cd11-b2fb-4016-a71c-91c1c28e781f",
@@ -305,7 +311,8 @@
   ],
   "description": "Suckers",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439089324_gRxARBbaSwG0Fm1Po3Cf_mountain_high_suckers_2.png",
-  "match_score": 1.108
+  "match_score": 1.108,
+  "vendor_name": "Mountain High Suckers"
  },
  {
   "id": "0e03cc76-b17e-47e7-a656-4b744bb0828d",
@@ -349,13 +356,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437199168_IMG_5806.jpeg",
-  "match_score": 1.061
+  "match_score": 1.061,
+  "vendor_name": "AO Extracts"
  },
  {
   "id": "11bd9fd2-9441-4ea4-81e3-9a9cc40e9788",
   "slug": "the-bakery-brothers-deep-space",
   "name": "The Bakery Brothers - Deep Space",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -373,7 +381,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442198568_IMG_4009.JPG",
-  "match_score": 0.952
+  "match_score": 0.952,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "12336f9b-311c-4f3e-b483-5fa2c80304f4",
@@ -382,8 +391,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 21.2,
@@ -391,13 +400,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 21.2
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235449_IMG_1370.jpeg",
-  "match_score": 1.067
+  "match_score": 1.067,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "15a22fa9-5bf0-4b27-8ddf-f6c8d7ba4879",
@@ -421,13 +431,14 @@
   ],
   "description": "Sundae Driver is a hybrid marijuana strain made by crossing FPOG with Grape Pie. The effects of this strain will make you feel balanced, calm, and happy. Sundae Driver has a sweet, mellow and creamy flavor. Growers say this strain comes in light green and purple buds that are drenched in trichomes",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440709505_Image_251201_133142.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "160f9e63-aefb-4199-95d6-cff2d694467f",
   "slug": "packwoods-1g-disposable",
   "name": "PackWoods 1g Disposable",
-  "brand": "CC Brands LLC",
+  "brand": "CC Brands",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 36.0,
@@ -470,13 +481,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.518
+  "match_score": 0.518,
+  "vendor_name": "CC Brands LLC"
  },
  {
   "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
   "slug": "doinks",
   "name": "Doinks",
-  "brand": "Loud Labs LLC",
+  "brand": "Doinks",
   "category": "flower",
   "subcategory": "other",
   "price_min": 12.0,
@@ -524,7 +536,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441839691_IMG_1324.jpeg",
-  "match_score": 0.643
+  "match_score": 0.643,
+  "vendor_name": "Loud Labs LLC"
  },
  {
   "id": "166af637-2508-4e4c-9827-635b490c34a0",
@@ -548,13 +561,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596667_Image_260610_151129.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
   "slug": "panacea-live-resin-cart-1000mg",
   "name": "Panacea Live Resin Cart 1000mg",
-  "brand": "Craft",
+  "brand": "Panacea",
   "category": "concentrate",
   "subcategory": "live extract",
   "price_min": 13.0,
@@ -562,17 +576,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.01,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Bubba Haze",
     "price": 13.0,
     "thc": 77.48
-   },
-   {
-    "name": "Cake Dough",
-    "price": 13.0,
-    "thc": 74.25
    },
    {
     "name": "Divine Kush Breath",
@@ -617,13 +626,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433545646_th__1_.jpg",
-  "match_score": 0.95
+  "match_score": 0.95,
+  "vendor_name": "Craft"
  },
  {
   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
   "slug": "denver-dab-wax-1g",
   "name": "Denver Dab Wax 1g",
-  "brand": "Denver Dab Co",
+  "brand": "Denver Dab Co.",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 7.0,
@@ -811,7 +821,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/030/987/avatar/1778692271-denver-dab-co_wax_durban-gorilla-haze_4.jpg",
-  "match_score": 1.18
+  "match_score": 1.18,
+  "vendor_name": "Denver Dab Co"
  },
  {
   "id": "17e7319f-c91b-492f-95a9-718ab394fffa",
@@ -835,7 +846,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240616_IMG_0530.jpeg",
-  "match_score": 0.92
+  "match_score": 0.92,
+  "vendor_name": "Egozi"
  },
  {
   "id": "182f2a74-c67b-4961-9eda-d74a99aec39b",
@@ -859,7 +871,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596049_Image_260610_150943.jpeg",
-  "match_score": 1.094
+  "match_score": 1.094,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "18a5254e-a755-4a7c-af46-0262ffda889b",
@@ -898,7 +911,8 @@
   ],
   "description": "kief cones",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
-  "match_score": 0.846
+  "match_score": 0.846,
+  "vendor_name": "High Country Management Group"
  },
  {
   "id": "190bad87-787e-4325-bdb4-c569c50f29c5",
@@ -922,7 +936,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594221_Image_260610_134249.jpeg",
-  "match_score": 1.106
+  "match_score": 1.106,
+  "vendor_name": "Vera"
  },
  {
   "id": "19e13142-462e-4477-b4a4-2e0f50bb1c9b",
@@ -946,7 +961,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437472737_IMG_5579.jpg",
-  "match_score": 0.953
+  "match_score": 0.953,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
@@ -960,13 +976,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87,
-  "n_strains": 14,
+  "n_strains": 13,
   "strains": [
-   {
-    "name": "Apples & Bananas",
-    "price": 12.0,
-    "thc": 86.7
-   },
    {
     "name": "Banana Runtz",
     "price": 12.0,
@@ -1010,7 +1021,7 @@
    {
     "name": "Rocket Pop",
     "price": 12.0,
-    "thc": 81.5
+    "thc": 82.3
    },
    {
     "name": "Rocket Power",
@@ -1035,13 +1046,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442068379_ao_cart.jpg",
-  "match_score": 0.643
+  "match_score": 0.643,
+  "vendor_name": "AO Extracts"
  },
  {
   "id": "1ceeac17-2e7f-4b4b-bfc0-51f138230b0e",
   "slug": "minirip",
   "name": "Minirip",
-  "brand": "Green Dot (OCC)",
+  "brand": "Green Dot Labs",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 50.0,
@@ -1069,7 +1081,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443479187_Screenshot_2026-06-02_122226.png",
-  "match_score": 0.791
+  "match_score": 0.791,
+  "vendor_name": "Green Dot (OCC)"
  },
  {
   "id": "1e5f23a8-1f5d-4e50-b722-e2d5eca96156",
@@ -1093,13 +1106,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443579296_capjunky_24.41_.jpeg",
-  "match_score": 0.875
+  "match_score": 0.875,
+  "vendor_name": "Egozi"
  },
  {
   "id": "1fce1fdd-aad8-4560-bc3c-0d3de2b30351",
   "slug": "strawberries-and-cream",
   "name": "Strawberries and Cream",
-  "brand": "Antero Sciences",
+  "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -1117,13 +1131,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440574993_IMG_3563.JPG",
-  "match_score": 0.818
+  "match_score": 0.818,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "20e7cdd9-a3e9-4041-aa91-5d71f6ed5143",
   "slug": "oil-tugboat-2000mg",
   "name": "Oil Tugboat 2000mg",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 20.16,
@@ -1181,13 +1196,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433521252_20240809_084008.jpg",
-  "match_score": 0.927
+  "match_score": 0.927,
+  "vendor_name": "Craft"
  },
  {
   "id": "23672ac7-5e7c-4701-8075-b2211734a4c2",
   "slug": "slow-burn",
   "name": "Slow Burn",
-  "brand": "JKC Manufacturing LLC",
+  "brand": "JKC Manufacturing",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 11.29,
@@ -1220,13 +1236,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440888617_268692_IMG_1785.jpg",
-  "match_score": 0.605
+  "match_score": 0.605,
+  "vendor_name": "JKC Manufacturing LLC"
  },
  {
   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
   "slug": "sesh-infused-nug-cone",
   "name": "Sesh Infused Nug Cone",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 6.0,
@@ -1274,7 +1291,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.426
+  "match_score": 0.426,
+  "vendor_name": "Craft"
  },
  {
   "id": "2772ab70-afeb-4867-9c34-8c793c18bf43",
@@ -1298,13 +1316,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236690_IMG_1380.jpeg",
-  "match_score": 1.04
+  "match_score": 1.04,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "283e26a7-fe79-4ba5-b073-c6c594a2d129",
   "slug": "black-label",
   "name": "Black Label",
-  "brand": "Green Dot (OCC)",
+  "brand": "Green Dot Labs",
   "category": "concentrate",
   "subcategory": "budder",
   "price_min": 34.68,
@@ -1347,7 +1366,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430007092_PXL_20240123_213026192.PORTRAIT.ORIGINAL.jpg",
-  "match_score": 0.963
+  "match_score": 0.963,
+  "vendor_name": "Green Dot (OCC)"
  },
  {
   "id": "2a1b08b8-1c06-4201-bc91-b613441f09a9",
@@ -1371,13 +1391,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555008_IMG_0966.jpeg",
-  "match_score": 0.972
+  "match_score": 0.972,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "2c901e6b-dff9-48e0-9b5f-66bd8ba7ae23",
   "slug": "oil-twist-tanker",
   "name": "Oil Twist Tanker",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 29.03,
@@ -1450,13 +1471,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429501568_IMG_0151.JPEG",
-  "match_score": 0.769
+  "match_score": 0.769,
+  "vendor_name": "Craft"
  },
  {
   "id": "2cf42a18-252e-4791-8fd4-fc23df0b32dd",
   "slug": "black-cherry-gelato",
   "name": "Black Cherry Gelato",
-  "brand": "Antero Sciences",
+  "brand": "Packwoods",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -1474,7 +1496,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595631_Image_260610_144753.jpeg",
-  "match_score": 1.096
+  "match_score": 1.096,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "320d4432-2384-4932-911d-e66f3907e059",
@@ -1498,13 +1521,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236532_IMG_1391.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "3246de6c-4a21-40cf-bdac-cf4cea9185fc",
   "slug": "dialed-in-gummies",
   "name": "DIALED IN GUMMIES",
-  "brand": "FOREST ST MANUFACTURING LLC",
+  "brand": "Dialed In Gummies",
   "category": "edible",
   "subcategory": "gummies",
   "price_min": 20.0,
@@ -1547,7 +1571,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443737265_Screenshot_2026-06-24_082902.png",
-  "match_score": 0.689
+  "match_score": 0.689,
+  "vendor_name": "FOREST ST MANUFACTURING LLC"
  },
  {
   "id": "329fba92-060a-423c-8fe3-a995a718af03",
@@ -1556,8 +1581,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 25.7,
@@ -1565,13 +1590,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 25.7
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595992_Image_260610_150804.jpeg",
-  "match_score": 1.098
+  "match_score": 1.098,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "35191783-4b55-4239-b9ea-88f873b87a38",
@@ -1595,7 +1621,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.385
+  "match_score": 0.385,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "3579fb32-8837-481d-be32-dcdb992e9ba3",
@@ -1619,13 +1646,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442282828_20260312_084041__1_.jpg",
-  "match_score": 1.074
+  "match_score": 1.074,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "3696f4f3-6566-4604-b3aa-885d07b6cc55",
   "slug": "dante-s-wrath-47",
   "name": "Dante's Wrath #47",
-  "brand": "CLEARWATER BUDS LLC",
+  "brand": "Clearwater",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 5.99,
@@ -1643,7 +1671,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442478989_20260326_090151__1_.jpg",
-  "match_score": 1.027
+  "match_score": 1.027,
+  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "36b26e6f-46c4-4a8a-a963-cdced7a83c40",
@@ -1667,13 +1696,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872982_IMG_1206.jpeg",
-  "match_score": 0.957
+  "match_score": 0.957,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "3cee26bc-58b4-4db9-9a99-c2011ddb52b7",
   "slug": "peanut-butter-souffle",
   "name": "Peanut Butter Souffle",
-  "brand": "Silver Lake",
+  "brand": "Silver Lake Farms",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 8.47,
@@ -1691,7 +1721,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436530119_IMG_5216.jpg",
-  "match_score": 1.034
+  "match_score": 1.034,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "3dcba6d3-5f64-47e3-8056-3fbd22af2753",
@@ -1700,8 +1731,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.2,
@@ -1709,13 +1740,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 29.2
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171637_IMG_20260505_163646075_2.jpg",
-  "match_score": 1.098
+  "match_score": 1.098,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "43c1a00d-2568-4d65-82be-3ca124e70eb4",
@@ -1724,8 +1756,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 24,
@@ -1733,13 +1765,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 24
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235562_IMG_1373.jpeg",
-  "match_score": 1.074
+  "match_score": 1.074,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "43c21b13-4047-43e1-b097-147b16653d28",
@@ -1773,13 +1806,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/430725524_PXL_20240316_160658709.PORTRAIT.ORIGINAL.jpg",
-  "match_score": 0.628
+  "match_score": 0.628,
+  "vendor_name": "Starbuds Mips"
  },
  {
   "id": "46191f5e-6eac-4dcc-9ef4-84dc00dd810d",
   "slug": "virgin-mary-llc-trich-beast",
   "name": "Virgin Mary LLC - Trich Beast",
-  "brand": "",
+  "brand": "Terps",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -1797,13 +1831,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443222585_20260510_095754__1_.jpg",
-  "match_score": 0.567
+  "match_score": 0.567,
+  "vendor_name": ""
  },
  {
   "id": "48a3a314-2624-4e89-8bdd-d17b666e65d4",
   "slug": "nerd-bar-4g",
   "name": "Nerd Bar 4G",
-  "brand": "Clearview Industries",
+  "brand": "Colorado Vape",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 60.0,
@@ -1836,13 +1871,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442418631_nerdbar4g_screenshot.png",
-  "match_score": 0.828
+  "match_score": 0.828,
+  "vendor_name": "Clearview Industries"
  },
  {
   "id": "4c5df225-02e1-4078-9261-9057eed93f5b",
   "slug": "grape-hindu-cake",
   "name": "Grape Hindu Cake",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -1860,7 +1896,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594895_Image_260610_141112.jpeg",
-  "match_score": 1.101
+  "match_score": 1.101,
+  "vendor_name": "Vera"
  },
  {
   "id": "4dcb81c3-990d-49ef-aea7-18b269de867f",
@@ -1869,8 +1906,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 26.8,
@@ -1878,13 +1915,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 26.8
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235645_IMG_1378.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "4e424afb-f1d2-4f50-abae-f97e34e6951b",
@@ -1908,7 +1946,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235627_IMG_1376.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "4e519fd3-d125-428e-9308-a6b2e80b9769",
@@ -1932,13 +1971,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595843_Image_260610_145850.jpeg",
-  "match_score": 0.968
+  "match_score": 0.968,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "50f220ed-ac88-45e5-a4d5-c1fdf149317f",
   "slug": "seshie-1gram",
   "name": "Seshie 1gram",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "distillate",
   "price_min": 15.0,
@@ -1986,13 +2026,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/940/459/avatar/1767901556-churroz_-_seshie.jpeg",
-  "match_score": 0.808
+  "match_score": 0.808,
+  "vendor_name": "Craft"
  },
  {
   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
   "slug": "timberline-extracts-1g",
   "name": "Timberline Extracts 1g",
-  "brand": "David Jackson LLC",
+  "brand": "Timberline Extracts",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 4.84,
@@ -2085,13 +2126,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436729551_1000009515.jpg",
-  "match_score": 0.83
+  "match_score": 0.83,
+  "vendor_name": "David Jackson LLC"
  },
  {
   "id": "51f6b306-f527-4eac-a724-813627e6662d",
   "slug": "white-mousse-jousse",
   "name": "White Mousse Jousse",
-  "brand": "(White Mousse) WM Concentrates LLC",
+  "brand": "(White Mousse) WM Concentrates",
   "category": "edible",
   "subcategory": "drink",
   "price_min": 6.0,
@@ -2124,13 +2166,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443808926_images__2_.jpg",
-  "match_score": 0.98
+  "match_score": 0.98,
+  "vendor_name": "(White Mousse) WM Concentrates LLC"
  },
  {
   "id": "525a2cf0-fd52-4693-bb00-b09b2e111b55",
   "slug": "mary-jane-s-medicinals-original-salve",
   "name": "Mary Jane's Medicinals Original Salve",
-  "brand": "Blue Cottage LLC",
+  "brand": "Mary Jane's Medicinals",
   "category": "topical",
   "subcategory": "balm",
   "price_min": 10.0,
@@ -2153,13 +2196,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433258818_download__3_.jpeg",
-  "match_score": 0.836
+  "match_score": 0.836,
+  "vendor_name": "Blue Cottage LLC"
  },
  {
   "id": "53498334-3bdb-4665-a989-b5f907ecb7cf",
   "slug": "oil-cartridge-1000-mg",
   "name": "Oil Cartridge 1000 mg",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 9.68,
@@ -2207,13 +2251,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Craft"
  },
  {
   "id": "5375c84c-206c-4a3a-83b2-5b9826a2baab",
   "slug": "virgin-mary-llc-mallows",
   "name": "Virgin Mary LLC - Mallows",
-  "brand": "",
+  "brand": "Terps",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -2231,13 +2276,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221492_mallows.jpg",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": ""
  },
  {
   "id": "543ab9ce-db72-4bf1-af06-e56551ac32e5",
   "slug": "jupiter-joints",
   "name": "Jupiter Joints",
-  "brand": "JKC Manufacturing LLC",
+  "brand": "Cosmos THC",
   "category": "concentrate",
   "subcategory": "distillate",
   "price_min": 14.0,
@@ -2280,7 +2326,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.076
+  "match_score": 0.076,
+  "vendor_name": "JKC Manufacturing LLC"
  },
  {
   "id": "54735047-7f65-4aa5-b1b2-fe481fcbd223",
@@ -2304,13 +2351,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240302_IMG_0529.jpeg",
-  "match_score": 0.987
+  "match_score": 0.987,
+  "vendor_name": "Egozi"
  },
  {
   "id": "54dc030a-e402-4f69-8595-fd44c9a3612a",
   "slug": "chaos-crispies",
   "name": "Chaos Crispies",
-  "brand": "Chaos",
+  "brand": "Heartland Industries",
   "category": "edible",
   "subcategory": "candy",
   "price_min": 10.0,
@@ -2338,7 +2386,8 @@
   ],
   "description": "A package of ten rice crispy treats. 10 mg THC per piece, comes in a variety of flavors.",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431288826_IMG_1330.jpg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Chaos"
  },
  {
   "id": "551e7509-6d01-42b6-a445-d08003c352bf",
@@ -2362,13 +2411,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441537472_IMG_0177.jpeg",
-  "match_score": 1.025
+  "match_score": 1.025,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
   "slug": "oil-distillate-tanker",
   "name": "Oil Distillate Tanker",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 35.0,
@@ -2376,8 +2426,13 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 82.47,
-  "n_strains": 6,
+  "n_strains": 7,
   "strains": [
+   {
+    "name": "Chem Lemons",
+    "price": 35.0,
+    "thc": 81.6
+   },
    {
     "name": "Diesel Dawg",
     "price": 35.0,
@@ -2391,7 +2446,7 @@
    {
     "name": "Hawaiian Sour",
     "price": 35.0,
-    "thc": 74.25
+    "thc": 81.6
    },
    {
     "name": "Orange Sorbet",
@@ -2411,17 +2466,18 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429501568_IMG_0151.JPEG",
-  "match_score": 0.752
+  "match_score": 0.752,
+  "vendor_name": "Craft"
  },
  {
   "id": "566717a2-69ab-4b28-9642-090b073e1fb2",
   "slug": "super-boof",
   "name": "Super Boof",
-  "brand": "Antero Sciences",
+  "brand": "CG Labs",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.6,
@@ -2429,19 +2485,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 27.6
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235685_IMG_1388.jpeg",
-  "match_score": 1.045
+  "match_score": 1.045,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "57a85372-1798-49ef-b814-a3f037fae7f3",
   "slug": "rosin-stick",
   "name": "Rosin Stick",
-  "brand": "1-11 LLC",
+  "brand": "One-Eleven",
   "category": "concentrate",
   "subcategory": "solventless",
   "price_min": 10.0,
@@ -2459,7 +2516,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.485
+  "match_score": 0.485,
+  "vendor_name": "1-11 LLC"
  },
  {
   "id": "58191d4c-0a32-43fd-8ace-2daba871619d",
@@ -2483,13 +2541,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236670_IMG_1379.jpeg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
   "slug": "808-dabs",
   "name": "808 Dabs",
-  "brand": "",
+  "brand": "Terps",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 3.23,
@@ -2497,7 +2556,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.77,
-  "n_strains": 16,
+  "n_strains": 15,
   "strains": [
    {
     "name": "Apricot Cookies",
@@ -2508,11 +2567,6 @@
     "name": "Big Wedding",
     "price": 6.0,
     "thc": 79.31
-   },
-   {
-    "name": "Blue Lobster",
-    "price": 4.84,
-    "thc": 65.2
    },
    {
     "name": "Blue Tiki",
@@ -2582,7 +2636,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429721715_PXL_20231221_212643309.jpg",
-  "match_score": 0.705
+  "match_score": 0.705,
+  "vendor_name": ""
  },
  {
   "id": "5995095d-7eed-4d24-b992-ccc37640c631",
@@ -2606,13 +2661,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594706_Image_260610_140905.jpeg",
-  "match_score": 1.056
+  "match_score": 1.056,
+  "vendor_name": "Vera"
  },
  {
   "id": "5c8f8b54-a338-404c-b1f1-e31a1e882c77",
   "slug": "paul-morphy",
   "name": "Paul Morphy",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -2630,7 +2686,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594268_Image_260610_134431__1_.jpeg",
-  "match_score": 1.064
+  "match_score": 1.064,
+  "vendor_name": "Vera"
  },
  {
   "id": "5fa0604f-50f7-4061-a351-e729b445f1bb",
@@ -2654,7 +2711,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442566098_IMG_8339.jpg",
-  "match_score": 1.042
+  "match_score": 1.042,
+  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "62151e5d-84a9-4d2c-9ced-efc2b042eb27",
@@ -2678,13 +2736,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167496_IMG_20260505_143403138_2.jpg",
-  "match_score": 0.7
+  "match_score": 0.7,
+  "vendor_name": "Vera"
  },
  {
   "id": "642400da-8d58-4ed8-b51a-3f68aecf416f",
   "slug": "the-bakery-brothers-deep-space-2",
   "name": "The Bakery Brothers - Deep Space",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -2702,7 +2761,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442198568_IMG_4009.JPG",
-  "match_score": 0.952
+  "match_score": 0.952,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "69ad4971-f7ff-4c27-a37b-af144911fe27",
@@ -2741,13 +2801,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440225932_IMG_4706__1_.jpg",
-  "match_score": 1.061
+  "match_score": 1.061,
+  "vendor_name": "AO Extracts"
  },
  {
   "id": "6a5c5ff3-db9e-4547-96cb-de52729aaef3",
   "slug": "hype",
   "name": "HYPE",
-  "brand": "",
+  "brand": "Terps",
   "category": "concentrate",
   "subcategory": "shatter",
   "price_min": 8.0,
@@ -2765,13 +2826,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443807087_20260630_130520.jpg",
-  "match_score": 0.867
+  "match_score": 0.867,
+  "vendor_name": ""
  },
  {
   "id": "6baffaac-7aeb-4db7-ac89-0be12f0187b4",
   "slug": "mary-jane-s-medicinals-nano-salve",
   "name": "Mary Jane's Medicinals Nano Salve",
-  "brand": "Blue Cottage LLC",
+  "brand": "Mary Jane's Medicinals",
   "category": "topical",
   "subcategory": "salve",
   "price_min": 14.0,
@@ -2794,13 +2856,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433258737_nano_.3.jpeg",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": "Blue Cottage LLC"
  },
  {
   "id": "6c38376e-f424-48f5-a12d-2640f71d2d78",
   "slug": "tropicana-cookies",
   "name": "Tropicana Cookies",
-  "brand": "Silver Lake",
+  "brand": "Silver Lake Farms",
   "category": "flower",
   "subcategory": "sativa",
   "price_min": 8.47,
@@ -2818,13 +2881,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440198978_IMG_3488__1_.jpg",
-  "match_score": 0.995
+  "match_score": 0.995,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "6e27f7e4-f15e-42be-bd86-4884825c3f8c",
   "slug": "the-clear-efx",
   "name": "The Clear EFX",
-  "brand": "The Clear",
+  "brand": "CLEAR Brands",
   "category": "edible",
   "subcategory": "gummies",
   "price_min": 10.0,
@@ -2842,13 +2906,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441898267_clear_blue_raz.jpg",
-  "match_score": 1.036
+  "match_score": 1.036,
+  "vendor_name": "The Clear"
  },
  {
   "id": "6f4251ab-01c5-4ca8-b2b6-dd4d8a03f0ec",
   "slug": "astronaught-stratus-24",
   "name": "ASTRONAUGHT STRATUS #24",
-  "brand": "CLEARWATER BUDS LLC",
+  "brand": "CLEARWATER BUDS",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 5.99,
@@ -2866,7 +2931,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748754_IMG_0685.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "7183cfd1-c059-4271-93a3-68c80dbd396f",
@@ -2890,7 +2956,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440014495_Subject.PNG",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": "Egozi"
  },
  {
   "id": "7272e743-7583-4d3c-88d0-a216261f76b1",
@@ -2914,7 +2981,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552461_IMG_0956__1_.jpeg",
-  "match_score": 0.896
+  "match_score": 0.896,
+  "vendor_name": "Egozi"
  },
  {
   "id": "72eb5bea-f665-4a40-b5da-dd3568bcc385",
@@ -2938,13 +3006,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236248_IMG_1390.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "734558ef-b3ca-4ddc-bec5-1ec4b38c112e",
   "slug": "the-bakery-brothers-face-on-fire-og",
   "name": "The Bakery Brothers - Face on Fire OG",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -2962,13 +3031,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751175_unnamed__18_.jpg",
-  "match_score": 0.852
+  "match_score": 0.852,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "754640fc-892e-41da-b9fb-29a3e3b48ba2",
   "slug": "mbxbv-3",
   "name": "MBxBV#3",
-  "brand": "CLEARWATER BUDS LLC",
+  "brand": "CLEARWATER BUDS",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 5.99,
@@ -2986,13 +3056,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441328335_IMG_7834.jpg",
-  "match_score": 0.929
+  "match_score": 0.929,
+  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "75b9c08d-890b-4b18-a41f-54492473df15",
   "slug": "green-leaf-1000mg-cart",
   "name": "Green Leaf 1000mg Cart",
-  "brand": "Cold Baked",
+  "brand": "Green Leaf",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 12.0,
@@ -3070,13 +3141,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437538879_green_leaf.jpg",
-  "match_score": 0.82
+  "match_score": 0.82,
+  "vendor_name": "Cold Baked"
  },
  {
   "id": "79e3eaba-8d74-4ec0-b33c-563a383e00a6",
   "slug": "oil-twist-tugboat-2000",
   "name": "Oil Twist Tugboat 2000",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 24.0,
@@ -3134,13 +3206,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/434425390_oil_2000mg_tugboat.jpg",
-  "match_score": 0.738
+  "match_score": 0.738,
+  "vendor_name": "Craft"
  },
  {
   "id": "7b786c77-ed4a-4fc1-a736-cfc6a2d4f08f",
   "slug": "all-in-one-gt",
   "name": "All-in-One GT",
-  "brand": "NATTY REMS LLC",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 45.0,
@@ -3168,13 +3241,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.342
+  "match_score": 0.342,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "7bcdcf06-6377-457a-b200-8cb1faa0a1c8",
   "slug": "the-bakery-brothers-jelly-cake",
   "name": "The Bakery Brothers -Jelly Cake",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -3192,13 +3266,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751163_unnamed__17_.jpg",
-  "match_score": 0.777
+  "match_score": 0.777,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "7c493d5f-f268-4f3c-a420-84076e8b6802",
   "slug": "shatter",
   "name": "Shatter",
-  "brand": "Chaos",
+  "brand": "Heartland Farms",
   "category": "concentrate",
   "subcategory": "shatter",
   "price_min": 8.0,
@@ -3216,13 +3291,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443686468_20180117_46928_C_SpaceRaceGenetics_RottenBananasShatter_TVB_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 1.099
+  "match_score": 1.099,
+  "vendor_name": "Chaos"
  },
  {
   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
   "slug": "sesh-syringe-1g",
   "name": "Sesh Syringe 1g",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "syringe",
   "price_min": 12.0,
@@ -3275,13 +3351,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/924/355/avatar/1769195536-white_runtz_-_syringe.jpeg",
-  "match_score": 0.905
+  "match_score": 0.905,
+  "vendor_name": "Craft"
  },
  {
   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
   "slug": "denver-dabs-2g",
   "name": "Denver Dabs 2G",
-  "brand": "Denver Dab Co",
+  "brand": "Denver Dab",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 12.0,
@@ -3329,13 +3406,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/427833623_20230529_133801.jpg",
-  "match_score": 1.072
+  "match_score": 1.072,
+  "vendor_name": "Denver Dab Co"
  },
  {
   "id": "7d51fcfa-063e-4e05-9b18-fb075f7c7116",
   "slug": "sherblaster",
   "name": "Sherblaster",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -3353,7 +3431,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872702_IMG_1200.jpeg",
-  "match_score": 1.014
+  "match_score": 1.014,
+  "vendor_name": "Vera"
  },
  {
   "id": "7ddc36b7-e72e-44d2-a4c1-ccae69710597",
@@ -3392,7 +3471,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.06
+  "match_score": 0.06,
+  "vendor_name": "Starbuds Mips"
  },
  {
   "id": "81ea7f39-6561-484e-b1f0-3aca34beecd6",
@@ -3441,7 +3521,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
-  "match_score": 0.963
+  "match_score": 0.963,
+  "vendor_name": "Egozi"
  },
  {
   "id": "8364485d-917f-42be-bf7e-b890caea1af9",
@@ -3465,7 +3546,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443171927_IMG_20260505_164646943_2__1_.jpg",
-  "match_score": 1.045
+  "match_score": 1.045,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "8563664a-3e31-4a0d-aee6-d29b0a414217",
@@ -3489,13 +3571,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587103_Gello.jpeg",
-  "match_score": 0.874
+  "match_score": 0.874,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "859f98fc-02ca-4729-b7f6-15141db9f458",
   "slug": "hype-wax",
   "name": "HYPE Wax",
-  "brand": "",
+  "brand": "Terps",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 8.0,
@@ -3513,13 +3596,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443807251_20260630_135010.jpg",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": ""
  },
  {
   "id": "85f5de87-7ed1-4eb5-917e-d6cd5586fcaf",
   "slug": "the-bakery-brothers-melted-strawberries",
   "name": "The Bakery Brothers - Melted Strawberries",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -3537,7 +3621,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443754570_unnamed__12_.jpg",
-  "match_score": 0.782
+  "match_score": 0.782,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "8694ddd2-fbae-4b02-bcf9-ae87c467eec4",
@@ -3561,13 +3646,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555051_IMG_0970.jpeg",
-  "match_score": 1.019
+  "match_score": 1.019,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "8759452d-694c-4f18-a4f8-a4b9a5128c02",
   "slug": "abr-40",
   "name": "ABR #40",
-  "brand": "CLEARWATER BUDS LLC",
+  "brand": "ClearWater",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 5.99,
@@ -3585,13 +3671,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442870764_IMG_1199.jpeg",
-  "match_score": 0.898
+  "match_score": 0.898,
+  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "8a0bf113-f85f-48a4-9a54-ed71778b536f",
   "slug": "greendot-black-label-1g-prerolls",
   "name": "Greendot Black label 1G prerolls",
-  "brand": "Green Dot (OCC)",
+  "brand": "Green Dot Labs",
   "category": "flower",
   "subcategory": "other",
   "price_min": 13.71,
@@ -3624,7 +3711,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443738111_blacklable_green_dot_joint.jpg",
-  "match_score": 0.728
+  "match_score": 0.728,
+  "vendor_name": "Green Dot (OCC)"
  },
  {
   "id": "8a41ffcc-98b2-4ca4-9f03-a6334d6d2f9a",
@@ -3648,7 +3736,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/435211144_PXL_20240903_014323722.PORTRAIT.ORIGINAL.jpg",
-  "match_score": 0.985
+  "match_score": 0.985,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "8a4c66fc-c015-4218-a266-768c1b55d768",
@@ -3672,13 +3761,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167652_IMG_20260505_144453271_2.jpg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Vera"
  },
  {
   "id": "8dea7a5c-1386-4de3-86b6-71c7b4a7cf6a",
   "slug": "the-bakery-brothers-pre-98-blue-dream",
   "name": "The Bakery Brothers -Pre-98 Blue Dream",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "indica",
   "price_min": 12.25,
@@ -3696,7 +3786,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751084_unnamed__16_.jpg",
-  "match_score": 0.822
+  "match_score": 0.822,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "8e3dcc96-4509-4c56-b89f-95b4a71136e5",
@@ -3720,7 +3811,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596029_Image_260610_150852.jpeg",
-  "match_score": 1.034
+  "match_score": 1.034,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "90fa2ccd-8f70-4968-9f16-008bc92abd6c",
@@ -3744,7 +3836,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442824239_20260418_125304.jpg",
-  "match_score": 1.045
+  "match_score": 1.045,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "913570f8-ccb7-40ba-b9a0-ee7e0d2f81d9",
@@ -3768,13 +3861,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443596648_Image_260610_151044.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
   "slug": "sesh-super-seshie-all-in-one",
   "name": "Sesh super Seshie All in One",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 45.0,
@@ -3812,7 +3906,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/616/430/avatar/1741718032-hp13.png",
-  "match_score": 0.651
+  "match_score": 0.651,
+  "vendor_name": "Craft"
  },
  {
   "id": "91c8a9fc-86b9-422c-adfe-ba182470ce13",
@@ -3836,7 +3931,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167090_IMG_20260505_141618923_2.jpg",
-  "match_score": 1.105
+  "match_score": 1.105,
+  "vendor_name": "Vera"
  },
  {
   "id": "92354437-645d-49c5-beb9-bce786c32aef",
@@ -3845,8 +3941,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 30.2,
@@ -3854,13 +3950,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 30.2
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235476_IMG_1372.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "93444be7-5464-46df-b6d2-30419552f24a",
@@ -3884,13 +3981,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443172294_IMG_20260505_172844035_2.jpg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "9395052f-19ed-446f-9ee9-b7de2f9fba29",
   "slug": "dablets",
   "name": "Dablets",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "edible",
   "subcategory": "capsule",
   "price_min": 4.84,
@@ -3913,13 +4011,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.069
+  "match_score": 0.069,
+  "vendor_name": "Craft"
  },
  {
   "id": "943e0bc0-d48c-4f75-8374-802bdf45fd35",
   "slug": "oil-tugboat-1000",
   "name": "Oil Tugboat 1000",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 15.0,
@@ -3967,7 +4066,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433521252_20240809_084008.jpg",
-  "match_score": 0.927
+  "match_score": 0.927,
+  "vendor_name": "Craft"
  },
  {
   "id": "96e610d4-095d-42d1-8cbe-7f9e0689db17",
@@ -3991,13 +4091,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595870_Image_260610_145933.jpeg",
-  "match_score": 1.065
+  "match_score": 1.065,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "9851c775-f6d3-474e-9ebc-28003ac9ea6d",
   "slug": "purple-garlic-x-peach-breath-11",
   "name": "Purple Garlic x Peach Breath #11",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -4015,13 +4116,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594141_Image_260610_133704.jpeg",
-  "match_score": 1.128
+  "match_score": 1.128,
+  "vendor_name": "Vera"
  },
  {
   "id": "99aa7be9-7673-407d-8af4-0cec1b3565d1",
   "slug": "riptz",
   "name": "Riptz",
-  "brand": "Lifestyle Foods Inc",
+  "brand": "Lifestyle Foods",
   "category": "edible",
   "subcategory": "candy",
   "price_min": 13.0,
@@ -4039,13 +4141,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443738071_IMG_4411.jpeg",
-  "match_score": 0.738
+  "match_score": 0.738,
+  "vendor_name": "Lifestyle Foods Inc"
  },
  {
   "id": "9aba0756-6356-424a-a683-db6d81054328",
   "slug": "don-mega",
   "name": "Don Mega",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -4063,7 +4166,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594767_Image_260610_141007.jpeg",
-  "match_score": 1.05
+  "match_score": 1.05,
+  "vendor_name": "Vera"
  },
  {
   "id": "9aecba5f-1d8d-418d-96f6-3d11edeb48a9",
@@ -4087,7 +4191,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441441741_IMG_3728.JPG",
-  "match_score": 1.05
+  "match_score": 1.05,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "9df05e31-ecf3-4370-a3bc-870a708d5d98",
@@ -4111,7 +4216,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442049601_1000011483.jpg",
-  "match_score": 0.683
+  "match_score": 0.683,
+  "vendor_name": "Egozi"
  },
  {
   "id": "9e8ec73d-54c0-451c-bfa2-2bcab44d6c4d",
@@ -4124,18 +4230,19 @@
   "price_max": 12.99,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
-  "thc_max": 21.7,
+  "thc_max": 28.1,
   "n_strains": 1,
   "strains": [
    {
     "name": "Loose",
     "price": 12.99,
-    "thc": 21.7
+    "thc": 28.1
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443167317_IMG_20260505_142715377.jpg",
-  "match_score": 1.06
+  "match_score": 1.06,
+  "vendor_name": "Vera"
  },
  {
   "id": "9eaf47b5-7705-4b9c-bcbf-cebfe0eaa0b1",
@@ -4159,13 +4266,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443164528_IMG_20260505_122726208_2.jpg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "9ed579d2-da0d-42a9-86d1-6783620de2a2",
   "slug": "the-fizz",
   "name": "The Fizz",
-  "brand": "Antero Sciences",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 10.5,
@@ -4183,7 +4291,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236703_IMG_1385.jpeg",
-  "match_score": 0.943
+  "match_score": 0.943,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "a0524ac7-7930-4572-bf37-d44be6df446c",
@@ -4207,7 +4316,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443239713_IMG_0528.jpeg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "a1279ac1-80cb-4e82-b1f0-dc5518e9598d",
@@ -4216,8 +4326,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.2,
@@ -4225,13 +4335,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 29.2
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595442_Image_260610_144614.jpeg",
-  "match_score": 1.079
+  "match_score": 1.079,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "a16cd49d-1e78-4a8a-85dc-130b75586600",
@@ -4255,13 +4366,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443172190_IMG_20260505_171501121_2.jpg",
-  "match_score": 1.05
+  "match_score": 1.05,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0",
   "slug": "oil-4-pack",
   "name": "Oil 4 Pack",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 34.0,
@@ -4289,7 +4401,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
-  "match_score": 0.809
+  "match_score": 0.809,
+  "vendor_name": "Craft"
  },
  {
   "id": "a392163f-bc88-4816-80e4-ab62f0ee86b8",
@@ -4338,13 +4451,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/433327021_IMG_4441.jpg",
-  "match_score": 0.585
+  "match_score": 0.585,
+  "vendor_name": "Craft"
  },
  {
   "id": "a3f8a62a-63fa-437e-91f8-94671a1c389a",
   "slug": "doobski",
   "name": "Doobski",
-  "brand": "Bespoke extracts colorado LLC.",
+  "brand": "Bespoke extracts colorado",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 4.0,
@@ -4377,13 +4491,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443731312_image0__46_.jpeg",
-  "match_score": 0.632
+  "match_score": 0.632,
+  "vendor_name": "Bespoke extracts colorado LLC."
  },
  {
   "id": "a9f6f386-a83f-467a-8cac-0d4342518e05",
   "slug": "oil-twist-tugboat-1000",
   "name": "Oil Twist Tugboat 1000",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 15.0,
@@ -4446,7 +4561,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/434425390_oil_2000mg_tugboat.jpg",
-  "match_score": 0.738
+  "match_score": 0.738,
+  "vendor_name": "Craft"
  },
  {
   "id": "aa2d2643-89aa-4b14-9705-ce53569cbfa3",
@@ -4470,13 +4586,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595909_Image_260610_150632.jpeg",
-  "match_score": 0.968
+  "match_score": 0.968,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "aaacfbd1-aa74-4f8b-8b75-cc855f3c6f69",
   "slug": "ript",
   "name": "Ript",
-  "brand": "Lifestyle Foods Inc",
+  "brand": "Lifestyle Foods",
   "category": "edible",
   "subcategory": "candy",
   "price_min": 4.03,
@@ -4504,7 +4621,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429865596_Ript_Cherry.png",
-  "match_score": 0.626
+  "match_score": 0.626,
+  "vendor_name": "Lifestyle Foods Inc"
  },
  {
   "id": "ab3b4669-7946-4cc9-832c-7614a41814ce",
@@ -4513,8 +4631,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.3,
@@ -4522,13 +4640,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 27.3
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595824_Image_260610_145748.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "ac8287b9-0128-45fe-a59e-6c5853df5980",
@@ -4552,13 +4671,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442552246_IMG_0945.jpeg",
-  "match_score": 0.835
+  "match_score": 0.835,
+  "vendor_name": "Egozi"
  },
  {
   "id": "acc415c3-e790-453f-8e70-26ba463ede2c",
   "slug": "10mg-keef-cola",
   "name": "10mg Keef Cola",
-  "brand": "Keef Cola",
+  "brand": "Keef Brands",
   "category": "edible",
   "subcategory": "drink",
   "price_min": 6.0,
@@ -4616,13 +4736,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/029/945/avatar/1628610982-keef-classics-og-cola-can-ca.png",
-  "match_score": 0.863
+  "match_score": 0.863,
+  "vendor_name": "Keef Cola"
  },
  {
   "id": "ad24a878-4f7d-4a64-b793-7bb0b0ffe038",
   "slug": "mints",
   "name": "Mints",
-  "brand": "Medically Correct LLC",
+  "brand": "DABBLE EXTRACTS",
   "category": "edible",
   "subcategory": "candy",
   "price_min": 10.0,
@@ -4650,7 +4771,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437549997_20250319_134609.jpg",
-  "match_score": 0.633
+  "match_score": 0.633,
+  "vendor_name": "Medically Correct LLC"
  },
  {
   "id": "ad9105cc-4c41-40c7-b7f7-e65659da8cc0",
@@ -4674,13 +4796,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236749_IMG_1382.jpeg",
-  "match_score": 1.05
+  "match_score": 1.05,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "add5299b-e624-45f5-914c-542c1cfdbd89",
   "slug": "notorious-thc",
   "name": "Notorious THC",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -4698,7 +4821,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443169841_IMG_9294.jpeg",
-  "match_score": 1.07
+  "match_score": 1.07,
+  "vendor_name": "Vera"
  },
  {
   "id": "ade3d44b-abfc-4f7c-a760-2910647589d1",
@@ -4707,8 +4831,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.5,
@@ -4716,19 +4840,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 27.5
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443169814_IMG_9291__1_.jpeg",
-  "match_score": 1.027
+  "match_score": 1.027,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "b014d9bc-547b-4293-b704-1f6b9df84855",
   "slug": "haze-silver",
   "name": "Haze Silver",
-  "brand": "NATTY REMS LLC",
+  "brand": "Haze Silver",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 12.1,
@@ -4756,13 +4881,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/831/204/avatar/1745529399-haze_pink_rozay_5x7.jpg",
-  "match_score": 0.767
+  "match_score": 0.767,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "b11d9eee-bcd8-48c1-98c0-9787001a399c",
   "slug": "omt-114",
   "name": "OMT #114",
-  "brand": "CLEARWATER BUDS LLC",
+  "brand": "CLEARWATER BUDS",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 5.99,
@@ -4780,13 +4906,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748958_IMG_0686.jpeg",
-  "match_score": 0.898
+  "match_score": 0.898,
+  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "b1636d75-25d4-4237-a1d2-bc0bae8bff94",
   "slug": "jack-herer-x-peach-breath-6",
   "name": "Jack Herer x Peach Breath #6",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -4804,7 +4931,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594169_Image_260610_133830.jpeg",
-  "match_score": 0.903
+  "match_score": 0.903,
+  "vendor_name": "Vera"
  },
  {
   "id": "b4d6c852-0cd7-4340-bc47-89bc8f37773a",
@@ -4828,13 +4956,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235990_IMG_1392.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
   "slug": "keef-cola-10mg",
   "name": "Keef Cola 10mg",
-  "brand": "Denver Packaging Company",
+  "brand": "Keef Brands",
   "category": "edible",
   "subcategory": "drink",
   "price_min": 6.0,
@@ -4852,13 +4981,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/155/966/avatar/1753291380-slims_by_keef_blackberry_coconut.png",
-  "match_score": 0.719
+  "match_score": 0.719,
+  "vendor_name": "Denver Packaging Company"
  },
  {
   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
   "slug": "oil-twist-cartridge",
   "name": "Oil Twist Cartridge",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 9.68,
@@ -4866,7 +4996,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 88.44,
-  "n_strains": 11,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -4882,6 +5012,11 @@
     "name": "Blueberry Swirl",
     "price": 9.68,
     "thc": 86.6
+   },
+   {
+    "name": "Cherry Slush",
+    "price": 9.68,
+    "thc": 74.95
    },
    {
     "name": "Citrus Splash",
@@ -4926,7 +5061,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/135/194/avatar/1735944269-hp13.png",
-  "match_score": 0.816
+  "match_score": 0.816,
+  "vendor_name": "Craft"
  },
  {
   "id": "b86a64d5-784f-4c65-af85-a225119df480",
@@ -4950,13 +5086,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555033_IMG_0967__1_.jpeg",
-  "match_score": 0.953
+  "match_score": 0.953,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "b967df56-1b09-42a8-913b-a46fcbe30d99",
   "slug": "the-bakery-brothers-bewitched-1",
   "name": "The Bakery Brothers - Bewitched #1",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -4974,7 +5111,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443750985_unnamed__15_.jpg",
-  "match_score": 0.708
+  "match_score": 0.708,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "ba7086cf-9cd7-423e-815b-7221f466cd37",
@@ -4998,7 +5136,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594594_Image_260610_140509.jpeg",
-  "match_score": 1.111
+  "match_score": 1.111,
+  "vendor_name": "Vera"
  },
  {
   "id": "baa347a2-f872-4d05-a257-301cf2819c2c",
@@ -5007,8 +5146,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 26,
@@ -5016,13 +5155,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 26
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236774_IMG_1383__1_.jpeg",
-  "match_score": 1.05
+  "match_score": 1.05,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "baf7a2e6-47d3-4b71-9cd4-c9c4f7a2a655",
@@ -5046,7 +5186,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595450_Image_260610_144522.jpeg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "bb738ca5-f063-439f-8bb0-a56944c8c008",
@@ -5070,7 +5211,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595603_Image_260610_144703.jpeg",
-  "match_score": 1.088
+  "match_score": 1.088,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "bbb2ea5c-f5b7-42a5-9f83-8ac2c6a9ca21",
@@ -5079,8 +5221,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.3,
@@ -5088,19 +5230,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 29.3
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595677_Image_260610_145451.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "bc360d22-4b65-4d96-9b4d-7a87501c0e0f",
   "slug": "twax-1g-preroll",
   "name": "twax 1g Preroll",
-  "brand": "The Clear",
+  "brand": "CLEAR Brands",
   "category": "flower",
   "subcategory": "other",
   "price_min": 8.06,
@@ -5133,13 +5276,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439145193_HS_preroll.jpg",
-  "match_score": 0.652
+  "match_score": 0.652,
+  "vendor_name": "The Clear"
  },
  {
   "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
   "slug": "zoobies",
   "name": "Zoobies",
-  "brand": "Loud Labs LLC",
+  "brand": "Loud Labs",
   "category": "edible",
   "subcategory": "gummies",
   "price_min": 4.84,
@@ -5192,7 +5336,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443280312_mixed_fruit_zoobie.jpg",
-  "match_score": 0.661
+  "match_score": 0.661,
+  "vendor_name": "Loud Labs LLC"
  },
  {
   "id": "bd706e87-e88e-41b6-8141-fb6a12d96e67",
@@ -5216,13 +5361,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236641_IMG_1387.jpeg",
-  "match_score": 0.834
+  "match_score": 0.834,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "be060176-28d2-466d-9312-3bd033a327ec",
   "slug": "gold-tip-live-resin1000mg",
   "name": "Gold Tip Live Resin1000mg",
-  "brand": "NATTY REMS LLC",
+  "brand": "Natty Rems",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 40.0,
@@ -5255,13 +5401,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/541/086/avatar/1749142807-gold_tip_mylar___cart_menu_image_natty_rems__jun2025.jpg",
-  "match_score": 0.818
+  "match_score": 0.818,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "be6f0c7f-6f4e-4a53-a0ad-516ba245c7ae",
   "slug": "sesh-infused-5-pack",
   "name": "Sesh infused 5-Pack",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 16.0,
@@ -5279,13 +5426,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/616/460/avatar/1737064916-new_cone_5_pack.png",
-  "match_score": 1.071
+  "match_score": 1.071,
+  "vendor_name": "Craft"
  },
  {
   "id": "c0bd6680-3597-4b3f-81be-0d1d3f828e89",
   "slug": "sesh-4-pack",
   "name": "Sesh 4 Pack",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 36.0,
@@ -5308,13 +5456,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/847/799/avatar/1767901226-1_-_churroz_-_cart.jpeg",
-  "match_score": 0.807
+  "match_score": 0.807,
+  "vendor_name": "Craft"
  },
  {
   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
   "slug": "rippys",
   "name": "Rippys",
-  "brand": "Loud Labs LLC",
+  "brand": "Loud Labs",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 8.06,
@@ -5347,7 +5496,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.275
+  "match_score": 0.275,
+  "vendor_name": "Loud Labs LLC"
  },
  {
   "id": "c1f8af6f-0cf5-4f3f-ae03-500a918c9f64",
@@ -5371,7 +5521,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236726_IMG_1389.jpeg",
-  "match_score": 0.984
+  "match_score": 0.984,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "c2c82cfe-1577-49f8-b59b-f41a82a59873",
@@ -5395,7 +5546,8 @@
   ],
   "description": "This cross of the popular Wedding Cake and Kush Mints comes from Liberty Health Sciences and Seed Junky Genetics. La Kush Cake is an indica-dominant strain that smells like vanilla and has an earthy peppermint taste. It\u2019s an easy, smooth hitter, and effects take a while to come on. This is a beautiful flower, with green and purple buds covered in frosty trichomes. It\u2019s great for relaxing and winding down at the end of the night without much else to do.",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442711906_IMG_4141.JPG",
-  "match_score": 1.007
+  "match_score": 1.007,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "c4120029-a861-4a8f-bac0-bf7802c79438",
@@ -5419,7 +5571,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442872849_IMG_8634.jpg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "c50921a9-3d16-4b81-bafb-e00eb6468ec9",
@@ -5443,13 +5596,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443597097_IMG_9637.jpeg",
-  "match_score": 0.877
+  "match_score": 0.877,
+  "vendor_name": "Vera"
  },
  {
   "id": "c6813635-67a8-4689-8cb9-99b900a81106",
   "slug": "dulce-de-uva-x-pink-tape-5",
   "name": "Dulce de Uva x Pink Tape #5",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -5467,7 +5621,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594109_IMG_4359.jpeg",
-  "match_score": 1.134
+  "match_score": 1.134,
+  "vendor_name": "Vera"
  },
  {
   "id": "c6feabe3-f35b-40da-9144-21c0c4c07454",
@@ -5501,7 +5656,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437973621_180217P_25584_Preroll_2.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 0.553
+  "match_score": 0.553,
+  "vendor_name": "TS Labs (OCC)"
  },
  {
   "id": "c9871da5-bac1-4435-945f-85a3ddecde6c",
@@ -5525,13 +5681,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442873287_IMG_1203.jpeg",
-  "match_score": 1.074
+  "match_score": 1.074,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "ccf64035-c6be-4207-9d78-c3408b5fb921",
   "slug": "astronaut-status",
   "name": "Astronaut Status",
-  "brand": "Antero Sciences",
+  "brand": "Clearwater",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -5549,31 +5706,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235634_IMG_1377.jpeg",
-  "match_score": 1.065
- },
- {
-  "id": "cf7867f3-1264-460c-a4a8-3bf3bde3f389",
-  "slug": "ripple-quicksticks",
-  "name": "Ripple QuickSticks",
-  "brand": "Lifestyle Foods Inc",
-  "category": "edible",
-  "subcategory": "drink",
-  "price_min": 17.0,
-  "price_max": 17.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": null,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Sleep 1:1 THC/CBN/CBD",
-    "price": 17.0,
-    "thc": null
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429764974_Sleep.png",
-  "match_score": 0.855
+  "match_score": 1.065,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "cfa52440-b927-4f77-80be-7ad5bcc49d3b",
@@ -5597,7 +5731,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436989964_IMG_1077.jpg",
-  "match_score": 1.063
+  "match_score": 1.063,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "d0938bf4-7621-4c48-a972-4b60ae11c7b8",
@@ -5606,8 +5741,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 31.4,
@@ -5615,13 +5750,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 31.4
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236482_IMG_1386.jpeg",
-  "match_score": 1.027
+  "match_score": 1.027,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "d3fd9d31-3583-44f6-a784-56f066506dbd",
@@ -5630,8 +5766,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.6,
@@ -5639,13 +5775,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 29.6
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236703_IMG_1385.jpeg",
-  "match_score": 1.054
+  "match_score": 1.054,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "d413eb17-9487-405c-818e-86a13ee3aa2c",
@@ -5669,7 +5806,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594618_Image_260610_140724.jpeg",
-  "match_score": 0.913
+  "match_score": 0.913,
+  "vendor_name": "Vera"
  },
  {
   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
@@ -5713,7 +5851,8 @@
   ],
   "description": "a",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/300117376_download__1_.jpg",
-  "match_score": 0.734
+  "match_score": 0.734,
+  "vendor_name": "High Country Management Group"
  },
  {
   "id": "d4ce9adc-a37e-4401-84fb-1ab7b0ef4380",
@@ -5737,13 +5876,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440600702_IMG_3564__1_.JPG",
-  "match_score": 1.019
+  "match_score": 1.019,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "d5df5395-745f-4b04-ade6-4d3a5f64f58b",
   "slug": "spilled-paint",
   "name": "Spilled Paint",
-  "brand": "Antero Sciences",
+  "brand": "Antero Farms",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 10.5,
@@ -5761,7 +5901,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442873602_IMG_1207.jpeg",
-  "match_score": 1.057
+  "match_score": 1.057,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "d6907cf8-8fc5-4a33-9304-7b31125de9a3",
@@ -5790,7 +5931,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
-  "match_score": 0.963
+  "match_score": 0.963,
+  "vendor_name": "Egozi"
  },
  {
   "id": "d6cff5de-a6bf-422c-95aa-e0832752e11c",
@@ -5814,13 +5956,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442586938_midnite.jpg",
-  "match_score": 0.994
+  "match_score": 0.994,
+  "vendor_name": "Vera"
  },
  {
   "id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de",
   "slug": "wax",
   "name": "wax",
-  "brand": "Chaos",
+  "brand": "Heartland Industries",
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 7.0,
@@ -5843,13 +5986,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443684281_IMG_20260618_130717756.jpg",
-  "match_score": 0.86
+  "match_score": 0.86,
+  "vendor_name": "Chaos"
  },
  {
   "id": "d7a2d3d6-250d-4dc5-8441-c3f89e01867d",
   "slug": "virgin-mary-llc-dante-s-inferno",
   "name": "Virgin Mary LLC - Dante's Inferno",
-  "brand": "",
+  "brand": "Terps",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -5867,7 +6011,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221487_dantes.jpg",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": ""
  },
  {
   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
@@ -5941,13 +6086,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437590203_PXL_20250323_174410864.PORTRAIT.ORIGINAL__1_.jpg",
-  "match_score": 1.01
+  "match_score": 1.01,
+  "vendor_name": "AO Extracts"
  },
  {
   "id": "d90e0bf3-7a43-4d9b-aec0-697cde54f3e1",
   "slug": "battery",
   "name": "Battery",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "merchandise",
   "subcategory": "accessory",
   "price_min": 10.0,
@@ -5980,7 +6126,8 @@
   ],
   "description": "Battery",
   "wm_img": "",
-  "match_score": 0.057
+  "match_score": 0.057,
+  "vendor_name": "Craft"
  },
  {
   "id": "d9c0716f-a794-4c27-b1d2-33b6b6b9413c",
@@ -6004,7 +6151,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442569023_IMG_7948.jpeg",
-  "match_score": 0.989
+  "match_score": 0.989,
+  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "dbd957ba-7884-41b0-a461-e58eac162fa4",
@@ -6013,8 +6161,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.6,
@@ -6022,13 +6170,14 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 29.6
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235602_IMG_1374.jpeg",
-  "match_score": 1.06
+  "match_score": 1.06,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
@@ -6082,13 +6231,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.247
+  "match_score": 0.247,
+  "vendor_name": "CALI BLAZE (OCC)"
  },
  {
   "id": "ddf1f2f2-24d1-4850-b558-2173ea570af4",
   "slug": "grape-cream-cake-x-peach-breath-12",
   "name": "Grape Cream Cake x Peach Breath #12",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -6106,7 +6256,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594280_Image_260610_134528.jpeg",
-  "match_score": 1.14
+  "match_score": 1.14,
+  "vendor_name": "Vera"
  },
  {
   "id": "df62bf53-4a16-418e-b5b5-51cd110a0ddc",
@@ -6130,7 +6281,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442660436_20260408_103959__1_.jpg",
-  "match_score": 1.084
+  "match_score": 1.084,
+  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "e0146c56-d7d2-417b-9d5f-ee30d8f23079",
@@ -6139,8 +6291,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 28.1,
@@ -6148,19 +6300,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 28.1
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235613_IMG_1375.jpeg",
-  "match_score": 0.692
+  "match_score": 0.692,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "e0af0531-73ba-42c8-8cb7-a64f89cc321f",
   "slug": "1g-infused-joint",
   "name": "1g Infused Joint",
-  "brand": "Juicy",
+  "brand": "Kaviar",
   "category": "concentrate",
   "subcategory": "distillate",
   "price_min": 9.0,
@@ -6208,13 +6361,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.296
+  "match_score": 0.296,
+  "vendor_name": "Juicy"
  },
  {
   "id": "e2574b3c-47c4-497f-a9c1-6043768fd805",
   "slug": "virgin-mary-llc-runtz",
   "name": "Virgin Mary LLC - Runtz",
-  "brand": "",
+  "brand": "Terps",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -6232,13 +6386,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443221508_runtz.jpg",
-  "match_score": 0.929
+  "match_score": 0.929,
+  "vendor_name": ""
  },
  {
   "id": "e375255a-6896-4a39-a1ee-25f435213f49",
   "slug": "strawnana",
   "name": "Strawnana",
-  "brand": "Silver Lake",
+  "brand": "Nerd Bar",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 8.47,
@@ -6256,13 +6411,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441633591_IMG_1133.jpeg",
-  "match_score": 0.91
+  "match_score": 0.91,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "e67d9b9a-89f9-422c-a0e5-335dcc0daf39",
   "slug": "fizz",
   "name": "Fizz",
-  "brand": "Vera",
+  "brand": "Vera Cultivation",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 11.31,
@@ -6280,7 +6436,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587051_FIZZ.jpg",
-  "match_score": 0.964
+  "match_score": 0.964,
+  "vendor_name": "Vera"
  },
  {
   "id": "e6e97ac9-7f23-4d1a-9565-dd7fbd00223a",
@@ -6304,7 +6461,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442570670_20260401_162759.jpg",
-  "match_score": 0.989
+  "match_score": 0.989,
+  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "e712619a-d828-4ef5-a47c-4818df47d00f",
@@ -6313,8 +6471,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27,
@@ -6322,19 +6480,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 27
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235455_IMG_1371.jpeg",
-  "match_score": 1.122
+  "match_score": 1.122,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
   "slug": "timberline-extracts-4g-jar",
   "name": "Timberline Extracts 4g Jar",
-  "brand": "David Jackson LLC",
+  "brand": "Timberline Extracts",
   "category": "concentrate",
   "subcategory": "budder",
   "price_min": 17.74,
@@ -6377,7 +6536,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436729551_1000009515.jpg",
-  "match_score": 0.562
+  "match_score": 0.562,
+  "vendor_name": "David Jackson LLC"
  },
  {
   "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
@@ -6416,7 +6576,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
-  "match_score": 0.963
+  "match_score": 0.963,
+  "vendor_name": "Egozi"
  },
  {
   "id": "ea0ce9d8-4ec3-4278-9155-a78668a8bb30",
@@ -6440,13 +6601,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429574910_20231205_123651.jpg",
-  "match_score": 0.699
+  "match_score": 0.699,
+  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
   "slug": "haze-silver-preroll",
   "name": "Haze Silver Preroll",
-  "brand": "NATTY REMS LLC",
+  "brand": "Haze Silver",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 2.42,
@@ -6509,13 +6671,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438204059_180215_54292_Prerolls_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 0.903
+  "match_score": 0.903,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "eaa1c104-ec80-47be-b9b6-7a7e53898528",
   "slug": "budder",
   "name": "Budder",
-  "brand": "Cold Baked",
+  "brand": "DABBLE EXTRACTS",
   "category": "concentrate",
   "subcategory": "budder",
   "price_min": 8.0,
@@ -6543,7 +6706,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/products/000/541/859/avatar/1728311921-1698088165-an002-2b.png",
-  "match_score": 0.73
+  "match_score": 0.73,
+  "vendor_name": "Cold Baked"
  },
  {
   "id": "ecc88ac8-b7b6-4a77-95ad-631326d6f63b",
@@ -6552,8 +6716,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 28.4,
@@ -6561,19 +6725,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 28.4
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236659_IMG_1381.jpeg",
-  "match_score": 0.683
+  "match_score": 0.683,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
   "slug": "1g-cart-2",
   "name": "1g Cart",
-  "brand": "Juicy",
+  "brand": "JUICY",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 9.68,
@@ -6596,7 +6761,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
-  "match_score": 0.86
+  "match_score": 0.86,
+  "vendor_name": "Juicy"
  },
  {
   "id": "edf1fe37-3d97-45aa-ae2d-078ec0847b21",
@@ -6620,13 +6786,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240742_IMG_0532.jpeg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Egozi"
  },
  {
   "id": "ee55a42f-2d36-4951-a0ad-b75baf8d0ea7",
   "slug": "the-bakery-brothers-dark-plasma",
   "name": "The Bakery Brothers - Dark Plasma",
-  "brand": "TBB Llc",
+  "brand": "The Bakery Brothers",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.25,
@@ -6644,7 +6811,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442193433_IMG_0365.jpeg",
-  "match_score": 1.03
+  "match_score": 1.03,
+  "vendor_name": "TBB Llc"
  },
  {
   "id": "eff39341-a5b5-40f3-9350-4f3bb4435f15",
@@ -6668,7 +6836,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441514541_20260120_133406.jpg",
-  "match_score": 0.972
+  "match_score": 0.972,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "f23affa5-6a61-4b5a-904f-82e07fecda20",
@@ -6692,13 +6861,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441514516_20260120_133241.jpg",
-  "match_score": 0.91
+  "match_score": 0.91,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "f2fc70d4-9722-4bab-bd7c-fc732b326fc5",
   "slug": "oil-infused-cone-5pk",
   "name": "Oil Infused Cone (5pk)",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 14.0,
@@ -6716,7 +6886,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436219858_5pk.jfif",
-  "match_score": 0.91
+  "match_score": 0.91,
+  "vendor_name": "Craft"
  },
  {
   "id": "f4910b45-c276-40c0-a534-21643b69548d",
@@ -6755,13 +6926,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439540360_IMG_5392.jpg",
-  "match_score": 0.76
+  "match_score": 0.76,
+  "vendor_name": "Cold Baked"
  },
  {
   "id": "f5e8fc47-d444-47fd-a7d6-0ebb13ab1bda",
   "slug": "virgin-mary-llc-flaming-hot-cheetoz",
   "name": "Virgin Mary LLC - Flaming Hot Cheetoz",
-  "brand": "",
+  "brand": "Terps",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 12.99,
@@ -6779,7 +6951,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.49
+  "match_score": 0.49,
+  "vendor_name": ""
  },
  {
   "id": "f65f79e1-1640-4457-b481-adec3bf1d4b7",
@@ -6803,13 +6976,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240742_IMG_0532.jpeg",
-  "match_score": 0.977
+  "match_score": 0.977,
+  "vendor_name": "Egozi"
  },
  {
   "id": "f7f3bdfb-966a-4446-8d71-979e27e11580",
   "slug": "pyramid-fullspectrum",
   "name": "PYRAMID - FullSpectrum",
-  "brand": "Loud Labs LLC",
+  "brand": "Loud Labs",
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 16.0,
@@ -6837,7 +7011,8 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.449
+  "match_score": 0.449,
+  "vendor_name": "Loud Labs LLC"
  },
  {
   "id": "f8bb1fc4-4094-4bd5-a252-77eb1efda18f",
@@ -6846,8 +7021,8 @@
   "brand": "Antero Sciences",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
+  "price_min": 12.01,
+  "price_max": 12.01,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 19.6,
@@ -6855,19 +7030,20 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 12.99,
+    "price": 12.01,
     "thc": 19.6
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443595973_Image_260610_150722.jpeg",
-  "match_score": 1.0
+  "match_score": 1.0,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "f95da273-3f85-42df-bcb6-0fad8612b3e1",
   "slug": "twax-5-pack-preroll",
   "name": "twax 5 pack  preroll",
-  "brand": "The Clear",
+  "brand": "CLEAR Brands",
   "category": "flower",
   "subcategory": "indica",
   "price_min": 30.0,
@@ -6895,7 +7071,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439145193_HS_preroll.jpg",
-  "match_score": 0.652
+  "match_score": 0.652,
+  "vendor_name": "The Clear"
  },
  {
   "id": "f974e86b-3ead-4ffa-90e8-9e423791f648",
@@ -6919,13 +7096,14 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555051_IMG_0970.jpeg",
-  "match_score": 1.019
+  "match_score": 1.019,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
   "slug": "natty-rems-preroll",
   "name": "Natty Rems Preroll",
-  "brand": "NATTY REMS LLC",
+  "brand": "Natty Rems",
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 2.42,
@@ -6998,31 +7176,38 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438204059_180215_54292_Prerolls_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 1.099
+  "match_score": 1.099,
+  "vendor_name": "NATTY REMS LLC"
  },
  {
   "id": "fa0632c6-8735-4893-8775-56f9db9fc890",
   "slug": "battery-2",
   "name": "battery",
-  "brand": "Craft",
+  "brand": "Craft Concentrates",
   "category": "merchandise",
   "subcategory": "accessory",
   "price_min": 10.0,
-  "price_max": 10.0,
+  "price_max": 13.22,
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 1,
+  "n_strains": 2,
   "strains": [
    {
     "name": "hex",
     "price": 10.0,
     "thc": null
+   },
+   {
+    "name": "Mini",
+    "price": 13.22,
+    "thc": null
    }
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.06
+  "match_score": 0.057,
+  "vendor_name": "Craft"
  },
  {
   "id": "fa1b658f-3619-4f4a-8ec7-6f055361a9cb",
@@ -7046,7 +7231,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443597080_Image_260610_151214.jpeg",
-  "match_score": 1.113
+  "match_score": 1.113,
+  "vendor_name": "Antero Sciences"
  },
  {
   "id": "fa529e04-12dd-4dfc-b217-1778ceda8cb9",
@@ -7070,7 +7256,8 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440198758_IMG_3486.JPG",
-  "match_score": 0.985
+  "match_score": 0.985,
+  "vendor_name": "Silver Lake"
  },
  {
   "id": "feb879eb-afbd-4d68-8540-f31ce536e382",
@@ -7114,13 +7301,14 @@
   ],
   "description": "",
   "wm_img": "",
-  "match_score": 0.466
+  "match_score": 0.466,
+  "vendor_name": "Colorado's Best Dabs"
  },
  {
   "id": "ff193c75-0255-4416-a6f7-c16024a84ac1",
   "slug": "shatter-2",
   "name": "Shatter",
-  "brand": "Cold Baked",
+  "brand": "DABBLE EXTRACTS",
   "category": "concentrate",
   "subcategory": "shatter",
   "price_min": 8.06,
@@ -7128,7 +7316,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.4,
-  "n_strains": 12,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Berry Cobbler",
@@ -7149,11 +7337,6 @@
     "name": "Ghost Glue",
     "price": 8.06,
     "thc": 76.42
-   },
-   {
-    "name": "Ice Box Pie",
-    "price": 8.06,
-    "thc": 64.82
    },
    {
     "name": "Klone Cake",
@@ -7193,6 +7376,7 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/432063111_PXL_20240519_172503038.PORTRAIT.ORIGINAL.jpg",
-  "match_score": 0.824
+  "match_score": 0.824,
+  "vendor_name": "Cold Baked"
  }
 ]

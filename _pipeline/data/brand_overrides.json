@@ -1,0 +1,5 @@
+{
+  "_readme": "Hand-curated customer-facing brand overrides, keyed by exact Weave product name. Wins over match-derived and vendor-derived brands. Added 7/2/2026 for Gabriela's brand-filter fix (Doinks scored 0.543, just under the 0.55 auto gate; Jupiter Joints' true brand is Cosmos THC per WM listings).",
+  "Doinks": "Doinks",
+  "Jupiter Joints": "Cosmos THC"
+}

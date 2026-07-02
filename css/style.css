@@ -152,7 +152,11 @@ section.block{padding:64px 0}
 .pdp .meta{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
 .pdp .pill{background:var(--cream-2);color:var(--green-800);font-weight:700;font-size:.82rem;padding:.4em .9em;border-radius:999px}
 .pdp .pill.gold{background:var(--gold);color:var(--green-900)}
-.pdp .priceline{font-family:var(--serif);font-size:2rem;color:var(--green-900);font-weight:700;margin-bottom:22px}
+.pdp .priceline{font-family:var(--serif);font-size:2rem;color:var(--green-900);font-weight:700;margin-bottom:4px}
+.pdp .otd{color:var(--muted);font-size:.95rem;margin-bottom:18px}
+.otd-tot{color:var(--muted);font-size:.9rem;text-align:right;margin-bottom:6px}
+.co-li.co-otd{color:var(--muted)}
+.co-li.co-otd b{color:var(--gold-text)}
 .pdp .priceline small{font-size:.9rem;color:var(--muted);font-family:var(--sans);font-weight:600}
 .pdp .strain-sel h4,.pdp .desc h4,.pdp .strain-sel .h4,.pdp .desc .h4{font-family:var(--sans);font-size:.82rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
 .strain-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-bottom:24px;max-height:280px;overflow:auto;padding:2px}
