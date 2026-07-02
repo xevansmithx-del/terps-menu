@@ -1,0 +1,33 @@
+name: Verify Site
+
+on:
+  pull_request:
+
+jobs:
+  verify:
+    name: Build + closed-loop checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild site from pipeline (date-pinned to committed sitemap)
+        run: |
+          export BUILD_DATE=$(grep -o '<lastmod>[^<]*</lastmod>' sitemap.xml | head -1 | sed 's/<[^>]*>//g')
+          echo "BUILD_DATE=$BUILD_DATE"
+          cd _pipeline
+          python3 build_site.py
+
+      - name: Regenerated output must be committed
+        run: |
+          git diff --exit-code || {
+            echo "::error::build_site.py output differs from committed files — regenerate and commit (cd _pipeline && python3 build_site.py)"
+            exit 1
+          }
+
+      - name: Canonical host, CNAME, robots, links, sitemap
+        run: python3 _pipeline/verify_site.py
