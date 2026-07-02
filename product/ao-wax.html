@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1", "name": "AO Wax", "brand": "AO Extracts", "photo": "../img/products/d80a3c20-aa08-4542-aaf3-ff95c21d7ef1.jpg", "price": 8.0, "unit": "", "strains": [{"name": "Banana OG", "price": 8.0, "thc": 68.7}, {"name": "Black Inferno", "price": 8.0, "thc": 69.8}, {"name": "Black Truffle", "price": 8.0, "thc": 71.4}, {"name": "Bloo Berry", "price": 8.0, "thc": 71.9}, {"name": "Boo Berry", "price": 8.0, "thc": 66.2}, {"name": "Rainbow Belts", "price": 8.0, "thc": 71}, {"name": "Roast Mellow", "price": 8.0, "thc": 68.5}, {"name": "RX Sugar", "price": 8.0, "thc": 73}, {"name": "Sunrise Sherbert", "price": 8.0, "thc": 67.4}, {"name": "Sunset Sherbet", "price": 8.0, "thc": 71.7}, {"name": "Tropicanna Banana", "price": 8.0, "thc": 75.9}]};
+const PROD={"id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1", "name": "AO Wax", "brand": "AO Extracts", "photo": "../img/products/d80a3c20-aa08-4542-aaf3-ff95c21d7ef1.jpg", "price": 8.0, "unit": "", "unit_label": "", "strains": [{"name": "Banana OG", "price": 8.0, "thc": 68.7}, {"name": "Black Inferno", "price": 8.0, "thc": 69.8}, {"name": "Black Truffle", "price": 8.0, "thc": 71.4}, {"name": "Bloo Berry", "price": 8.0, "thc": 71.9}, {"name": "Boo Berry", "price": 8.0, "thc": 66.2}, {"name": "Rainbow Belts", "price": 8.0, "thc": 71}, {"name": "Roast Mellow", "price": 8.0, "thc": 68.5}, {"name": "RX Sugar", "price": 8.0, "thc": 73}, {"name": "Sunrise Sherbert", "price": 8.0, "thc": 67.4}, {"name": "Sunset Sherbet", "price": 8.0, "thc": 71.7}, {"name": "Tropicanna Banana", "price": 8.0, "thc": 75.9}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "0e03cc76-b17e-47e7-a656-4b744bb0828d", "name": "AO Live Rosin", "brand": "AO Extracts", "photo": "../img/products/0e03cc76-b17e-47e7-a656-4b744bb0828d.jpg", "price": 28.0, "unit": "", "strains": [{"name": "Caked Up Bananas", "price": 28.0, "thc": 68.85}, {"name": "Red Runtz", "price": 28.0, "thc": 73.27}, {"name": "Red Velvet Mints", "price": 28.0, "thc": 68.93}, {"name": "Strawberry Banana", "price": 28.0, "thc": 70.01}, {"name": "Trop Cherry", "price": 28.0, "thc": 65.68}]};
+const PROD={"id": "0e03cc76-b17e-47e7-a656-4b744bb0828d", "name": "AO Live Rosin", "brand": "AO Extracts", "photo": "../img/products/0e03cc76-b17e-47e7-a656-4b744bb0828d.jpg", "price": 28.0, "unit": "", "unit_label": "", "strains": [{"name": "Caked Up Bananas", "price": 28.0, "thc": 68.85}, {"name": "Red Runtz", "price": 28.0, "thc": 73.27}, {"name": "Red Velvet Mints", "price": 28.0, "thc": 68.93}, {"name": "Strawberry Banana", "price": 28.0, "thc": 70.01}, {"name": "Trop Cherry", "price": 28.0, "thc": 65.68}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>

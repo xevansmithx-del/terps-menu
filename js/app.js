@@ -43,7 +43,7 @@ const Cart = {
       <div class="ci">
         <img src="${i.img||''}" onerror="this.style.visibility='hidden'" alt="">
         <div class="info"><div class="nm">${i.name}</div>
-          <div class="st">${i.strain?i.strain+' · ':''}${money(i.price)} × ${i.qty}</div>
+          <div class="st">${i.strain?i.strain+' · ':''}${money(i.price)}${i.unit?' · '+i.unit:''} × ${i.qty}</div>
           <div class="rm" onclick="Cart.remove(${idx})">Remove</div></div>
         <div class="pr">${money(i.price*i.qty)}</div>
       </div>`).join('');
@@ -97,7 +97,7 @@ function renderCheckoutSummary(){
   const items=Cart.get();
   const el=document.getElementById('co-summary'); if(!el) return;
   el.innerHTML =
-    items.map(i=>`<div class="co-li"><span>${i.qty}× ${esc(i.name)}${i.strain?' · '+esc(i.strain):''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
+    items.map(i=>`<div class="co-li"><span>${i.qty}× ${esc(i.name)}${i.strain?' · '+esc(i.strain):''}${i.unit?' ('+esc(i.unit)+')':''}</span><b>${money(i.price*i.qty)}</b></div>`).join('')
     + `<div class="co-li co-tot"><span>Subtotal (pre-tax)</span><b>${money(Cart.total())}</b></div>`;
 }
 function closeCheckout(){
@@ -216,6 +216,17 @@ function toast(m){ let t=document.getElementById('toast'); if(!t){t=document.cre
 /* ---------- Live Weave hydration ----------
    Refreshes prices & availability against the live POS so the
    static (SEO-indexed) pages always show current data. */
+/* Flower sells as pre-packaged 3.5g eighths (owner directive 2026-07-02).
+   The Weave POS prices loose bud per gram, so the eighth package price =
+   per-gram cents x 3.5 — MUST mirror _pipeline/build_catalog.py exactly
+   (same not-bud regex, same >=$10/g package-price guard; if per_gram_ok
+   exceptions are ever added there, mirror them here). */
+const NOT_BUD_RE=/pre.?roll|cone|joint|blunt|infused|\bpack\b|\bpk\b|\bkief\b|caviar/i;
+function liveVariantPrice(p,v){
+  if(p.category==='flower' && v.type==='loose' && v.price<1000 && !NOT_BUD_RE.test(p.name||''))
+    return Math.round(v.price*3.5)/100;   // per-gram -> 3.5g eighth package price
+  return v.price/100;
+}
 async function fetchLive(){
   try{
     const r=await fetch(WEAVE_API,{headers:{'Accept':'application/json'}});
@@ -226,7 +237,7 @@ async function fetchLive(){
     rows.forEach(p=>{
       const vs=(p.variants||[]).filter(v=>!v.hidden_from_menu && (v.quantity||0)>0 && (v.price||0)>=50);
       if(!vs.length) return;
-      const prices=vs.map(v=>v.price/100);
+      const prices=vs.map(v=>liveVariantPrice(p,v));
       byId[p.id]=byId[p.id]||{min:Infinity,max:0,live:true};
       byId[p.id].min=Math.min(byId[p.id].min,...prices);
       byId[p.id].max=Math.max(byId[p.id].max,...prices);

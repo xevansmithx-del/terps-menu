@@ -20,7 +20,7 @@ Powered by the live Weave POS menu, enriched with Terps' own Weedmaps product ph
 
 ```
 build_catalog.py     # live Weave feed -> data/catalog.json (290 products, strains grouped,
-                     #   flower priced /g, implausible flower THC suppressed), matches WM photos
+                     #   flower priced per 3.5g-eighth package, implausible flower THC suppressed), matches WM photos
 download_images.py   # downloads + optimizes matched Weedmaps photos -> site/img/products/<id>.jpg
 build_site.py        # generates index/menu/290 product pages + sitemap into the repo root (run from _pipeline/)
 ```
@@ -42,7 +42,7 @@ cd /tmp/terps-menu-deploy && cp -R ".../site/." . && git add -A && git commit -m
 ## Key facts
 - Weave location UUID: `bcb66b17-88c8-4139-a6d4-f8dd8099521e`
 - Live menu API (public, CORS-open): `https://order.api.weaveiq.com/<loc>/search/variant`
-- Flower is priced **per gram** in the POS → displayed as `$/g`. Prerolls/edibles/concentrates per item.
+- Flower sells as **pre-packaged 3.5g eighths** (owner directive 2026-07-02 — never by the gram unless a product explicitly says otherwise). The Weave POS models loose bud as a per-gram unit price, so the displayed eighth package price = per-gram × 3.5 (applied in `build_catalog.py` and mirrored in `js/app.js` live hydration). Prerolls/edibles/concentrates stay per item; branded prepacks (`Eighth`/`Half` variants, Greendot `3.5g/7g/14g`) keep their real package price with a weight label.
 - Photos matched by name+brand with a category gate (never shows a wrong-category photo; 263/290 have real photos, rest get a branded droplet placeholder).
 
 ## Going live on the domain (the remaining step — needs Evan)

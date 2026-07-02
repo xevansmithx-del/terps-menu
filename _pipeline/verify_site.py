@@ -9,8 +9,13 @@ Checks:
   3. robots.txt must Disallow: /staff.html and Disallow: /order.html.
   4. Every internal href/src in served HTML must resolve to a file in the repo.
   5. sitemap.xml must be valid XML and every <loc> must map to an existing file.
+  6. No flower product page may show per-gram ("/g", "per gram") pricing —
+     flower sells as pre-packaged 3.5g eighths (owner directive 2026-07-02) —
+     unless the product is an explicit per-gram exception (unit_kind='per_gram'
+     in _pipeline/data/catalog.json, driven by data/unit_exceptions.json).
 """
 import glob
+import json
 import os
 import re
 import sys
@@ -148,6 +153,32 @@ else:
                 target += 'index.html'
             if not target_exists(target):
                 err(f'sitemap.xml: <loc> {loc} -> "{target}" does not exist in the repo')
+
+# ---- 6. flower pages must never show per-gram pricing --------------------
+# Owner directive (2026-07-02): flower sells only as pre-packaged 3.5g eighths.
+# The only allowed "/g" is a product whose catalog entry is an explicit
+# per-gram exception (unit_kind='per_gram', set via _pipeline/data/unit_exceptions.json).
+CAT_PATH = os.path.join('_pipeline', 'data', 'catalog.json')
+if not os.path.isfile(CAT_PATH):
+    err(f'{CAT_PATH} is missing — cannot verify flower unit pricing')
+else:
+    catalog = json.load(open(CAT_PATH, encoding='utf-8'))
+    PER_GRAM_RE = re.compile(r'\$[\d.,]+\s*/g\b|/g<|per[ -]gram', re.I)
+    for p in catalog:
+        if p.get('category') != 'flower':
+            continue
+        if p.get('unit_kind') == 'per_gram':
+            continue  # explicit exception — allowed to show /g
+        f = os.path.join('product', f"{p['slug']}.html")
+        if not os.path.isfile(f):
+            continue  # missing pages are caught by the sitemap check
+        text = open(f, encoding='utf-8', errors='replace').read()
+        m = PER_GRAM_RE.search(text)
+        if m:
+            line = text.count('\n', 0, m.start()) + 1
+            err(f'{f}:{line}: flower page shows per-gram pricing ("{m.group(0)}") — '
+                f'flower sells as 3.5g eighths; add the product to '
+                f'_pipeline/data/unit_exceptions.json per_gram_ok if truly per-gram')
 
 if errors:
     print(f'\nverify_site: {len(errors)} error(s)')

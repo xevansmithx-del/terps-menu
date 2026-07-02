@@ -81,7 +81,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "a9f6f386-a83f-467a-8cac-0d4342518e05", "name": "Oil Twist Tugboat 1000", "brand": "Craft", "photo": "../img/products/a9f6f386-a83f-467a-8cac-0d4342518e05.jpg", "price": 15.0, "unit": "", "strains": [{"name": "Apple Sauce", "price": 15.0, "thc": 78.91}, {"name": "Baked Banana", "price": 15.0, "thc": 71.96}, {"name": "Blueberry Swirl", "price": 15.0, "thc": 75.36}, {"name": "Cherry Slush", "price": 15.0, "thc": 83.2}, {"name": "Citrus Splash", "price": 15.0, "thc": 76.04}, {"name": "Maple Drip", "price": 15.0, "thc": 81.7}, {"name": "Orange Krush", "price": 15.0, "thc": null}, {"name": "Punchberry", "price": 15.0, "thc": 82.39}, {"name": "Strawberry Shortcake", "price": 15.0, "thc": 72.57}, {"name": "Watermelon Ice", "price": 15.0, "thc": 84.48}]};
+const PROD={"id": "a9f6f386-a83f-467a-8cac-0d4342518e05", "name": "Oil Twist Tugboat 1000", "brand": "Craft", "photo": "../img/products/a9f6f386-a83f-467a-8cac-0d4342518e05.jpg", "price": 15.0, "unit": "", "unit_label": "", "strains": [{"name": "Apple Sauce", "price": 15.0, "thc": 78.91}, {"name": "Baked Banana", "price": 15.0, "thc": 71.96}, {"name": "Blueberry Swirl", "price": 15.0, "thc": 75.36}, {"name": "Cherry Slush", "price": 15.0, "thc": 83.2}, {"name": "Citrus Splash", "price": 15.0, "thc": 76.04}, {"name": "Maple Drip", "price": 15.0, "thc": 81.7}, {"name": "Orange Krush", "price": 15.0, "thc": null}, {"name": "Punchberry", "price": 15.0, "thc": 82.39}, {"name": "Strawberry Shortcake", "price": 15.0, "thc": 72.57}, {"name": "Watermelon Ice", "price": 15.0, "thc": 84.48}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
@@ -92,7 +92,7 @@ document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
 function addPDP(){
   if(PROD.strains.length>1 && !selStrain){toast('Pick a strain first');return;}
   const s=selStrain||{name:'',price:PROD.price};
-  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo});
+  Cart.add({id:PROD.id,name:PROD.name,strain:s.name,price:s.price,qty:qty,img:PROD.photo,unit:PROD.unit_label});
   openCart();
 }
 </script></body></html>
