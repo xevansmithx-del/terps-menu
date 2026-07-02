@@ -22,7 +22,7 @@ TOTAL=len(cat); STRAINS=sum(p['n_strains'] for p in cat)
 
 FALLBACK_SVG='<div class="ph-fallback"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2C9 6 5 8 5 13a7 7 0 0014 0c0-5-4-7-7-11z"/></svg><span>Terps</span></div>'
 
-def head(title,desc,canonical,extra=''):
+def head(title,desc,canonical,extra='',prefix=''):
     return f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title>
@@ -31,17 +31,17 @@ def head(title,desc,canonical,extra=''):
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website"><meta property="og:url" content="{canonical}">
 <meta property="og:image" content="{BASE}/img/og-card.jpg"><meta name="twitter:image" content="{BASE}/img/og-card.jpg"><meta name="theme-color" content="#0e3b2e">
-<link rel="icon" href="img/icon-32.png"><link rel="apple-touch-icon" href="img/icon-180.png">
+<link rel="icon" href="{prefix}img/icon-32.png"><link rel="apple-touch-icon" href="{prefix}img/icon-180.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,600&family=Manrope:wght@500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{CSS}}">{extra}</head><body>"""
 
 def header(prefix=''):
-    return f"""<div id="agegate"><div class="card"><img src="{prefix}img/badge.png" alt="Terps Dispensary">
+    return f"""<div id="agegate" role="dialog" aria-modal="true" aria-label="Age verification"><div class="card"><img src="{prefix}img/badge.png" alt="Terps Dispensary">
 <h2>Are you 21 or older?</h2><p>You must be 21+ with a valid government-issued ID to view this menu. Recreational · Pueblo, CO.</p>
 <button class="btn btn-gold" id="age-yes">Yes, I'm 21 or older</button>
 <button class="btn btn-ghost" id="age-no">No, take me back</button></div></div>
-<div class="mobile-nav" id="mobilenav"><span class="x">&times;</span>
+<div class="mobile-nav" id="mobilenav" role="navigation" aria-label="Mobile menu"><span class="x">&times;</span>
 <a href="{prefix}menu.html">Menu</a><a href="{prefix}menu.html?cat=flower">Flower</a><a href="{prefix}menu.html?cat=concentrate">Concentrates</a>
 <a href="{prefix}menu.html?cat=edible">Edibles</a><a href="{prefix}index.html#visit">Visit</a></div>
 <header class="site"><div class="wrap nav">
@@ -57,7 +57,7 @@ def header(prefix=''):
 </div></header>{cart_drawer(prefix)}"""
 
 def cart_drawer(prefix=''):
-    return f"""<div id="cartov"></div><aside id="cart">
+    return f"""<div id="cartov"></div><aside id="cart" aria-label="Pickup order">
 <div class="chead"><h3>Your pickup order</h3><button class="x" onclick="closeCart()">&times;</button></div>
 <div class="items" id="cart-items"></div>
 <div class="foot"><div class="tot"><span>Subtotal</span><span id="cart-total">$0.00</span></div>
@@ -66,11 +66,11 @@ def cart_drawer(prefix=''):
 
 def footer(prefix=''):
     links=''.join(f'<a href="{prefix}menu.html?cat={c}">{n}</a>' for c,n,_ in CATS)
-    return f"""<footer class="site"><div class="wrap"><div class="cols">
+    return f"""</main><footer class="site"><div class="wrap"><div class="cols">
 <div><img class="flogo" src="{prefix}img/logo_horizontal.png" alt="Terps Dispensary">
 <p>Pueblo's home for premium, locally-loved cannabis. Recreational 21+. Browse our full live menu and reserve for fast in-store pickup.</p></div>
-<div><h4>Shop</h4><a href="{prefix}menu.html">Full menu</a>{links}</div>
-<div><h4>Visit</h4><p>38 N Silicon Dr<br>Pueblo, CO 81007<br><br>Mon–Sat 8am–8pm<br>Sun 10am–5pm<br><br><a href="tel:7195471850">(719) 547-1850</a></p></div>
+<div><p class="h4">Shop</p><a href="{prefix}menu.html">Full menu</a>{links}</div>
+<div><p class="h4">Visit</p><p>38 N Silicon Dr<br>Pueblo, CO 81007<br><br>Mon–Sat 8am–8pm<br>Sun 10am–5pm<br><br><a href="tel:7195471850">(719) 547-1850</a></p></div>
 </div><div class="copy"><span>© 2026 Terps Dispensary. Rec 21+. Keep out of reach of children.</span>
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="{prefix}js/config.js"></script><script src="{prefix}js/orders.js"></script><script src="{prefix}js/app.js"></script>"""
@@ -89,7 +89,7 @@ def card(p,prefix=''):
     return f"""<a class="card" href="{prefix}product/{p['slug']}.html" data-id="{p['id']}">
 <div class="ph"><span class="tag">{e(catname)}</span>{thc}{ph}<div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">{e(p['brand'] or 'Terps')}</div>
-<h3 class="name">{e(p['name'])}</h3>
+<p class="name">{e(p['name'])}</p>
 <div class="foot"><span class="price" data-price>{price_str(p)}</span>{strains}</div></div></a>"""
 
 # ---------------- HOMEPAGE ----------------
@@ -110,7 +110,7 @@ def build_home():
     h=head("Terps Dispensary — Pueblo's Best Rec 21+ Cannabis Menu & Online Ordering",
            "Browse Terps Dispensary's full live menu — 290+ cannabis products, 740+ strains, updated in real time. Flower, vapes, concentrates, edibles & more. Reserve online for fast in-store pickup in Pueblo, CO.",
            BASE+'/',f'\n<script type="application/ld+json">{json.dumps(ld)}</script>').replace('{CSS}','css/style.css')
-    body=f"""{header()}
+    body=f"""{header()}<main>
 <section class="hero"><div class="wrap">
 <div><div class="eyebrow">Pueblo, Colorado · Recreational 21+</div>
 <h1>Pueblo's best shelf,<br>now <span class="hl">online</span>.</h1>
@@ -146,9 +146,9 @@ def build_home():
 <div class="row"><b>Mon–Fri</b><span>8:00am – 8:00pm</span></div>
 <div class="row"><b>Saturday</b><span>8:00am – 8:00pm</span></div>
 <div class="row"><b>Sunday</b><span>10:00am – 5:00pm</span></div>
-<div class="row"><b>Menu</b><span><a href="menu.html" style="color:var(--gold-600);font-weight:700">Browse the full live menu →</a></span></div>
+<div class="row"><b>Menu</b><span><a href="menu.html" style="color:var(--gold-text);font-weight:700">Browse the full live menu →</a></span></div>
 </div>
-<div class="map"><iframe loading="lazy" src="https://maps.google.com/maps?q=38%20N%20Silicon%20Dr%2C%20Pueblo%2C%20CO%2081007&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe></div>
+<div class="map"><iframe loading="lazy" title="Map to Terps Dispensary, 38 N Silicon Dr, Pueblo, CO" src="https://maps.google.com/maps?q=38%20N%20Silicon%20Dr%2C%20Pueblo%2C%20CO%2081007&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe></div>
 </div></div></section>
 {footer()}</body></html>"""
     open(f'{SITE}/index.html','w').write(h+body)
@@ -158,7 +158,7 @@ def build_menu():
     h=head("Menu — Terps Dispensary Pueblo | Live Cannabis Menu Rec 21+",
            f"Shop Terps Dispensary's full live menu — {TOTAL}+ products, {STRAINS}+ strains. Filter flower, vapes, concentrates & edibles by brand, price and THC. Reserve for pickup in Pueblo, CO.",
            BASE+'/menu.html').replace('{CSS}','css/style.css')
-    body=f"""{header()}
+    body=f"""{header()}<main>
 <div class="menu-head"><div class="wrap"><div class="eyebrow" style="color:var(--gold)">Live menu · updated in real time</div>
 <h1>The full shelf</h1><p>{TOTAL} products · {STRAINS} strains · reserve online, pay in store</p></div></div>
 <div class="wrap"><div class="menu-layout">
@@ -167,7 +167,7 @@ def build_menu():
 <button class="chip filter-toggle" id="filtertoggle">☰ Filters</button>
 <span class="count" id="count">Loading…</span><div class="spacer"></div>
 <input class="msearch" id="msearch" placeholder="Search…">
-<select id="sortsel"><option value="featured">Featured</option><option value="price">Price: low→high</option>
+<select id="sortsel" aria-label="Sort products"><option value="featured">Featured</option><option value="price">Price: low→high</option>
 <option value="price-d">Price: high→low</option><option value="thc">THC: high→low</option><option value="name">Name A–Z</option></select>
 </div>
 <div class="chips" id="chips"></div>
@@ -206,8 +206,8 @@ def build_products():
         canonical=f"{BASE}/product/{p['slug']}.html"
         title=f"{p['name']} — {p['brand'] or 'Terps'} | Terps Dispensary Pueblo"
         metadesc=re.sub('<[^>]+>','',desc)[:155]
-        h=head(title,metadesc,canonical,f'\n<script type="application/ld+json">{json.dumps(ld)}</script>').replace('{CSS}','../css/style.css')
-        body=f"""{header('../')}
+        h=head(title,metadesc,canonical,f'\n<script type="application/ld+json">{json.dumps(ld)}</script>',prefix='../').replace('{CSS}','../css/style.css')
+        body=f"""{header('../')}<main>
 <div class="wrap"><div class="breadcrumb"><a href="../index.html">Home</a> › <a href="../menu.html">Menu</a> › <a href="../menu.html?cat={p['category']}">{e(catname)}</a> › {e(p['name'])}</div></div>
 <div class="wrap"><div class="pdp">
 <div class="gallery">{gal}</div>
@@ -215,10 +215,10 @@ def build_products():
 <div class="brand">{e(p['brand'] or 'Terps')}</div><h1>{e(p['name'])}</h1>
 <div class="meta">{''.join(pills)}</div>
 <div class="priceline" id="priceline">{pr}</div>
-<div class="strain-sel">{f'<h4>Choose a strain ({p["n_strains"]})</h4><div class="strain-grid">{strain_opts}</div>' if p['n_strains']>1 else ''}</div>
+<div class="strain-sel">{f'<p class="h4">Choose a strain ({p["n_strains"]})</p><div class="strain-grid">{strain_opts}</div>' if p['n_strains']>1 else ''}</div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
-<div class="desc"><h4>About this product</h4><p>{e(desc)}</p></div>
+<div class="desc"><p class="h4">About this product</p><p>{e(desc)}</p></div>
 <div class="disclaimer">Prices and availability update live from our register and may change. Reserve online, pay in store at pickup. Must be 21+ with valid ID. Keep out of reach of children.</div>
 </div></div>
 {f'<section class="block"><div class="sec-head"><h2>You may also like</h2></div><div class="grid">{rel}</div></section>' if rel else ''}
