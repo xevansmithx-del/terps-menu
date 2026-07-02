@@ -31,15 +31,31 @@ try:
 except FileNotFoundError:
     src = {}
 
+# Weave stores product photos in a public GCS bucket. The order feed's
+# images[].url is a BARE PATH ("<loc>/products/<pid>"), not a full URL; the
+# public original (uploaded bytes, image/jpeg) is served at:
+#   https://storage.googleapis.com/weaveiq-media/<path>
+# (verified 2026-07-02: bare path = original jpeg 200; _small/_medium = webp
+# variants; no suffix = full-res original, which is what we want to downscale).
+WEAVE_MEDIA_BASE = 'https://storage.googleapis.com/weaveiq-media/'
+
+def _abs(u):
+    u = (u or '').strip()
+    if not u:
+        return ''
+    if u.startswith('http'):
+        return u                      # already absolute (vendor-catalog images)
+    return WEAVE_MEDIA_BASE + u.lstrip('/')
+
 def weave_img(rows):
-    """First non-empty http image url on any feed row of this product."""
+    """First non-empty product photo on any feed row, as an absolute URL."""
     for r in rows:
         for im in (r.get('images') or []):
-            u = (im.get('url') or '').strip()
-            if u.startswith('http'):
+            u = _abs(im.get('url'))
+            if u:
                 return u
-        u = (r.get('default_image') or '').strip()
-        if u.startswith('http'):
+        u = _abs(r.get('default_image'))
+        if u:
             return u
     return ''
 
