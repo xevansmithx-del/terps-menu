@@ -2,9 +2,8 @@ name: E2E Tests
 
 on:
   workflow_dispatch:
-  schedule:
-    # Nightly at 06:00 UTC (midnight MT)
-    - cron: '0 6 * * *'
+  # NOTE: nightly schedule removed 2026-07-02 — tests create real orders in the
+  # production queue; re-enable only after guaranteed afterAll cleanup + retries:0.
 
 jobs:
   e2e-consumer:
