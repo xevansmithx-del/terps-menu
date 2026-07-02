@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /staff.html
 Disallow: /order.html
-Sitemap: https://terpsdispensary.com/sitemap.xml
+Sitemap: https://shop.terpsdispensary.com/sitemap.xml

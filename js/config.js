@@ -7,5 +7,5 @@
 window.TERPS_BACKEND = {
   supabaseUrl: "https://ckwttfkiaisimkrrsfaf.supabase.co",
   supabaseAnonKey: "sb_publishable_NxFajU8w0usJxbqiuG00-w_6uqqHfQB",
-  siteUrl: "https://terpsdispensary.com"
+  siteUrl: "https://shop.terpsdispensary.com"
 };
