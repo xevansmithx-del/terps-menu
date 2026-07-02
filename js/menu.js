@@ -39,7 +39,7 @@ function renderChips(){
   box.appendChild(chip('All',state.cats.size===0,()=>{state.cats.clear();sync();}));
   Object.keys(CAT_LABEL).forEach(c=>{
     const n=ALL.filter(p=>p.category===c).length;if(!n)return;
-    box.appendChild(chip(`${CAT_LABEL[c]} (${n})`,state.cats.has(c),()=>{state.cats.has(c)?state.cats.delete(c):(state.cats=new Set([c]));sync();}));
+    box.appendChild(chip(`${CAT_LABEL[c]} (${n})`,state.cats.has(c),()=>{state.cats.has(c)?state.cats.delete(c):(state.cats=new Set([c]));state.subs.clear();sync();}));
   });
 }
 function renderFilters(){
@@ -50,6 +50,15 @@ function renderFilters(){
     h+=`<label class="frow"><input type="checkbox" ${state.cats.has(c)?'checked':''} onchange="tog('cats','${c}')">${CAT_LABEL[c]}<span class="n">${n}</span></label>`;});
   h+='<h4>Brand</h4>';
   top.forEach(([b,n])=>{h+=`<label class="frow"><input type="checkbox" ${state.brands.has(b)?'checked':''} onchange="tog('brands',this.dataset.b)" data-b="${b.replace(/"/g,'&quot;')}">${b}<span class="n">${n}</span></label>`;});
+  // Type (subcategory) — relevant to current category selection
+  const pool = state.cats.size ? ALL.filter(p=>state.cats.has(p.category)) : ALL;
+  const subs={}; pool.forEach(p=>{if(p.subcategory)subs[p.subcategory]=(subs[p.subcategory]||0)+1;});
+  const subList=Object.entries(subs).sort((a,b)=>b[1]-a[1]).slice(0,12);
+  if(subList.length){
+    h+='<h4>Type</h4>';
+    subList.forEach(([s,n])=>{const lbl=s.charAt(0).toUpperCase()+s.slice(1);
+      h+=`<label class="frow"><input type="checkbox" ${state.subs.has(s)?'checked':''} onchange="tog('subs',this.dataset.s)" data-s="${s.replace(/"/g,'&quot;')}">${lbl}<span class="n">${n}</span></label>`;});
+  }
   h+='<h4>Max price</h4>';
   [10,20,30,50,100].forEach(v=>{h+=`<label class="frow"><input type="radio" name="pm" ${state.priceMax===v?'checked':''} onchange="state.priceMax=${v};apply()">Under $${v}</label>`;});
   h+=`<label class="frow"><input type="radio" name="pm" ${state.priceMax===null?'checked':''} onchange="state.priceMax=null;apply()">Any price</label>`;
@@ -58,7 +67,7 @@ function renderFilters(){
   h+='<button class="clear" onclick="clearAll()">Clear all filters</button>';
   $('#filters').innerHTML=h;
 }
-window.tog=(k,v)=>{state[k].has(v)?state[k].delete(v):state[k].add(v);apply();renderChips();};
+window.tog=(k,v)=>{state[k].has(v)?state[k].delete(v):state[k].add(v);if(k==='cats')state.subs.clear();apply();renderChips();renderFilters();};
 window.clearAll=()=>{state.q='';state.cats.clear();state.brands.clear();state.subs.clear();state.priceMax=null;state.thcMin=0;if($('#msearch'))$('#msearch').value='';sync();};
 function sync(){renderChips();renderFilters();apply();}
 
