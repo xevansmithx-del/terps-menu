@@ -6191,7 +6191,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 39.78,
-  "n_strains": 7,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Blueberry",
@@ -6212,11 +6212,6 @@
     "name": "Green Apple",
     "price": 8.0,
     "thc": 34.24
-   },
-   {
-    "name": "Pina Colada",
-    "price": 8.0,
-    "thc": 36.81
    },
    {
     "name": "Vanilla Lava Cake",
@@ -6746,22 +6741,17 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.8,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
    {
     "name": "Pineapples In Paradise",
     "price": 9.68,
     "thc": 81.8
-   },
-   {
-    "name": "What A Melon",
-    "price": 9.68,
-    "thc": 81.4
    }
   ],
   "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
-  "match_score": 0.86,
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253573_20240411_110123.jpg",
+  "match_score": 1.125,
   "vendor_name": "Juicy"
  },
  {

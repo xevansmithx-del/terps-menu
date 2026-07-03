@@ -10,7 +10,7 @@
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
   "Bud Fox": 7,
-  "CALI BLAZE (OCC)": 7,
+  "CALI BLAZE (OCC)": 6,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 19,
   "Chaos": 7,
@@ -29,7 +29,7 @@
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
-  "Juicy": 9,
+  "Juicy": 8,
   "Juicy Concentrates": 1,
   "Keef Cola": 9,
   "Kind Goods LLC": 1,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 400,
+   "count": 399,
    "subcategories": {
     "budder": 20,
-    "cartridge": 175,
+    "cartridge": 174,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 275,
+   "count": 274,
    "subcategories": {
-    "hybrid": 215,
+    "hybrid": 214,
     "indica": 18,
     "other": 28,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 770,
+ "hits": 768,
  "results": [
   {
    "availability": "",
@@ -55994,90 +55994,6 @@
    "name": "Tarantulas",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/cali-blaze-occ-tarantulas-pina-colada-648739",
-   "subcategory": "hybrid",
-   "suggest": "tarantulas cali blaze (occ) flower hybrid pina colada",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "648739",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Pina Colada",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1200,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 36.81,
-       "min_percentage": 36.81
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3681",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
-    "license": "404R-00528",
-    "medical": false,
-    "name": "CALI BLAZE (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Tarantulas",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/cali-blaze-occ-tarantulas-vanilla-lava-cake-648738",
    "subcategory": "hybrid",
    "suggest": "tarantulas cali blaze (occ) flower hybrid vanilla lava cake",
@@ -60359,100 +60275,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7990",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "367b55a1-7d0e-4e59-bb96-d6b904ec9076",
-    "license": "404R-00513",
-    "medical": false,
-    "name": "Juicy",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "1g Cart",
-   "non_trans": false,
-   "rebuild_gen": 1782768438443,
-   "slug": "inventory/variant/juicy-1g-cart-what-a-melon-509146",
-   "subcategory": "cartridge",
-   "suggest": "1g cart juicy concentrate cartridge what a melon",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "509146",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "What A Melon",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.4,
-       "min_percentage": 81.4
-      }
-     },
-     "price": 968,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8140",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8140",
        "thca": null
       }
      ],
