@@ -31,10 +31,10 @@
   "Jolet Ventures LLC": 3,
   "Juicy": 8,
   "Juicy Concentrates": 1,
-  "Keef Cola": 9,
+  "Keef Cola": 13,
   "Kind Goods LLC": 1,
   "Kodo": 1,
-  "Lifestyle Foods Inc": 16,
+  "Lifestyle Foods Inc": 19,
   "Loud Labs LLC": 26,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
@@ -68,13 +68,13 @@
    }
   },
   "edible": {
-   "count": 76,
+   "count": 83,
    "subcategories": {
-    "candy": 24,
+    "candy": 25,
     "capsule": 2,
     "chocolate": 10,
-    "drink": 15,
-    "gummies": 23,
+    "drink": 19,
+    "gummies": 25,
     "tincture": 2
    }
   },
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 768,
+ "hits": 775,
  "results": [
   {
    "availability": "",
@@ -3964,7 +3964,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -3978,7 +3978,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript Knockout Punch",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783087290889,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-knockout-punch-knockout-punch-130851",
    "subcategory": "gummies",
    "suggest": "ript knockout punch lifestyle foods inc edible gummies knockout punch",
@@ -4011,6 +4011,36 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -9859,7 +9889,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-banana-cream-634150",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid banana cream",
@@ -9946,7 +9976,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-blueberry-633193",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid blueberry",
@@ -10033,7 +10063,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-grapevine-633196",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid grapevine",
@@ -10137,7 +10167,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-lemon-haze-633197",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid lemon haze",
@@ -10224,7 +10254,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-lime-sorbet-634152",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid lime sorbet",
@@ -10311,7 +10341,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-pure-pear-633198",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid pure pear",
@@ -10398,7 +10428,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-strawberry-banana-634151",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid strawberry banana",
@@ -10436,6 +10466,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3360",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10512,7 +10552,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-twax-og-633205",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid twax og",
@@ -10596,7 +10636,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twax preroll",
    "non_trans": false,
-   "rebuild_gen": 1783029753747,
+   "rebuild_gen": 1783104936159,
    "slug": "inventory/variant/the-clear-twax-preroll-xj-13-633199",
    "subcategory": "hybrid",
    "suggest": "twax preroll the clear flower hybrid xj-13",
@@ -10627,6 +10667,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -18334,6 +18384,78 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "38c4db38-b939-4f39-88b7-0d27cf2ec1a8",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "RIPT Faded Fruit Punch",
+   "non_trans": false,
+   "rebuild_gen": 1783087062406,
+   "slug": "inventory/variant/lifestyle-foods-inc-ript-faded-fruit-punch-100mg-131916",
+   "subcategory": "candy",
+   "suggest": "ript faded fruit punch lifestyle foods inc edible candy 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "131916",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 403,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
+    "license": "404R-00177",
+    "medical": false,
+    "name": "Lifestyle Foods Inc",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "candy"
   },
   {
    "availability": "",
@@ -30463,7 +30585,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-banana-mimosa-518857",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge banana mimosa",
@@ -30495,7 +30617,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -30547,7 +30669,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-birthday-cake-532017",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge birthday cake",
@@ -30579,7 +30701,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -30631,7 +30753,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-citrus-breeze-547662",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge citrus breeze",
@@ -30653,7 +30775,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 69.3,
+       "max_percentage": 81.45,
        "min_percentage": 69.3
       }
      },
@@ -30663,12 +30785,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8145",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -30725,7 +30857,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-clementine-350737",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge clementine",
@@ -30757,7 +30889,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -30819,7 +30951,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-dosi-mango-542005",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge dosi mango",
@@ -30851,7 +30983,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -30903,7 +31035,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-grape-soda-547645",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge grape soda",
@@ -30935,7 +31067,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -30997,7 +31129,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-jungleato-537145",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge jungleato",
@@ -31029,7 +31161,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31081,7 +31213,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-lemon-lime-soda-518870",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge lemon lime soda",
@@ -31113,7 +31245,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31165,7 +31297,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-pineapple-og-532011",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge pineapple og",
@@ -31197,7 +31329,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31259,7 +31391,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-sour-pebbles-532000",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge sour pebbles",
@@ -31291,7 +31423,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31343,7 +31475,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-strawnana-532015",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge strawnana",
@@ -31375,7 +31507,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31437,7 +31569,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-watermelon-bubblegum-569394",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge watermelon bubblegum",
@@ -31514,7 +31646,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768400341,
+   "rebuild_gen": 1783105138110,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-wedding-cake-534053",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge wedding cake",
@@ -31546,7 +31678,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -31696,7 +31828,7 @@
        "min_percentage": 72.38
       }
      },
-     "price": 1210,
+     "price": 1613,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -35438,7 +35570,7 @@
        "min_percentage": 72.38
       }
      },
-     "price": 4000,
+     "price": 3226,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -40412,6 +40544,78 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "9eecfdbf-11ec-4d26-bf95-9161f9310798",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Ript Wild Cherry",
+   "non_trans": false,
+   "rebuild_gen": 1783087436406,
+   "slug": "inventory/variant/lifestyle-foods-inc-ript-wild-cherry-wild-cherry-138699",
+   "subcategory": "gummies",
+   "suggest": "ript wild cherry lifestyle foods inc edible gummies wild cherry",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "138699",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Wild Cherry",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 403,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
+    "license": "404R-00177",
+    "medical": false,
+    "name": "Lifestyle Foods Inc",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "gummies"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -43783,7 +43987,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -43797,7 +44001,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "RIPT Smashed Watermelon",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783087368915,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-smashed-watermelon-100mg-128682",
    "subcategory": "gummies",
    "suggest": "ript smashed watermelon lifestyle foods inc edible gummies 100mg",
@@ -43823,6 +44027,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -47839,6 +48053,334 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "b9158b09-f3df-4429-9b02-e0ad302202ed",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100 Kief Cola",
+   "non_trans": false,
+   "rebuild_gen": 1783090475809,
+   "slug": "inventory/variant/keef-cola-100-kief-cola-bubba-kush-136003",
+   "subcategory": "drink",
+   "suggest": "100 kief cola keef cola edible drink bubba kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "136003",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Bubba Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1210,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6fb374e3-b1bc-4cff-962f-a62f595019cf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Keef Cola",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "b9158b09-f3df-4429-9b02-e0ad302202ed",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100 Kief Cola",
+   "non_trans": false,
+   "rebuild_gen": 1783090475809,
+   "slug": "inventory/variant/keef-cola-100-kief-cola-cherry-cola-136002",
+   "subcategory": "drink",
+   "suggest": "100 kief cola keef cola edible drink cherry cola",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "136002",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Cola",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1210,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6fb374e3-b1bc-4cff-962f-a62f595019cf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Keef Cola",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "b9158b09-f3df-4429-9b02-e0ad302202ed",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100 Kief Cola",
+   "non_trans": false,
+   "rebuild_gen": 1783090475809,
+   "slug": "inventory/variant/keef-cola-100-kief-cola-high-octane-136004",
+   "subcategory": "drink",
+   "suggest": "100 kief cola keef cola edible drink high octane",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "136004",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "High Octane",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1210,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6fb374e3-b1bc-4cff-962f-a62f595019cf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Keef Cola",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "b9158b09-f3df-4429-9b02-e0ad302202ed",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100 Kief Cola",
+   "non_trans": false,
+   "rebuild_gen": 1783090475809,
+   "slug": "inventory/variant/keef-cola-100-kief-cola-orange-kush-139476",
+   "subcategory": "drink",
+   "suggest": "100 kief cola keef cola edible drink orange kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "139476",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Orange Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1210,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6fb374e3-b1bc-4cff-962f-a62f595019cf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Keef Cola",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -51304,7 +51846,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "This cross of the popular Wedding Cake and Kush Mints comes from Liberty Health Sciences and Seed Junky Genetics. La Kush Cake is an indica-dominant strain that smells like vanilla and has an earthy peppermint taste. It\u2019s an easy, smooth hitter, and effects take a while to come on. This is a beautiful flower, with green and purple buds covered in frosty trichomes. It\u2019s great for relaxing and winding down at the end of the night without much else to do.",
@@ -51318,7 +51860,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "LA Kush Cake",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783095406810,
    "slug": "inventory/variant/silver-lake-la-kush-cake-loose-043885",
    "subcategory": "indica",
    "suggest": "la kush cake silver lake flower indica loose",
@@ -51340,7 +51882,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 31.41,
+       "max_percentage": 24.3,
        "min_percentage": 24.3
       }
      },
@@ -51364,26 +51906,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "2430",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3141",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2799",
        "thca": null
       }
      ],
@@ -51846,6 +52368,85 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "c63d80a3-7dd0-4bc2-964e-169745f6e99d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "RIPT Baked Apple",
+   "non_trans": false,
+   "rebuild_gen": 1783088198412,
+   "slug": "inventory/variant/lifestyle-foods-inc-ript-baked-apple-100mg-128680",
+   "subcategory": "gummies",
+   "suggest": "ript baked apple lifestyle foods inc edible gummies 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "128680",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 403,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 403
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
+    "license": "404R-00177",
+    "medical": false,
+    "name": "Lifestyle Foods Inc",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "gummies"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -51963,7 +52564,7 @@
        "min_percentage": 25.02
       }
      },
-     "price": 565,
+     "price": 403,
      "pricing": [
       {
        "default": false,
@@ -52124,7 +52725,7 @@
        "min_percentage": 27.55
       }
      },
-     "price": 565,
+     "price": 403,
      "pricing": [
       {
        "default": false,
@@ -52337,7 +52938,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -52351,7 +52952,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "RIPT Blazed Blue Razz",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783086990725,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-blazed-blue-razz-100mg-131915",
    "subcategory": "candy",
    "suggest": "ript blazed blue razz lifestyle foods inc edible candy 100mg",
@@ -52377,6 +52978,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -62149,7 +62760,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -62163,7 +62774,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "RIPT Pucked Up Peach",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783087179213,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-pucked-up-peach-100mg-128681",
    "subcategory": "gummies",
    "suggest": "ript pucked up peach lifestyle foods inc edible gummies 100mg",
@@ -62189,6 +62800,26 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,

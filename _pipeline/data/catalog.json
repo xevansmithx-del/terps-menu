@@ -3070,7 +3070,7 @@
   "price_max": 12.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 80.32,
+  "thc_max": 81.45,
   "n_strains": 13,
   "strains": [
    {
@@ -3086,7 +3086,7 @@
    {
     "name": "Citrus Breeze",
     "price": 12.0,
-    "thc": 69.3
+    "thc": 81.45
    },
    {
     "name": "Clementine",
@@ -3490,7 +3490,7 @@
   "strains": [
    {
     "name": "Captain Cream",
-    "price": 40.0,
+    "price": 32.26,
     "thc": 72.38
    },
    {
@@ -5535,13 +5535,13 @@
   "price_max": 8.47,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
-  "thc_max": 31.41,
+  "thc_max": 24.3,
   "n_strains": 1,
   "strains": [
    {
     "name": "Loose",
     "price": 8.47,
-    "thc": 31.41
+    "thc": 24.3
    }
   ],
   "description": "This cross of the popular Wedding Cake and Kush Mints comes from Liberty Health Sciences and Seed Junky Genetics. La Kush Cake is an indica-dominant strain that smells like vanilla and has an earthy peppermint taste. It\u2019s an easy, smooth hitter, and effects take a while to come on. This is a beautiful flower, with green and purple buds covered in frosty trichomes. It\u2019s great for relaxing and winding down at the end of the night without much else to do.",
@@ -5632,7 +5632,7 @@
   "category": "flower",
   "subcategory": "hybrid",
   "price_min": 4.03,
-  "price_max": 5.65,
+  "price_max": 4.03,
   "unit": "",
   "unit_kind": "",
   "thc_max": 34.83,
@@ -5640,7 +5640,7 @@
   "strains": [
    {
     "name": "Banana Ice Pops",
-    "price": 5.65,
+    "price": 4.03,
     "thc": 25.02
    },
    {
@@ -5650,7 +5650,7 @@
    },
    {
     "name": "Sour Chillz",
-    "price": 5.65,
+    "price": 4.03,
     "thc": 27.55
    }
   ],
