@@ -18,10 +18,10 @@
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
   "Craft": 136,
-  "David Jackson LLC": 22,
+  "David Jackson LLC": 21,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
-  "Egozi": 32,
+  "Egozi": 31,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
@@ -52,9 +52,9 @@
  },
  "categories": {
   "concentrate": {
-   "count": 399,
+   "count": 397,
    "subcategories": {
-    "budder": 20,
+    "budder": 19,
     "cartridge": 173,
     "crumble": 1,
     "cured extract": 3,
@@ -62,7 +62,7 @@
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 33,
+    "solventless": 32,
     "syringe": 8,
     "wax": 98
    }
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 777,
+ "hits": 775,
  "results": [
   {
    "availability": "",
@@ -35709,83 +35709,6 @@
    "name": "Egozi Rosin 4g",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-rosin-4g-captain-cream-559854",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 4g egozi concentrate solventless captain cream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559854",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Captain Cream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.38,
-       "min_percentage": 72.38
-      }
-     },
-     "price": 3226,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7238",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "81ea7f39-6561-484e-b1f0-3aca34beecd6",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 4g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-g-spritz-563410",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless g spritz",
@@ -58833,83 +58756,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "5968",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1782768190369,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-thrist-trap-572176",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder thrist trap",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572176",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Thrist Trap",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 64.85,
-       "min_percentage": 64.85
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6485",
        "thca": null
       }
      ],
