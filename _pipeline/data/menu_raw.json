@@ -14,10 +14,10 @@
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 19,
   "Chaos": 7,
-  "Clearview Industries": 8,
+  "Clearview Industries": 7,
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
-  "Craft": 136,
+  "Craft": 135,
   "David Jackson LLC": 21,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -46,16 +46,16 @@
   "Starbuds Mips": 10,
   "TBB Llc": 10,
   "TS Labs (OCC)": 3,
-  "The Clear": 20,
+  "The Clear": 19,
   "Twax": 2,
   "Vera": 24
  },
  "categories": {
   "concentrate": {
-   "count": 397,
+   "count": 395,
    "subcategories": {
     "budder": 19,
-    "cartridge": 173,
+    "cartridge": 171,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
@@ -79,11 +79,11 @@
    }
   },
   "flower": {
-   "count": 275,
+   "count": 274,
    "subcategories": {
     "hybrid": 213,
     "indica": 20,
-    "other": 28,
+    "other": 27,
     "sativa": 14
    }
   },
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 775,
+ "hits": 772,
  "results": [
   {
    "availability": "",
@@ -41146,90 +41146,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "9fca594a-774b-4b24-b9df-f35f7f4a6b9e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Yin Yang",
-   "non_trans": false,
-   "rebuild_gen": 1782767351972,
-   "slug": "inventory/variant/clearview-industries-yin-yang-banana-breeze-569687",
-   "subcategory": "cartridge",
-   "suggest": "yin yang clearview industries concentrate cartridge banana breeze",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569687",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana Breeze",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 76.97,
-       "min_percentage": 76.97
-      }
-     },
-     "price": 2000,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1700
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7697",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "635250a8-c50a-4765-b9f5-6b4536ad54ef",
-    "license": "404R-00024",
-    "medical": false,
-    "name": "Clearview Industries",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -41675,100 +41591,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7437-8418",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil 4 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1782767895045,
-   "slug": "inventory/variant/craft-oil-4-pack-sativa-multipack-533056",
-   "subcategory": "cartridge",
-   "suggest": "oil 4 pack craft concentrate cartridge sativa multipack",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "533056",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sativa Multipack",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 83.27,
-       "min_percentage": 75.2
-      }
-     },
-     "price": 3400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7520-8147",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7520-8327",
        "thca": null
       }
      ],
@@ -49080,90 +48902,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "3430",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
-    "license": "404R-0073",
-    "medical": false,
-    "name": "The Clear",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "other"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "bc360d22-4b65-4d96-9b4d-7a87501c0e0f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "twax 1g Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/the-clear-twax-1g-preroll-lime-sorbet-604856",
-   "subcategory": "other",
-   "suggest": "twax 1g preroll the clear flower other lime sorbet",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "604856",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Lime Sorbet",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 32.1,
-       "min_percentage": 32.1
-      }
-     },
-     "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3210",
        "thca": null
       }
      ],

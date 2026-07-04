@@ -4386,7 +4386,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.16,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Hybrid Multipack",
@@ -4397,11 +4397,6 @@
     "name": "Indica Multipack",
     "price": 34.0,
     "thc": 86.16
-   },
-   {
-    "name": "Sativa Multipack",
-    "price": 34.0,
-    "thc": 83.27
    }
   ],
   "description": "",
@@ -5256,7 +5251,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 34.3,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Banana Cream",
@@ -5267,11 +5262,6 @@
     "name": "Blueberry",
     "price": 8.06,
     "thc": 34.3
-   },
-   {
-    "name": "Lime Sorbet",
-    "price": 8.06,
-    "thc": 32.1
    },
    {
     "name": "Pure Pear",
