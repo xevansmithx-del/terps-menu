@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/be060176-28d2-466d-9312-3bd033a327ec.jpg" fetchpriority="high" decoding="async" width="600" height="600" alt="Gold Tip Live Resin1000mg by Natty Rems — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Natty Rems</div><h1>Gold Tip Live Resin1000mg</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">76% THC</span><span class="pill">4 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">76% THC</span><span class="pill">3 strains</span></div>
 <div class="priceline" id="priceline">$40.00</div>
 <div class="otd" id="otdline">≈ $49.50 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (4)</p><div class="strain-grid"><button class="strain-opt" data-strain="GMO" data-price="40.0"><div class="sn">GMO</div><div class="sd">$40.00 · 68% THC</div></button><button class="strain-opt" data-strain="golden goat" data-price="40.0"><div class="sn">golden goat</div><div class="sd">$40.00 · 62% THC</div></button><button class="strain-opt" data-strain="Grape Cream Cake" data-price="40.0"><div class="sn">Grape Cream Cake</div><div class="sd">$40.00 · 76% THC</div></button><button class="strain-opt" data-strain="Motor Breath #15" data-price="40.0"><div class="sn">Motor Breath #15</div><div class="sd">$40.00 · 68% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="golden goat" data-price="40.0"><div class="sn">golden goat</div><div class="sd">$40.00 · 62% THC</div></button><button class="strain-opt" data-strain="Grape Cream Cake" data-price="40.0"><div class="sn">Grape Cream Cake</div><div class="sd">$40.00 · 76% THC</div></button><button class="strain-opt" data-strain="Motor Breath #15" data-price="40.0"><div class="sn">Motor Breath #15</div><div class="sd">$40.00 · 68% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>NATTY REMS LLC puts its stamp on Gold Tip Live Resin1000mg, a vape cartridge you can grab at Terps in Pueblo, Colorado. Lab results show 76.2% THC. Choose from 4 options including GMO, golden goat, Grape Cream Cake. It is priced at $40. Order ahead on the live menu and pick it up in store — Colorado recreational rules apply, 21+.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "be060176-28d2-466d-9312-3bd033a327ec", "name": "Gold Tip Live Resin1000mg", "brand": "Natty Rems", "photo": "../img/products/be060176-28d2-466d-9312-3bd033a327ec.jpg", "price": 40.0, "unit": "", "unit_label": "", "strains": [{"name": "GMO", "price": 40.0, "thc": 67.87}, {"name": "golden goat", "price": 40.0, "thc": 62.48}, {"name": "Grape Cream Cake", "price": 40.0, "thc": 76.17}, {"name": "Motor Breath #15", "price": 40.0, "thc": 68.31}]};
+const PROD={"id": "be060176-28d2-466d-9312-3bd033a327ec", "name": "Gold Tip Live Resin1000mg", "brand": "Natty Rems", "photo": "../img/products/be060176-28d2-466d-9312-3bd033a327ec.jpg", "price": 40.0, "unit": "", "unit_label": "", "strains": [{"name": "golden goat", "price": 40.0, "thc": 62.48}, {"name": "Grape Cream Cake", "price": 40.0, "thc": 76.17}, {"name": "Motor Breath #15", "price": 40.0, "thc": 68.31}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

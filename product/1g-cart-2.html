@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/ed51df94-44f3-4cd3-bd40-0ea510c47aa5.jpg" fetchpriority="high" decoding="async" width="464" height="600" alt="1g Cart by JUICY — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">JUICY</div><h1>1g Cart</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">82% THC</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">82% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$9.68</div>
 <div class="otd" id="otdline">≈ $11.98 out the door · taxes included</div>
-<div class="strain-sel"></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Pineapples In Paradise" data-price="9.68"><div class="sn">Pineapples In Paradise</div><div class="sd">$9.68 · 80% THC</div></button><button class="strain-opt" data-strain="The Mangolorian" data-price="9.68"><div class="sn">The Mangolorian</div><div class="sd">$9.68 · 82% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Juicy puts its stamp on 1g Cart, a vape cartridge you can grab at Terps in Pueblo, Colorado. Lab results show 81.8% THC. 2 selections are stocked, such as Pineapples In Paradise, What A Melon. It is priced at $9.68. Order ahead on the live menu and pick it up in store — Colorado recreational rules apply, 21+.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5", "name": "1g Cart", "brand": "JUICY", "photo": "../img/products/ed51df94-44f3-4cd3-bd40-0ea510c47aa5.jpg", "price": 9.68, "unit": "", "unit_label": "", "strains": [{"name": "Pineapples In Paradise", "price": 9.68, "thc": 81.8}]};
+const PROD={"id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5", "name": "1g Cart", "brand": "JUICY", "photo": "../img/products/ed51df94-44f3-4cd3-bd40-0ea510c47aa5.jpg", "price": 9.68, "unit": "", "unit_label": "", "strains": [{"name": "Pineapples In Paradise", "price": 9.68, "thc": 79.9}, {"name": "The Mangolorian", "price": 9.68, "thc": 81.8}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

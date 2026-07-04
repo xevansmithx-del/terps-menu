@@ -10,15 +10,15 @@
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
   "Bud Fox": 7,
-  "CALI BLAZE (OCC)": 6,
+  "CALI BLAZE (OCC)": 5,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 19,
   "Chaos": 7,
-  "Clearview Industries": 9,
-  "Cold Baked": 36,
+  "Clearview Industries": 8,
+  "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
-  "Craft": 135,
-  "David Jackson LLC": 23,
+  "Craft": 136,
+  "David Jackson LLC": 22,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
   "Egozi": 32,
@@ -29,24 +29,24 @@
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
-  "Juicy": 8,
+  "Juicy": 9,
   "Juicy Concentrates": 1,
   "Keef Cola": 13,
   "Kind Goods LLC": 1,
   "Kodo": 1,
-  "Lifestyle Foods Inc": 19,
-  "Loud Labs LLC": 26,
+  "Lifestyle Foods Inc": 20,
+  "Loud Labs LLC": 25,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 38,
+  "NATTY REMS LLC": 37,
   "SPHEREX": 7,
   "Silver Lake": 24,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
   "TS Labs (OCC)": 3,
-  "The Clear": 18,
+  "The Clear": 20,
   "Twax": 2,
   "Vera": 24
  },
@@ -55,11 +55,11 @@
    "count": 399,
    "subcategories": {
     "budder": 20,
-    "cartridge": 174,
+    "cartridge": 173,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
-    "live extract": 21,
+    "live extract": 22,
     "resin": 2,
     "shatter": 15,
     "solventless": 33,
@@ -68,21 +68,21 @@
    }
   },
   "edible": {
-   "count": 83,
+   "count": 84,
    "subcategories": {
     "candy": 25,
     "capsule": 2,
     "chocolate": 10,
-    "drink": 19,
+    "drink": 20,
     "gummies": 25,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 274,
+   "count": 275,
    "subcategories": {
-    "hybrid": 214,
-    "indica": 18,
+    "hybrid": 213,
+    "indica": 20,
     "other": 28,
     "sativa": 14
    }
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 775,
+ "hits": 777,
  "results": [
   {
    "availability": "",
@@ -2484,7 +2484,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "",
@@ -2498,7 +2498,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Riplets",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783114112925,
    "slug": "inventory/variant/lifestyle-foods-inc-riplets-max-relief-138711",
    "subcategory": "candy",
    "suggest": "riplets lifestyle foods inc edible candy max relief",
@@ -2525,12 +2525,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1600
+       "price": 1800
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -2563,7 +2573,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "",
@@ -2577,7 +2587,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Riplets",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783114112925,
    "slug": "inventory/variant/lifestyle-foods-inc-riplets-revive-138727",
    "subcategory": "candy",
    "suggest": "riplets lifestyle foods inc edible candy revive",
@@ -2642,7 +2652,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "",
@@ -2656,7 +2666,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Riplets",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783114112925,
    "slug": "inventory/variant/lifestyle-foods-inc-riplets-sleep-138728",
    "subcategory": "candy",
    "suggest": "riplets lifestyle foods inc edible candy sleep",
@@ -5742,7 +5752,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5836,7 +5846,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-divine-kush-breath-556363",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract divine kush breath",
@@ -5920,7 +5930,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -6004,7 +6014,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
@@ -6088,7 +6098,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -6172,7 +6182,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -6276,7 +6286,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lilac-diesel-558034",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lilac diesel",
@@ -6370,7 +6380,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -6464,7 +6474,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783018434042,
+   "rebuild_gen": 1783113999816,
+   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-starfire-cream-572902",
+   "subcategory": "live extract",
+   "suggest": "panacea live resin cart 1000mg craft concentrate live extract starfire cream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572902",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "starfire cream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 77.18,
+       "min_percentage": 77.18
+      }
+     },
+     "price": 1300,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7718",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Panacea Live Resin Cart 1000mg",
+   "non_trans": false,
+   "rebuild_gen": 1783113999816,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-strawberry-lemonade-572128",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract strawberry lemonade",
@@ -30585,7 +30672,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-banana-mimosa-518857",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge banana mimosa",
@@ -30669,7 +30756,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-birthday-cake-532017",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge birthday cake",
@@ -30753,7 +30840,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-citrus-breeze-547662",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge citrus breeze",
@@ -30857,7 +30944,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-clementine-350737",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge clementine",
@@ -30951,7 +31038,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-dosi-mango-542005",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge dosi mango",
@@ -31035,7 +31122,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
+   "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-gelato-cake-572885",
+   "subcategory": "cartridge",
+   "suggest": "green leaf 1000mg cart cold baked concentrate cartridge gelato cake",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572885",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "gelato cake",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78.37,
+       "min_percentage": 78.37
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7837",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
+    "license": "404R-00209",
+    "medical": false,
+    "name": "Cold Baked",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "75b9c08d-890b-4b18-a41f-54492473df15",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Green Leaf 1000mg Cart",
+   "non_trans": false,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-grape-soda-547645",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge grape soda",
@@ -31129,7 +31293,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-jungleato-537145",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge jungleato",
@@ -31213,7 +31377,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-lemon-lime-soda-518870",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge lemon lime soda",
@@ -31297,7 +31461,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-pineapple-og-532011",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge pineapple og",
@@ -31391,7 +31555,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-sour-pebbles-532000",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge sour pebbles",
@@ -31475,7 +31639,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-strawnana-532015",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge strawnana",
@@ -31569,7 +31733,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-watermelon-bubblegum-569394",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge watermelon bubblegum",
@@ -31646,7 +31810,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Green Leaf 1000mg Cart",
    "non_trans": false,
-   "rebuild_gen": 1783105138110,
+   "rebuild_gen": 1783105338706,
    "slug": "inventory/variant/cold-baked-green-leaf-1000mg-cart-wedding-cake-534053",
    "subcategory": "cartridge",
    "suggest": "green leaf 1000mg cart cold baked concentrate cartridge wedding cake",
@@ -31716,7 +31880,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -31728,12 +31892,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
+   "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-biscotti-chunks-559972",
+   "rebuild_gen": 1783108987005,
+   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-biscotti-chunks-559972",
    "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless biscotti chunks",
+   "suggest": "egozi 1st wash rosin egozi concentrate solventless biscotti chunks",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -31788,7 +31952,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -31800,12 +31964,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
+   "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-captain-cream-563457",
+   "rebuild_gen": 1783108987005,
+   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-captain-cream-563457",
    "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless captain cream",
+   "suggest": "egozi 1st wash rosin egozi concentrate solventless captain cream",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -31865,7 +32029,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -31877,12 +32041,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
+   "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-garlic-ice-cream-563458",
+   "rebuild_gen": 1783108987005,
+   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-garlic-ice-cream-563458",
    "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless garlic ice cream",
+   "suggest": "egozi 1st wash rosin egozi concentrate solventless garlic ice cream",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -31942,7 +32106,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -31954,12 +32118,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
+   "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-wilfunk-559980",
+   "rebuild_gen": 1783108987005,
+   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-wilfunk-559980",
    "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless wilfunk",
+   "suggest": "egozi 1st wash rosin egozi concentrate solventless wilfunk",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -41143,90 +41307,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "9fca594a-774b-4b24-b9df-f35f7f4a6b9e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Yin Yang",
-   "non_trans": false,
-   "rebuild_gen": 1782767351972,
-   "slug": "inventory/variant/clearview-industries-yin-yang-citrus-smash-561169",
-   "subcategory": "cartridge",
-   "suggest": "yin yang clearview industries concentrate cartridge citrus smash",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "561169",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Citrus Smash",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 75.9,
-       "min_percentage": 75.9
-      }
-     },
-     "price": 2000,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1700
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7590",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "635250a8-c50a-4765-b9f5-6b4536ad54ef",
-    "license": "404R-00024",
-    "medical": false,
-    "name": "Clearview Industries",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -50004,83 +50084,6 @@
    "name": "Gold Tip Live Resin1000mg",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/natty-rems-llc-gold-tip-live-resin1000mg-gmo-557916",
-   "subcategory": "cartridge",
-   "suggest": "gold tip live resin1000mg natty rems llc concentrate cartridge gmo",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "557916",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "GMO",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67.87,
-       "min_percentage": 67.87
-      }
-     },
-     "price": 4000,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6787",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "be060176-28d2-466d-9312-3bd033a327ec",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Gold Tip Live Resin1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/natty-rems-llc-gold-tip-live-resin1000mg-golden-goat-569571",
    "subcategory": "cartridge",
    "suggest": "gold tip live resin1000mg natty rems llc concentrate cartridge golden goat",
@@ -50890,83 +50893,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7086",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rippys",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/loud-labs-llc-rippys-melted-strawberries-571087",
-   "subcategory": "cartridge",
-   "suggest": "rippys loud labs llc concentrate cartridge melted strawberries",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571087",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Melted Strawberries",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 71.25,
-       "min_percentage": 71.25
-      }
-     },
-     "price": 807,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7125",
        "thca": null
       }
      ],
@@ -53144,6 +53070,78 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "cf7867f3-1264-460c-a4a8-3bf3bde3f389",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Ripple QuickSticks",
+   "non_trans": false,
+   "rebuild_gen": 1783114227768,
+   "slug": "inventory/variant/lifestyle-foods-inc-ripple-quicksticks-pure-124116",
+   "subcategory": "drink",
+   "suggest": "ripple quicksticks lifestyle foods inc edible drink pure",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "124116",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Pure",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 1700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
+    "license": "404R-00177",
+    "medical": false,
+    "name": "Lifestyle Foods Inc",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
   },
   {
    "availability": "",
@@ -56605,90 +56603,6 @@
    "name": "Tarantulas",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/cali-blaze-occ-tarantulas-vanilla-lava-cake-648738",
-   "subcategory": "hybrid",
-   "suggest": "tarantulas cali blaze (occ) flower hybrid vanilla lava cake",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "648738",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Vanilla Lava Cake",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1200,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 33.22,
-       "min_percentage": 33.22
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3322",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
-    "license": "404R-00528",
-    "medical": false,
-    "name": "CALI BLAZE (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Tarantulas",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/cali-blaze-occ-tarantulas-watermelon-645909",
    "subcategory": "hybrid",
    "suggest": "tarantulas cali blaze (occ) flower hybrid watermelon",
@@ -58804,83 +58718,6 @@
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
    "rebuild_gen": 1782768190369,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-kush-mintz-569866",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder kush mintz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569866",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Kush Mintz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 62.67,
-       "min_percentage": 62.67
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6267",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1782768190369,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-subzero-562775",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder subzero",
@@ -60810,7 +60647,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1g Cart",
    "non_trans": false,
-   "rebuild_gen": 1782768438443,
+   "rebuild_gen": 1783122212458,
    "slug": "inventory/variant/juicy-1g-cart-pineapples-in-paradise-509140",
    "subcategory": "cartridge",
    "suggest": "1g cart juicy concentrate cartridge pineapples in paradise",
@@ -60832,19 +60669,12 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 81.8,
+       "max_percentage": 79.9,
        "min_percentage": 79.9
       }
      },
      "price": 968,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -60865,6 +60695,93 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
+       "thc": "7990",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7990",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "367b55a1-7d0e-4e59-bb96-d6b904ec9076",
+    "license": "404R-00513",
+    "medical": false,
+    "name": "Juicy",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1783122212458,
+   "slug": "inventory/variant/juicy-1g-cart-the-mangolorian-530620",
+   "subcategory": "cartridge",
+   "suggest": "1g cart juicy concentrate cartridge the mangolorian",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "530620",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "The Mangolorian",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 81.8,
+       "min_percentage": 81.8
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
        "thc": "8180",
        "thca": null
       },
@@ -60875,7 +60792,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7990",
+       "thc": "8180",
        "thca": null
       },
       {
@@ -60885,7 +60802,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7990",
+       "thc": "8180",
        "thca": null
       }
      ],
@@ -61550,7 +61467,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "4g Bucket",
    "non_trans": false,
-   "rebuild_gen": 1782835580613,
+   "rebuild_gen": 1783113616305,
+   "slug": "inventory/variant/cold-baked-4g-bucket-blue-dream-572901",
+   "subcategory": "budder",
+   "suggest": "4g bucket cold baked concentrate budder blue dream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572901",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Dream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 69.6,
+       "min_percentage": 69.6
+      }
+     },
+     "price": 2800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6960",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
+    "license": "404R-00209",
+    "medical": false,
+    "name": "Cold Baked",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "f4910b45-c276-40c0-a534-21643b69548d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "4g Bucket",
+   "non_trans": false,
+   "rebuild_gen": 1783113616305,
    "slug": "inventory/variant/cold-baked-4g-bucket-blueberry-muffin-571331",
    "subcategory": "budder",
    "suggest": "4g bucket cold baked concentrate budder blueberry muffin",
@@ -61627,7 +61621,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "4g Bucket",
    "non_trans": false,
-   "rebuild_gen": 1782835580613,
+   "rebuild_gen": 1783113616305,
    "slug": "inventory/variant/cold-baked-4g-bucket-gg4-570614",
    "subcategory": "budder",
    "suggest": "4g bucket cold baked concentrate budder gg4",
@@ -61659,7 +61653,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2500
+       "price": 2800
       }
      ],
      "pricing_group": null,
@@ -61721,7 +61715,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "4g Bucket",
    "non_trans": false,
-   "rebuild_gen": 1782835580613,
+   "rebuild_gen": 1783113616305,
    "slug": "inventory/variant/cold-baked-4g-bucket-ice-jam-572683",
    "subcategory": "budder",
    "suggest": "4g bucket cold baked concentrate budder ice jam",
@@ -61798,7 +61792,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "4g Bucket",
    "non_trans": false,
-   "rebuild_gen": 1782835580613,
+   "rebuild_gen": 1783113616305,
    "slug": "inventory/variant/cold-baked-4g-bucket-zenith-berry-570616",
    "subcategory": "budder",
    "suggest": "4g bucket cold baked concentrate budder zenith berry",
@@ -61830,7 +61824,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2500
+       "price": 2800
       }
      ],
      "pricing_group": null,
@@ -62902,7 +62896,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -62916,7 +62910,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "twax 5 pack  preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783112647977,
    "slug": "inventory/variant/the-clear-twax-5-pack-preroll-banana-cream-642570",
    "subcategory": "indica",
    "suggest": "twax 5 pack  preroll the clear flower indica hybrid banana cream",
@@ -62986,7 +62980,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -63000,7 +62994,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "twax 5 pack  preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783112647977,
    "slug": "inventory/variant/the-clear-twax-5-pack-preroll-blueberry-649548",
    "subcategory": "indica",
    "suggest": "twax 5 pack  preroll the clear flower indica hybrid blueberry",
@@ -63063,7 +63057,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -63077,7 +63071,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "twax 5 pack  preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783112647977,
+   "slug": "inventory/variant/the-clear-twax-5-pack-preroll-grapevine-650385",
+   "subcategory": "indica",
+   "suggest": "twax 5 pack  preroll the clear flower indica hybrid grapevine",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650385",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Grapevine",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 31.5,
+       "min_percentage": 31.5
+      }
+     },
+     "price": 3000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3150",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
+    "license": "404R-0073",
+    "medical": false,
+    "name": "The Clear",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "f95da273-3f85-42df-bcb6-0fad8612b3e1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "twax 5 pack  preroll",
+   "non_trans": false,
+   "rebuild_gen": 1783112647977,
    "slug": "inventory/variant/the-clear-twax-5-pack-preroll-lime-sorbet-642567",
    "subcategory": "indica",
    "suggest": "twax 5 pack  preroll the clear flower indica hybrid lime sorbet",
@@ -63123,6 +63194,90 @@
        "cbn": null,
        "dthc": null,
        "thc": "3210",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
+    "license": "404R-0073",
+    "medical": false,
+    "name": "The Clear",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "f95da273-3f85-42df-bcb6-0fad8612b3e1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "twax 5 pack  preroll",
+   "non_trans": false,
+   "rebuild_gen": 1783112647977,
+   "slug": "inventory/variant/the-clear-twax-5-pack-preroll-strawberry-banana-642569",
+   "subcategory": "indica",
+   "suggest": "twax 5 pack  preroll the clear flower indica hybrid strawberry banana",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "642569",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Banana",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 32.2,
+       "min_percentage": 32.2
+      }
+     },
+     "price": 3000,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 3000
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3220",
        "thca": null
       }
      ],

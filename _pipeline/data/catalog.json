@@ -576,7 +576,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.01,
-  "n_strains": 9,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Bubba Haze",
@@ -617,6 +617,11 @@
     "name": "MAC",
     "price": 13.0,
     "thc": 68.2
+   },
+   {
+    "name": "starfire cream",
+    "price": 13.0,
+    "thc": 77.18
    },
    {
     "name": "Strawberry Lemonade",
@@ -3071,7 +3076,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.45,
-  "n_strains": 13,
+  "n_strains": 14,
   "strains": [
    {
     "name": "Banana Mimosa",
@@ -3097,6 +3102,11 @@
     "name": "Dosi Mango",
     "price": 12.0,
     "thc": 76.71
+   },
+   {
+    "name": "gelato cake",
+    "price": 12.0,
+    "thc": 78.37
    },
    {
     "name": "Grape Soda",
@@ -5376,13 +5386,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 76.17,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
-   {
-    "name": "GMO",
-    "price": 40.0,
-    "thc": 67.87
-   },
    {
     "name": "golden goat",
     "price": 40.0,
@@ -5470,8 +5475,8 @@
   "price_max": 8.07,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 71.25,
-  "n_strains": 4,
+  "thc_max": 70.86,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Bubba Kush",
@@ -5482,11 +5487,6 @@
     "name": "Bubonic Chronic",
     "price": 8.07,
     "thc": 70.86
-   },
-   {
-    "name": "Melted Strawberries",
-    "price": 8.07,
-    "thc": 71.25
    },
    {
     "name": "Skylin OG",
@@ -5708,6 +5708,31 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235634_IMG_1377.jpeg",
   "match_score": 1.065,
   "vendor_name": "Antero Sciences"
+ },
+ {
+  "id": "cf7867f3-1264-460c-a4a8-3bf3bde3f389",
+  "slug": "ripple-quicksticks",
+  "name": "Ripple QuickSticks",
+  "brand": "Lifestyle Foods",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 17.0,
+  "price_max": 17.0,
+  "unit": "",
+  "unit_kind": "",
+  "thc_max": null,
+  "n_strains": 1,
+  "strains": [
+   {
+    "name": "Pure",
+    "price": 17.0,
+    "thc": null
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443245675_1000013443.jpg",
+  "match_score": 0.625,
+  "vendor_name": "Lifestyle Foods Inc"
  },
  {
   "id": "cfa52440-b927-4f77-80be-7ad5bcc49d3b",
@@ -6191,7 +6216,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 39.78,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Blueberry",
@@ -6212,11 +6237,6 @@
     "name": "Green Apple",
     "price": 8.0,
     "thc": 34.24
-   },
-   {
-    "name": "Vanilla Lava Cake",
-    "price": 8.0,
-    "thc": 33.22
    },
    {
     "name": "Watermelon",
@@ -6496,7 +6516,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 67.65,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
    {
     "name": "AfterBurners",
@@ -6512,11 +6532,6 @@
     "name": "Frosted Melonz",
     "price": 17.74,
     "thc": 67.65
-   },
-   {
-    "name": "Kush Mintz",
-    "price": 17.74,
-    "thc": 62.67
    },
    {
     "name": "Subzero",
@@ -6741,17 +6756,22 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.8,
-  "n_strains": 1,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Pineapples In Paradise",
+    "price": 9.68,
+    "thc": 79.9
+   },
+   {
+    "name": "The Mangolorian",
     "price": 9.68,
     "thc": 81.8
    }
   ],
   "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253573_20240411_110123.jpg",
-  "match_score": 1.125,
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
+  "match_score": 0.86,
   "vendor_name": "Juicy"
  },
  {
@@ -6890,9 +6910,14 @@
   "price_max": 28.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 66.89,
-  "n_strains": 4,
+  "thc_max": 69.6,
+  "n_strains": 5,
   "strains": [
+   {
+    "name": "Blue Dream",
+    "price": 28.0,
+    "thc": 69.6
+   },
    {
     "name": "Blueberry Muffin",
     "price": 28.0,
@@ -7041,7 +7066,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 32.9,
-  "n_strains": 3,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Banana Cream",
@@ -7054,9 +7079,19 @@
     "thc": 32.9
    },
    {
+    "name": "Grapevine",
+    "price": 30.0,
+    "thc": 31.5
+   },
+   {
     "name": "Lime Sorbet",
     "price": 30.0,
     "thc": 32.1
+   },
+   {
+    "name": "Strawberry Banana",
+    "price": 30.0,
+    "thc": 32.2
    }
   ],
   "description": "",
