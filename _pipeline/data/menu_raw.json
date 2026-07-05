@@ -17,7 +17,7 @@
   "Clearview Industries": 7,
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
-  "Craft": 135,
+  "Craft": 134,
   "David Jackson LLC": 21,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -29,7 +29,7 @@
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
-  "Juicy": 9,
+  "Juicy": 8,
   "Juicy Concentrates": 1,
   "Keef Cola": 13,
   "Kind Goods LLC": 1,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 395,
+   "count": 393,
    "subcategories": {
     "budder": 19,
-    "cartridge": 171,
+    "cartridge": 169,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 772,
+ "hits": 770,
  "results": [
   {
    "availability": "",
@@ -41442,100 +41442,6 @@
    "name": "Oil 4 Pack",
    "non_trans": false,
    "rebuild_gen": 1782767895045,
-   "slug": "inventory/variant/craft-oil-4-pack-hybrid-multipack-533057",
-   "subcategory": "cartridge",
-   "suggest": "oil 4 pack craft concentrate cartridge hybrid multipack",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "533057",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Hybrid Multipack",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 84.16,
-       "min_percentage": 67.76
-      }
-     },
-     "price": 3400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6901-8229",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6776-8416",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil 4 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1782767895045,
    "slug": "inventory/variant/craft-oil-4-pack-indica-multipack-533055",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge indica multipack",
@@ -60214,103 +60120,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "1g Cart",
-   "non_trans": false,
-   "rebuild_gen": 1783122212458,
-   "slug": "inventory/variant/juicy-1g-cart-pineapples-in-paradise-509140",
-   "subcategory": "cartridge",
-   "suggest": "1g cart juicy concentrate cartridge pineapples in paradise",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "509140",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Pineapples In Paradise",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.9,
-       "min_percentage": 79.9
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7990",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7990",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7990",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "367b55a1-7d0e-4e59-bb96-d6b904ec9076",
-    "license": "404R-00513",
-    "medical": false,
-    "name": "Juicy",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",

@@ -4386,13 +4386,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.16,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "Hybrid Multipack",
-    "price": 34.0,
-    "thc": 84.16
-   },
    {
     "name": "Indica Multipack",
     "price": 34.0,
@@ -6736,13 +6731,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.8,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "Pineapples In Paradise",
-    "price": 9.68,
-    "thc": 79.9
-   },
    {
     "name": "The Mangolorian",
     "price": 9.68,
