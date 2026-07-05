@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/c6feabe3-f35b-40da-9144-21c0c4c07454.jpg" fetchpriority="high" decoding="async" width="600" height="600" alt="Water Hash Infused Preoll by TS Labs (OCC) — flower available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">TS Labs (OCC)</div><h1>Water Hash Infused Preoll</h1>
-<div class="meta"><span class="pill">Flower</span><span class="pill">Hybrid</span><span class="pill gold">35% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Flower</span><span class="pill">Hybrid</span><span class="pill gold">35% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$4.03</div>
 <div class="otd" id="otdline">≈ $4.99 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Banana Ice Pops" data-price="4.03"><div class="sn">Banana Ice Pops</div><div class="sd">$4.03 · 25% THC</div></button><button class="strain-opt" data-strain="GMO Z" data-price="4.03"><div class="sn">GMO Z</div><div class="sd">$4.03 · 35% THC</div></button><button class="strain-opt" data-strain="Sour Chillz" data-price="4.03"><div class="sn">Sour Chillz</div><div class="sd">$4.03 · 28% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="GMO Z" data-price="4.03"><div class="sn">GMO Z</div><div class="sd">$4.03 · 35% THC</div></button><button class="strain-opt" data-strain="Sour Chillz" data-price="4.03"><div class="sn">Sour Chillz</div><div class="sd">$4.03 · 28% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>A hybrid flower from TS Labs (OCC), Water Hash Infused Preoll is part of the current lineup at Terps Dispensary in Pueblo. Lab results show 34.8% THC. Pick between 3 in-stock options like Banana Ice Pops, GMO Z, Sour Chillz. It is between $4.03 and $5.65 across the lineup. Add it to a pickup order on our live menu; you must be 21 or older with a valid ID.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "c6feabe3-f35b-40da-9144-21c0c4c07454", "name": "Water Hash Infused Preoll", "brand": "TS Labs (OCC)", "photo": "../img/products/c6feabe3-f35b-40da-9144-21c0c4c07454.jpg", "price": 4.03, "unit": "", "unit_label": "", "strains": [{"name": "Banana Ice Pops", "price": 4.03, "thc": 25.02}, {"name": "GMO Z", "price": 4.03, "thc": 34.83}, {"name": "Sour Chillz", "price": 4.03, "thc": 27.55}]};
+const PROD={"id": "c6feabe3-f35b-40da-9144-21c0c4c07454", "name": "Water Hash Infused Preoll", "brand": "TS Labs (OCC)", "photo": "../img/products/c6feabe3-f35b-40da-9144-21c0c4c07454.jpg", "price": 4.03, "unit": "", "unit_label": "", "strains": [{"name": "GMO Z", "price": 4.03, "thc": 34.83}, {"name": "Sour Chillz", "price": 4.03, "thc": 27.55}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

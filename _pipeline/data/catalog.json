@@ -5616,13 +5616,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 34.83,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
-   {
-    "name": "Banana Ice Pops",
-    "price": 4.03,
-    "thc": 25.02
-   },
    {
     "name": "GMO Z",
     "price": 4.03,

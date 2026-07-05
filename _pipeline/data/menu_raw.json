@@ -45,7 +45,7 @@
   "Silver Lake": 24,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
-  "TS Labs (OCC)": 3,
+  "TS Labs (OCC)": 2,
   "The Clear": 19,
   "Twax": 2,
   "Vera": 24
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 274,
+   "count": 273,
    "subcategories": {
-    "hybrid": 213,
+    "hybrid": 212,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 770,
+ "hits": 769,
  "results": [
   {
    "availability": "",
@@ -38509,7 +38509,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sherbert Cream Pie",
    "non_trans": false,
-   "rebuild_gen": 1783027106842,
+   "rebuild_gen": 1783271242392,
    "slug": "inventory/variant/vera-sherbert-cream-pie-loose-646773",
    "subcategory": "hybrid",
    "suggest": "sherbert cream pie vera flower hybrid loose",
@@ -52010,90 +52010,6 @@
     "license": "403R-01063",
     "medical": false,
     "name": "Vera",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "c6feabe3-f35b-40da-9144-21c0c4c07454",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Water Hash Infused Preoll",
-   "non_trans": false,
-   "rebuild_gen": 1782767915868,
-   "slug": "inventory/variant/ts-labs-occ-water-hash-infused-preoll-banana-ice-pops-638334",
-   "subcategory": "hybrid",
-   "suggest": "water hash infused preoll ts labs (occ) flower hybrid banana ice pops",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "638334",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana Ice Pops",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 25.02,
-       "min_percentage": 25.02
-      }
-     },
-     "price": 403,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 403
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2502",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "ec968032-8be6-4ae0-8c27-d26db6a15e0e",
-    "license": "404R-00488",
-    "medical": false,
-    "name": "TS Labs (OCC)",
     "state": "CO"
    },
    "weave_category": "flower",
