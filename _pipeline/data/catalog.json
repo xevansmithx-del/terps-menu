@@ -325,18 +325,13 @@
   "price_max": 28.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 73.27,
-  "n_strains": 5,
+  "thc_max": 70.01,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Caked Up Bananas",
     "price": 28.0,
     "thc": 68.85
-   },
-   {
-    "name": "Red Runtz",
-    "price": 28.0,
-    "thc": 73.27
    },
    {
     "name": "Red Velvet Mints",
@@ -5616,17 +5611,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 34.83,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
    {
     "name": "GMO Z",
     "price": 4.03,
     "thc": 34.83
-   },
-   {
-    "name": "Sour Chillz",
-    "price": 4.03,
-    "thc": 27.55
    }
   ],
   "description": "",
@@ -6025,8 +6015,8 @@
   "price_max": 8.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 75.9,
-  "n_strains": 11,
+  "thc_max": 73,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Banana OG",
@@ -6077,11 +6067,6 @@
     "name": "Sunset Sherbet",
     "price": 8.0,
     "thc": 71.7
-   },
-   {
-    "name": "Tropicanna Banana",
-    "price": 8.0,
-    "thc": 75.9
    }
   ],
   "description": "",

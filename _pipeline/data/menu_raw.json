@@ -4,7 +4,7 @@
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 4,
-  "AO Extracts": 33,
+  "AO Extracts": 31,
   "Allgreens": 1,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
@@ -45,14 +45,14 @@
   "Silver Lake": 24,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
-  "TS Labs (OCC)": 2,
+  "TS Labs (OCC)": 1,
   "The Clear": 19,
   "Twax": 2,
   "Vera": 24
  },
  "categories": {
   "concentrate": {
-   "count": 393,
+   "count": 391,
    "subcategories": {
     "budder": 19,
     "cartridge": 169,
@@ -62,9 +62,9 @@
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 32,
+    "solventless": 31,
     "syringe": 8,
-    "wax": 98
+    "wax": 97
    }
   },
   "edible": {
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 273,
+   "count": 272,
    "subcategories": {
-    "hybrid": 212,
+    "hybrid": 211,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 769,
+ "hits": 766,
  "results": [
   {
    "availability": "",
@@ -3614,90 +3614,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6885",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "0e03cc76-b17e-47e7-a656-4b744bb0828d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Live Rosin",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/ao-extracts-ao-live-rosin-red-runtz-570671",
-   "subcategory": "solventless",
-   "suggest": "ao live rosin ao extracts concentrate solventless red runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570671",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Red Runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 73.27,
-       "min_percentage": 73.27
-      }
-     },
-     "price": 2800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7327",
        "thca": null
       }
      ],
@@ -52094,90 +52010,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "c6feabe3-f35b-40da-9144-21c0c4c07454",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Water Hash Infused Preoll",
-   "non_trans": false,
-   "rebuild_gen": 1782767915868,
-   "slug": "inventory/variant/ts-labs-occ-water-hash-infused-preoll-sour-chillz-638332",
-   "subcategory": "hybrid",
-   "suggest": "water hash infused preoll ts labs (occ) flower hybrid sour chillz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "638332",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sour Chillz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 27.55,
-       "min_percentage": 27.55
-      }
-     },
-     "price": 403,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 403
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2755",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "ec968032-8be6-4ae0-8c27-d26db6a15e0e",
-    "license": "404R-00488",
-    "medical": false,
-    "name": "TS Labs (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -55105,83 +54937,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7170",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Wax",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/ao-extracts-ao-wax-tropicanna-banana-570664",
-   "subcategory": "wax",
-   "suggest": "ao wax ao extracts concentrate wax tropicanna banana",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570664",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Tropicanna Banana",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 75.9,
-       "min_percentage": 75.9
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7590",
        "thca": null
       }
      ],
