@@ -12,12 +12,12 @@
   "Bud Fox": 7,
   "CALI BLAZE (OCC)": 5,
   "CC Brands LLC": 10,
-  "CLEARWATER BUDS LLC": 19,
+  "CLEARWATER BUDS LLC": 18,
   "Chaos": 7,
   "Clearview Industries": 7,
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
-  "Craft": 134,
+  "Craft": 133,
   "David Jackson LLC": 21,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -52,7 +52,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 391,
+   "count": 390,
    "subcategories": {
     "budder": 19,
     "cartridge": 169,
@@ -63,7 +63,7 @@
     "resin": 2,
     "shatter": 15,
     "solventless": 31,
-    "syringe": 8,
+    "syringe": 7,
     "wax": 97
    }
   },
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 272,
+   "count": 271,
    "subcategories": {
-    "hybrid": 211,
+    "hybrid": 210,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 766,
+ "hits": 764,
  "results": [
   {
    "availability": "",
@@ -27290,83 +27290,6 @@
    "category": "flower",
    "default_image": "",
    "description": "",
-   "id": "5e9e5ebd-64df-45c0-9914-35de420b3600",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AB x Runtz #40",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-ab-x-runtz-40-loose-642541",
-   "subcategory": "hybrid",
-   "suggest": "ab x runtz #40 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "642541",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 22.87,
-       "min_percentage": 22.87
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2287",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
    "id": "5fa0604f-50f7-4061-a351-e729b445f1bb",
    "images": [
     {
@@ -34321,90 +34244,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8409",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "syringe"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Syringe 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783018028741,
-   "slug": "inventory/variant/craft-sesh-syringe-1g-root-beer-kush-553700",
-   "subcategory": "syringe",
-   "suggest": "sesh syringe 1g craft concentrate syringe root beer kush",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "553700",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Root Beer Kush",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 80.59,
-       "min_percentage": 80.59
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8059",
        "thca": null
       }
      ],

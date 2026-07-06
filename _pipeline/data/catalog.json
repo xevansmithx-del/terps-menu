@@ -3311,7 +3311,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 89.95,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3342,11 +3342,6 @@
     "name": "Orange Creamsicle",
     "price": 12.0,
     "thc": 84.09
-   },
-   {
-    "name": "Root Beer Kush",
-    "price": 12.0,
-    "thc": 80.59
    },
    {
     "name": "Watermelon Bubblegum",
