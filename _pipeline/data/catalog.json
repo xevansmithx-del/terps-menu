@@ -2041,7 +2041,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.64,
-  "n_strains": 16,
+  "n_strains": 15,
   "strains": [
    {
     "name": "Afterburners",
@@ -2057,11 +2057,6 @@
     "name": "Banana Runtz",
     "price": 4.84,
     "thc": 61.38
-   },
-   {
-    "name": "Bounty Bull",
-    "price": 4.84,
-    "thc": 63.5
    },
    {
     "name": "Bursted Grapes",
@@ -6011,13 +6006,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
-   {
-    "name": "Banana OG",
-    "price": 8.0,
-    "thc": 68.7
-   },
    {
     "name": "Black Inferno",
     "price": 8.0,
@@ -6471,13 +6461,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 67.65,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
-   {
-    "name": "AfterBurners",
-    "price": 17.74,
-    "thc": 58.21
-   },
    {
     "name": "Blueberry Head Band",
     "price": 17.74,
@@ -6693,31 +6678,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443236659_IMG_1381.jpeg",
   "match_score": 0.683,
   "vendor_name": "Antero Sciences"
- },
- {
-  "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
-  "slug": "1g-cart-2",
-  "name": "1g Cart",
-  "brand": "JUICY",
-  "category": "concentrate",
-  "subcategory": "cartridge",
-  "price_min": 9.68,
-  "price_max": 9.68,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 81.8,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "The Mangolorian",
-    "price": 9.68,
-    "thc": 81.8
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/431253548_20240411_110055.jpg",
-  "match_score": 0.86,
-  "vendor_name": "Juicy"
  },
  {
   "id": "edf1fe37-3d97-45aa-ae2d-078ec0847b21",

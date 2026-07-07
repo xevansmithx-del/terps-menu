@@ -4,7 +4,7 @@
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 4,
-  "AO Extracts": 31,
+  "AO Extracts": 30,
   "Allgreens": 1,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
@@ -18,7 +18,7 @@
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
   "Craft": 133,
-  "David Jackson LLC": 21,
+  "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
   "Egozi": 31,
@@ -29,7 +29,7 @@
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
-  "Juicy": 8,
+  "Juicy": 7,
   "Juicy Concentrates": 1,
   "Keef Cola": 13,
   "Kind Goods LLC": 1,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 390,
+   "count": 386,
    "subcategories": {
-    "budder": 19,
-    "cartridge": 169,
+    "budder": 18,
+    "cartridge": 168,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
@@ -64,7 +64,7 @@
     "shatter": 15,
     "solventless": 31,
     "syringe": 7,
-    "wax": 97
+    "wax": 95
    }
   },
   "edible": {
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 764,
+ "hits": 760,
  "results": [
   {
    "availability": "",
@@ -21265,83 +21265,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6138",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-bounty-bull-572189",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax bounty bull",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572189",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Bounty Bull",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 63.5,
-       "min_percentage": 63.5
-      }
-     },
-     "price": 484,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6350",
        "thca": null
       }
      ],
@@ -54031,83 +53954,6 @@
    "name": "AO Wax",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/ao-extracts-ao-wax-banana-og-559517",
-   "subcategory": "wax",
-   "suggest": "ao wax ao extracts concentrate wax banana og",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559517",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana OG",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 68.7,
-       "min_percentage": 68.7
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6870",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Wax",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-inferno-570680",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black inferno",
@@ -57564,83 +57410,6 @@
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
    "rebuild_gen": 1782768190369,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-afterburners-572159",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder afterburners",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572159",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "AfterBurners",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 58.21,
-       "min_percentage": 58.21
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "5821",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1782768190369,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-blueberry-head-band-560092",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder blueberry head band",
@@ -59630,103 +59399,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "ed51df94-44f3-4cd3-bd40-0ea510c47aa5",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "1g Cart",
-   "non_trans": false,
-   "rebuild_gen": 1783122212458,
-   "slug": "inventory/variant/juicy-1g-cart-the-mangolorian-530620",
-   "subcategory": "cartridge",
-   "suggest": "1g cart juicy concentrate cartridge the mangolorian",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "530620",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "The Mangolorian",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.8,
-       "min_percentage": 81.8
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8180",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8180",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8180",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "367b55a1-7d0e-4e59-bb96-d6b904ec9076",
-    "license": "404R-00513",
-    "medical": false,
-    "name": "Juicy",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
