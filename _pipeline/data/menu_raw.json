@@ -17,11 +17,11 @@
   "Clearview Industries": 7,
   "Cold Baked": 38,
   "Colorado's Best Dabs": 5,
-  "Craft": 133,
+  "Craft": 131,
   "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
-  "Egozi": 31,
+  "Egozi": 30,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
@@ -52,18 +52,18 @@
  },
  "categories": {
   "concentrate": {
-   "count": 386,
+   "count": 383,
    "subcategories": {
     "budder": 18,
-    "cartridge": 168,
+    "cartridge": 167,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 31,
-    "syringe": 7,
+    "solventless": 30,
+    "syringe": 6,
     "wax": 95
    }
   },
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 757,
  "results": [
   {
    "availability": "",
@@ -14661,7 +14661,7 @@
        "min_percentage": 18.33
       }
      },
-     "price": 600,
+     "price": 81,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -14738,7 +14738,7 @@
        "min_percentage": 23.08
       }
      },
-     "price": 600,
+     "price": 81,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -15593,103 +15593,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8061",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "2c901e6b-dff9-48e0-9b5f-66bd8ba7ae23",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Tanker",
-   "non_trans": false,
-   "rebuild_gen": 1783019046646,
-   "slug": "inventory/variant/craft-oil-twist-tanker-baked-banana-549675",
-   "subcategory": "cartridge",
-   "suggest": "oil twist tanker craft concentrate cartridge baked banana",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "549675",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Baked Banana",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 87.8,
-       "min_percentage": 74.32
-      }
-     },
-     "price": 3500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7432",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7432",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8780",
        "thca": null
       }
      ],
@@ -33905,90 +33808,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8236",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "syringe"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Syringe 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783018028741,
-   "slug": "inventory/variant/craft-sesh-syringe-1g-electric-lemonade-553705",
-   "subcategory": "syringe",
-   "suggest": "sesh syringe 1g craft concentrate syringe electric lemonade",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "553705",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Electric Lemonade",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 89.95,
-       "min_percentage": 89.95
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8995",
        "thca": null
       }
      ],
@@ -57934,90 +57753,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6577",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-rosin-2g-spritzer-559936",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 2g egozi concentrate solventless spritzer",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559936",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Spritzer",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.55,
-       "min_percentage": 72.55
-      }
-     },
-     "price": 4200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3500
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7255",
        "thca": null
       }
      ],

@@ -1246,7 +1246,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "wax",
-  "price_min": 6.0,
+  "price_min": 0.81,
   "price_max": 6.0,
   "unit": "",
   "unit_kind": "",
@@ -1275,12 +1275,12 @@
    },
    {
     "name": "Couch Queen x OG triangle",
-    "price": 6.0,
+    "price": 0.81,
     "thc": 18.33
    },
    {
     "name": "Dessert Lime x OG Triangle",
-    "price": 6.0,
+    "price": 0.81,
     "thc": 23.08
    },
    {
@@ -1405,18 +1405,13 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 87.8,
-  "n_strains": 12,
+  "thc_max": 86.2,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
     "price": 35.0,
     "thc": 80.61
-   },
-   {
-    "name": "Baked Banana",
-    "price": 35.0,
-    "thc": 87.8
    },
    {
     "name": "Blueberry Swirl",
@@ -3305,8 +3300,8 @@
   "price_max": 12.1,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 89.95,
-  "n_strains": 7,
+  "thc_max": 84.64,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3322,11 +3317,6 @@
     "name": "Churroz",
     "price": 12.0,
     "thc": 83.63
-   },
-   {
-    "name": "Electric Lemonade",
-    "price": 12.0,
-    "thc": 89.95
    },
    {
     "name": "Grand Daddy Grape",
@@ -6496,7 +6486,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73.32,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "G Spritz",
@@ -6512,11 +6502,6 @@
     "name": "Spritz Scotti",
     "price": 42.0,
     "thc": 65.77
-   },
-   {
-    "name": "Spritzer",
-    "price": 42.0,
-    "thc": 72.55
    }
   ],
   "description": "",
