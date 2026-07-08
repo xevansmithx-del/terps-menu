@@ -10,14 +10,14 @@
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
   "Bud Fox": 7,
-  "CALI BLAZE (OCC)": 5,
+  "CALI BLAZE (OCC)": 4,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 18,
   "Chaos": 6,
   "Clearview Industries": 7,
   "Cold Baked": 37,
   "Colorado's Best Dabs": 5,
-  "Craft": 129,
+  "Craft": 128,
   "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 378,
+   "count": 377,
    "subcategories": {
     "budder": 17,
-    "cartridge": 167,
+    "cartridge": 166,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 24,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 271,
+   "count": 270,
    "subcategories": {
-    "hybrid": 210,
+    "hybrid": 209,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 752,
+ "hits": 750,
  "results": [
   {
    "availability": "",
@@ -5668,7 +5668,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5762,7 +5762,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-divine-kush-breath-556363",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract divine kush breath",
@@ -5846,7 +5846,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -5930,7 +5930,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
@@ -6014,7 +6014,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -6098,7 +6098,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -6202,7 +6202,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lilac-diesel-558034",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lilac diesel",
@@ -6224,7 +6224,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 74.01,
+       "max_percentage": 67.88,
        "min_percentage": 67.88
       }
      },
@@ -6240,16 +6240,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7401",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -6296,7 +6286,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -6343,16 +6333,6 @@
        "dthc": null,
        "thc": "6820",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6820",
-       "thca": null
       }
      ],
      "tags": [
@@ -6390,7 +6370,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-starfire-cream-572902",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract starfire cream",
@@ -6467,7 +6447,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783113999816,
+   "rebuild_gen": 1783528428540,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-strawberry-lemonade-572128",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract strawberry lemonade",
@@ -6505,16 +6485,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7801",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -14313,7 +14283,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -14327,7 +14297,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783528449040,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-apricot-scone-x-chem-rock-runtz-565662",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax apricot scone x chem rock runtz",
@@ -14390,7 +14360,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -14404,7 +14374,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783528449040,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-apricot-scone-x-orange-julius-565664",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax apricot scone x orange julius",
@@ -14467,7 +14437,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -14481,7 +14451,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783528449040,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-black-cherry-soda-x-terp-30-569678",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax black cherry soda x terp 30",
@@ -14544,7 +14514,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -14558,7 +14528,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783528449040,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-choco-mint-x-cherry-garlic-569680",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax choco mint x cherry garlic",
@@ -14621,7 +14591,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -14635,7 +14605,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783528449040,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-trop-cherry-x-lazer-fuel-569676",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax trop cherry x lazer fuel",
@@ -15390,7 +15360,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-apple-sauce-538016",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge apple sauce",
@@ -15477,7 +15447,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-blueberry-swirl-538017",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge blueberry swirl",
@@ -15554,7 +15524,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-cherry-slush-549673",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge cherry slush",
@@ -15651,7 +15621,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-citrus-splash-569921",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge citrus splash",
@@ -15728,7 +15698,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-mango-squeeze-538018",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge mango squeeze",
@@ -15805,7 +15775,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-maple-drip-560300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge maple drip",
@@ -15892,7 +15862,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-orange-krush-556300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge orange krush",
@@ -15931,16 +15901,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7355",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8567",
        "thca": null
       },
       {
@@ -15999,7 +15959,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-punchberry-538019",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge punchberry",
@@ -16086,7 +16046,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-strawberry-shortcake-549679",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge strawberry shortcake",
@@ -16112,15 +16072,8 @@
        "min_percentage": 80.3
       }
      },
-     "price": 2903,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "price": 3500,
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -16170,7 +16123,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-tropsicle-538015",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge tropsicle",
@@ -16247,7 +16200,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1783019046646,
+   "rebuild_gen": 1783525750846,
    "slug": "inventory/variant/craft-oil-twist-tanker-watermelon-ice-538127",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge watermelon ice",
@@ -29337,7 +29290,7 @@
        "min_percentage": 16.53
       }
      },
-     "price": 2800,
+     "price": 4500,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -31713,7 +31666,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-apple-sauce-544199",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge apple sauce",
@@ -31740,14 +31693,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -31797,7 +31743,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-baked-banana-549716",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge baked banana",
@@ -31820,18 +31766,11 @@
      "potency_result": {
       "thc": {
        "max_percentage": 78.62,
-       "min_percentage": 73.28
+       "min_percentage": 78.62
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -31843,16 +31782,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7862",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7328",
        "thca": null
       }
      ],
@@ -31891,7 +31820,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-blueberry-swirl-544206",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge blueberry swirl",
@@ -31913,19 +31842,12 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 78.04,
+       "max_percentage": 75.36,
        "min_percentage": 75.36
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -31937,16 +31859,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7536",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7804",
        "thca": null
       }
      ],
@@ -31985,7 +31897,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-mango-squeeze-544207",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge mango squeeze",
@@ -32012,14 +31924,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -32069,7 +31974,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-maple-drip-565724",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge maple drip",
@@ -32096,14 +32001,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -32163,7 +32061,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-orange-krush-556294",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge orange krush",
@@ -32247,7 +32145,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-punchberry-544209",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge punchberry",
@@ -32274,14 +32172,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -32331,7 +32222,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-tropsicle-544208",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge tropsicle",
@@ -32358,14 +32249,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -32415,7 +32299,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tugboat 2000",
    "non_trans": false,
-   "rebuild_gen": 1782768321846,
+   "rebuild_gen": 1783525842862,
    "slug": "inventory/variant/craft-oil-twist-tugboat-2000-watermelon-ice-544210",
    "subcategory": "cartridge",
    "suggest": "oil twist tugboat 2000 craft concentrate cartridge watermelon ice",
@@ -32442,14 +32326,7 @@
       }
      },
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -33338,7 +33215,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-apple-fizz-og-553699",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe apple fizz og",
@@ -33422,7 +33299,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-cherry-limeade-558765",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe cherry limeade",
@@ -33460,16 +33337,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8092",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -33526,7 +33393,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-churroz-553696",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe churroz",
@@ -33620,7 +33487,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-grand-daddy-grape-553695",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe grand daddy grape",
@@ -33714,7 +33581,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-orange-creamsicle-553698",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe orange creamsicle",
@@ -33798,7 +33665,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783018028741,
+   "rebuild_gen": 1783528468853,
    "slug": "inventory/variant/craft-sesh-syringe-1g-watermelon-bubblegum-553697",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe watermelon bubblegum",
@@ -38706,90 +38573,6 @@
    "name": "Oil Tugboat 1000",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-oil-tugboat-1000-green-skunk-526385",
-   "subcategory": "cartridge",
-   "suggest": "oil tugboat 1000 craft concentrate cartridge green skunk",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "526385",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Green Skunk",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.29,
-       "min_percentage": 79.29
-      }
-     },
-     "price": 1500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7929",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "943e0bc0-d48c-4f75-8374-802bdf45fd35",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Tugboat 1000",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/craft-oil-tugboat-1000-og-kush-526377",
    "subcategory": "cartridge",
    "suggest": "oil tugboat 1000 craft concentrate cartridge og kush",
@@ -40712,7 +40495,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782767895045,
+   "rebuild_gen": 1783524256339,
    "slug": "inventory/variant/craft-oil-4-pack-indica-multipack-533055",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge indica multipack",
@@ -45610,7 +45393,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-apple-sauce-530461",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge apple sauce",
@@ -45687,7 +45470,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-baked-banana-549685",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge baked banana",
@@ -45747,16 +45530,6 @@
        "dthc": null,
        "thc": "7458",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7458",
-       "thca": null
       }
      ],
      "tags": [
@@ -45794,7 +45567,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-blueberry-swirl-530462",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge blueberry swirl",
@@ -45816,8 +45589,8 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 86.6,
-       "min_percentage": 66.74
+       "max_percentage": 74.69,
+       "min_percentage": 74.69
       }
      },
      "price": 968,
@@ -45833,56 +45606,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7469",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6674",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6674",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6674",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7752",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8660",
        "thca": null
       }
      ],
@@ -45921,7 +45644,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
@@ -45961,16 +45684,6 @@
        "dthc": null,
        "thc": "7495",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7495",
-       "thca": null
       }
      ],
      "tags": [
@@ -46008,7 +45721,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-citrus-splash-564897",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge citrus splash",
@@ -46030,7 +45743,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 78.36,
+       "max_percentage": 72.14,
        "min_percentage": 72.14
       }
      },
@@ -46047,26 +45760,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7214",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7214",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7836",
        "thca": null
       }
      ],
@@ -46105,7 +45798,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-mango-squeezed-530463",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge mango squeezed",
@@ -46136,26 +45829,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7909",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7909",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -46222,7 +45895,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-maple-drip-559097",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge maple drip",
@@ -46319,7 +45992,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-orange-krush-556296",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge orange krush",
@@ -46416,7 +46089,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
@@ -46447,16 +46120,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7663",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -46503,7 +46166,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -46534,36 +46197,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8309",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8309",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8309",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -46630,7 +46263,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
@@ -46652,7 +46285,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 88.44,
+       "max_percentage": 79.72,
        "min_percentage": 79.72
       }
      },
@@ -46669,16 +46302,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7972",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8844",
        "thca": null
       }
      ],
@@ -46717,7 +46340,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783020500948,
+   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-watermelon-ice-530466",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge watermelon ice",
@@ -46756,26 +46379,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7541",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7541",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8128",
        "thca": null
       },
       {
@@ -49359,7 +48962,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -49373,7 +48976,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783526479042,
    "slug": "inventory/variant/craft-sesh-4-pack-pack-1-553701",
    "subcategory": "cartridge",
    "suggest": "sesh 4 pack craft concentrate cartridge pack #1",
@@ -49463,7 +49066,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -49477,7 +49080,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783526479042,
    "slug": "inventory/variant/craft-sesh-4-pack-pack-2-553703",
    "subcategory": "cartridge",
    "suggest": "sesh 4 pack craft concentrate cartridge pack #2",
@@ -54828,90 +54431,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "3310",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
-    "license": "404R-00528",
-    "medical": false,
-    "name": "CALI BLAZE (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Tarantulas",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/cali-blaze-occ-tarantulas-cinnamon-churro-648737",
-   "subcategory": "hybrid",
-   "suggest": "tarantulas cali blaze (occ) flower hybrid cinnamon churro",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "648737",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Cinnamon Churro",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1200,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 39.78,
-       "min_percentage": 39.78
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3978",
        "thca": null
       }
      ],

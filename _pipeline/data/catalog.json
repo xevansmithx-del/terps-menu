@@ -606,7 +606,7 @@
    {
     "name": "Lilac Diesel",
     "price": 13.0,
-    "thc": 74.01
+    "thc": 67.88
    },
    {
     "name": "MAC",
@@ -1391,7 +1391,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 29.03,
+  "price_min": 35.0,
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
@@ -1440,7 +1440,7 @@
    },
    {
     "name": "Strawberry Shortcake",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 80.3
    },
    {
@@ -2921,8 +2921,8 @@
   "brand": "Egozi",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 28.0,
-  "price_max": 28.0,
+  "price_min": 45.0,
+  "price_max": 45.0,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
   "thc_max": 19.19,
@@ -2930,7 +2930,7 @@
   "strains": [
    {
     "name": "Half",
-    "price": 28.0,
+    "price": 45.0,
     "thc": 19.19
    }
   ],
@@ -3156,7 +3156,7 @@
    {
     "name": "Blueberry Swirl",
     "price": 24.0,
-    "thc": 78.04
+    "thc": 75.36
    },
    {
     "name": "Mango Squeeze",
@@ -3996,7 +3996,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.55,
-  "n_strains": 7,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Banana Kush",
@@ -4012,11 +4012,6 @@
     "name": "Grand Daddy Purps",
     "price": 15.0,
     "thc": 77.34
-   },
-   {
-    "name": "Green Skunk",
-    "price": 15.0,
-    "thc": 79.29
    },
    {
     "name": "OG Kush",
@@ -4955,7 +4950,7 @@
   "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 88.44,
+  "thc_max": 87.41,
   "n_strains": 12,
   "strains": [
    {
@@ -4971,7 +4966,7 @@
    {
     "name": "Blueberry Swirl",
     "price": 9.68,
-    "thc": 86.6
+    "thc": 74.69
    },
    {
     "name": "Cherry Slush",
@@ -4981,7 +4976,7 @@
    {
     "name": "Citrus Splash",
     "price": 9.68,
-    "thc": 78.36
+    "thc": 72.14
    },
    {
     "name": "Mango Squeezed",
@@ -5011,7 +5006,7 @@
    {
     "name": "Tropsicle",
     "price": 9.68,
-    "thc": 88.44
+    "thc": 79.72
    },
    {
     "name": "Watermelon Ice",
@@ -6135,8 +6130,8 @@
   "price_max": 8.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 39.78,
-  "n_strains": 5,
+  "thc_max": 37.37,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Blueberry",
@@ -6147,11 +6142,6 @@
     "name": "Cherry Cola",
     "price": 8.0,
     "thc": 33.1
-   },
-   {
-    "name": "Cinnamon Churro",
-    "price": 8.0,
-    "thc": 39.78
    },
    {
     "name": "Green Apple",
