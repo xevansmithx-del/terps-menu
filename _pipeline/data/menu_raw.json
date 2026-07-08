@@ -13,15 +13,15 @@
   "CALI BLAZE (OCC)": 5,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 18,
-  "Chaos": 7,
+  "Chaos": 6,
   "Clearview Industries": 7,
-  "Cold Baked": 38,
+  "Cold Baked": 37,
   "Colorado's Best Dabs": 5,
-  "Craft": 131,
+  "Craft": 129,
   "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
-  "Egozi": 30,
+  "Egozi": 29,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
@@ -52,9 +52,9 @@
  },
  "categories": {
   "concentrate": {
-   "count": 383,
+   "count": 378,
    "subcategories": {
-    "budder": 18,
+    "budder": 17,
     "cartridge": 167,
     "crumble": 1,
     "cured extract": 3,
@@ -62,9 +62,9 @@
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 30,
+    "solventless": 29,
     "syringe": 6,
-    "wax": 95
+    "wax": 92
    }
   },
   "edible": {
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 757,
+ "hits": 752,
  "results": [
   {
    "availability": "",
@@ -1944,7 +1944,7 @@
        "min_percentage": 17.99
       }
      },
-     "price": 403,
+     "price": 243,
      "pricing": [
       {
        "default": false,
@@ -14597,160 +14597,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1599",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Infused Nug Cone",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-sesh-infused-nug-cone-couch-queen-x-og-triangle-565665",
-   "subcategory": "wax",
-   "suggest": "sesh infused nug cone craft concentrate wax couch queen x og triangle",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565665",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Couch Queen x OG triangle",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 750,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 18.33,
-       "min_percentage": 18.33
-      }
-     },
-     "price": 81,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1833",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Infused Nug Cone",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-sesh-infused-nug-cone-dessert-lime-x-og-triangle-565663",
-   "subcategory": "wax",
-   "suggest": "sesh infused nug cone craft concentrate wax dessert lime x og triangle",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565663",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Dessert Lime x OG Triangle",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 750,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23.08,
-       "min_percentage": 23.08
-      }
-     },
-     "price": 81,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2308",
        "thca": null
       }
      ],
@@ -31542,78 +31388,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "780f92c9-5eca-4caa-8bc5-530da83583ea",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin",
-   "non_trans": false,
-   "rebuild_gen": 1783108987005,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-biscotti-chunks-559972",
-   "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin egozi concentrate solventless biscotti chunks",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559972",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Biscotti Chunks",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
   },
   {
    "availability": "",
@@ -53598,90 +53372,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "wax",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/chaos-wax-mr-g-572086",
-   "subcategory": "wax",
-   "suggest": "wax chaos concentrate mr.g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572086",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "MR.G",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.69,
-       "min_percentage": 79.69
-      }
-     },
-     "price": 700,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 600
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7969",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
-    "license": "404R-00084",
-    "medical": false,
-    "name": "Chaos",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -58718,90 +58408,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "eaa1c104-ec80-47be-b9b6-7a7e53898528",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Budder",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/cold-baked-budder-blueberry-muffin-570611",
-   "subcategory": "budder",
-   "suggest": "budder cold baked concentrate blueberry muffin",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570611",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blueberry Muffin",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 65.27,
-       "min_percentage": 65.27
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 700
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6527",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
   },
   {
    "availability": "",

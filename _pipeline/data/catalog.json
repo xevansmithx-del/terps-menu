@@ -190,7 +190,7 @@
    },
    {
     "name": "Pipe Dream",
-    "price": 4.03,
+    "price": 2.43,
     "thc": 17.99
    },
    {
@@ -1246,12 +1246,12 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "wax",
-  "price_min": 0.81,
+  "price_min": 6.0,
   "price_max": 6.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 23.93,
-  "n_strains": 7,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Apricot Scone x Chem Rock Runtz",
@@ -1272,16 +1272,6 @@
     "name": "Choco Mint x Cherry Garlic",
     "price": 6.0,
     "thc": 15.99
-   },
-   {
-    "name": "Couch Queen x OG triangle",
-    "price": 0.81,
-    "thc": 18.33
-   },
-   {
-    "name": "Dessert Lime x OG Triangle",
-    "price": 0.81,
-    "thc": 23.08
    },
    {
     "name": "Trop Cherry x Lazer Fuel",
@@ -5940,23 +5930,18 @@
   "price_max": 7.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 79.69,
-  "n_strains": 2,
+  "thc_max": 67.76,
+  "n_strains": 1,
   "strains": [
    {
     "name": "Ice Breath",
     "price": 7.0,
     "thc": 67.76
-   },
-   {
-    "name": "MR.G",
-    "price": 7.0,
-    "thc": 79.69
    }
   ],
   "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443684281_IMG_20260618_130717756.jpg",
-  "match_score": 0.86,
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443730519_7274.jpg",
+  "match_score": 1.091,
   "vendor_name": "Chaos"
  },
  {
@@ -6616,13 +6601,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 71.47,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
-   {
-    "name": "Blueberry Muffin",
-    "price": 8.0,
-    "thc": 65.27
-   },
    {
     "name": "Frosted Velvet",
     "price": 8.0,

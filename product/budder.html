@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/eaa1c104-ec80-47be-b9b6-7a7e53898528.jpg" fetchpriority="high" decoding="async" width="600" height="600" alt="Budder by DABBLE EXTRACTS — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">DABBLE EXTRACTS</div><h1>Budder</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Budder</span><span class="pill gold">71% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Budder</span><span class="pill gold">71% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$8.00</div>
 <div class="otd" id="otdline">≈ $9.90 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Blueberry Muffin" data-price="8.0"><div class="sn">Blueberry Muffin</div><div class="sd">$8.00 · 65% THC</div></button><button class="strain-opt" data-strain="Frosted Velvet" data-price="8.0"><div class="sn">Frosted Velvet</div><div class="sd">$8.00 · 71% THC</div></button><button class="strain-opt" data-strain="Peachberry Muffin" data-price="8.0"><div class="sn">Peachberry Muffin</div><div class="sd">$8.00 · 65% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Frosted Velvet" data-price="8.0"><div class="sn">Frosted Velvet</div><div class="sd">$8.00 · 71% THC</div></button><button class="strain-opt" data-strain="Peachberry Muffin" data-price="8.0"><div class="sn">Peachberry Muffin</div><div class="sd">$8.00 · 65% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Terps Dispensary in Pueblo carries Budder, a budder concentrate made by Cold Baked. Potency tops out at 71.5% THC. It comes in 3 varieties — Blueberry Muffin, Frosted Velvet, Peachberry Muffin among them. It is listed at $8. Grab it in store or reserve through the menu; valid 21+ ID required for all recreational purchases.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "eaa1c104-ec80-47be-b9b6-7a7e53898528", "name": "Budder", "brand": "DABBLE EXTRACTS", "photo": "../img/products/eaa1c104-ec80-47be-b9b6-7a7e53898528.jpg", "price": 8.0, "unit": "", "unit_label": "", "strains": [{"name": "Blueberry Muffin", "price": 8.0, "thc": 65.27}, {"name": "Frosted Velvet", "price": 8.0, "thc": 71.47}, {"name": "Peachberry Muffin", "price": 8.0, "thc": 64.85}]};
+const PROD={"id": "eaa1c104-ec80-47be-b9b6-7a7e53898528", "name": "Budder", "brand": "DABBLE EXTRACTS", "photo": "../img/products/eaa1c104-ec80-47be-b9b6-7a7e53898528.jpg", "price": 8.0, "unit": "", "unit_label": "", "strains": [{"name": "Frosted Velvet", "price": 8.0, "thc": 71.47}, {"name": "Peachberry Muffin", "price": 8.0, "thc": 64.85}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

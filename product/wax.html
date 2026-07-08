@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/d78cca6b-5dcf-47f1-880b-a8f1fe2618de.jpg" fetchpriority="high" decoding="async" width="498" height="600" alt="wax by Heartland Industries — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Heartland Industries</div><h1>wax</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Wax</span><span class="pill gold">80% THC</span><span class="pill">2 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Wax</span><span class="pill gold">68% THC</span></div>
 <div class="priceline" id="priceline">$7.00</div>
 <div class="otd" id="otdline">≈ $8.66 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Ice Breath" data-price="7.0"><div class="sn">Ice Breath</div><div class="sd">$7.00 · 68% THC</div></button><button class="strain-opt" data-strain="MR.G" data-price="7.0"><div class="sn">MR.G</div><div class="sd">$7.00 · 80% THC</div></button></div></div>
+<div class="strain-sel"></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>A wax concentrate from Chaos, wax is part of the current lineup at Terps Dispensary in Pueblo. Lab results show 79.7% THC. Pick between 2 in-stock options like Ice Breath, MR.G. It is ringing up at $7. Add it to a pickup order on our live menu; you must be 21 or older with a valid ID.</p></div>
@@ -66,7 +66,7 @@
 <div class="ph"><span class="tag">Concentrates</span><span class="thc">24% THC</span><img src="../img/products/269851a7-bf15-4485-adb0-d2b7fd2a62fe.jpg" loading="lazy" decoding="async" width="600" height="600" alt="Sesh Infused Nug Cone by Craft Concentrates — concentrates at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">Craft Concentrates</div>
 <p class="name">Sesh Infused Nug Cone</p>
-<div class="foot"><span class="price" data-price>$0.81<small>–$6.00</small></span><span class="strains">7 strains</span></div></div></a><a class="card" href="../product/timberline-extracts-1g.html" data-id="51dd7d61-2ead-407c-98fe-408cb4125ea9">
+<div class="foot"><span class="price" data-price>$6.00</span><span class="strains">5 strains</span></div></div></a><a class="card" href="../product/timberline-extracts-1g.html" data-id="51dd7d61-2ead-407c-98fe-408cb4125ea9">
 <div class="ph"><span class="tag">Concentrates</span><span class="thc">78% THC</span><img src="../img/products/51dd7d61-2ead-407c-98fe-408cb4125ea9.jpg" loading="lazy" decoding="async" width="337" height="600" alt="Timberline Extracts 1g by Timberline Extracts — concentrates at Terps Dispensary in Pueblo, CO"><div class="soldtag">Sold out</div></div>
 <div class="body"><div class="brand">Timberline Extracts</div>
 <p class="name">Timberline Extracts 1g</p>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de", "name": "wax", "brand": "Heartland Industries", "photo": "../img/products/d78cca6b-5dcf-47f1-880b-a8f1fe2618de.jpg", "price": 7.0, "unit": "", "unit_label": "", "strains": [{"name": "Ice Breath", "price": 7.0, "thc": 67.76}, {"name": "MR.G", "price": 7.0, "thc": 79.69}]};
+const PROD={"id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de", "name": "wax", "brand": "Heartland Industries", "photo": "../img/products/d78cca6b-5dcf-47f1-880b-a8f1fe2618de.jpg", "price": 7.0, "unit": "", "unit_label": "", "strains": [{"name": "Ice Breath", "price": 7.0, "thc": 67.76}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
