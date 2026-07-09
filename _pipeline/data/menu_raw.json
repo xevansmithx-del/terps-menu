@@ -4,7 +4,7 @@
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 4,
-  "AO Extracts": 30,
+  "AO Extracts": 31,
   "Allgreens": 1,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
@@ -17,7 +17,7 @@
   "Clearview Industries": 7,
   "Cold Baked": 37,
   "Colorado's Best Dabs": 5,
-  "Craft": 128,
+  "Craft": 125,
   "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
@@ -41,7 +41,7 @@
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
   "NATTY REMS LLC": 37,
-  "SPHEREX": 7,
+  "SPHEREX": 6,
   "Silver Lake": 24,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
@@ -52,13 +52,13 @@
  },
  "categories": {
   "concentrate": {
-   "count": 377,
+   "count": 374,
    "subcategories": {
     "budder": 17,
-    "cartridge": 166,
+    "cartridge": 164,
     "crumble": 1,
     "cured extract": 3,
-    "distillate": 24,
+    "distillate": 23,
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 750,
+ "hits": 747,
  "results": [
   {
    "availability": "",
@@ -10696,7 +10696,121 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
+   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-apples-bananas-550906",
+   "subcategory": "cartridge",
+   "suggest": "ao cartridges 1g ao extracts concentrate cartridge apples & bananas",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "550906",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Apples & Bananas",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 86.7,
+       "min_percentage": 81.8
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1200
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8670",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8180",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8180",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8250",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Cartridges 1g",
+   "non_trans": false,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-banana-runtz-532381",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge banana runtz",
@@ -10800,7 +10914,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blackberry-kush-532382",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blackberry kush",
@@ -10884,7 +10998,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-bubble-gum-532383",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge bubble gum",
@@ -10978,7 +11092,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-grape-runtz-532384",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge grape runtz",
@@ -11082,7 +11196,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lime-sorbet-570658",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lime sorbet",
@@ -11166,7 +11280,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
@@ -11250,7 +11364,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -11334,7 +11448,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-red-apple-550908",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge red apple",
@@ -11428,7 +11542,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-pop-555495",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket pop",
@@ -11522,7 +11636,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
@@ -11599,7 +11713,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-soda-pop-532378",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge soda pop",
@@ -11693,7 +11807,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-sour-tangie-538078",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge sour tangie",
@@ -11787,7 +11901,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783034600539,
+   "rebuild_gen": 1783544647946,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-watermelon-zlushie-564268",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge watermelon zlushie",
@@ -12996,90 +13110,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "20e7cdd9-a3e9-4041-aa91-5d71f6ed5143",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Tugboat 2000mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-oil-tugboat-2000mg-banana-kush-535782",
-   "subcategory": "cartridge",
-   "suggest": "oil tugboat 2000mg craft concentrate cartridge banana  kush",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "535782",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana  Kush",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 70.11,
-       "min_percentage": 70.11
-      }
-     },
-     "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7011",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
@@ -20407,90 +20437,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8084",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "distillate"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "50f220ed-ac88-45e5-a4d5-c1fdf149317f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Seshie 1gram",
-   "non_trans": false,
-   "rebuild_gen": 1782767878939,
-   "slug": "inventory/variant/craft-seshie-1gram-grand-daddy-grape-570319",
-   "subcategory": "distillate",
-   "suggest": "seshie 1gram craft concentrate distillate grand daddy grape",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570319",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Grand Daddy Grape",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.35,
-       "min_percentage": 74.35
-      }
-     },
-     "price": 1500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7435",
        "thca": null
       }
      ],
@@ -46090,83 +46036,6 @@
    "name": "Oil Twist Cartridge",
    "non_trans": false,
    "rebuild_gen": 1783530309354,
-   "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
-   "subcategory": "cartridge",
-   "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "530464",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Punchberry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 76.63,
-       "min_percentage": 76.63
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7663",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Cartridge",
-   "non_trans": false,
-   "rebuild_gen": 1783530309354,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -50095,100 +49964,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7510",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
-    "license": "404R-00422",
-    "medical": false,
-    "name": "SPHEREX",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "c27ccf21-134d-4db3-9da3-cec598a7e7f7",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "1G Cart",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/spherex-1g-cart-tropical-runtz-526508",
-   "subcategory": "cartridge",
-   "suggest": "1g cart spherex concentrate cartridge tropical runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "526508",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Tropical Runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.1,
-       "min_percentage": 76.7
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7670",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7910",
        "thca": null
       }
      ],
