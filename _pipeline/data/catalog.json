@@ -3136,7 +3136,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.48,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -3157,11 +3157,6 @@
     "name": "Mango Squeeze",
     "price": 24.0,
     "thc": 73.24
-   },
-   {
-    "name": "Maple Drip",
-    "price": 24.0,
-    "thc": 81.18
    },
    {
     "name": "Orange Krush",
@@ -4551,15 +4546,10 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Crushed Pineapple",
-    "price": 8.06,
-    "thc": null
-   },
-   {
-    "name": "Strawberry Fieldtrip",
     "price": 8.06,
     "thc": null
    },

@@ -9,19 +9,19 @@
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
-  "Bud Fox": 7,
+  "Bud Fox": 6,
   "CALI BLAZE (OCC)": 4,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 18,
-  "Chaos": 6,
+  "Chaos": 9,
   "Clearview Industries": 7,
   "Cold Baked": 37,
   "Colorado's Best Dabs": 5,
-  "Craft": 125,
+  "Craft": 124,
   "David Jackson LLC": 19,
   "Denver Dab Co": 45,
   "Denver Packaging Company": 2,
-  "Egozi": 29,
+  "Egozi": 28,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
@@ -34,7 +34,7 @@
   "Keef Cola": 13,
   "Kind Goods LLC": 1,
   "Kodo": 1,
-  "Lifestyle Foods Inc": 20,
+  "Lifestyle Foods Inc": 19,
   "Loud Labs LLC": 25,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
@@ -52,25 +52,25 @@
  },
  "categories": {
   "concentrate": {
-   "count": 374,
+   "count": 375,
    "subcategories": {
     "budder": 17,
-    "cartridge": 164,
-    "crumble": 1,
+    "cartridge": 163,
+    "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 29,
+    "solventless": 28,
     "syringe": 6,
     "wax": 92
    }
   },
   "edible": {
-   "count": 84,
+   "count": 83,
    "subcategories": {
-    "candy": 25,
+    "candy": 24,
     "capsule": 2,
     "chocolate": 10,
     "drink": 20,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 270,
+   "count": 269,
    "subcategories": {
-    "hybrid": 209,
+    "hybrid": 208,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 747,
+ "hits": 746,
  "results": [
   {
    "availability": "",
@@ -12569,83 +12569,6 @@
    "name": "PREROLLS",
    "non_trans": false,
    "rebuild_gen": 1783024041048,
-   "slug": "inventory/variant/bud-fox-prerolls-farmhouse-flo-650305",
-   "subcategory": "hybrid",
-   "suggest": "prerolls bud fox flower hybrid farmhouse flo",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "650305",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Farmhouse Flo",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.73,
-       "min_percentage": 17.73
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1773",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
-    "license": "403R-00930",
-    "medical": false,
-    "name": "Bud Fox",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "PREROLLS",
-   "non_trans": false,
-   "rebuild_gen": 1783024041048,
    "slug": "inventory/variant/bud-fox-prerolls-field-trip-650299",
    "subcategory": "hybrid",
    "suggest": "prerolls bud fox flower hybrid field trip",
@@ -23821,7 +23744,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "A package of ten rice crispy treats. 10 mg THC per piece, comes in a variety of flavors.",
@@ -23835,7 +23758,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Chaos Crispies",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783613221104,
    "slug": "inventory/variant/chaos-chaos-crispies-cookies-n-cream-113303",
    "subcategory": "candy",
    "suggest": "chaos crispies chaos edible candy cookies 'n cream",
@@ -23862,7 +23785,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 900
+       "price": 1000
       }
      ],
      "pricing_group": null,
@@ -23900,7 +23823,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "A package of ten rice crispy treats. 10 mg THC per piece, comes in a variety of flavors.",
@@ -23914,7 +23837,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Chaos Crispies",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783613221104,
    "slug": "inventory/variant/chaos-chaos-crispies-fruity-111852",
    "subcategory": "candy",
    "suggest": "chaos crispies chaos edible candy fruity",
@@ -23941,12 +23864,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 900
+       "price": 1000
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -23979,7 +23912,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": "A package of ten rice crispy treats. 10 mg THC per piece, comes in a variety of flavors.",
@@ -23993,7 +23926,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Chaos Crispies",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783613221104,
    "slug": "inventory/variant/chaos-chaos-crispies-peanut-butter-chocolate-113301",
    "subcategory": "candy",
    "suggest": "chaos crispies chaos edible candy peanut butter & chocolate",
@@ -24020,7 +23953,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 900
+       "price": 1000
       }
      ],
      "pricing_group": null,
@@ -27309,93 +27242,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6960",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "6437cda1-913b-490e-9351-eaf5de6f8871",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-garlic-ice-cream-565605",
-   "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless garlic ice cream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565605",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Garlic Ice Cream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.82,
-       "min_percentage": 68.84
-      }
-     },
-     "price": 4200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7282",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6884",
        "thca": null
       }
      ],
@@ -31882,93 +31728,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7324",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "79e3eaba-8d74-4ec0-b33c-563a383e00a6",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Tugboat 2000",
-   "non_trans": false,
-   "rebuild_gen": 1783525842862,
-   "slug": "inventory/variant/craft-oil-twist-tugboat-2000-maple-drip-565724",
-   "subcategory": "cartridge",
-   "suggest": "oil twist tugboat 2000 craft concentrate cartridge maple drip",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565724",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Maple Drip",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.18,
-       "min_percentage": 81.18
-      }
-     },
-     "price": 2400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8118",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8118",
        "thca": null
       }
      ],
@@ -42361,7 +42120,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -42375,7 +42134,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783616026163,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-crushed-pineapple-143527",
    "subcategory": "candy",
    "suggest": "ript lifestyle foods inc edible candy crushed pineapple",
@@ -42397,27 +42156,10 @@
      },
      "potency_result": {},
      "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -42460,7 +42202,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -42474,106 +42216,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/lifestyle-foods-inc-ript-strawberry-fieldtrip-134666",
-   "subcategory": "candy",
-   "suggest": "ript lifestyle foods inc edible candy strawberry fieldtrip",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "134666",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Strawberry Fieldtrip",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 645
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
-    "license": "404R-00177",
-    "medical": false,
-    "name": "Lifestyle Foods Inc",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "candy"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "aaacfbd1-aa74-4f8b-8b75-cc855f3c6f69",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Ript",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783616026163,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-wild-cherry-134654",
    "subcategory": "candy",
    "suggest": "ript lifestyle foods inc edible candy wild cherry",
@@ -50926,7 +50569,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "RIPT Blazed Blue Razz",
    "non_trans": false,
-   "rebuild_gen": 1783086990725,
+   "rebuild_gen": 1783615941354,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-blazed-blue-razz-100mg-131915",
    "subcategory": "candy",
    "suggest": "ript blazed blue razz lifestyle foods inc edible candy 100mg",
@@ -50952,16 +50595,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -52149,7 +51782,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -52163,7 +51796,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twister Pak",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783614172398,
+   "slug": "inventory/variant/chaos-twister-pak-blue-dog-divine-kush-breath-purple-runtz-573137",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble blue dog, divine kush breath, purple runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573137",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Dog, Divine Kush Breath, Purple Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 71.49
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7149-8087",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1783614172398,
    "slug": "inventory/variant/chaos-twister-pak-blue-dog-mach-cake-galactic-mac-572083",
    "subcategory": "crumble",
    "suggest": "twister pak chaos concentrate crumble blue dog, mach cake, galactic mac",
@@ -52190,14 +51900,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2016
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -52209,6 +51912,160 @@
        "cbn": null,
        "dthc": null,
        "thc": "8040-8224",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1783614172398,
+   "slug": "inventory/variant/chaos-twister-pak-gelato-cake-aviator-blue-dog-573136",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble gelato cake, aviator, blue dog",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573136",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gelato Cake, Aviator, Blue Dog",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 74.14
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7414-8087",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1783614172398,
+   "slug": "inventory/variant/chaos-twister-pak-gelato-cake-unknown-chemical-strawberry-dream-573135",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble gelato cake, unknown chemical, strawberry dream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573135",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gelato Cake, Unknown Chemical, Strawberry Dream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 82.97,
+       "min_percentage": 72.69
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7269-8297",
        "thca": null
       }
      ],
