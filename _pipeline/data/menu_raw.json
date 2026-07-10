@@ -1,6 +1,6 @@
 {
  "brands": {
-  "": 28,
+  "": 27,
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 4,
@@ -13,14 +13,14 @@
   "CALI BLAZE (OCC)": 4,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 18,
-  "Chaos": 9,
+  "Chaos": 13,
   "Clearview Industries": 7,
   "Cold Baked": 37,
   "Colorado's Best Dabs": 5,
-  "Craft": 124,
-  "David Jackson LLC": 19,
+  "Craft": 123,
+  "David Jackson LLC": 18,
   "Denver Dab Co": 45,
-  "Denver Packaging Company": 2,
+  "Denver Packaging Company": 1,
   "Egozi": 28,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 375,
+   "count": 372,
    "subcategories": {
-    "budder": 17,
-    "cartridge": 163,
+    "budder": 16,
+    "cartridge": 162,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
@@ -64,24 +64,24 @@
     "shatter": 15,
     "solventless": 28,
     "syringe": 6,
-    "wax": 92
+    "wax": 91
    }
   },
   "edible": {
-   "count": 83,
+   "count": 82,
    "subcategories": {
     "candy": 24,
     "capsule": 2,
     "chocolate": 10,
-    "drink": 20,
+    "drink": 19,
     "gummies": 25,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 269,
+   "count": 273,
    "subcategories": {
-    "hybrid": 208,
+    "hybrid": 212,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -24878,6 +24878,314 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "5669833b-befd-4415-97b7-8730c258e124",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Toke",
+   "non_trans": false,
+   "rebuild_gen": 1783633887927,
+   "slug": "inventory/variant/chaos-toke-cheesecake-650720",
+   "subcategory": "hybrid",
+   "suggest": "toke chaos flower hybrid cheesecake",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650720",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cheesecake",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 19.32,
+       "min_percentage": 19.32
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1932",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "5669833b-befd-4415-97b7-8730c258e124",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Toke",
+   "non_trans": false,
+   "rebuild_gen": 1783633887927,
+   "slug": "inventory/variant/chaos-toke-pina-colada-650721",
+   "subcategory": "hybrid",
+   "suggest": "toke chaos flower hybrid pina colada",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650721",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Pina Colada",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 17.61,
+       "min_percentage": 17.61
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1761",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "5669833b-befd-4415-97b7-8730c258e124",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Toke",
+   "non_trans": false,
+   "rebuild_gen": 1783633887927,
+   "slug": "inventory/variant/chaos-toke-strawberry-cough-650719",
+   "subcategory": "hybrid",
+   "suggest": "toke chaos flower hybrid strawberry cough",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650719",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Cough",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 14.87,
+       "min_percentage": 14.87
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1487",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "5669833b-befd-4415-97b7-8730c258e124",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Toke",
+   "non_trans": false,
+   "rebuild_gen": 1783633887927,
+   "slug": "inventory/variant/chaos-toke-vampire-bullets-650722",
+   "subcategory": "hybrid",
+   "suggest": "toke chaos flower hybrid vampire bullets",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650722",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Vampire Bullets",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 20.23,
+       "min_percentage": 20.23
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2023",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "concentrate",
    "default_image": "",
@@ -26160,83 +26468,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "808 Dabs",
-   "non_trans": false,
-   "rebuild_gen": 1782767329440,
-   "slug": "inventory/variant/808-dabs-zangria-571286",
-   "subcategory": "wax",
-   "suggest": "808 dabs concentrate wax zangria",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571286",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Zangria",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 66,
-       "min_percentage": 66
-      }
-     },
-     "price": 484,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6600",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "dcebb4e5-5aba-41c7-b02a-337ccb015af4",
-    "license": "",
-    "medical": false,
-    "name": "",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "concentrate",
    "default_image": "",
@@ -27028,7 +27259,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -27042,7 +27273,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Dog Whisperer",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783635298963,
    "slug": "inventory/variant/vera-dog-whisperer-loose-646914",
    "subcategory": "hybrid",
    "suggest": "dog whisperer vera flower hybrid loose",
@@ -27064,7 +27295,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 24.2,
+       "max_percentage": 25.42,
        "min_percentage": 24.2
       }
      },
@@ -27073,6 +27304,66 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2542",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -37352,7 +37643,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sherbert Cream Pie",
    "non_trans": false,
-   "rebuild_gen": 1783271242392,
+   "rebuild_gen": 1783635488768,
    "slug": "inventory/variant/vera-sherbert-cream-pie-loose-646773",
    "subcategory": "hybrid",
    "suggest": "sherbert cream pie vera flower hybrid loose",
@@ -37383,6 +37674,46 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2060",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -39013,7 +39344,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sweet Heat",
    "non_trans": false,
-   "rebuild_gen": 1783026248639,
+   "rebuild_gen": 1783634323131,
    "slug": "inventory/variant/vera-sweet-heat-loose-646756",
    "subcategory": "hybrid",
    "suggest": "sweet heat vera flower hybrid loose",
@@ -39044,6 +39375,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2810",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -44820,78 +45161,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Keef Cola 10mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-blackberry-coconut-1-1-136143",
-   "subcategory": "drink",
-   "suggest": "keef cola 10mg denver packaging company edible drink blackberry coconut 1:1",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "136143",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blackberry Coconut 1:1",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 10,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
-    "license": "404R-00175",
-    "medical": false,
-    "name": "Denver Packaging Company",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "drink"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -45737,83 +46006,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8741",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Cartridge",
-   "non_trans": false,
-   "rebuild_gen": 1783530309354,
-   "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
-   "subcategory": "cartridge",
-   "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "530465",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Tropsicle",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.72,
-       "min_percentage": 79.72
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7972",
        "thca": null
       }
      ],
@@ -56233,83 +56425,6 @@
     {
      "added_concentrate": 0,
      "cpc": "562775",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Subzero",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 59.68,
-       "min_percentage": 59.68
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "5968",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1782768190369,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-subzero-569884",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder subzero",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569884",
      "excise": 0,
      "hidden_from_menu": false,
      "id": "",

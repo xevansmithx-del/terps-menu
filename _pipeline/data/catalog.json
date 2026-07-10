@@ -2531,7 +2531,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.77,
-  "n_strains": 15,
+  "n_strains": 14,
   "strains": [
    {
     "name": "Apricot Cookies",
@@ -2602,11 +2602,6 @@
     "name": "Ultra Mintz",
     "price": 4.84,
     "thc": 68.6
-   },
-   {
-    "name": "Zangria",
-    "price": 4.84,
-    "thc": 66
    }
   ],
   "description": "",
@@ -2700,13 +2695,13 @@
   "price_max": 12.99,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
-  "thc_max": 24.2,
+  "thc_max": 25.42,
   "n_strains": 1,
   "strains": [
    {
     "name": "Loose",
     "price": 12.99,
-    "thc": 24.2
+    "thc": 25.42
    }
   ],
   "description": "",
@@ -4900,31 +4895,6 @@
   "vendor_name": "Antero Sciences"
  },
  {
-  "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
-  "slug": "keef-cola-10mg",
-  "name": "Keef Cola 10mg",
-  "brand": "Keef Brands",
-  "category": "edible",
-  "subcategory": "drink",
-  "price_min": 6.0,
-  "price_max": 6.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": null,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Blackberry Coconut 1:1",
-    "price": 6.0,
-    "thc": null
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/products/000/155/966/avatar/1753291380-slims_by_keef_blackberry_coconut.png",
-  "match_score": 0.719,
-  "vendor_name": "Denver Packaging Company"
- },
- {
   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
   "slug": "oil-twist-cartridge",
   "name": "Oil Twist Cartridge",
@@ -4936,7 +4906,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.41,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -4982,11 +4952,6 @@
     "name": "Strawberry Shortcake",
     "price": 9.68,
     "thc": 87.41
-   },
-   {
-    "name": "Tropsicle",
-    "price": 9.68,
-    "thc": 79.72
    },
    {
     "name": "Watermelon Ice",
