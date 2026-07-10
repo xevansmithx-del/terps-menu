@@ -1395,13 +1395,18 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 86.2,
+  "thc_max": 87.8,
   "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
     "price": 35.0,
     "thc": 80.61
+   },
+   {
+    "name": "Baked Banana",
+    "price": 35.0,
+    "thc": 87.8
    },
    {
     "name": "Blueberry Swirl",
@@ -1417,11 +1422,6 @@
     "name": "Citrus Splash",
     "price": 35.0,
     "thc": 73.95
-   },
-   {
-    "name": "Mango Squeeze",
-    "price": 35.0,
-    "thc": 79.77
    },
    {
     "name": "Maple Drip",
@@ -2181,22 +2181,22 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 9.68,
+  "price_min": 8.06,
   "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 82.29,
-  "n_strains": 7,
+  "thc_max": 87.75,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Blueberry Bubble",
     "price": 9.68,
-    "thc": 82.29
+    "thc": 87.75
    },
    {
     "name": "Fresh Squeeze",
     "price": 9.68,
-    "thc": 75.78
+    "thc": 79.22
    },
    {
     "name": "Grand Daddy Purps",
@@ -2206,7 +2206,17 @@
    {
     "name": "Mango Kush",
     "price": 9.68,
-    "thc": 69.01
+    "thc": 78.48
+   },
+   {
+    "name": "Maui Wowie",
+    "price": 8.06,
+    "thc": 81.9
+   },
+   {
+    "name": "Purple Punch",
+    "price": 8.06,
+    "thc": 78.76
    },
    {
     "name": "Sour Diesel",
@@ -2216,12 +2226,12 @@
    {
     "name": "Super Lemon Haze",
     "price": 9.68,
-    "thc": 76.15
+    "thc": 82.1
    },
    {
     "name": "Tangerine Haze",
     "price": 9.68,
-    "thc": 76.09
+    "thc": 84.08
    }
   ],
   "description": "",
@@ -2400,8 +2410,8 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 82.47,
-  "n_strains": 7,
+  "thc_max": 81.6,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Chem Lemons",
@@ -2427,11 +2437,6 @@
     "name": "Orange Sorbet",
     "price": 35.0,
     "thc": 76.34
-   },
-   {
-    "name": "Tangie Tart",
-    "price": 35.0,
-    "thc": 82.47
    },
    {
     "name": "Tropical Punch",
@@ -4331,12 +4336,17 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.16,
-  "n_strains": 1,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Indica Multipack",
     "price": 34.0,
     "thc": 86.16
+   },
+   {
+    "name": "Twist #1 Pack",
+    "price": 34.0,
+    "thc": 79.72
    }
   ],
   "description": "",
