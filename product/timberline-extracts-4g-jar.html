@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/e939952e-8d17-4386-803b-321aeab3a15c.jpg" fetchpriority="high" decoding="async" width="337" height="600" alt="Timberline Extracts 4g Jar by Timberline Extracts — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Timberline Extracts</div><h1>Timberline Extracts 4g Jar</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Budder</span><span class="pill gold">68% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Budder</span><span class="pill gold">68% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$17.74</div>
 <div class="otd" id="otdline">≈ $21.95 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Blueberry Head Band" data-price="17.74"><div class="sn">Blueberry Head Band</div><div class="sd">$17.74 · 58% THC</div></button><button class="strain-opt" data-strain="Frosted Melonz" data-price="17.74"><div class="sn">Frosted Melonz</div><div class="sd">$17.74 · 68% THC</div></button><button class="strain-opt" data-strain="Subzero" data-price="17.74"><div class="sn">Subzero</div><div class="sd">$17.74 · 60% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Blueberry Head Band" data-price="17.74"><div class="sn">Blueberry Head Band</div><div class="sd">$17.74 · 58% THC</div></button><button class="strain-opt" data-strain="Frosted Melonz" data-price="17.74"><div class="sn">Frosted Melonz</div><div class="sd">$17.74 · 68% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Timberline Extracts 4g Jar lands on the Terps Pueblo menu as a budder concentrate out of David Jackson LLC. Potency tops out at 67.7% THC. Choose from 7 options including AfterBurners, Blueberry Head Band, Frosted Melonz. It is on the shelf at $17.74. Stock and pricing sync straight from our register, so reserve online for fast 21+ recreational pickup.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "e939952e-8d17-4386-803b-321aeab3a15c", "name": "Timberline Extracts 4g Jar", "brand": "Timberline Extracts", "photo": "../img/products/e939952e-8d17-4386-803b-321aeab3a15c.jpg", "price": 17.74, "unit": "", "unit_label": "", "strains": [{"name": "Blueberry Head Band", "price": 17.74, "thc": 58.16}, {"name": "Frosted Melonz", "price": 17.74, "thc": 67.65}, {"name": "Subzero", "price": 17.74, "thc": 59.68}]};
+const PROD={"id": "e939952e-8d17-4386-803b-321aeab3a15c", "name": "Timberline Extracts 4g Jar", "brand": "Timberline Extracts", "photo": "../img/products/e939952e-8d17-4386-803b-321aeab3a15c.jpg", "price": 17.74, "unit": "", "unit_label": "", "strains": [{"name": "Blueberry Head Band", "price": 17.74, "thc": 58.16}, {"name": "Frosted Melonz", "price": 17.74, "thc": 67.65}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

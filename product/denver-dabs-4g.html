@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/06189bfc-3a56-4d41-a800-105872990ce7.jpg" fetchpriority="high" decoding="async" width="584" height="600" alt="Denver Dabs 4g by Denver Dab — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Denver Dab</div><h1>Denver Dabs 4g</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Wax</span><span class="pill gold">73% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Wax</span><span class="pill gold">73% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$22.00</div>
 <div class="otd" id="otdline">≈ $27.23 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Black Maple Bacon" data-price="22.0"><div class="sn">Black Maple Bacon</div><div class="sd">$22.00 · 65% THC</div></button><button class="strain-opt" data-strain="ChemDawg" data-price="22.0"><div class="sn">ChemDawg</div><div class="sd">$22.00 · 73% THC</div></button><button class="strain-opt" data-strain="Maple Molasses" data-price="22.0"><div class="sn">Maple Molasses</div><div class="sd">$22.00 · 67% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Black Maple Bacon" data-price="22.0"><div class="sn">Black Maple Bacon</div><div class="sd">$22.00 · 65% THC</div></button><button class="strain-opt" data-strain="ChemDawg" data-price="22.0"><div class="sn">ChemDawg</div><div class="sd">$22.00 · 73% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Denver Dabs 4g lands on the Terps Pueblo menu as a wax concentrate out of Denver Dab Co. Potency tops out at 73.2% THC. Choose from 3 options including Black Maple Bacon, ChemDawg, Maple Molasses. It is on the shelf at $22. Stock and pricing sync straight from our register, so reserve online for fast 21+ recreational pickup.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "06189bfc-3a56-4d41-a800-105872990ce7", "name": "Denver Dabs 4g", "brand": "Denver Dab", "photo": "../img/products/06189bfc-3a56-4d41-a800-105872990ce7.jpg", "price": 22.0, "unit": "", "unit_label": "", "strains": [{"name": "Black Maple Bacon", "price": 22.0, "thc": 64.6}, {"name": "ChemDawg", "price": 22.0, "thc": 73.2}, {"name": "Maple Molasses", "price": 22.0, "thc": 67.2}]};
+const PROD={"id": "06189bfc-3a56-4d41-a800-105872990ce7", "name": "Denver Dabs 4g", "brand": "Denver Dab", "photo": "../img/products/06189bfc-3a56-4d41-a800-105872990ce7.jpg", "price": 22.0, "unit": "", "unit_label": "", "strains": [{"name": "Black Maple Bacon", "price": 22.0, "thc": 64.6}, {"name": "ChemDawg", "price": 22.0, "thc": 73.2}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
