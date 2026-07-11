@@ -6486,7 +6486,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73.32,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "G Spritz",
@@ -6497,11 +6497,6 @@
     "name": "Garlic Ice Cream",
     "price": 42.0,
     "thc": 72.33
-   },
-   {
-    "name": "Spritz Scotti",
-    "price": 42.0,
-    "thc": 65.77
    }
   ],
   "description": "",

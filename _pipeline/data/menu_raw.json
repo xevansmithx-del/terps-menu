@@ -21,7 +21,7 @@
   "David Jackson LLC": 17,
   "Denver Dab Co": 44,
   "Denver Packaging Company": 1,
-  "Egozi": 28,
+  "Egozi": 27,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
@@ -52,7 +52,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 389,
+   "count": 388,
    "subcategories": {
     "budder": 15,
     "cartridge": 179,
@@ -62,7 +62,7 @@
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
-    "solventless": 28,
+    "solventless": 27,
     "syringe": 8,
     "wax": 90
    }
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 759,
  "results": [
   {
    "availability": "",
@@ -58074,90 +58074,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7233",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-egozi-rosin-2g-spritz-scotti-565657",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 2g egozi concentrate solventless spritz scotti",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565657",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Spritz Scotti",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 65.77,
-       "min_percentage": 65.77
-      }
-     },
-     "price": 4200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3500
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6577",
        "thca": null
       }
      ],
