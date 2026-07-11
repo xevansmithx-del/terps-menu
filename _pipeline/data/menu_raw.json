@@ -13268,7 +13268,7 @@
        "min_percentage": 83.53
       }
      },
-     "price": 2016,
+     "price": 2400,
      "pricing": [
       {
        "default": false,
@@ -13352,7 +13352,7 @@
        "min_percentage": 80.3
       }
      },
-     "price": 2016,
+     "price": 2400,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -22528,7 +22528,7 @@
        "min_percentage": 74.37
       }
      },
-     "price": 806,
+     "price": 968,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -22692,7 +22692,7 @@
        "min_percentage": 81.9
       }
      },
-     "price": 806,
+     "price": 968,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -22769,7 +22769,7 @@
        "min_percentage": 72.34
       }
      },
-     "price": 806,
+     "price": 968,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -22846,7 +22846,7 @@
        "min_percentage": 78.76
       }
      },
-     "price": 806,
+     "price": 968,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -24888,7 +24888,7 @@
        "min_percentage": 79.23
       }
      },
-     "price": 2903,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -24972,7 +24972,7 @@
        "min_percentage": 79.95
       }
      },
-     "price": 2903,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -46513,7 +46513,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-apple-sauce-530461",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge apple sauce",
@@ -46590,7 +46590,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-baked-banana-549685",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge baked banana",
@@ -46697,7 +46697,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-blueberry-swirl-530462",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge blueberry swirl",
@@ -46784,7 +46784,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
@@ -46861,7 +46861,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-citrus-splash-564897",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge citrus splash",
@@ -46938,7 +46938,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-mango-squeezed-530463",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge mango squeezed",
@@ -47035,7 +47035,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-maple-drip-559097",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge maple drip",
@@ -47132,7 +47132,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-orange-krush-556296",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge orange krush",
@@ -47229,7 +47229,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
@@ -47316,7 +47316,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -47423,7 +47423,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
@@ -47510,7 +47510,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1783717485329,
+   "rebuild_gen": 1783787223828,
    "slug": "inventory/variant/craft-oil-twist-cartridge-watermelon-ice-530466",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge watermelon ice",
@@ -62920,7 +62920,7 @@
       "uom": "ct"
      },
      "potency_result": {},
-     "price": 1322,
+     "price": 1300,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,

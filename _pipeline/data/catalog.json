@@ -1141,7 +1141,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 20.16,
+  "price_min": 24.0,
   "price_max": 24.0,
   "unit": "",
   "unit_kind": "",
@@ -1170,12 +1170,12 @@
    },
    {
     "name": "OG Kush",
-    "price": 20.16,
+    "price": 24.0,
     "thc": 83.53
    },
    {
     "name": "Purple Punch",
-    "price": 20.16,
+    "price": 24.0,
     "thc": 80.3
    },
    {
@@ -2176,7 +2176,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 8.06,
+  "price_min": 9.68,
   "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
@@ -2205,7 +2205,7 @@
    },
    {
     "name": "Green Skunk",
-    "price": 8.06,
+    "price": 9.68,
     "thc": 74.37
    },
    {
@@ -2215,17 +2215,17 @@
    },
    {
     "name": "Maui Wowie",
-    "price": 8.06,
+    "price": 9.68,
     "thc": 81.9
    },
    {
     "name": "OG Kush",
-    "price": 8.06,
+    "price": 9.68,
     "thc": 72.34
    },
    {
     "name": "Purple Punch",
-    "price": 8.06,
+    "price": 9.68,
     "thc": 78.76
    },
    {
@@ -2416,7 +2416,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 29.03,
+  "price_min": 35.0,
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
@@ -2450,12 +2450,12 @@
    },
    {
     "name": "Purple Skunk",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 79.23
    },
    {
     "name": "Sweet Peach",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 79.95
    },
    {
@@ -7092,7 +7092,7 @@
   "category": "merchandise",
   "subcategory": "accessory",
   "price_min": 10.0,
-  "price_max": 13.22,
+  "price_max": 13.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
@@ -7105,7 +7105,7 @@
    },
    {
     "name": "Mini",
-    "price": 13.22,
+    "price": 13.0,
     "thc": null
    }
   ],
