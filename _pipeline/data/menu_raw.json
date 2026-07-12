@@ -19,7 +19,7 @@
   "Colorado's Best Dabs": 5,
   "Craft": 143,
   "David Jackson LLC": 17,
-  "Denver Dab Co": 44,
+  "Denver Dab Co": 42,
   "Denver Packaging Company": 1,
   "Egozi": 27,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -42,7 +42,7 @@
   "Mountain High Suckers": 9,
   "NATTY REMS LLC": 36,
   "SPHEREX": 6,
-  "Silver Lake": 24,
+  "Silver Lake": 23,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
   "TS Labs (OCC)": 1,
@@ -52,7 +52,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 386,
+   "count": 384,
    "subcategories": {
     "budder": 13,
     "cartridge": 179,
@@ -64,7 +64,7 @@
     "shatter": 15,
     "solventless": 27,
     "syringe": 8,
-    "wax": 90
+    "wax": 88
    }
   },
   "edible": {
@@ -79,10 +79,10 @@
    }
   },
   "flower": {
-   "count": 275,
+   "count": 274,
    "subcategories": {
     "hybrid": 214,
-    "indica": 20,
+    "indica": 19,
     "other": 27,
     "sativa": 14
    }
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 757,
  "results": [
   {
    "availability": "",
@@ -505,83 +505,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dabs 4g",
-   "non_trans": false,
-   "rebuild_gen": 1782925491330,
-   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-black-maple-bacon-571337",
-   "subcategory": "wax",
-   "suggest": "denver dabs 4g denver dab co concentrate wax black maple bacon",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571337",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Black Maple Bacon",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 64.6,
-       "min_percentage": 64.6
-      }
-     },
-     "price": 2200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6460",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
   },
   {
    "availability": "",
@@ -34969,83 +34892,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dabs 2G",
-   "non_trans": false,
-   "rebuild_gen": 1782767807738,
-   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-spritzer-571333",
-   "subcategory": "wax",
-   "suggest": "denver dabs 2g denver dab co concentrate wax spritzer",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571333",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Spritzer",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.7,
-       "min_percentage": 72.7
-      }
-     },
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7270",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -52501,93 +52347,6 @@
    },
    "weave_category": "edible",
    "weave_subcategory": "drink"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "cfa52440-b927-4f77-80be-7ad5bcc49d3b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Pineapple Punch",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/silver-lake-pineapple-punch-loose-092380",
-   "subcategory": "indica",
-   "suggest": "pineapple punch silver lake flower indica loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "092380",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 24.69,
-       "min_percentage": 24.69
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2469",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2469",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "54ddf406-12fd-4513-b978-3784712d5b44",
-    "license": "403R-00834",
-    "medical": false,
-    "name": "Silver Lake",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "indica"
   },
   {
    "availability": "",

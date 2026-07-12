@@ -71,13 +71,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73.2,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "Black Maple Bacon",
-    "price": 22.0,
-    "thc": 64.6
-   },
    {
     "name": "ChemDawg",
     "price": 22.0,
@@ -3371,7 +3366,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.4,
-  "n_strains": 7,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Biscotti Sherb",
@@ -3402,11 +3397,6 @@
     "name": "Sorbet De Uva",
     "price": 12.0,
     "thc": 65.1
-   },
-   {
-    "name": "Spritzer",
-    "price": 12.0,
-    "thc": 72.7
    }
   ],
   "description": "",
@@ -5693,31 +5683,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443245675_1000013443.jpg",
   "match_score": 0.625,
   "vendor_name": "Lifestyle Foods Inc"
- },
- {
-  "id": "cfa52440-b927-4f77-80be-7ad5bcc49d3b",
-  "slug": "pineapple-punch",
-  "name": "Pineapple Punch",
-  "brand": "Silver Lake",
-  "category": "flower",
-  "subcategory": "indica",
-  "price_min": 8.47,
-  "price_max": 8.47,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 24.69,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 8.47,
-    "thc": 24.69
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436989964_IMG_1077.jpg",
-  "match_score": 1.063,
-  "vendor_name": "Silver Lake"
  },
  {
   "id": "d0938bf4-7621-4c48-a972-4b60ae11c7b8",
