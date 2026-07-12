@@ -5806,7 +5806,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 27.56,
-  "n_strains": 5,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Jealous Melon",
@@ -5819,14 +5819,34 @@
     "thc": 23.24
    },
    {
+    "name": "Peach Ringz",
+    "price": 22.58,
+    "thc": 22.7
+   },
+   {
     "name": "Runtz Buttonz",
     "price": 22.58,
     "thc": 24.02
    },
    {
+    "name": "Strawberry Jam",
+    "price": 22.58,
+    "thc": 23.67
+   },
+   {
+    "name": "Yeti Gelato",
+    "price": 22.58,
+    "thc": 24.8
+   },
+   {
     "name": "Zamboni Berry",
     "price": 22.58,
     "thc": 23.5
+   },
+   {
+    "name": "Zeven up",
+    "price": 22.58,
+    "thc": 22.79
    },
    {
     "name": "Zoap",
@@ -6554,11 +6574,6 @@
     "thc": 7.39
    },
    {
-    "name": "Confucius Kush",
-    "price": 2.42,
-    "thc": 14.3
-   },
-   {
     "name": "Flo Driver",
     "price": 2.42,
     "thc": 13.65
@@ -6567,6 +6582,11 @@
     "name": "Freedom OG",
     "price": 2.42,
     "thc": 14.07
+   },
+   {
+    "name": "Gelato cake",
+    "price": 2.42,
+    "thc": 11.31
    },
    {
     "name": "Ghost Train Haze",
@@ -6791,7 +6811,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 69.6,
-  "n_strains": 5,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Blue Dream",
@@ -6807,16 +6827,6 @@
     "name": "GG4",
     "price": 28.0,
     "thc": 61.52
-   },
-   {
-    "name": "Ice Jam",
-    "price": 28.0,
-    "thc": 64.02
-   },
-   {
-    "name": "Zenith Berry",
-    "price": 28.0,
-    "thc": 66.89
    }
   ],
   "description": "",
@@ -7016,7 +7026,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 24.77,
-  "n_strains": 12,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Alien Haze",
@@ -7027,11 +7037,6 @@
     "name": "Blueberry Muffin",
     "price": 4.0,
     "thc": 16.14
-   },
-   {
-    "name": "Caked Up Cherries",
-    "price": 4.0,
-    "thc": 17.22
    },
    {
     "name": "Flo Driver",

@@ -15,7 +15,7 @@
   "CLEARWATER BUDS LLC": 18,
   "Chaos": 13,
   "Clearview Industries": 6,
-  "Cold Baked": 37,
+  "Cold Baked": 35,
   "Colorado's Best Dabs": 5,
   "Craft": 143,
   "David Jackson LLC": 17,
@@ -25,7 +25,7 @@
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
-  "High Country Management Group": 15,
+  "High Country Management Group": 19,
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
@@ -40,7 +40,7 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 37,
+  "NATTY REMS LLC": 36,
   "SPHEREX": 6,
   "Silver Lake": 24,
   "Starbuds Mips": 10,
@@ -52,9 +52,9 @@
  },
  "categories": {
   "concentrate": {
-   "count": 388,
+   "count": 386,
    "subcategories": {
-    "budder": 15,
+    "budder": 13,
     "cartridge": 179,
     "crumble": 4,
     "cured extract": 3,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 272,
+   "count": 275,
    "subcategories": {
-    "hybrid": 211,
+    "hybrid": 214,
     "indica": 20,
     "other": 27,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 759,
+ "hits": 760,
  "results": [
   {
    "availability": "",
@@ -52939,7 +52939,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "a",
@@ -52953,7 +52953,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "High County Cones 5 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783799868023,
    "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-jealous-melon-620788",
    "subcategory": "hybrid",
    "suggest": "high county cones 5 pack high country management group flower hybrid jealous melon",
@@ -52984,14 +52984,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2097
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -53027,7 +53020,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "a",
@@ -53041,7 +53034,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "High County Cones 5 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783799868023,
    "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-morning-dew-648758",
    "subcategory": "hybrid",
    "suggest": "high county cones 5 pack high country management group flower hybrid morning dew",
@@ -53068,14 +53061,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2097
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -53111,7 +53097,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "a",
@@ -53125,7 +53111,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "High County Cones 5 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783799868023,
+   "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-peach-ringz-650865",
+   "subcategory": "hybrid",
+   "suggest": "high county cones 5 pack high country management group flower hybrid peach ringz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650865",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Peach Ringz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 22.7,
+       "min_percentage": 22.7
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2270",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
+    "license": "403R-00521",
+    "medical": false,
+    "name": "High Country Management Group",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "a",
+   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "High County Cones 5 Pack",
+   "non_trans": false,
+   "rebuild_gen": 1783799868023,
    "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-runtz-buttonz-648757",
    "subcategory": "hybrid",
    "suggest": "high county cones 5 pack high country management group flower hybrid runtz buttonz",
@@ -53152,14 +53215,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2097
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -53195,7 +53251,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "a",
@@ -53209,7 +53265,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "High County Cones 5 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783799868023,
+   "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-strawberry-jam-650864",
+   "subcategory": "hybrid",
+   "suggest": "high county cones 5 pack high country management group flower hybrid strawberry jam",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650864",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Jam",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 23.67,
+       "min_percentage": 23.67
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2367",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
+    "license": "403R-00521",
+    "medical": false,
+    "name": "High Country Management Group",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "a",
+   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "High County Cones 5 Pack",
+   "non_trans": false,
+   "rebuild_gen": 1783799868023,
+   "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-yeti-gelato-650866",
+   "subcategory": "hybrid",
+   "suggest": "high county cones 5 pack high country management group flower hybrid yeti gelato",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650866",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Yeti Gelato",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 24.8,
+       "min_percentage": 24.8
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2480",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
+    "license": "403R-00521",
+    "medical": false,
+    "name": "High Country Management Group",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "a",
+   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "High County Cones 5 Pack",
+   "non_trans": false,
+   "rebuild_gen": 1783799868023,
    "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-zamboni-berry-648756",
    "subcategory": "hybrid",
    "suggest": "high county cones 5 pack high country management group flower hybrid zamboni berry",
@@ -53236,14 +53446,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2097
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -53279,7 +53482,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "a",
@@ -53293,7 +53496,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "High County Cones 5 Pack",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783799868023,
+   "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-zeven-up-650867",
+   "subcategory": "hybrid",
+   "suggest": "high county cones 5 pack high country management group flower hybrid zeven up",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650867",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Zeven up",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 22.79,
+       "min_percentage": 22.79
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2279",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
+    "license": "403R-00521",
+    "medical": false,
+    "name": "High Country Management Group",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "a",
+   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "High County Cones 5 Pack",
+   "non_trans": false,
+   "rebuild_gen": 1783799868023,
    "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-zoap-638241",
    "subcategory": "hybrid",
    "suggest": "high county cones 5 pack high country management group flower hybrid zoap",
@@ -53320,14 +53600,7 @@
       }
      },
      "price": 2258,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2016
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -58175,7 +58448,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58189,7 +58462,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-alien-haze-632504",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid alien haze",
@@ -58252,7 +58525,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58266,7 +58539,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-blueberry-muffin-644638",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid blueberry muffin",
@@ -58329,7 +58602,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58343,84 +58616,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-confucius-kush-646433",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid confucius kush",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646433",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Confucius Kush",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 14.3,
-       "min_percentage": 14.3
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1430",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-flo-driver-631059",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid flo driver",
@@ -58483,7 +58679,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58497,7 +58693,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-freedom-og-641545",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid freedom og",
@@ -58560,7 +58756,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58574,7 +58770,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
+   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-gelato-cake-650859",
+   "subcategory": "hybrid",
+   "suggest": "haze silver preroll natty rems llc flower hybrid gelato cake",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650859",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gelato cake",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 11.31,
+       "min_percentage": 11.31
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1131",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
+    "license": "404R-00259",
+    "medical": false,
+    "name": "NATTY REMS LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Haze Silver Preroll",
+   "non_trans": false,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-ghost-train-haze-649711",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid ghost train haze",
@@ -58637,7 +58910,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58651,7 +58924,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-golden-goat-644639",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid golden goat",
@@ -58714,7 +58987,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58728,7 +59001,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-grape-cream-cake-639672",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid grape cream cake",
@@ -58811,7 +59084,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58825,7 +59098,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-shawshank-631054",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid shawshank",
@@ -58888,7 +59161,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -58902,7 +59175,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1783796981721,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-space-cat-639671",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid space cat",
@@ -60234,177 +60507,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6152",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "f4910b45-c276-40c0-a534-21643b69548d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "4g Bucket",
-   "non_trans": false,
-   "rebuild_gen": 1783113616305,
-   "slug": "inventory/variant/cold-baked-4g-bucket-ice-jam-572683",
-   "subcategory": "budder",
-   "suggest": "4g bucket cold baked concentrate budder ice jam",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572683",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Ice Jam",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 64.02,
-       "min_percentage": 64.02
-      }
-     },
-     "price": 2800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6402",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "f4910b45-c276-40c0-a534-21643b69548d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "4g Bucket",
-   "non_trans": false,
-   "rebuild_gen": 1783113616305,
-   "slug": "inventory/variant/cold-baked-4g-bucket-zenith-berry-570616",
-   "subcategory": "budder",
-   "suggest": "4g bucket cold baked concentrate budder zenith berry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570616",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Zenith Berry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 66.89,
-       "min_percentage": 66.89
-      }
-     },
-     "price": 2800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2800
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6689",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6689",
        "thca": null
       }
      ],
@@ -61992,83 +62094,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1614",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Natty Rems Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1782767856438,
-   "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-caked-up-cherries-646720",
-   "subcategory": "hybrid",
-   "suggest": "natty rems preroll natty rems llc flower hybrid caked up cherries",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646720",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Caked Up Cherries",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.22,
-       "min_percentage": 17.22
-      }
-     },
-     "price": 400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1722",
        "thca": null
       }
      ],
