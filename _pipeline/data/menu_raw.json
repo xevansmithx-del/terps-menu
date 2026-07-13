@@ -9,7 +9,7 @@
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
-  "Bud Fox": 5,
+  "Bud Fox": 4,
   "CALI BLAZE (OCC)": 3,
   "CC Brands LLC": 10,
   "CLEARWATER BUDS LLC": 18,
@@ -17,7 +17,7 @@
   "Clearview Industries": 6,
   "Cold Baked": 34,
   "Colorado's Best Dabs": 5,
-  "Craft": 144,
+  "Craft": 143,
   "David Jackson LLC": 17,
   "Denver Dab Co": 41,
   "Denver Packaging Company": 1,
@@ -52,10 +52,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 383,
+   "count": 382,
    "subcategories": {
     "budder": 12,
-    "cartridge": 180,
+    "cartridge": 179,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 273,
+   "count": 272,
    "subcategories": {
-    "hybrid": 214,
+    "hybrid": 213,
     "indica": 19,
     "other": 26,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 755,
+ "hits": 753,
  "results": [
   {
    "availability": "",
@@ -12403,83 +12403,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1191",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
-    "license": "403R-00930",
-    "medical": false,
-    "name": "Bud Fox",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "PREROLLS",
-   "non_trans": false,
-   "rebuild_gen": 1783024041048,
-   "slug": "inventory/variant/bud-fox-prerolls-peeley-s-drop-650300",
-   "subcategory": "hybrid",
-   "suggest": "prerolls bud fox flower hybrid peeley's drop",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "650300",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Peeley's Drop",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 600,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 14.91,
-       "min_percentage": 14.91
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1491",
        "thca": null
       }
      ],
@@ -38228,90 +38151,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7905",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh super Seshie All in One",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-white-runtz-565093",
-   "subcategory": "cartridge",
-   "suggest": "sesh super seshie all in one craft concentrate cartridge white runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565093",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "White Runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 76.91,
-       "min_percentage": 76.91
-      }
-     },
-     "price": 4500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3600
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7691",
        "thca": null
       }
      ],

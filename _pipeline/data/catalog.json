@@ -3861,7 +3861,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.43,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Cherry Limeade",
@@ -3882,11 +3882,6 @@
     "name": "Pineapple Cake Express",
     "price": 45.0,
     "thc": 79.05
-   },
-   {
-    "name": "White Runtz",
-    "price": 45.0,
-    "thc": 76.91
    }
   ],
   "description": "",
