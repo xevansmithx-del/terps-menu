@@ -1016,7 +1016,7 @@
    {
     "name": "Rocket Pop",
     "price": 12.0,
-    "thc": 82.3
+    "thc": 81.5
    },
    {
     "name": "Rocket Power",
@@ -1385,7 +1385,7 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 87.8,
+  "thc_max": 86.2,
   "n_strains": 11,
   "strains": [
    {
@@ -1396,7 +1396,7 @@
    {
     "name": "Baked Banana",
     "price": 35.0,
-    "thc": 87.8
+    "thc": 80.7
    },
    {
     "name": "Blueberry Swirl",
@@ -2231,7 +2231,7 @@
    {
     "name": "Super Lemon Haze",
     "price": 9.68,
-    "thc": 82.1
+    "thc": 76.15
    },
    {
     "name": "Tangerine Haze",
@@ -2415,7 +2415,7 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 82.47,
+  "thc_max": 81.6,
   "n_strains": 9,
   "strains": [
    {
@@ -2456,7 +2456,7 @@
    {
     "name": "Tangie Tart",
     "price": 35.0,
-    "thc": 82.47
+    "thc": 77.1
    },
    {
     "name": "Tropical Punch",
@@ -3196,7 +3196,7 @@
    {
     "name": "Tropsicle",
     "price": 24.0,
-    "thc": 82.82
+    "thc": 76.45
    },
    {
     "name": "Watermelon Ice",
@@ -3366,17 +3366,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.4,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Biscotti Sherb",
     "price": 12.0,
     "thc": 77.4
-   },
-   {
-    "name": "Blue Diesel",
-    "price": 12.0,
-    "thc": 68.3
    },
    {
     "name": "Chem GG4",
@@ -4365,13 +4360,13 @@
   "price_max": 34.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 86.16,
+  "thc_max": 84.18,
   "n_strains": 4,
   "strains": [
    {
     "name": "Indica Multipack",
     "price": 34.0,
-    "thc": 86.16
+    "thc": 84.18
    },
    {
     "name": "Twist #1 Pack",
@@ -5026,7 +5021,7 @@
    {
     "name": "Tropsicle",
     "price": 9.68,
-    "thc": 79.72
+    "thc": 75.65
    },
    {
     "name": "Watermelon Ice",
@@ -5225,18 +5220,13 @@
   "price_max": 8.06,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 34.3,
-  "n_strains": 3,
+  "thc_max": 31.8,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Banana Cream",
     "price": 8.06,
     "thc": 31.8
-   },
-   {
-    "name": "Blueberry",
-    "price": 8.06,
-    "thc": 34.3
    },
    {
     "name": "Pure Pear",
@@ -5583,31 +5573,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594109_IMG_4359.jpeg",
   "match_score": 1.134,
   "vendor_name": "Vera"
- },
- {
-  "id": "c6feabe3-f35b-40da-9144-21c0c4c07454",
-  "slug": "water-hash-infused-preoll",
-  "name": "Water Hash Infused Preoll",
-  "brand": "TS Labs (OCC)",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 4.03,
-  "price_max": 4.03,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 34.83,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "GMO Z",
-    "price": 4.03,
-    "thc": 34.83
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/437973621_180217P_25584_Preroll_2.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 0.553,
-  "vendor_name": "TS Labs (OCC)"
  },
  {
   "id": "c9871da5-bac1-4435-945f-85a3ddecde6c",
@@ -6145,14 +6110,9 @@
   "price_max": 8.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 37.37,
-  "n_strains": 4,
+  "thc_max": 34.24,
+  "n_strains": 3,
   "strains": [
-   {
-    "name": "Blueberry",
-    "price": 8.0,
-    "thc": 37.37
-   },
    {
     "name": "Cherry Cola",
     "price": 8.0,
@@ -6466,18 +6426,13 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 16.13,
+  "price_min": 42.0,
   "price_max": 42.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 73.32,
-  "n_strains": 2,
+  "thc_max": 72.33,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "G Spritz",
-    "price": 16.13,
-    "thc": 73.32
-   },
    {
     "name": "Garlic Ice Cream",
     "price": 42.0,
@@ -6486,7 +6441,7 @@
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
-  "match_score": 0.963,
+  "match_score": 1.132,
   "vendor_name": "Egozi"
  },
  {
@@ -6776,17 +6731,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 69.6,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Blue Dream",
     "price": 28.0,
     "thc": 69.6
-   },
-   {
-    "name": "Blueberry Muffin",
-    "price": 28.0,
-    "thc": 62.69
    },
    {
     "name": "GG4",
