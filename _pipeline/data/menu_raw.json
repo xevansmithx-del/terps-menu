@@ -1,18 +1,17 @@
 {
  "brands": {
-  "": 27,
+  "": 26,
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
-  "14ER": 4,
+  "14ER": 3,
   "AO Extracts": 31,
-  "Allgreens": 1,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 5,
   "Blue Cottage LLC": 7,
   "Bud Fox": 4,
   "CALI BLAZE (OCC)": 3,
-  "CC Brands LLC": 10,
-  "CLEARWATER BUDS LLC": 18,
+  "CC Brands LLC": 9,
+  "CLEARWATER BUDS LLC": 4,
   "Chaos": 13,
   "Clearview Industries": 6,
   "Cold Baked": 34,
@@ -52,19 +51,19 @@
  },
  "categories": {
   "concentrate": {
-   "count": 378,
+   "count": 374,
    "subcategories": {
     "budder": 12,
-    "cartridge": 177,
+    "cartridge": 175,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
     "live extract": 21,
     "resin": 2,
     "shatter": 15,
-    "solventless": 25,
+    "solventless": 24,
     "syringe": 8,
-    "wax": 88
+    "wax": 87
    }
   },
   "edible": {
@@ -79,10 +78,10 @@
    }
   },
   "flower": {
-   "count": 272,
+   "count": 258,
    "subcategories": {
-    "hybrid": 213,
-    "indica": 19,
+    "hybrid": 200,
+    "indica": 18,
     "other": 26,
     "sativa": 14
    }
@@ -104,7 +103,7 @@
    }
   }
  },
- "hits": 749,
+ "hits": 731,
  "results": [
   {
    "availability": "",
@@ -582,83 +581,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "06392a9e-096b-41aa-9919-ab512e6345db",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Deep Space #102",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-deep-space-102-loose-639750",
-   "subcategory": "hybrid",
-   "suggest": "deep space #102 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639750",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 18.38,
-       "min_percentage": 18.38
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1838",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -2567,7 +2489,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -2581,7 +2503,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "ASTRONAUGHT STRATUS #88",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784055135113,
    "slug": "inventory/variant/clearwater-buds-llc-astronaught-stratus-88-loose-616439",
    "subcategory": "hybrid",
    "suggest": "astronaught stratus #88 clearwater buds llc flower hybrid loose",
@@ -2603,7 +2525,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 20.39,
+       "max_percentage": 17.98,
        "min_percentage": 17.98
       }
      },
@@ -2620,16 +2542,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1798",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2039",
        "thca": null
       }
      ],
@@ -3832,93 +3744,6 @@
    },
    "weave_category": "edible",
    "weave_subcategory": "gummies"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "1144db0a-3268-4ad2-bb9c-dabdac04d137",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "G x ZG #162",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-g-x-zg-162-loose-625426",
-   "subcategory": "hybrid",
-   "suggest": "g x zg #162 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "625426",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 24.55,
-       "min_percentage": 23.43
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2343",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2455",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -5504,7 +5329,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5598,7 +5423,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-divine-kush-breath-556363",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract divine kush breath",
@@ -5682,7 +5507,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -5766,7 +5591,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
@@ -5850,7 +5675,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -5934,7 +5759,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -6038,7 +5863,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lilac-diesel-558034",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lilac diesel",
@@ -6122,7 +5947,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -6206,7 +6031,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1783528428540,
+   "rebuild_gen": 1784046854787,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-starfire-cream-572902",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract starfire cream",
@@ -10428,7 +10253,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-apples-bananas-550906",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge apples & bananas",
@@ -10542,7 +10367,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-banana-runtz-532381",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge banana runtz",
@@ -10646,7 +10471,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blackberry-kush-532382",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blackberry kush",
@@ -10730,7 +10555,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-bubble-gum-532383",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge bubble gum",
@@ -10824,7 +10649,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-grape-runtz-532384",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge grape runtz",
@@ -10928,7 +10753,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lime-sorbet-570658",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lime sorbet",
@@ -11012,7 +10837,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
@@ -11096,7 +10921,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -11180,7 +11005,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-red-apple-550908",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge red apple",
@@ -11274,7 +11099,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-pop-555495",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket pop",
@@ -11358,7 +11183,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
@@ -11435,7 +11260,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-soda-pop-532378",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge soda pop",
@@ -11529,7 +11354,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-sour-tangie-538078",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge sour tangie",
@@ -11623,7 +11448,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1783896778371,
+   "rebuild_gen": 1784053140612,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-watermelon-zlushie-564268",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge watermelon zlushie",
@@ -12203,7 +12028,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "PREROLLS",
    "non_trans": false,
-   "rebuild_gen": 1783024041048,
+   "rebuild_gen": 1784053601217,
    "slug": "inventory/variant/bud-fox-prerolls-field-trip-650299",
    "subcategory": "hybrid",
    "suggest": "prerolls bud fox flower hybrid field trip",
@@ -12280,7 +12105,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "PREROLLS",
    "non_trans": false,
-   "rebuild_gen": 1783024041048,
+   "rebuild_gen": 1784053601217,
    "slug": "inventory/variant/bud-fox-prerolls-mixed-signals-650294",
    "subcategory": "hybrid",
    "suggest": "prerolls bud fox flower hybrid mixed signals",
@@ -16303,155 +16128,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "2fe2c4ad-dd03-4981-b7ef-7a4513f86817",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sample AIO",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/14er-sample-aio-aio-563489",
-   "subcategory": "cartridge",
-   "suggest": "sample aio 14er concentrate cartridge aio",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "563489",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "AIO",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 2,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "1b15f4a3-51f4-4df0-b6fa-833e5644a9a5",
-    "license": "403R-00839",
-    "medical": false,
-    "name": "14ER",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "315742e2-517b-4fe8-a0ab-12681ac00046",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Blanco",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-blanco-loose-626026",
-   "subcategory": "hybrid",
-   "suggest": "blanco clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "626026",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 22.73,
-       "min_percentage": 22.73
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2273",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -17077,180 +16753,6 @@
     "license": "403R-00163",
     "medical": false,
     "name": "Antero Sciences",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "331b14a2-f2af-49fa-b052-d1cdd1c391f0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oreoz",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-oreoz-loose-639722",
-   "subcategory": "hybrid",
-   "suggest": "oreoz clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639722",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 21.18,
-       "min_percentage": 21.08
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2108",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2118",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "33a8efa5-4999-441d-8e29-eb45ac6494b5",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Deep Space #52",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-deep-space-52-loose-640559",
-   "subcategory": "hybrid",
-   "suggest": "deep space #52 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "640559",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 21.19,
-       "min_percentage": 21.19
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2119",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2119",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
     "state": "CO"
    },
    "weave_category": "flower",
@@ -19017,83 +18519,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "4b3ffc63-c956-42bf-9533-39c8c1ea4ef4",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oreo Blizzard",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-oreo-blizzard-loose-646767",
-   "subcategory": "hybrid",
-   "suggest": "oreo blizzard clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646767",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 28,
-       "min_percentage": 28
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2800",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -21907,7 +21332,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-banana-kush-366693",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge banana kush",
@@ -21984,7 +21409,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-blueberry-bubble-369987",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge blueberry bubble",
@@ -22007,7 +21432,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 87.75,
-       "min_percentage": 78.3
+       "min_percentage": 87.75
       }
      },
      "price": 968,
@@ -22023,16 +21448,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8775",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7830",
        "thca": null
       }
      ],
@@ -22071,7 +21486,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-fresh-squeeze-392025",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge fresh squeeze",
@@ -22158,7 +21573,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-grand-daddy-purps-367950",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge grand daddy purps",
@@ -22249,7 +21664,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-green-skunk-369403",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge green skunk",
@@ -22326,7 +21741,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-mango-kush-367948",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge mango kush",
@@ -22413,7 +21828,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-maui-wowie-368032",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge maui wowie",
@@ -22490,7 +21905,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-og-kush-367228",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge og kush",
@@ -22567,7 +21982,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-purple-punch-390607",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge purple punch",
@@ -22644,7 +22059,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-sour-diesel-363988",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge sour diesel",
@@ -22721,7 +22136,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-super-lemon-haze-369991",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge super lemon haze",
@@ -22818,7 +22233,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1783897051615,
+   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-tangerine-haze-367225",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge tangerine haze",
@@ -25583,7 +24998,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-apricot-cookies-558758",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax apricot cookies",
@@ -25660,84 +25075,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
-   "slug": "inventory/variant/808-dabs-big-wedding-559583",
-   "subcategory": "wax",
-   "suggest": "808 dabs concentrate wax big wedding",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559583",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Big Wedding",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.31,
-       "min_percentage": 79.31
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7931",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "dcebb4e5-5aba-41c7-b02a-337ccb015af4",
-    "license": "",
-    "medical": false,
-    "name": "",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "808 Dabs",
-   "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-blue-tiki-565223",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax blue tiki",
@@ -25814,7 +25152,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-cotton-kandy-cookies-558708",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax cotton kandy cookies",
@@ -25891,7 +25229,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-french-mac-557468",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax french mac",
@@ -25968,7 +25306,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-galaxy-mintz-565228",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax galaxy mintz",
@@ -26045,7 +25383,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-gary-payton-557555",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax gary payton",
@@ -26122,7 +25460,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-ice-berry-cake-571100",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax ice berry cake",
@@ -26199,7 +25537,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-monkey-cookies-557627",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax monkey cookies",
@@ -26276,7 +25614,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-og-double-mintz-571101",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax og double mintz",
@@ -26353,7 +25691,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-peyote-cookies-558761",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax peyote cookies",
@@ -26430,7 +25768,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-sour-diesel-571287",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax sour diesel",
@@ -26507,7 +25845,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-tallymon-gold-565386",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax tallymon gold",
@@ -26584,7 +25922,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "808 Dabs",
    "non_trans": false,
-   "rebuild_gen": 1783890857699,
+   "rebuild_gen": 1784053694811,
    "slug": "inventory/variant/808-dabs-ultra-mintz-571093",
    "subcategory": "wax",
    "suggest": "808 dabs concentrate wax ultra mintz",
@@ -28171,83 +27509,6 @@
   },
   {
    "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "6a0d16fc-ca60-4cb8-9516-ffea06ce3ae4",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Del Fresca",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-del-fresca-loose-646764",
-   "subcategory": "hybrid",
-   "suggest": "del fresca clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646764",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23,
-       "min_percentage": 23
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2300",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
    "cannabis": true,
    "category": "concentrate",
    "default_image": "",
@@ -29382,170 +28643,6 @@
    "category": "flower",
    "default_image": "",
    "description": "",
-   "id": "6f4251ab-01c5-4ca8-b2b6-dd4d8a03f0ec",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "ASTRONAUGHT STRATUS #24",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-astronaught-stratus-24-loose-621209",
-   "subcategory": "hybrid",
-   "suggest": "astronaught stratus #24 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "621209",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 22.16,
-       "min_percentage": 22.16
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2216",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "6f44e12b-04ee-4ae0-a02c-2caae0a5177c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "La Kush Cake",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-la-kush-cake-loose-639845",
-   "subcategory": "indica",
-   "suggest": "la kush cake clearwater buds llc flower indica loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639845",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 21.8,
-       "min_percentage": 21.8
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2180",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2180",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "indica"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
    "id": "7183cfd1-c059-4271-93a3-68c80dbd396f",
    "images": [
     {
@@ -30324,93 +29421,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "754640fc-892e-41da-b9fb-29a3e3b48ba2",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "MBxBV#3",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-mbxbv-3-loose-639721",
-   "subcategory": "hybrid",
-   "suggest": "mbxbv#3 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639721",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23,
-       "min_percentage": 23
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2300",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2300",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -33329,90 +32339,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c0de1d6-ccc7-4447-b750-52eee1e69f3e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Packwoods 2g Disposable",
-   "non_trans": false,
-   "rebuild_gen": 1782668832932,
-   "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-strawberry-gas-563552",
-   "subcategory": "cartridge",
-   "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge strawberry gas",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "563552",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Strawberry Gas",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 89.3,
-       "min_percentage": 89.3
-      }
-     },
-     "price": 6000,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 5500
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8930",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "919b4700-90da-4d3a-b649-67a94bc47801",
-    "license": "404R-00047",
-    "medical": false,
-    "name": "CC Brands LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "concentrate",
    "default_image": "",
@@ -36061,83 +34987,6 @@
    "cannabis": false,
    "category": "flower",
    "default_image": "",
-   "description": "",
-   "id": "8759452d-694c-4f18-a4f8-a4b9a5128c02",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "ABR #40",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-abr-40-loose-645777",
-   "subcategory": "hybrid",
-   "suggest": "abr #40 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "645777",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.84,
-       "min_percentage": 17.84
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1784",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
    "description": " ",
    "id": "8a0bf113-f85f-48a4-9a54-ed71778b536f",
    "images": [
@@ -37179,78 +36028,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "8f29f04c-e9ae-47d2-b606-b5e7464a7fbe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sample",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/allgreens-sample-1g-560574",
-   "subcategory": "solventless",
-   "suggest": "sample allgreens concentrate solventless 1g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "560574",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "1g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "68bc5d39-51cc-44ba-a0e2-23f54dd6000e",
-    "license": "404R-00234",
-    "medical": false,
-    "name": "Allgreens",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
   },
   {
    "availability": "",
@@ -39997,7 +38774,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -40011,7 +38788,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Dante's Wrath #48",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784054494202,
    "slug": "inventory/variant/clearwater-buds-llc-dante-s-wrath-48-loose-616449",
    "subcategory": "hybrid",
    "suggest": "dante's wrath #48 clearwater buds llc flower hybrid loose",
@@ -40033,7 +38810,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 23.21,
+       "max_percentage": 20.9,
        "min_percentage": 20.9
       }
      },
@@ -40050,36 +38827,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "2090",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2256",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2321",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2321",
        "thca": null
       }
      ],
@@ -45214,83 +43961,6 @@
   {
    "availability": "",
    "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "b11d9eee-bcd8-48c1-98c0-9787001a399c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "OMT #114",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-omt-114-loose-626025",
-   "subcategory": "hybrid",
-   "suggest": "omt #114 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "626025",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23.15,
-       "min_percentage": 23.15
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2315",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
    "category": "merchandise",
    "default_image": "",
    "description": "",
@@ -45513,83 +44183,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "b43a6a47-ad38-497a-836f-412916d4a680",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Apples and Bananas x Runtz",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-apples-and-bananas-x-runtz-loose-646757",
-   "subcategory": "hybrid",
-   "suggest": "apples and bananas x runtz clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646757",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 29,
-       "min_percentage": 29
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2900",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -56215,83 +54808,6 @@
     "license": "403R-00834",
     "medical": false,
     "name": "Silver Lake",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "e587ddd8-2383-4b1d-a3c7-f745ecc33a9a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Big Dipper #123",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-big-dipper-123-loose-616761",
-   "subcategory": "hybrid",
-   "suggest": "big dipper #123 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "616761",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 25.28,
-       "min_percentage": 25.28
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2528",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
     "state": "CO"
    },
    "weave_category": "flower",

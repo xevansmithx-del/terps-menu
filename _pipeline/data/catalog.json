@@ -2546,17 +2546,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.77,
-  "n_strains": 14,
+  "n_strains": 13,
   "strains": [
    {
     "name": "Apricot Cookies",
     "price": 6.0,
     "thc": 68.67
-   },
-   {
-    "name": "Big Wedding",
-    "price": 6.0,
-    "thc": 79.31
    },
    {
     "name": "Blue Tiki",
@@ -2895,31 +2890,6 @@
   "vendor_name": "The Clear"
  },
  {
-  "id": "6f4251ab-01c5-4ca8-b2b6-dd4d8a03f0ec",
-  "slug": "astronaught-stratus-24",
-  "name": "ASTRONAUGHT STRATUS #24",
-  "brand": "CLEARWATER BUDS",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 5.99,
-  "price_max": 5.99,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 22.16,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 5.99,
-    "thc": 22.16
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748754_IMG_0685.jpeg",
-  "match_score": 1.054,
-  "vendor_name": "CLEARWATER BUDS LLC"
- },
- {
   "id": "7183cfd1-c059-4271-93a3-68c80dbd396f",
   "slug": "candy-fumez",
   "name": "Candy Fumez",
@@ -3018,31 +2988,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443751175_unnamed__18_.jpg",
   "match_score": 0.852,
   "vendor_name": "TBB Llc"
- },
- {
-  "id": "754640fc-892e-41da-b9fb-29a3e3b48ba2",
-  "slug": "mbxbv-3",
-  "name": "MBxBV#3",
-  "brand": "CLEARWATER BUDS",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 5.99,
-  "price_max": 5.99,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 23,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 5.99,
-    "thc": 23
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441328335_IMG_7834.jpg",
-  "match_score": 0.929,
-  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "75b9c08d-890b-4b18-a41f-54492473df15",
@@ -3618,31 +3563,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442555051_IMG_0970.jpeg",
   "match_score": 1.019,
   "vendor_name": "Silver Lake"
- },
- {
-  "id": "8759452d-694c-4f18-a4f8-a4b9a5128c02",
-  "slug": "abr-40",
-  "name": "ABR #40",
-  "brand": "ClearWater",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 5.99,
-  "price_max": 5.99,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 17.84,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 5.99,
-    "thc": 17.84
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442870764_IMG_1199.jpeg",
-  "match_score": 0.898,
-  "vendor_name": "CLEARWATER BUDS LLC"
  },
  {
   "id": "8a0bf113-f85f-48a4-9a54-ed71778b536f",
@@ -4855,31 +4775,6 @@
   "vendor_name": "NATTY REMS LLC"
  },
  {
-  "id": "b11d9eee-bcd8-48c1-98c0-9787001a399c",
-  "slug": "omt-114",
-  "name": "OMT #114",
-  "brand": "CLEARWATER BUDS",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 5.99,
-  "price_max": 5.99,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 23.15,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 5.99,
-    "thc": 23.15
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443748958_IMG_0686.jpeg",
-  "match_score": 0.898,
-  "vendor_name": "CLEARWATER BUDS LLC"
- },
- {
   "id": "b1636d75-25d4-4237-a1d2-bc0bae8bff94",
   "slug": "jack-herer-x-peach-breath-6",
   "name": "Jack Herer x Peach Breath #6",
@@ -5451,7 +5346,7 @@
  },
  {
   "id": "c2c82cfe-1577-49f8-b59b-f41a82a59873",
-  "slug": "la-kush-cake-2",
+  "slug": "la-kush-cake",
   "name": "LA Kush Cake",
   "brand": "Silver Lake",
   "category": "flower",
