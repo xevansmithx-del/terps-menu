@@ -560,8 +560,8 @@
   "price_max": 13.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 78.01,
-  "n_strains": 10,
+  "thc_max": 77.48,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Bubba Haze",
@@ -607,11 +607,6 @@
     "name": "starfire cream",
     "price": 13.0,
     "thc": 77.18
-   },
-   {
-    "name": "Strawberry Lemonade",
-    "price": 13.0,
-    "thc": 78.01
    }
   ],
   "description": "",
@@ -1141,7 +1136,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 85.84,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Blueberry Bubble",
@@ -1177,11 +1172,6 @@
     "name": "Super Lemon Haze",
     "price": 24.0,
     "thc": 74.53
-   },
-   {
-    "name": "Tangerine Haze",
-    "price": 24.0,
-    "thc": 79.22
    }
   ],
   "description": "",
@@ -3366,7 +3356,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.4,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Biscotti Sherb",
@@ -3377,11 +3367,6 @@
     "name": "Chem GG4",
     "price": 12.9,
     "thc": 70.7
-   },
-   {
-    "name": "Diesel Cake",
-    "price": 12.0,
-    "thc": null
    },
    {
     "name": "Mad Mango",
@@ -4006,7 +3991,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.55,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Banana Kush",
@@ -4027,11 +4012,6 @@
     "name": "OG Kush",
     "price": 15.0,
     "thc": 83.55
-   },
-   {
-    "name": "Purple Punch",
-    "price": 15.0,
-    "thc": 80.3
    },
    {
     "name": "Super Lemon Haze",

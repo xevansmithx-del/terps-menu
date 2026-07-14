@@ -17,9 +17,9 @@
   "Clearview Industries": 6,
   "Cold Baked": 34,
   "Colorado's Best Dabs": 5,
-  "Craft": 143,
+  "Craft": 140,
   "David Jackson LLC": 17,
-  "Denver Dab Co": 41,
+  "Denver Dab Co": 40,
   "Denver Packaging Company": 1,
   "Egozi": 25,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -52,19 +52,19 @@
  },
  "categories": {
   "concentrate": {
-   "count": 382,
+   "count": 378,
    "subcategories": {
     "budder": 12,
-    "cartridge": 179,
+    "cartridge": 177,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
-    "live extract": 22,
+    "live extract": 21,
     "resin": 2,
     "shatter": 15,
     "solventless": 25,
     "syringe": 8,
-    "wax": 89
+    "wax": 88
    }
   },
   "edible": {
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 753,
+ "hits": 749,
  "results": [
   {
    "availability": "",
@@ -6245,90 +6245,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7718",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1783528428540,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-strawberry-lemonade-572128",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract strawberry lemonade",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572128",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Strawberry Lemonade",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 78.01,
-       "min_percentage": 78.01
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7801",
        "thca": null
       }
      ],
@@ -13203,83 +13119,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7453",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "20e7cdd9-a3e9-4041-aa91-5d71f6ed5143",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Tugboat 2000mg",
-   "non_trans": false,
-   "rebuild_gen": 1783890005009,
-   "slug": "inventory/variant/craft-oil-tugboat-2000mg-tangerine-haze-535785",
-   "subcategory": "cartridge",
-   "suggest": "oil tugboat 2000mg craft concentrate cartridge tangerine haze",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "535785",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Tangerine Haze",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.22,
-       "min_percentage": 79.22
-      }
-     },
-     "price": 2400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7922",
        "thca": null
       }
      ],
@@ -34515,78 +34354,6 @@
    "name": "Denver Dabs 2G",
    "non_trans": false,
    "rebuild_gen": 1783890790997,
-   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-diesel-cake-571344",
-   "subcategory": "wax",
-   "suggest": "denver dabs 2g denver dab co concentrate wax diesel cake",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571344",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Diesel Cake",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dabs 2G",
-   "non_trans": false,
-   "rebuild_gen": 1783890790997,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-mad-mango-571356",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax mad mango",
@@ -39172,83 +38939,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8355",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "943e0bc0-d48c-4f75-8374-802bdf45fd35",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Tugboat 1000",
-   "non_trans": false,
-   "rebuild_gen": 1783889994101,
-   "slug": "inventory/variant/craft-oil-tugboat-1000-purple-punch-526380",
-   "subcategory": "cartridge",
-   "suggest": "oil tugboat 1000 craft concentrate cartridge purple punch",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "526380",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Purple Punch",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 80.3,
-       "min_percentage": 80.3
-      }
-     },
-     "price": 1500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8030",
        "thca": null
       }
      ],
