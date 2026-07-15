@@ -871,7 +871,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 22.79,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Boof Scottie",
@@ -882,11 +882,6 @@
     "name": "Fritter Cake",
     "price": 7.26,
     "thc": 22.79
-   },
-   {
-    "name": "Neon Super Skunk",
-    "price": 7.26,
-    "thc": 22.03
    },
    {
     "name": "Sour Papaya",
@@ -1075,31 +1070,6 @@
   "vendor_name": "Green Dot (OCC)"
  },
  {
-  "id": "1e5f23a8-1f5d-4e50-b722-e2d5eca96156",
-  "slug": "cap-junky",
-  "name": "Cap Junky",
-  "brand": "Egozi",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 45.0,
-  "price_max": 45.0,
-  "unit": " \u00b7 14g half",
-  "unit_kind": "half",
-  "thc_max": 24.41,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Half",
-    "price": 45.0,
-    "thc": 24.41
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443579296_capjunky_24.41_.jpeg",
-  "match_score": 0.875,
-  "vendor_name": "Egozi"
- },
- {
   "id": "1fce1fdd-aad8-4560-bc3c-0d3de2b30351",
   "slug": "strawberries-and-cream",
   "name": "Strawberries and Cream",
@@ -1266,7 +1236,7 @@
  },
  {
   "id": "2772ab70-afeb-4867-9c34-8c793c18bf43",
-  "slug": "cap-junky-2",
+  "slug": "cap-junky",
   "name": "Cap Junky",
   "brand": "Antero Sciences",
   "category": "flower",
@@ -3401,18 +3371,13 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 32.26,
+  "price_min": 75.0,
   "price_max": 75.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 73.32,
-  "n_strains": 5,
+  "thc_max": 72.82,
+  "n_strains": 4,
   "strains": [
-   {
-    "name": "G Spritz",
-    "price": 32.26,
-    "thc": 73.32
-   },
    {
     "name": "Garlic Ice Cream",
     "price": 75.0,
@@ -4556,8 +4521,8 @@
   "brand": "Egozi",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 45.0,
-  "price_max": 45.0,
+  "price_min": 36.29,
+  "price_max": 36.29,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
   "thc_max": 23.63,
@@ -4565,7 +4530,7 @@
   "strains": [
    {
     "name": "Half",
-    "price": 45.0,
+    "price": 36.29,
     "thc": 23.63
    }
   ],
@@ -5121,7 +5086,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 8,
+  "n_strains": 9,
   "strains": [
    {
     "name": "1:1 Hybrid",
@@ -5140,6 +5105,11 @@
    },
    {
     "name": "Hybrid",
+    "price": 4.84,
+    "thc": null
+   },
+   {
+    "name": "Indica",
     "price": 4.84,
     "thc": null
    },

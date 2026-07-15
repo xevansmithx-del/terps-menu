@@ -6,12 +6,12 @@
   "14ER": 3,
   "AO Extracts": 31,
   "Antero Sciences": 56,
-  "Bespoke extracts colorado LLC.": 5,
+  "Bespoke extracts colorado LLC.": 4,
   "Blue Cottage LLC": 7,
   "Bud Fox": 4,
   "CALI BLAZE (OCC)": 3,
   "CC Brands LLC": 9,
-  "CLEARWATER BUDS LLC": 4,
+  "CLEARWATER BUDS LLC": 3,
   "Chaos": 13,
   "Clearview Industries": 6,
   "Cold Baked": 34,
@@ -20,11 +20,11 @@
   "David Jackson LLC": 17,
   "Denver Dab Co": 40,
   "Denver Packaging Company": 1,
-  "Egozi": 25,
+  "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
-  "High Country Management Group": 21,
+  "High Country Management Group": 20,
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
@@ -34,12 +34,12 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 19,
-  "Loud Labs LLC": 25,
+  "Loud Labs LLC": 26,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 36,
+  "NATTY REMS LLC": 35,
   "SPHEREX": 6,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
@@ -47,11 +47,11 @@
   "The Clear": 18,
   "Twax": 2,
   "Vera": 24,
-  "Willoughby Enterprises LLC": 2
+  "Willoughby Enterprises LLC": 1
  },
  "categories": {
   "concentrate": {
-   "count": 374,
+   "count": 372,
    "subcategories": {
     "budder": 12,
     "cartridge": 175,
@@ -61,26 +61,26 @@
     "live extract": 21,
     "resin": 2,
     "shatter": 15,
-    "solventless": 24,
+    "solventless": 23,
     "syringe": 8,
-    "wax": 87
+    "wax": 86
    }
   },
   "edible": {
-   "count": 80,
+   "count": 81,
    "subcategories": {
     "candy": 24,
     "capsule": 2,
     "chocolate": 10,
     "drink": 17,
-    "gummies": 25,
+    "gummies": 26,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 258,
+   "count": 253,
    "subcategories": {
-    "hybrid": 200,
+    "hybrid": 195,
     "indica": 18,
     "other": 26,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 731,
+ "hits": 725,
  "results": [
   {
    "availability": "",
@@ -9122,83 +9122,6 @@
    "name": "kief cones",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/high-country-management-group-kief-cones-neon-super-skunk-640343",
-   "subcategory": "hybrid",
-   "suggest": "kief cones high country management group flower hybrid indica neon super skunk",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "640343",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Neon Super Skunk",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 22.03,
-       "min_percentage": 22.03
-      }
-     },
-     "price": 726,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2203",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
-    "license": "403R-00521",
-    "medical": false,
-    "name": "High Country Management Group",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "indica"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "kief cones",
-   "id": "18a5254e-a755-4a7c-af46-0262ffda889b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "kief cones",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/high-country-management-group-kief-cones-sour-papaya-648762",
    "subcategory": "hybrid",
    "suggest": "kief cones high country management group flower hybrid indica sour papaya",
@@ -12248,83 +12171,6 @@
     "license": "403R-00834",
     "medical": false,
     "name": "Silver Lake",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "1e5f23a8-1f5d-4e50-b722-e2d5eca96156",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Cap Junky",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-cap-junky-half-639182",
-   "subcategory": "hybrid",
-   "suggest": "cap junky egozi flower hybrid half",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639182",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Half",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 14000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 24.41,
-       "min_percentage": 24.41
-      }
-     },
-     "price": 4500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2441",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "prepack"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
     "state": "CO"
    },
    "weave_category": "flower",
@@ -24292,83 +24138,6 @@
    "category": "flower",
    "default_image": "",
    "description": "",
-   "id": "5630d7c6-52c1-497a-a13f-ac89e86e36ea",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "samples",
-   "non_trans": false,
-   "rebuild_gen": 1783889779696,
-   "slug": "inventory/variant/natty-rems-llc-samples-preroll-626508",
-   "subcategory": "hybrid",
-   "suggest": "samples natty rems llc flower hybrid preroll",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "626508",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "preroll",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 16.14,
-       "min_percentage": 16.14
-      }
-     },
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1614",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
    "id": "566717a2-69ab-4b28-9642-090b073e1fb2",
    "images": [
     {
@@ -28014,7 +27783,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1783896690518,
+   "rebuild_gen": 1784057644712,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-disolable-143787",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies disolable",
@@ -28096,7 +27865,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1783896690518,
+   "rebuild_gen": 1784057644712,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-gummie-137207",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies gummie",
@@ -28328,7 +28097,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1783896690518,
+   "rebuild_gen": 1784057644712,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-max-relief-138702",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies max relief",
@@ -28410,7 +28179,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1783896690518,
+   "rebuild_gen": 1784057644712,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-riplet-139986",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies riplet",
@@ -28502,7 +28271,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1783896690518,
+   "rebuild_gen": 1784057644712,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-smashed-watermelon-sour-indica-129228",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies smashed watermelon sour indica",
@@ -32101,7 +31870,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Packwoods 2g Disposable",
    "non_trans": false,
-   "rebuild_gen": 1782668832932,
+   "rebuild_gen": 1784057624543,
    "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-area-51-558780",
    "subcategory": "cartridge",
    "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge area 51",
@@ -32133,7 +31902,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 5500
+       "price": 6000
       }
      ],
      "pricing_group": null,
@@ -32185,7 +31954,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Packwoods 2g Disposable",
    "non_trans": false,
-   "rebuild_gen": 1782668832932,
+   "rebuild_gen": 1784057624543,
    "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-blue-slurpie-514292",
    "subcategory": "cartridge",
    "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge blue slurpie",
@@ -32217,7 +31986,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 5500
+       "price": 6000
       }
      ],
      "pricing_group": null,
@@ -32269,7 +32038,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Packwoods 2g Disposable",
    "non_trans": false,
-   "rebuild_gen": 1782668832932,
+   "rebuild_gen": 1784057624543,
    "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-donut-shop-2g-562631",
    "subcategory": "cartridge",
    "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge donut shop 2g",
@@ -32301,7 +32070,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 5500
+       "price": 6000
       }
      ],
      "pricing_group": null,
@@ -34003,84 +33772,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1783889323193,
-   "slug": "inventory/variant/egozi-egozi-rosin-4g-g-spritz-563410",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 4g egozi concentrate solventless g spritz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "563410",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "G Spritz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 73.32,
-       "min_percentage": 73.32
-      }
-     },
-     "price": 3226,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7332",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "81ea7f39-6561-484e-b1f0-3aca34beecd6",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 4g",
-   "non_trans": false,
-   "rebuild_gen": 1783889323193,
+   "rebuild_gen": 1784057521813,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-garlic-ice-cream-563419",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless garlic ice cream",
@@ -34177,7 +33869,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1783889323193,
+   "rebuild_gen": 1784057521813,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritz-scotti-565660",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritz scotti",
@@ -34261,7 +33953,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1783889323193,
+   "rebuild_gen": 1784057521813,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritzer-559935",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritzer",
@@ -34345,7 +34037,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1783889323193,
+   "rebuild_gen": 1784057521813,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-zmuckers-565658",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless zmuckers",
@@ -35393,78 +35085,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7020",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
-    "license": "404r-00594",
-    "medical": false,
-    "name": "Willoughby Enterprises LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "8a35c958-914f-4dc8-b799-f481c0c112d0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "sample",
-   "non_trans": false,
-   "rebuild_gen": 1783894177614,
-   "slug": "inventory/variant/willoughby-enterprises-llc-sample-4g-573324",
-   "subcategory": "wax",
-   "suggest": "sample willoughby enterprises llc concentrate wax 4g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573324",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "4g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
        "thca": null
       }
      ],
@@ -42377,7 +41997,7 @@
        "min_percentage": 20.9
       }
      },
-     "price": 4500,
+     "price": 3629,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -46667,7 +46287,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-hybrid-143004",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 hybrid",
@@ -46739,7 +46359,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-indica-143005",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 indica",
@@ -46811,7 +46431,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-sativa-143003",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 sativa",
@@ -46883,7 +46503,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-hybrid-143001",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies hybrid",
@@ -46905,6 +46525,180 @@
      },
      "potency_result": {},
      "price": 484,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "gummies"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Zoobies",
+   "non_trans": false,
+   "rebuild_gen": 1784078080230,
+   "slug": "inventory/variant/loud-labs-llc-zoobies-indica-143002",
+   "subcategory": "gummies",
+   "suggest": "zoobies loud labs llc edible gummies indica",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "143002",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Indica",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 484,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "gummies"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Zoobies",
+   "non_trans": false,
+   "rebuild_gen": 1784078080230,
+   "slug": "inventory/variant/loud-labs-llc-zoobies-midnight-fruit-gummies-145512",
+   "subcategory": "gummies",
+   "suggest": "zoobies loud labs llc edible gummies midnight fruit gummies",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "145512",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Midnight Fruit Gummies",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 992,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -46965,79 +46759,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
-   "slug": "inventory/variant/loud-labs-llc-zoobies-midnight-fruit-gummies-145512",
-   "subcategory": "gummies",
-   "suggest": "zoobies loud labs llc edible gummies midnight fruit gummies",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "145512",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Midnight Fruit Gummies",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 992,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "gummies"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Zoobies",
-   "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-rso-hybrid-143007",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies rso hybrid",
@@ -47109,7 +46831,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-rso-sativa-143006",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies rso sativa",
@@ -47181,7 +46903,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1783889931095,
+   "rebuild_gen": 1784078080230,
    "slug": "inventory/variant/loud-labs-llc-zoobies-sativa-143000",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies sativa",
@@ -52067,7 +51789,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-inferno-570680",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black inferno",
@@ -52144,7 +51866,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-truffle-570679",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black truffle",
@@ -52221,7 +51943,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-bloo-berry-572223",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax bloo berry",
@@ -52298,7 +52020,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-boo-berry-569092",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax boo berry",
@@ -52375,7 +52097,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-rainbow-belts-570666",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rainbow belts",
@@ -52452,7 +52174,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-roast-mellow-572144",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax roast mellow",
@@ -52529,7 +52251,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-rx-sugar-556260",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rx sugar",
@@ -52613,7 +52335,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-sunrise-sherbert-569093",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax sunrise sherbert",
@@ -52690,7 +52412,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1783890824500,
+   "rebuild_gen": 1784061219668,
    "slug": "inventory/variant/ao-extracts-ao-wax-sunset-sherbet-562135",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax sunset sherbet",
@@ -55452,7 +55174,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 2g",
    "non_trans": false,
-   "rebuild_gen": 1783890309694,
+   "rebuild_gen": 1784057752614,
    "slug": "inventory/variant/egozi-egozi-rosin-2g-garlic-ice-cream-559983",
    "subcategory": "solventless",
    "suggest": "egozi rosin 2g egozi concentrate solventless garlic ice cream",
@@ -56641,83 +56363,6 @@
    "category": "flower",
    "default_image": "",
    "description": "",
-   "id": "eb9fb2cc-c1a8-4fa2-9280-7ffa36ef2c3e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Crystal Smoothie",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/clearwater-buds-llc-crystal-smoothie-loose-646771",
-   "subcategory": "hybrid",
-   "suggest": "crystal smoothie clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646771",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 25,
-       "min_percentage": 25
-      }
-     },
-     "price": 171,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2500",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
    "id": "ecc88ac8-b7b6-4a77-95ad-631326d6f63b",
    "images": [
     {
@@ -56948,78 +56593,6 @@
     "license": "403R-01432",
     "medical": false,
     "name": "TBB Llc",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "eeb22694-451a-4321-a1d9-3e782a8f84d0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "sample joint box",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/bespoke-extracts-colorado-llc-sample-joint-box-3-5-622411",
-   "subcategory": "hybrid",
-   "suggest": "sample joint box bespoke extracts colorado llc. flower hybrid 3.5",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "622411",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "3.5",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 3500,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
-    "license": "404r-00162",
-    "medical": false,
-    "name": "Bespoke extracts colorado LLC.",
     "state": "CO"
    },
    "weave_category": "flower",
