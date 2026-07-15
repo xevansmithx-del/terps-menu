@@ -4,9 +4,9 @@
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 3,
-  "AO Extracts": 31,
+  "AO Extracts": 35,
   "Antero Sciences": 56,
-  "Bespoke extracts colorado LLC.": 4,
+  "Bespoke extracts colorado LLC.": 7,
   "Blue Cottage LLC": 7,
   "Bud Fox": 4,
   "CALI BLAZE (OCC)": 3,
@@ -34,12 +34,12 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 19,
-  "Loud Labs LLC": 26,
+  "Loud Labs LLC": 32,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 35,
+  "NATTY REMS LLC": 34,
   "SPHEREX": 6,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 372,
+   "count": 378,
    "subcategories": {
     "budder": 12,
-    "cartridge": 175,
+    "cartridge": 178,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
@@ -63,7 +63,7 @@
     "shatter": 15,
     "solventless": 23,
     "syringe": 8,
-    "wax": 86
+    "wax": 89
    }
   },
   "edible": {
@@ -78,11 +78,11 @@
    }
   },
   "flower": {
-   "count": 253,
+   "count": 259,
    "subcategories": {
-    "hybrid": 195,
+    "hybrid": 194,
     "indica": 18,
-    "other": 26,
+    "other": 33,
     "sativa": 14
    }
   },
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 725,
+ "hits": 737,
  "results": [
   {
    "availability": "",
@@ -4643,7 +4643,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -4652,12 +4652,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-blueberry-641789",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-blueberry-641789",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other blueberry",
+   "suggest": "doinks blunts loud labs llc flower other blueberry",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -4676,7 +4676,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 29.23,
+       "max_percentage": 30.4,
        "min_percentage": 29.23
       }
      },
@@ -4686,12 +4686,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3040",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -4727,7 +4737,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -4736,12 +4746,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-green-apple-641790",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-green-apple-641790",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other green apple",
+   "suggest": "doinks blunts loud labs llc flower other green apple",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -4760,7 +4770,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 28.39,
+       "max_percentage": 31.2,
        "min_percentage": 28.39
       }
      },
@@ -4770,12 +4780,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3120",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -4811,7 +4831,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -4820,12 +4840,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-lime-sorbet-641788",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-lime-sorbet-641788",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other lime sorbet",
+   "suggest": "doinks blunts loud labs llc flower other lime sorbet",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -4895,7 +4915,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -4904,12 +4924,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-strawnana-641791",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-strawnana-641791",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other strawnana",
+   "suggest": "doinks blunts loud labs llc flower other strawnana",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -4979,7 +4999,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -4988,12 +5008,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-sweet-grape-641784",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-sweet-grape-641784",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other sweet grape",
+   "suggest": "doinks blunts loud labs llc flower other sweet grape",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -5063,7 +5083,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -5072,12 +5092,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-unflavored-641787",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-unflavored-641787",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other unflavored",
+   "suggest": "doinks blunts loud labs llc flower other unflavored",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -5147,7 +5167,7 @@
    "cannabis": true,
    "category": "flower",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
    "images": [
     {
@@ -5156,12 +5176,12 @@
     }
    ],
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Doinks",
+   "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1783895692306,
-   "slug": "inventory/variant/loud-labs-llc-doinks-wild-melon-641785",
+   "rebuild_gen": 1784140213252,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-wild-melon-641785",
    "subcategory": "other",
-   "suggest": "doinks loud labs llc flower other wild melon",
+   "suggest": "doinks blunts loud labs llc flower other wild melon",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
@@ -5180,7 +5200,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 29.35,
+       "max_percentage": 33.7,
        "min_percentage": 29.35
       }
      },
@@ -5190,12 +5210,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 403
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3370",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -10176,7 +10206,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-apples-bananas-550906",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge apples & bananas",
@@ -10290,7 +10320,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-banana-runtz-532381",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge banana runtz",
@@ -10394,7 +10424,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blackberry-kush-532382",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blackberry kush",
@@ -10478,7 +10508,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
+   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blue-raz-552633",
+   "subcategory": "cartridge",
+   "suggest": "ao cartridges 1g ao extracts concentrate cartridge blue raz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "552633",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Raz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 83.4,
+       "min_percentage": 83.4
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1100
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8340",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Cartridges 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-bubble-gum-532383",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge bubble gum",
@@ -10572,7 +10686,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-grape-runtz-532384",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge grape runtz",
@@ -10676,7 +10790,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lime-sorbet-570658",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lime sorbet",
@@ -10760,7 +10874,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
@@ -10844,7 +10958,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -10928,7 +11042,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-red-apple-550908",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge red apple",
@@ -10966,6 +11080,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8560",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -11022,7 +11146,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-pop-555495",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket pop",
@@ -11106,7 +11230,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
@@ -11183,7 +11307,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-soda-pop-532378",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge soda pop",
@@ -11277,7 +11401,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-sour-tangie-538078",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge sour tangie",
@@ -11371,7 +11495,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784053140612,
+   "rebuild_gen": 1784136087352,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-watermelon-zlushie-564268",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge watermelon zlushie",
@@ -15406,7 +15530,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": "",
@@ -15420,7 +15544,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Patches",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784139881753,
    "slug": "inventory/variant/loud-labs-llc-patches-1-1-cbd-thc-205098",
    "subcategory": "patch",
    "suggest": "patches loud labs llc topical patch 1:1 cbd/thc",
@@ -15447,7 +15571,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -15485,7 +15609,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": "",
@@ -15499,7 +15623,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Patches",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784139881753,
    "slug": "inventory/variant/loud-labs-llc-patches-cbn-205096",
    "subcategory": "patch",
    "suggest": "patches loud labs llc topical patch cbn",
@@ -15526,7 +15650,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -15574,7 +15698,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": "",
@@ -15588,7 +15712,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Patches",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784139881753,
    "slug": "inventory/variant/loud-labs-llc-patches-entourage-205099",
    "subcategory": "patch",
    "suggest": "patches loud labs llc topical patch entourage",
@@ -15615,7 +15739,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
@@ -15653,7 +15777,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "topical",
    "default_image": "",
    "description": "",
@@ -15667,7 +15791,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Patches",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784139881753,
    "slug": "inventory/variant/loud-labs-llc-patches-rso-205097",
    "subcategory": "patch",
    "suggest": "patches loud labs llc topical patch rso",
@@ -15694,12 +15818,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -24589,7 +24723,7 @@
        "min_percentage": 17.1
       }
      },
-     "price": 1000,
+     "price": 645,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -34104,6 +34238,237 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "solventless"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "826c4da7-a0e9-48dd-8d81-9909d537c139",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sweet Joints",
+   "non_trans": false,
+   "rebuild_gen": 1784129798756,
+   "slug": "inventory/variant/bespoke-extracts-colorado-llc-sweet-joints-grape-649589",
+   "subcategory": "other",
+   "suggest": "sweet joints bespoke extracts colorado llc. flower other grape",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "649589",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Grape",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 40.91,
+       "min_percentage": 40.91
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "4091",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
+    "license": "404r-00162",
+    "medical": false,
+    "name": "Bespoke extracts colorado LLC.",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "826c4da7-a0e9-48dd-8d81-9909d537c139",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sweet Joints",
+   "non_trans": false,
+   "rebuild_gen": 1784129798756,
+   "slug": "inventory/variant/bespoke-extracts-colorado-llc-sweet-joints-lemon-649592",
+   "subcategory": "other",
+   "suggest": "sweet joints bespoke extracts colorado llc. flower other lemon",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "649592",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lemon",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 40.91,
+       "min_percentage": 40.91
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "4091",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
+    "license": "404r-00162",
+    "medical": false,
+    "name": "Bespoke extracts colorado LLC.",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "826c4da7-a0e9-48dd-8d81-9909d537c139",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sweet Joints",
+   "non_trans": false,
+   "rebuild_gen": 1784129798756,
+   "slug": "inventory/variant/bespoke-extracts-colorado-llc-sweet-joints-mango-650997",
+   "subcategory": "other",
+   "suggest": "sweet joints bespoke extracts colorado llc. flower other mango",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "650997",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mango",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 40.91,
+       "min_percentage": 40.91
+      }
+     },
+     "price": 400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "4091",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
+    "license": "404r-00162",
+    "medical": false,
+    "name": "Bespoke extracts colorado LLC.",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
   },
   {
    "availability": "",
@@ -46287,7 +46652,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-hybrid-143004",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 hybrid",
@@ -46359,7 +46724,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-indica-143005",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 indica",
@@ -46431,7 +46796,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-sativa-143003",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 sativa",
@@ -46503,7 +46868,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-hybrid-143001",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies hybrid",
@@ -46605,7 +46970,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-indica-143002",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies indica",
@@ -46687,7 +47052,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-midnight-fruit-gummies-145512",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies midnight fruit gummies",
@@ -46769,7 +47134,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-rso-hybrid-143007",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies rso hybrid",
@@ -46841,7 +47206,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-rso-sativa-143006",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies rso sativa",
@@ -46913,7 +47278,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784079668324,
+   "rebuild_gen": 1784140027263,
    "slug": "inventory/variant/loud-labs-llc-zoobies-sativa-143000",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies sativa",
@@ -46940,12 +47305,32 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 403
+       "price": 484
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -47759,7 +48144,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1783889944994,
+   "rebuild_gen": 1784136764356,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubba-kush-571091",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubba kush",
@@ -47843,7 +48228,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1783889944994,
+   "rebuild_gen": 1784136764356,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubonic-chronic-571089",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubonic chronic",
@@ -47927,7 +48312,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1783889944994,
+   "rebuild_gen": 1784136764356,
+   "slug": "inventory/variant/loud-labs-llc-rippys-crosswalker-573392",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge crosswalker",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573392",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Crosswalker",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.91,
+       "min_percentage": 75.91
+      }
+     },
+     "price": 868,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7591",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1784136764356,
    "slug": "inventory/variant/loud-labs-llc-rippys-skylin-og-571090",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge skylin og",
@@ -47966,6 +48428,83 @@
        "cbn": null,
        "dthc": null,
        "thc": "6128",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1784136764356,
+   "slug": "inventory/variant/loud-labs-llc-rippys-sunset-punch-573393",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge sunset punch",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573393",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Sunset Punch",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 71.4,
+       "min_percentage": 71.4
+      }
+     },
+     "price": 868,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7140",
        "thca": null
       }
      ],
@@ -49916,6 +50455,314 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784141113458,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-blueberry-651009",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other blueberry",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651009",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blueberry",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 30.07,
+       "min_percentage": 30.07
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3007",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784141113458,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-green-apple-651010",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other green apple",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651010",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Green Apple",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 30.58,
+       "min_percentage": 30.58
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3058",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784141113458,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-rocket-pop-651012",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other rocket pop",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651012",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Rocket Pop",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 32.19,
+       "min_percentage": 32.19
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3219",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784141113458,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-sweet-grape-651008",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other sweet grape",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651008",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Sweet Grape",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 34.58,
+       "min_percentage": 34.58
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3458",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -51799,7 +52646,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-inferno-570680",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black inferno",
@@ -51876,7 +52723,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-truffle-570679",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black truffle",
@@ -51953,7 +52800,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-bloo-berry-572223",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax bloo berry",
@@ -52030,7 +52877,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-boo-berry-569092",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax boo berry",
@@ -52107,7 +52954,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
+   "slug": "inventory/variant/ao-extracts-ao-wax-cadillac-rainbow-573389",
+   "subcategory": "wax",
+   "suggest": "ao wax ao extracts concentrate wax cadillac rainbow",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573389",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cadillac Rainbow",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 71.4,
+       "min_percentage": 71.4
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7140",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784135837353,
+   "slug": "inventory/variant/ao-extracts-ao-wax-great-white-shark-573388",
+   "subcategory": "wax",
+   "suggest": "ao wax ao extracts concentrate wax great white shark",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573388",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Great White Shark",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 70.4,
+       "min_percentage": 70.4
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7040",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-rainbow-belts-570666",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rainbow belts",
@@ -52184,7 +53185,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-roast-mellow-572144",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax roast mellow",
@@ -52261,7 +53262,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-rx-sugar-556260",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rx sugar",
@@ -52345,7 +53346,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-sunrise-sherbert-569093",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax sunrise sherbert",
@@ -52422,7 +53423,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784061219668,
+   "rebuild_gen": 1784135837353,
    "slug": "inventory/variant/ao-extracts-ao-wax-sunset-sherbet-562135",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax sunset sherbet",
@@ -52468,6 +53469,83 @@
        "cbn": null,
        "dthc": null,
        "thc": "7170",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784135837353,
+   "slug": "inventory/variant/ao-extracts-ao-wax-trop-cherry-573387",
+   "subcategory": "wax",
+   "suggest": "ao wax ao extracts concentrate wax trop cherry",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573387",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Trop Cherry",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 71.5,
+       "min_percentage": 71.5
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7150",
        "thca": null
       }
      ],
@@ -55464,83 +56542,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "739",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1783889599303,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-flo-driver-631059",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid flo driver",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "631059",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Flo Driver",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 13.65,
-       "min_percentage": 13.65
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1365",
        "thca": null
       }
      ],

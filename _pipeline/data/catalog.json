@@ -471,27 +471,27 @@
  },
  {
   "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
-  "slug": "doinks",
-  "name": "Doinks",
-  "brand": "Doinks",
+  "slug": "doinks-blunts",
+  "name": "Doinks Blunts",
+  "brand": "Loud Labs",
   "category": "flower",
   "subcategory": "other",
   "price_min": 12.0,
   "price_max": 12.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 29.44,
+  "thc_max": 33.7,
   "n_strains": 7,
   "strains": [
    {
     "name": "Blueberry",
     "price": 12.0,
-    "thc": 29.23
+    "thc": 30.4
    },
    {
     "name": "Green Apple",
     "price": 12.0,
-    "thc": 28.39
+    "thc": 31.2
    },
    {
     "name": "Lime Sorbet",
@@ -516,12 +516,12 @@
    {
     "name": "Wild Melon",
     "price": 12.0,
-    "thc": 29.35
+    "thc": 33.7
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/441839691_IMG_1324.jpeg",
-  "match_score": 0.643,
+  "match_score": 0.789,
   "vendor_name": "Loud Labs LLC"
  },
  {
@@ -956,7 +956,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87,
-  "n_strains": 14,
+  "n_strains": 15,
   "strains": [
    {
     "name": "Apples & Bananas",
@@ -972,6 +972,11 @@
     "name": "Blackberry Kush",
     "price": 12.0,
     "thc": 84.5
+   },
+   {
+    "name": "Blue Raz",
+    "price": 12.0,
+    "thc": 83.4
    },
    {
     "name": "Bubble Gum",
@@ -2461,8 +2466,8 @@
   "brand": "One-Eleven",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 10.0,
-  "price_max": 10.0,
+  "price_min": 6.45,
+  "price_max": 6.45,
   "unit": "",
   "unit_kind": "",
   "thc_max": 17.1,
@@ -2470,7 +2475,7 @@
   "strains": [
    {
     "name": "Sunshine Daydream",
-    "price": 10.0,
+    "price": 6.45,
     "thc": 17.1
    }
   ],
@@ -5262,11 +5267,11 @@
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 8.06,
-  "price_max": 8.07,
+  "price_max": 8.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 70.86,
-  "n_strains": 3,
+  "thc_max": 75.91,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Bubba Kush",
@@ -5279,9 +5284,19 @@
     "thc": 70.86
    },
    {
+    "name": "Crosswalker",
+    "price": 8.68,
+    "thc": 75.91
+   },
+   {
     "name": "Skylin OG",
     "price": 8.06,
     "thc": 61.28
+   },
+   {
+    "name": "Sunset Punch",
+    "price": 8.68,
+    "thc": 71.4
    }
   ],
   "description": "",
@@ -5796,7 +5811,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73,
-  "n_strains": 9,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Black Inferno",
@@ -5817,6 +5832,16 @@
     "name": "Boo Berry",
     "price": 8.0,
     "thc": 66.2
+   },
+   {
+    "name": "Cadillac Rainbow",
+    "price": 8.0,
+    "thc": 71.4
+   },
+   {
+    "name": "Great White Shark",
+    "price": 8.0,
+    "thc": 70.4
    },
    {
     "name": "Rainbow Belts",
@@ -5842,6 +5867,11 @@
     "name": "Sunset Sherbet",
     "price": 8.0,
     "thc": 71.7
+   },
+   {
+    "name": "Trop Cherry",
+    "price": 8.0,
+    "thc": 71.5
    }
   ],
   "description": "",
@@ -6321,7 +6351,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 14.7,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6332,11 +6362,6 @@
     "name": "Blueberry Muffin",
     "price": 2.42,
     "thc": 7.39
-   },
-   {
-    "name": "Flo Driver",
-    "price": 2.42,
-    "thc": 13.65
    },
    {
     "name": "Freedom OG",
