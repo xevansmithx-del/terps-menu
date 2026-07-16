@@ -4,7 +4,7 @@
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 3,
-  "AO Extracts": 35,
+  "AO Extracts": 37,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 7,
   "Blue Cottage LLC": 7,
@@ -14,9 +14,9 @@
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 13,
   "Clearview Industries": 6,
-  "Cold Baked": 34,
+  "Cold Baked": 33,
   "Colorado's Best Dabs": 5,
-  "Craft": 140,
+  "Craft": 139,
   "David Jackson LLC": 17,
   "Denver Dab Co": 40,
   "Denver Packaging Company": 1,
@@ -34,7 +34,7 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 19,
-  "Loud Labs LLC": 32,
+  "Loud Labs LLC": 35,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
@@ -53,7 +53,7 @@
   "concentrate": {
    "count": 378,
    "subcategories": {
-    "budder": 12,
+    "budder": 11,
     "cartridge": 178,
     "crumble": 4,
     "cured extract": 3,
@@ -61,8 +61,8 @@
     "live extract": 21,
     "resin": 2,
     "shatter": 15,
-    "solventless": 23,
-    "syringe": 8,
+    "solventless": 25,
+    "syringe": 7,
     "wax": 89
    }
   },
@@ -78,11 +78,11 @@
    }
   },
   "flower": {
-   "count": 259,
+   "count": 262,
    "subcategories": {
     "hybrid": 194,
     "indica": 18,
-    "other": 33,
+    "other": 36,
     "sativa": 14
    }
   },
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 737,
+ "hits": 740,
  "results": [
   {
    "availability": "",
@@ -3316,7 +3316,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Live Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890829897,
+   "rebuild_gen": 1784142907154,
    "slug": "inventory/variant/ao-extracts-ao-live-rosin-caked-up-bananas-570672",
    "subcategory": "solventless",
    "suggest": "ao live rosin ao extracts concentrate solventless caked up bananas",
@@ -3400,7 +3400,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Live Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890829897,
+   "rebuild_gen": 1784142907154,
+   "slug": "inventory/variant/ao-extracts-ao-live-rosin-cap-junky-573406",
+   "subcategory": "solventless",
+   "suggest": "ao live rosin ao extracts concentrate solventless cap junky",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573406",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cap Junky",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 66.69,
+       "min_percentage": 66.69
+      }
+     },
+     "price": 2800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6669",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "solventless"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "0e03cc76-b17e-47e7-a656-4b744bb0828d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Live Rosin",
+   "non_trans": false,
+   "rebuild_gen": 1784142907154,
+   "slug": "inventory/variant/ao-extracts-ao-live-rosin-gelato-junky-573404",
+   "subcategory": "solventless",
+   "suggest": "ao live rosin ao extracts concentrate solventless gelato junky",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573404",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gelato Junky",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67.73,
+       "min_percentage": 67.73
+      }
+     },
+     "price": 2800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6773",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "solventless"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "0e03cc76-b17e-47e7-a656-4b744bb0828d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Live Rosin",
+   "non_trans": false,
+   "rebuild_gen": 1784142907154,
    "slug": "inventory/variant/ao-extracts-ao-live-rosin-red-velvet-mints-570670",
    "subcategory": "solventless",
    "suggest": "ao live rosin ao extracts concentrate solventless red velvet mints",
@@ -3484,7 +3638,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Live Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890829897,
+   "rebuild_gen": 1784142907154,
    "slug": "inventory/variant/ao-extracts-ao-live-rosin-strawberry-banana-570669",
    "subcategory": "solventless",
    "suggest": "ao live rosin ao extracts concentrate solventless strawberry banana",
@@ -3506,7 +3660,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 70.01,
+       "max_percentage": 70.03,
        "min_percentage": 70.01
       }
      },
@@ -3522,6 +3676,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7003",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -3568,7 +3732,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Live Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890829897,
+   "rebuild_gen": 1784142907154,
    "slug": "inventory/variant/ao-extracts-ao-live-rosin-trop-cherry-570677",
    "subcategory": "solventless",
    "suggest": "ao live rosin ao extracts concentrate solventless trop cherry",
@@ -32700,90 +32864,6 @@
    "name": "Sesh Syringe 1g",
    "non_trans": false,
    "rebuild_gen": 1783712499823,
-   "slug": "inventory/variant/craft-sesh-syringe-1g-orange-creamsicle-553698",
-   "subcategory": "syringe",
-   "suggest": "sesh syringe 1g craft concentrate syringe orange creamsicle",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "553698",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Orange Creamsicle",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 84.09,
-       "min_percentage": 84.09
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8409",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "syringe"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Syringe 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783712499823,
    "slug": "inventory/variant/craft-sesh-syringe-1g-pineapple-cake-express-553702",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe pineapple cake express",
@@ -50469,7 +50549,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Joint",
    "non_trans": false,
-   "rebuild_gen": 1784141113458,
+   "rebuild_gen": 1784142335761,
    "slug": "inventory/variant/loud-labs-llc-doinks-joint-blueberry-651009",
    "subcategory": "other",
    "suggest": "doinks joint loud labs llc flower other blueberry",
@@ -50546,7 +50626,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Joint",
    "non_trans": false,
-   "rebuild_gen": 1784141113458,
+   "rebuild_gen": 1784142335761,
    "slug": "inventory/variant/loud-labs-llc-doinks-joint-green-apple-651010",
    "subcategory": "other",
    "suggest": "doinks joint loud labs llc flower other green apple",
@@ -50623,7 +50703,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Joint",
    "non_trans": false,
-   "rebuild_gen": 1784141113458,
+   "rebuild_gen": 1784142335761,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-lime-sorbet-651011",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other lime sorbet",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651011",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lime Sorbet",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 35.18,
+       "min_percentage": 35.18
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3518",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784142335761,
    "slug": "inventory/variant/loud-labs-llc-doinks-joint-rocket-pop-651012",
    "subcategory": "other",
    "suggest": "doinks joint loud labs llc flower other rocket pop",
@@ -50700,7 +50857,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Joint",
    "non_trans": false,
-   "rebuild_gen": 1784141113458,
+   "rebuild_gen": 1784142335761,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-strawnana-651013",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other strawnana",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651013",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawnana",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 33.57,
+       "min_percentage": 33.57
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3357",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784142335761,
    "slug": "inventory/variant/loud-labs-llc-doinks-joint-sweet-grape-651008",
    "subcategory": "other",
    "suggest": "doinks joint loud labs llc flower other sweet grape",
@@ -50739,6 +50973,83 @@
        "cbn": null,
        "dthc": null,
        "thc": "3458",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "d2dcd01b-0611-43cf-b151-7a38146e8c30",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Joint",
+   "non_trans": false,
+   "rebuild_gen": 1784142335761,
+   "slug": "inventory/variant/loud-labs-llc-doinks-joint-wild-melon-651014",
+   "subcategory": "other",
+   "suggest": "doinks joint loud labs llc flower other wild melon",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651014",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Wild Melon",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 30.73,
+       "min_percentage": 30.73
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3073",
        "thca": null
       }
      ],
@@ -57262,90 +57573,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7147",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "eaa1c104-ec80-47be-b9b6-7a7e53898528",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Budder",
-   "non_trans": false,
-   "rebuild_gen": 1783890875602,
-   "slug": "inventory/variant/cold-baked-budder-peachberry-muffin-570613",
-   "subcategory": "budder",
-   "suggest": "budder cold baked concentrate peachberry muffin",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570613",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Peachberry Muffin",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 64.85,
-       "min_percentage": 64.85
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 800
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6485",
        "thca": null
       }
      ],

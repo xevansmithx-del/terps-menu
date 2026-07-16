@@ -315,13 +315,23 @@
   "price_max": 28.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 70.01,
-  "n_strains": 4,
+  "thc_max": 70.03,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Caked Up Bananas",
     "price": 28.0,
     "thc": 68.85
+   },
+   {
+    "name": "Cap Junky",
+    "price": 28.0,
+    "thc": 66.69
+   },
+   {
+    "name": "Gelato Junky",
+    "price": 28.0,
+    "thc": 67.73
    },
    {
     "name": "Red Velvet Mints",
@@ -331,7 +341,7 @@
    {
     "name": "Strawberry Banana",
     "price": 28.0,
-    "thc": 70.01
+    "thc": 70.03
    },
    {
     "name": "Trop Cherry",
@@ -3216,7 +3226,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.93,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3237,11 +3247,6 @@
     "name": "Grand Daddy Grape",
     "price": 12.0,
     "thc": 83.01
-   },
-   {
-    "name": "Orange Creamsicle",
-    "price": 12.0,
-    "thc": 84.09
    },
    {
     "name": "Pineapple Cake Express",
@@ -6416,22 +6421,17 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 71.47,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
    {
     "name": "Frosted Velvet",
     "price": 8.0,
     "thc": 71.47
-   },
-   {
-    "name": "Peachberry Muffin",
-    "price": 8.0,
-    "thc": 64.85
    }
   ],
   "description": "",
-  "wm_img": "https://images.weedmaps.com/products/000/541/859/avatar/1728311921-1698088165-an002-2b.png",
-  "match_score": 0.73,
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443299613_6492.jpg",
+  "match_score": 0.878,
   "vendor_name": "Cold Baked"
  },
  {
