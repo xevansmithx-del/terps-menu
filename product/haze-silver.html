@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/b014d9bc-547b-4293-b704-1f6b9df84855.jpg" fetchpriority="high" decoding="async" width="428" height="600" alt="Haze Silver by Haze Silver — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Haze Silver</div><h1>Haze Silver</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">80% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">80% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$12.10</div>
 <div class="otd" id="otdline">≈ $14.97 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Blue Razz Slushy" data-price="12.1"><div class="sn">Blue Razz Slushy</div><div class="sd">$12.10 · 80% THC</div></button><button class="strain-opt" data-strain="Guava Melon" data-price="12.1"><div class="sn">Guava Melon</div><div class="sd">$12.10 · 80% THC</div></button><button class="strain-opt" data-strain="Pink Rozay" data-price="12.1"><div class="sn">Pink Rozay</div><div class="sd">$12.10 · 77% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Blue Razz Slushy" data-price="12.1"><div class="sn">Blue Razz Slushy</div><div class="sd">$12.10 · 80% THC</div></button><button class="strain-opt" data-strain="Guava Melon" data-price="12.1"><div class="sn">Guava Melon</div><div class="sd">$12.10 · 80% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Ask our budtenders about Haze Silver — NATTY REMS LLC&#x27;s vape cartridge, live on the Terps menu in Pueblo. It tests at 79.9% THC. Pick between 3 in-stock options like Blue Razz Slushy, Guava Melon, Pink Rozay. It is ringing up at $12.10. It&#x27;s available for online reservation and in-store pickup at our recreational shop, 21+ only.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "b014d9bc-547b-4293-b704-1f6b9df84855", "name": "Haze Silver", "brand": "Haze Silver", "photo": "../img/products/b014d9bc-547b-4293-b704-1f6b9df84855.jpg", "price": 12.1, "unit": "", "unit_label": "", "strains": [{"name": "Blue Razz Slushy", "price": 12.1, "thc": 79.6}, {"name": "Guava Melon", "price": 12.1, "thc": 79.87}, {"name": "Pink Rozay", "price": 12.1, "thc": 76.94}]};
+const PROD={"id": "b014d9bc-547b-4293-b704-1f6b9df84855", "name": "Haze Silver", "brand": "Haze Silver", "photo": "../img/products/b014d9bc-547b-4293-b704-1f6b9df84855.jpg", "price": 12.1, "unit": "", "unit_label": "", "strains": [{"name": "Blue Razz Slushy", "price": 12.1, "thc": 79.6}, {"name": "Guava Melon", "price": 12.1, "thc": 79.87}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

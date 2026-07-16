@@ -39,7 +39,7 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 34,
+  "NATTY REMS LLC": 33,
   "SPHEREX": 6,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 378,
+   "count": 377,
    "subcategories": {
     "budder": 11,
-    "cartridge": 178,
+    "cartridge": 177,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 740,
+ "hits": 739,
  "results": [
   {
    "availability": "",
@@ -10370,7 +10370,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-apples-bananas-550906",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge apples & bananas",
@@ -10484,7 +10484,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-banana-runtz-532381",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge banana runtz",
@@ -10588,7 +10588,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blackberry-kush-532382",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blackberry kush",
@@ -10672,7 +10672,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-blue-raz-552633",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge blue raz",
@@ -10756,7 +10756,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-bubble-gum-532383",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge bubble gum",
@@ -10850,7 +10850,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-grape-runtz-532384",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge grape runtz",
@@ -10954,7 +10954,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lime-sorbet-570658",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lime sorbet",
@@ -11038,7 +11038,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
@@ -11122,7 +11122,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -11206,7 +11206,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-red-apple-550908",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge red apple",
@@ -11310,7 +11310,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-pop-555495",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket pop",
@@ -11394,7 +11394,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
@@ -11471,7 +11471,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-soda-pop-532378",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge soda pop",
@@ -11565,7 +11565,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-sour-tangie-538078",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge sour tangie",
@@ -11659,7 +11659,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Cartridges 1g",
    "non_trans": false,
-   "rebuild_gen": 1784136087352,
+   "rebuild_gen": 1784215110364,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-watermelon-zlushie-564268",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge watermelon zlushie",
@@ -43774,7 +43774,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -43788,7 +43788,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784223650658,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-blue-razz-slushy-557710",
    "subcategory": "cartridge",
    "suggest": "haze silver natty rems llc concentrate cartridge blue razz slushy",
@@ -43851,7 +43851,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -43865,7 +43865,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784223650658,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-guava-melon-560590",
    "subcategory": "cartridge",
    "suggest": "haze silver natty rems llc concentrate cartridge guava melon",
@@ -43914,93 +43914,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7987",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b014d9bc-547b-4293-b704-1f6b9df84855",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-pink-rozay-560589",
-   "subcategory": "cartridge",
-   "suggest": "haze silver natty rems llc concentrate cartridge pink rozay",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "560589",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Pink Rozay",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 76.94,
-       "min_percentage": 73.14
-      }
-     },
-     "price": 1210,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7694",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7314",
        "thca": null
       }
      ],
@@ -48418,7 +48331,7 @@
        "min_percentage": 75.91
       }
      },
-     "price": 868,
+     "price": 807,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -48572,7 +48485,7 @@
        "min_percentage": 71.4
       }
      },
-     "price": 868,
+     "price": 807,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,

@@ -4726,7 +4726,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 79.87,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Blue Razz Slushy",
@@ -4737,11 +4737,6 @@
     "name": "Guava Melon",
     "price": 12.1,
     "thc": 79.87
-   },
-   {
-    "name": "Pink Rozay",
-    "price": 12.1,
-    "thc": 76.94
    }
   ],
   "description": "",
@@ -5272,7 +5267,7 @@
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 8.06,
-  "price_max": 8.68,
+  "price_max": 8.07,
   "unit": "",
   "unit_kind": "",
   "thc_max": 75.91,
@@ -5290,7 +5285,7 @@
    },
    {
     "name": "Crosswalker",
-    "price": 8.68,
+    "price": 8.07,
     "thc": 75.91
    },
    {
@@ -5300,7 +5295,7 @@
    },
    {
     "name": "Sunset Punch",
-    "price": 8.68,
+    "price": 8.07,
     "thc": 71.4
    }
   ],
