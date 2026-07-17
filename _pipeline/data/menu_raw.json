@@ -16,9 +16,9 @@
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 136,
+  "Craft": 141,
   "David Jackson LLC": 17,
-  "Denver Dab Co": 40,
+  "Denver Dab Co": 44,
   "Denver Packaging Company": 1,
   "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -40,7 +40,7 @@
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
   "NATTY REMS LLC": 33,
-  "SPHEREX": 6,
+  "SPHEREX": 15,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
@@ -51,19 +51,19 @@
  },
  "categories": {
   "concentrate": {
-   "count": 372,
+   "count": 390,
    "subcategories": {
     "budder": 10,
-    "cartridge": 175,
+    "cartridge": 186,
     "crumble": 4,
     "cured extract": 3,
     "distillate": 23,
-    "live extract": 21,
+    "live extract": 22,
     "resin": 2,
     "shatter": 15,
     "solventless": 25,
-    "syringe": 7,
-    "wax": 87
+    "syringe": 9,
+    "wax": 91
    }
   },
   "edible": {
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 733,
+ "hits": 751,
  "results": [
   {
    "availability": "",
@@ -521,7 +521,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1783890868708,
+   "rebuild_gen": 1784313450171,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-black-label-bacon-573505",
+   "subcategory": "wax",
+   "suggest": "denver dabs 4g denver dab co concentrate wax black label bacon",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573505",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Black Label Bacon",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 68.9,
+       "min_percentage": 68.9
+      }
+     },
+     "price": 2200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6890",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 4g",
+   "non_trans": false,
+   "rebuild_gen": 1784313450171,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-chemdawg-554630",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax chemdawg",
@@ -5523,7 +5600,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5617,7 +5694,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-divine-kush-breath-556363",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract divine kush breath",
@@ -5701,7 +5778,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -5723,7 +5800,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 75.8,
+       "max_percentage": 77.51,
        "min_percentage": 75.8
       }
      },
@@ -5739,6 +5816,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7751",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -5785,7 +5872,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
@@ -5869,7 +5956,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -5916,6 +6003,16 @@
        "dthc": null,
        "thc": "7682",
        "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7682",
+       "thca": null
       }
      ],
      "tags": [
@@ -5953,7 +6050,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -5991,6 +6088,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7721",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -6057,7 +6164,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lilac-diesel-558034",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lilac diesel",
@@ -6141,7 +6248,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -6225,7 +6332,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784046854787,
+   "rebuild_gen": 1784307409643,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-starfire-cream-572902",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract starfire cream",
@@ -6292,6 +6399,90 @@
    "category": "concentrate",
    "default_image": "",
    "description": " ",
+   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Panacea Live Resin Cart 1000mg",
+   "non_trans": false,
+   "rebuild_gen": 1784307409643,
+   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-strawberry-lemonade-572128",
+   "subcategory": "live extract",
+   "suggest": "panacea live resin cart 1000mg craft concentrate live extract strawberry lemonade",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "572128",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Lemonade",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78.01,
+       "min_percentage": 78.01
+      }
+     },
+     "price": 1300,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1300
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7801",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
    "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
    "images": [
     {
@@ -6302,7 +6493,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-chemtrails-562795",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien chemtrails",
@@ -6379,7 +6570,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-runtz-565318",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien runtz",
@@ -6456,7 +6647,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-bio-chem-ice-565593",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax bio chem ice",
@@ -6533,7 +6724,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-cement-sherbert-cake-566999",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax cement sherbert cake",
@@ -6610,7 +6801,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-chem-gmo-cake-565323",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax chem gmo cake",
@@ -6687,7 +6878,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-diesel-chemdawg-562783",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax diesel chemdawg",
@@ -6764,7 +6955,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dip-n-grapes-564501",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dip n grapes",
@@ -6841,7 +7032,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-driver-n-grapes-564503",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax driver n grapes",
@@ -6918,7 +7109,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dulce-syrup-571358",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dulce syrup",
@@ -6995,7 +7186,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-durban-face-off-567130",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax durban face off",
@@ -7072,7 +7263,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-flo-white-7-567000",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax flo white #7",
@@ -7149,7 +7340,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-forbidden-dreams-569444",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax forbidden dreams",
@@ -7226,7 +7417,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gas-face-marshmello-569443",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gas face marshmello",
@@ -7303,7 +7494,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gg4-butter-565592",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gg4 butter",
@@ -7380,7 +7571,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gmo-banana-571348",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gmo banana",
@@ -7457,7 +7648,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-goldmember-567320",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax goldmember",
@@ -7534,7 +7725,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-head-banger-sherbert-571357",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax head banger sherbert",
@@ -7611,7 +7802,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-monkey-spunk-567321",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax monkey spunk",
@@ -7688,7 +7879,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-og-grape-kush-567304",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax og grape kush",
@@ -7765,7 +7956,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pablo-s-driver-564500",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pablo's driver",
@@ -7842,7 +8033,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-peanut-butter-pancakes-565322",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax peanut butter pancakes",
@@ -7919,7 +8110,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pie-breath-571363",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pie breath",
@@ -7996,7 +8187,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-platinum-driver-x-565591",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax platinum driver x",
@@ -8073,7 +8264,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-purple-thai-567131",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax purple thai",
@@ -8150,7 +8341,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-red-velvet-cake-567305",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax red velvet cake",
@@ -8227,7 +8418,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-scoops-567306",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax scoops",
@@ -8304,7 +8495,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sfv-chem-571346",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sfv chem",
@@ -8381,7 +8572,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sherbanger-567319",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sherbanger",
@@ -8458,7 +8649,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sour-durban-569452",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sour durban",
@@ -8535,7 +8726,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-571362",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg",
@@ -8612,7 +8803,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-guava-567122",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg guava",
@@ -8689,7 +8880,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-banana-573507",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana banana",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573507",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Tropicana Banana",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78.5,
+       "min_percentage": 78.5
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7850",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-cherry-565599",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana cherry",
@@ -8766,7 +9034,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-truffle-breath-567003",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax truffle breath",
@@ -8843,7 +9111,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-uva-banger-571364",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax uva banger",
@@ -8920,7 +9188,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1782925435319,
+   "rebuild_gen": 1784314165868,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-wicked-glueball-565350",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax wicked glueball",
@@ -20336,7 +20604,7 @@
        "min_percentage": 70.74
       }
      },
-     "price": 484,
+     "price": 601,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -24817,6 +25085,475 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-grand-daddy-purple-545111",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge grand daddy purple",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545111",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Grand Daddy Purple",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 92.3,
+       "min_percentage": 92.3
+      }
+     },
+     "price": 1935,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1452
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "9230",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-lemon-haze-545121",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge lemon haze",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545121",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lemon Haze",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 82.9,
+       "min_percentage": 82.9
+      }
+     },
+     "price": 1935,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8290",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-mango-kush-545118",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge mango kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545118",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mango Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 87.8,
+       "min_percentage": 87.8
+      }
+     },
+     "price": 1935,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8780",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-pineapple-mimosa-545109",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge pineapple mimosa",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545109",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Pineapple Mimosa",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 83,
+       "min_percentage": 83
+      }
+     },
+     "price": 1935,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8300",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-strawberry-diesel-545120",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge strawberry diesel",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545120",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Diesel",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 85.8,
+       "min_percentage": 85.8
+      }
+     },
+     "price": 1935,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8580",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "57505b92-76b0-4259-8525-a99ca946e003",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Spherex 1g Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784312490674,
+   "slug": "inventory/variant/spherex-spherex-1g-cart-watermelon-gelato-545116",
+   "subcategory": "cartridge",
+   "suggest": "spherex 1g cart spherex concentrate cartridge watermelon gelato",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "545116",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Watermelon Gelato",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 81.7,
+       "min_percentage": 81.7
+      }
+     },
+     "price": 1935,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8170",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
@@ -32393,7 +33130,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-apple-fizz-og-553699",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe apple fizz og",
@@ -32477,7 +33214,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-cherry-limeade-558765",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe cherry limeade",
@@ -32571,7 +33308,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-churroz-553696",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe churroz",
@@ -32665,7 +33402,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
+   "slug": "inventory/variant/craft-sesh-syringe-1g-electric-lemonade-553705",
+   "subcategory": "syringe",
+   "suggest": "sesh syringe 1g craft concentrate syringe electric lemonade",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "553705",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Electric Lemonade",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 89.95,
+       "min_percentage": 89.95
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1100
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8995",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "syringe"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh Syringe 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-grand-daddy-grape-553695",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe grand daddy grape",
@@ -32759,7 +33580,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-pineapple-cake-express-553702",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe pineapple cake express",
@@ -32786,14 +33607,7 @@
       }
      },
      "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -32843,7 +33657,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-root-beer-kush-553700",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe root beer kush",
@@ -32927,7 +33741,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1783712499823,
+   "rebuild_gen": 1784306076268,
    "slug": "inventory/variant/craft-sesh-syringe-1g-watermelon-bubblegum-553697",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe watermelon bubblegum",
@@ -32994,6 +33808,90 @@
    "category": "concentrate",
    "default_image": "",
    "description": " ",
+   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh Syringe 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784306076268,
+   "slug": "inventory/variant/craft-sesh-syringe-1g-white-runtz-558766",
+   "subcategory": "syringe",
+   "suggest": "sesh syringe 1g craft concentrate syringe white runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "558766",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "White Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 85.81,
+       "min_percentage": 85.81
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1100
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8581",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "syringe"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
    "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
    "images": [
     {
@@ -33004,7 +33902,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1783890790997,
+   "rebuild_gen": 1784313749747,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-animal-mints-573506",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax animal mints",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573506",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Animal Mints",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72.4,
+       "min_percentage": 72.4
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7240",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784313749747,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-banana-split-573501",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax banana split",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573501",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Banana Split",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78.8,
+       "min_percentage": 78.8
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7880",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784313749747,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-biscotti-sherb-562786",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax biscotti sherb",
@@ -33081,7 +34133,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1783890790997,
+   "rebuild_gen": 1784313749747,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-chem-gg4-571371",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax chem gg4",
@@ -33158,7 +34210,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1783890790997,
+   "rebuild_gen": 1784313749747,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-mad-mango-571356",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax mad mango",
@@ -33235,7 +34287,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1783890790997,
+   "rebuild_gen": 1784313749747,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-sorbet-de-uva-571343",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax sorbet de uva",
@@ -36344,7 +37396,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -36358,7 +37410,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784305842578,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-cherry-limeade-565094",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge cherry limeade",
@@ -36385,14 +37437,7 @@
       }
      },
      "price": 4500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3600
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -36428,7 +37473,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -36442,7 +37487,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784305842578,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-electric-lemonade-565321",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge electric lemonade",
@@ -36469,14 +37514,7 @@
       }
      },
      "price": 4500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3600
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -36512,7 +37550,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -36526,7 +37564,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784305842578,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-orange-creamsicle-565331",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge orange creamsicle",
@@ -36553,14 +37591,7 @@
       }
      },
      "price": 4500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3600
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -36596,7 +37627,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "concentrate",
    "default_image": "",
    "description": " ",
@@ -36610,7 +37641,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1784305842578,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-pineapple-cake-express-565095",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge pineapple cake express",
@@ -36637,14 +37668,7 @@
       }
      },
      "price": 4500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3600
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -36656,6 +37680,170 @@
        "cbn": null,
        "dthc": null,
        "thc": "7905",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh super Seshie All in One",
+   "non_trans": false,
+   "rebuild_gen": 1784305842578,
+   "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-watermelon-bubblegum-573493",
+   "subcategory": "cartridge",
+   "suggest": "sesh super seshie all in one craft concentrate cartridge watermelon bubblegum",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573493",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Watermelon Bubblegum",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.27,
+       "min_percentage": 75.27
+      }
+     },
+     "price": 3387,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7527",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh super Seshie All in One",
+   "non_trans": false,
+   "rebuild_gen": 1784305842578,
+   "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-white-runtz-565093",
+   "subcategory": "cartridge",
+   "suggest": "sesh super seshie all in one craft concentrate cartridge white runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "565093",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "White Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 85.82,
+       "min_percentage": 76.91
+      }
+     },
+     "price": 4500,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8582",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7691",
        "thca": null
       }
      ],
@@ -43991,7 +45179,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-apple-sauce-530461",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge apple sauce",
@@ -44078,7 +45266,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-baked-banana-549685",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge baked banana",
@@ -44175,7 +45363,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-blueberry-swirl-530462",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge blueberry swirl",
@@ -44262,7 +45450,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
@@ -44293,6 +45481,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7495",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -44339,7 +45537,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-citrus-splash-564897",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge citrus splash",
@@ -44426,7 +45624,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-mango-squeezed-530463",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge mango squeezed",
@@ -44457,6 +45655,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7989",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -44523,7 +45731,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-maple-drip-559097",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge maple drip",
@@ -44630,7 +45838,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-orange-krush-556296",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge orange krush",
@@ -44717,7 +45925,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
@@ -44794,7 +46002,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -44891,7 +46099,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
@@ -44968,7 +46176,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1784243774953,
+   "rebuild_gen": 1784306736480,
    "slug": "inventory/variant/craft-oil-twist-cartridge-watermelon-ice-530466",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge watermelon ice",
@@ -48322,7 +49530,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-blackberry-gelato-550362",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge blackberry gelato",
@@ -48344,22 +49552,25 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 80.1,
+       "max_percentage": 86.2,
        "min_percentage": 80.1
       }
      },
      "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8620",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -48416,7 +49627,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-blueberry-cake-526505",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge blueberry cake",
@@ -48439,7 +49650,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 85.5,
-       "min_percentage": 85.5
+       "min_percentage": 82.3
       }
      },
      "price": 1200,
@@ -48454,6 +49665,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8230",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -48500,7 +49721,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-cereal-milk-526504",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge cereal milk",
@@ -48523,7 +49744,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 78.1,
-       "min_percentage": 78.1
+       "min_percentage": 77.3
       }
      },
      "price": 1200,
@@ -48538,6 +49759,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7730",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -48584,7 +49815,175 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
+   "slug": "inventory/variant/spherex-1g-cart-cherry-kush-526888",
+   "subcategory": "cartridge",
+   "suggest": "1g cart spherex concentrate cartridge cherry kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "526888",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 95.9,
+       "min_percentage": 95.9
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1000
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "9590",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c27ccf21-134d-4db3-9da3-cec598a7e7f7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "1G Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784310884592,
+   "slug": "inventory/variant/spherex-1g-cart-melon-baller-550364",
+   "subcategory": "cartridge",
+   "suggest": "1g cart spherex concentrate cartridge melon baller",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "550364",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Melon Baller",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 88.6,
+       "min_percentage": 88.6
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1000
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8860",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c27ccf21-134d-4db3-9da3-cec598a7e7f7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "1G Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-northern-lights-550363",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge northern lights",
@@ -48606,22 +50005,25 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 77.9,
+       "max_percentage": 94.3,
        "min_percentage": 77.9
       }
      },
      "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "9430",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -48668,7 +50070,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-papaya-dream-526506",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge papaya dream",
@@ -48690,7 +50092,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 83,
+       "max_percentage": 86.7,
        "min_percentage": 83
       }
      },
@@ -48699,6 +50101,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8670",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -48755,7 +50167,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1783890420094,
+   "rebuild_gen": 1784310884592,
    "slug": "inventory/variant/spherex-1g-cart-strawguava-532775",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge strawguava",
@@ -48777,7 +50189,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 75.1,
+       "max_percentage": 82.8,
        "min_percentage": 75.1
       }
      },
@@ -48800,6 +50212,16 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
+       "thc": "8280",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
        "thc": "7510",
        "thca": null
       },
@@ -48811,6 +50233,90 @@
        "cbn": null,
        "dthc": null,
        "thc": "7510",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "26677591-b9cf-4dac-93de-45a4544bec7b",
+    "license": "404R-00422",
+    "medical": false,
+    "name": "SPHEREX",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c27ccf21-134d-4db3-9da3-cec598a7e7f7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "1G Cart",
+   "non_trans": false,
+   "rebuild_gen": 1784310884592,
+   "slug": "inventory/variant/spherex-1g-cart-tropical-runtz-526508",
+   "subcategory": "cartridge",
+   "suggest": "1g cart spherex concentrate cartridge tropical runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "526508",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Tropical Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 90,
+       "min_percentage": 90
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1000
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "9000",
        "thca": null
       }
      ],
