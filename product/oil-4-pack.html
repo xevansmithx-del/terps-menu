@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0.jpg" fetchpriority="high" decoding="async" width="600" height="600" alt="Oil 4 Pack by Craft Concentrates — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Craft Concentrates</div><h1>Oil 4 Pack</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">84% THC</span><span class="pill">4 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">84% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$34.00</div>
 <div class="otd" id="otdline">≈ $42.08 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (4)</p><div class="strain-grid"><button class="strain-opt" data-strain="Indica Multipack" data-price="34.0"><div class="sn">Indica Multipack</div><div class="sd">$34.00 · 84% THC</div></button><button class="strain-opt" data-strain="Twist #1 Pack" data-price="34.0"><div class="sn">Twist #1 Pack</div><div class="sd">$34.00 · 80% THC</div></button><button class="strain-opt" data-strain="Twist #2 Pack" data-price="34.0"><div class="sn">Twist #2 Pack</div><div class="sd">$34.00 · 83% THC</div></button><button class="strain-opt" data-strain="Twist #3" data-price="34.0"><div class="sn">Twist #3</div><div class="sd">$34.00 · 79% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Indica Multipack" data-price="34.0"><div class="sn">Indica Multipack</div><div class="sd">$34.00 · 84% THC</div></button><button class="strain-opt" data-strain="Twist #3" data-price="34.0"><div class="sn">Twist #3</div><div class="sd">$34.00 · 79% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Ask our budtenders about Oil 4 Pack — Craft&#x27;s vape cartridge, live on the Terps menu in Pueblo. It tests at 86.2% THC. Pick between 3 in-stock options like Hybrid Multipack, Indica Multipack, Sativa Multipack. It is ringing up at $34. It&#x27;s available for online reservation and in-store pickup at our recreational shop, 21+ only.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0", "name": "Oil 4 Pack", "brand": "Craft Concentrates", "photo": "../img/products/a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0.jpg", "price": 34.0, "unit": "", "unit_label": "", "strains": [{"name": "Indica Multipack", "price": 34.0, "thc": 84.18}, {"name": "Twist #1 Pack", "price": 34.0, "thc": 79.72}, {"name": "Twist #2 Pack", "price": 34.0, "thc": 83.09}, {"name": "Twist #3", "price": 34.0, "thc": 79.09}]};
+const PROD={"id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0", "name": "Oil 4 Pack", "brand": "Craft Concentrates", "photo": "../img/products/a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0.jpg", "price": 34.0, "unit": "", "unit_label": "", "strains": [{"name": "Indica Multipack", "price": 34.0, "thc": 84.18}, {"name": "Twist #3", "price": 34.0, "thc": 79.09}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{

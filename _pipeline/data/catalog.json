@@ -1215,8 +1215,8 @@
   "price_max": 6.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 23.93,
-  "n_strains": 5,
+  "thc_max": 19.79,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Apricot Scone x Chem Rock Runtz",
@@ -1227,11 +1227,6 @@
     "name": "Apricot Scone x Orange Julius",
     "price": 6.0,
     "thc": 19.79
-   },
-   {
-    "name": "Black Cherry Soda x Terp 30",
-    "price": 6.0,
-    "thc": 23.93
    },
    {
     "name": "Choco Mint x Cherry Garlic",
@@ -2531,7 +2526,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.77,
-  "n_strains": 13,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Apricot Cookies",
@@ -2582,11 +2577,6 @@
     "name": "Peyote Cookies",
     "price": 6.0,
     "thc": 65.49
-   },
-   {
-    "name": "Sour Diesel",
-    "price": 4.84,
-    "thc": 66.1
    },
    {
     "name": "Tallymon Gold",
@@ -3970,31 +3960,6 @@
   "vendor_name": "Vera"
  },
  {
-  "id": "99aa7be9-7673-407d-8af4-0cec1b3565d1",
-  "slug": "riptz",
-  "name": "Riptz",
-  "brand": "Lifestyle Foods",
-  "category": "edible",
-  "subcategory": "candy",
-  "price_min": 13.0,
-  "price_max": 13.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": null,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Variety 40pk",
-    "price": 13.0,
-    "thc": null
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443738071_IMG_4411.jpeg",
-  "match_score": 0.738,
-  "vendor_name": "Lifestyle Foods Inc"
- },
- {
   "id": "9aba0756-6356-424a-a683-db6d81054328",
   "slug": "don-mega",
   "name": "Don Mega",
@@ -4231,22 +4196,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.18,
-  "n_strains": 4,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Indica Multipack",
     "price": 34.0,
     "thc": 84.18
-   },
-   {
-    "name": "Twist #1 Pack",
-    "price": 34.0,
-    "thc": 79.72
-   },
-   {
-    "name": "Twist #2 Pack",
-    "price": 34.0,
-    "thc": 83.09
    },
    {
     "name": "Twist #3",
@@ -6591,17 +6546,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 69.6,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
    {
     "name": "Blue Dream",
     "price": 28.0,
     "thc": 69.6
-   },
-   {
-    "name": "GG4",
-    "price": 28.0,
-    "thc": 61.52
    }
   ],
   "description": "",
