@@ -1170,8 +1170,8 @@
   "price_max": 24.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 85.84,
-  "n_strains": 7,
+  "thc_max": 83.53,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Blueberry Bubble",
@@ -1182,11 +1182,6 @@
     "name": "Fresh Squeeze",
     "price": 24.0,
     "thc": 71.05
-   },
-   {
-    "name": "Grand Daddy Purps",
-    "price": 24.0,
-    "thc": 85.84
    },
    {
     "name": "Mango Kush",
@@ -1971,13 +1966,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.29,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
-   {
-    "name": "Apple Fizz",
-    "price": 15.0,
-    "thc": 69.92
-   },
    {
     "name": "Cherry Limeade",
     "price": 15.0,
@@ -4401,13 +4391,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.48,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
-   {
-    "name": "Apple Sauce",
-    "price": 15.0,
-    "thc": 78.91
-   },
    {
     "name": "Baked Banana",
     "price": 15.0,

@@ -16,7 +16,7 @@
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 139,
+  "Craft": 136,
   "David Jackson LLC": 17,
   "Denver Dab Co": 57,
   "Denver Packaging Company": 1,
@@ -51,13 +51,13 @@
  },
  "categories": {
   "concentrate": {
-   "count": 400,
+   "count": 397,
    "subcategories": {
     "budder": 10,
-    "cartridge": 186,
+    "cartridge": 184,
     "crumble": 4,
     "cured extract": 3,
-    "distillate": 23,
+    "distillate": 22,
     "live extract": 22,
     "resin": 2,
     "shatter": 15,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 759,
+ "hits": 756,
  "results": [
   {
    "availability": "",
@@ -13542,83 +13542,6 @@
    "name": "Oil Tugboat 2000mg",
    "non_trans": false,
    "rebuild_gen": 1783890005009,
-   "slug": "inventory/variant/craft-oil-tugboat-2000mg-grand-daddy-purps-535793",
-   "subcategory": "cartridge",
-   "suggest": "oil tugboat 2000mg craft concentrate cartridge grand daddy purps",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "535793",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Grand Daddy Purps",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 85.84,
-       "min_percentage": 85.84
-      }
-     },
-     "price": 2400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8584",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "20e7cdd9-a3e9-4041-aa91-5d71f6ed5143",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Tugboat 2000mg",
-   "non_trans": false,
-   "rebuild_gen": 1783890005009,
    "slug": "inventory/variant/craft-oil-tugboat-2000mg-mango-kush-535789",
    "subcategory": "cartridge",
    "suggest": "oil tugboat 2000mg craft concentrate cartridge mango kush",
@@ -19906,90 +19829,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "50f220ed-ac88-45e5-a4d5-c1fdf149317f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Seshie 1gram",
-   "non_trans": false,
-   "rebuild_gen": 1783890669795,
-   "slug": "inventory/variant/craft-seshie-1gram-apple-fizz-570320",
-   "subcategory": "distillate",
-   "suggest": "seshie 1gram craft concentrate distillate apple fizz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "570320",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Apple Fizz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 69.92,
-       "min_percentage": 69.92
-      }
-     },
-     "price": 1500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6992",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "distillate"
   },
   {
    "availability": "",
@@ -42567,83 +42406,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "a9f6f386-a83f-467a-8cac-0d4342518e05",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Tugboat 1000",
-   "non_trans": false,
-   "rebuild_gen": 1783896639604,
-   "slug": "inventory/variant/craft-oil-twist-tugboat-1000-apple-sauce-544198",
-   "subcategory": "cartridge",
-   "suggest": "oil twist tugboat 1000 craft concentrate cartridge apple sauce",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "544198",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Apple Sauce",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 78.91,
-       "min_percentage": 78.91
-      }
-     },
-     "price": 1500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7891",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
