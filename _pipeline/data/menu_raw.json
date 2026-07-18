@@ -16,9 +16,9 @@
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 141,
+  "Craft": 139,
   "David Jackson LLC": 17,
-  "Denver Dab Co": 44,
+  "Denver Dab Co": 57,
   "Denver Packaging Company": 1,
   "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -51,7 +51,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 390,
+   "count": 401,
    "subcategories": {
     "budder": 10,
     "cartridge": 186,
@@ -63,7 +63,7 @@
     "shatter": 15,
     "solventless": 25,
     "syringe": 9,
-    "wax": 91
+    "wax": 102
    }
   },
   "edible": {
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 751,
+ "hits": 762,
  "results": [
   {
    "availability": "",
@@ -521,7 +521,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784313450171,
+   "rebuild_gen": 1784320816941,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-black-label-bacon-573505",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax black label bacon",
@@ -598,7 +598,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784313450171,
+   "rebuild_gen": 1784320816941,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-chemdawg-554630",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax chemdawg",
@@ -637,6 +637,324 @@
        "cbn": null,
        "dthc": null,
        "thc": "7320",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 4g",
+   "non_trans": false,
+   "rebuild_gen": 1784320816941,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-don-mega-573518",
+   "subcategory": "wax",
+   "suggest": "denver dabs 4g denver dab co concentrate wax don mega",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573518",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Don Mega",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 69.2,
+       "min_percentage": 69.2
+      }
+     },
+     "price": 2200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6920",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 4g",
+   "non_trans": false,
+   "rebuild_gen": 1784320816941,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-jilly-bean-573516",
+   "subcategory": "wax",
+   "suggest": "denver dabs 4g denver dab co concentrate wax jilly bean",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573516",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Jilly Bean",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 77.3,
+       "min_percentage": 77.3
+      }
+     },
+     "price": 2200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7730",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 4g",
+   "non_trans": false,
+   "rebuild_gen": 1784320816941,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-tropicana-banana-573515",
+   "subcategory": "wax",
+   "suggest": "denver dabs 4g denver dab co concentrate wax tropicana banana",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573515",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Tropicana Banana",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78.5,
+       "min_percentage": 78.5
+      }
+     },
+     "price": 2200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7850",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7850",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "06189bfc-3a56-4d41-a800-105872990ce7",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 4g",
+   "non_trans": false,
+   "rebuild_gen": 1784320816941,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-vanilla-kush-573512",
+   "subcategory": "wax",
+   "suggest": "denver dabs 4g denver dab co concentrate wax vanilla kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573512",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Vanilla Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67.9,
+       "min_percentage": 67.9
+      }
+     },
+     "price": 2200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6790",
        "thca": null
       }
      ],
@@ -6493,7 +6811,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-chemtrails-562795",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien chemtrails",
@@ -6570,7 +6888,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-runtz-565318",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien runtz",
@@ -6647,7 +6965,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-bio-chem-ice-565593",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax bio chem ice",
@@ -6724,7 +7042,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-cement-sherbert-cake-566999",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax cement sherbert cake",
@@ -6801,7 +7119,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-chem-gmo-cake-565323",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax chem gmo cake",
@@ -6878,7 +7196,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-diesel-chemdawg-562783",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax diesel chemdawg",
@@ -6955,7 +7273,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dip-n-grapes-564501",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dip n grapes",
@@ -7032,7 +7350,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-driver-n-grapes-564503",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax driver n grapes",
@@ -7109,7 +7427,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dulce-syrup-571358",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dulce syrup",
@@ -7186,7 +7504,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-durban-face-off-567130",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax durban face off",
@@ -7263,7 +7581,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-flo-white-7-567000",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax flo white #7",
@@ -7340,7 +7658,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-forbidden-dreams-569444",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax forbidden dreams",
@@ -7417,7 +7735,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gas-face-marshmello-569443",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gas face marshmello",
@@ -7494,7 +7812,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gg4-butter-565592",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gg4 butter",
@@ -7571,7 +7889,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gmo-banana-571348",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gmo banana",
@@ -7648,7 +7966,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-goldmember-567320",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax goldmember",
@@ -7725,7 +8043,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-head-banger-sherbert-571357",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax head banger sherbert",
@@ -7802,7 +8120,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-monkey-spunk-567321",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax monkey spunk",
@@ -7879,7 +8197,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-og-grape-kush-567304",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax og grape kush",
@@ -7956,7 +8274,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pablo-s-driver-564500",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pablo's driver",
@@ -8033,7 +8351,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-peanut-butter-pancakes-565322",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax peanut butter pancakes",
@@ -8110,7 +8428,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pie-breath-571363",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pie breath",
@@ -8187,7 +8505,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-platinum-driver-x-565591",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax platinum driver x",
@@ -8264,7 +8582,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-purple-thai-567131",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax purple thai",
@@ -8341,7 +8659,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-red-dawn-573520",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax red dawn",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573520",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Red Dawn",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 73.3,
+       "min_percentage": 73.3
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7330",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-red-velvet-cake-567305",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax red velvet cake",
@@ -8418,7 +8813,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-scoops-567306",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax scoops",
@@ -8495,7 +8890,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sfv-chem-571346",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sfv chem",
@@ -8572,7 +8967,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sfv-og-573509",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax sfv og",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573509",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "SFV OG",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72,
+       "min_percentage": 72
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7200",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sherbanger-567319",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sherbanger",
@@ -8649,7 +9121,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-soap-573510",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax soap",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573510",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Soap",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72.3,
+       "min_percentage": 72.3
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7230",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sour-durban-569452",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sour durban",
@@ -8726,7 +9275,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-571362",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg",
@@ -8803,7 +9352,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-guava-567122",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg guava",
@@ -8880,7 +9429,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-banana-573507",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana banana",
@@ -8957,7 +9506,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-cherry-565599",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana cherry",
@@ -9034,7 +9583,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-truffle-breath-567003",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax truffle breath",
@@ -9111,7 +9660,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-truffle-gas-cake-573511",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax truffle gas cake",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573511",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Truffle Gas Cake",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 76.1,
+       "min_percentage": 76.1
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7610",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-uva-banger-571364",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax uva banger",
@@ -9188,7 +9814,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784314165868,
+   "rebuild_gen": 1784321170978,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-watermelonz-573508",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax watermelonz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573508",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Watermelonz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.1,
+       "min_percentage": 75.1
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7510",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784321170978,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-wicked-glueball-565350",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax wicked glueball",
@@ -14142,160 +14845,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1979",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Infused Nug Cone",
-   "non_trans": false,
-   "rebuild_gen": 1783528449040,
-   "slug": "inventory/variant/craft-sesh-infused-nug-cone-choco-mint-x-cherry-garlic-569680",
-   "subcategory": "wax",
-   "suggest": "sesh infused nug cone craft concentrate wax choco mint x cherry garlic",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569680",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Choco Mint x Cherry Garlic",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 15.99,
-       "min_percentage": 15.99
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1599",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Infused Nug Cone",
-   "non_trans": false,
-   "rebuild_gen": 1783528449040,
-   "slug": "inventory/variant/craft-sesh-infused-nug-cone-trop-cherry-x-lazer-fuel-569676",
-   "subcategory": "wax",
-   "suggest": "sesh infused nug cone craft concentrate wax trop cherry x lazer fuel",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569676",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Trop Cherry x Lazer Fuel",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 19.07,
-       "min_percentage": 19.07
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1907",
        "thca": null
       }
      ],
@@ -33902,7 +34451,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-animal-mints-573506",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax animal mints",
@@ -33979,7 +34528,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-banana-split-573501",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax banana split",
@@ -34056,7 +34605,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-biscotti-sherb-562786",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax biscotti sherb",
@@ -34133,7 +34682,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-chem-gg4-571371",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax chem gg4",
@@ -34210,7 +34759,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-donny-burger-573517",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax donny burger",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573517",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Donny Burger",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 78,
+       "min_percentage": 78
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7800",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784321015371,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-jilly-bean-573514",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax jilly bean",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573514",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Jilly Bean",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 77.3,
+       "min_percentage": 77.3
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7730",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-mad-mango-571356",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax mad mango",
@@ -34287,7 +34990,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 2G",
    "non_trans": false,
-   "rebuild_gen": 1784313749747,
+   "rebuild_gen": 1784321015371,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-san-fernando-573513",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax san fernando",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573513",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "San Fernando",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72,
+       "min_percentage": 72
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7200",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784321015371,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-sorbet-de-uva-571343",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax sorbet de uva",
@@ -34326,6 +35106,83 @@
        "cbn": null,
        "dthc": null,
        "thc": "6510",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dabs 2G",
+   "non_trans": false,
+   "rebuild_gen": 1784321015371,
+   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-sweet-syrup-573519",
+   "subcategory": "wax",
+   "suggest": "denver dabs 2g denver dab co concentrate wax sweet syrup",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573519",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Sweet Syrup",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 70.6,
+       "min_percentage": 70.6
+      }
+     },
+     "price": 1200,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7060",
        "thca": null
       }
      ],

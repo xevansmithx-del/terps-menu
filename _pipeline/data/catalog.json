@@ -70,8 +70,8 @@
   "price_max": 22.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 73.2,
-  "n_strains": 2,
+  "thc_max": 78.5,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Black Label Bacon",
@@ -82,6 +82,26 @@
     "name": "ChemDawg",
     "price": 22.0,
     "thc": 73.2
+   },
+   {
+    "name": "Don Mega",
+    "price": 22.0,
+    "thc": 69.2
+   },
+   {
+    "name": "Jilly Bean",
+    "price": 22.0,
+    "thc": 77.3
+   },
+   {
+    "name": "Tropicana Banana",
+    "price": 22.0,
+    "thc": 78.5
+   },
+   {
+    "name": "Vanilla Kush",
+    "price": 22.0,
+    "thc": 67.9
    }
   ],
   "description": "",
@@ -646,7 +666,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.6,
-  "n_strains": 36,
+  "n_strains": 41,
   "strains": [
    {
     "name": "Alien Chemtrails",
@@ -769,6 +789,11 @@
     "thc": 72.5
    },
    {
+    "name": "Red Dawn",
+    "price": 7.0,
+    "thc": 73.3
+   },
+   {
     "name": "Red Velvet Cake",
     "price": 7.0,
     "thc": 77.2
@@ -784,9 +809,19 @@
     "thc": 70.6
    },
    {
+    "name": "SFV OG",
+    "price": 7.0,
+    "thc": 72
+   },
+   {
     "name": "Sherbanger",
     "price": 7.0,
     "thc": 71.6
+   },
+   {
+    "name": "Soap",
+    "price": 7.0,
+    "thc": 72.3
    },
    {
     "name": "Sour Durban",
@@ -819,9 +854,19 @@
     "thc": 66.2
    },
    {
+    "name": "Truffle Gas Cake",
+    "price": 7.0,
+    "thc": 76.1
+   },
+   {
     "name": "Uva Banger",
     "price": 7.0,
     "thc": 67.5
+   },
+   {
+    "name": "Watermelonz",
+    "price": 7.0,
+    "thc": 75.1
    },
    {
     "name": "Wicked Glueball",
@@ -1231,7 +1276,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 19.79,
-  "n_strains": 4,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Apricot Scone x Chem Rock Runtz",
@@ -1242,16 +1287,6 @@
     "name": "Apricot Scone x Orange Julius",
     "price": 6.0,
     "thc": 19.79
-   },
-   {
-    "name": "Choco Mint x Cherry Garlic",
-    "price": 6.0,
-    "thc": 15.99
-   },
-   {
-    "name": "Trop Cherry x Lazer Fuel",
-    "price": 6.0,
-    "thc": 19.07
    }
   ],
   "description": "",
@@ -3296,7 +3331,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.8,
-  "n_strains": 6,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Animal Mints",
@@ -3319,14 +3354,34 @@
     "thc": 70.7
    },
    {
+    "name": "Donny Burger",
+    "price": 12.0,
+    "thc": 78
+   },
+   {
+    "name": "Jilly Bean",
+    "price": 12.0,
+    "thc": 77.3
+   },
+   {
     "name": "Mad Mango",
     "price": 12.0,
     "thc": 74.8
    },
    {
+    "name": "San Fernando",
+    "price": 12.0,
+    "thc": 72
+   },
+   {
     "name": "Sorbet De Uva",
     "price": 12.0,
     "thc": 65.1
+   },
+   {
+    "name": "Sweet Syrup",
+    "price": 12.0,
+    "thc": 70.6
    }
   ],
   "description": "",
