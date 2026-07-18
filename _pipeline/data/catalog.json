@@ -186,12 +186,12 @@
   "brand": "High Country Management Group",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 0.81,
+  "price_min": 2.42,
   "price_max": 4.03,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 18.12,
-  "n_strains": 6,
+  "thc_max": 17.99,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Bussin",
@@ -212,16 +212,6 @@
     "name": "Purple Mountain",
     "price": 4.03,
     "thc": 12.88
-   },
-   {
-    "name": "Sugar Bomb",
-    "price": 4.03,
-    "thc": 18.12
-   },
-   {
-    "name": "The Gas",
-    "price": 0.81,
-    "thc": 16.3
    }
   ],
   "description": "",
@@ -3543,31 +3533,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442587103_Gello.jpeg",
   "match_score": 0.874,
   "vendor_name": "Silver Lake"
- },
- {
-  "id": "859f98fc-02ca-4729-b7f6-15141db9f458",
-  "slug": "hype-wax",
-  "name": "HYPE Wax",
-  "brand": "Terps",
-  "category": "concentrate",
-  "subcategory": "wax",
-  "price_min": 8.0,
-  "price_max": 8.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 78.3,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Sherb Crasher",
-    "price": 8.0,
-    "thc": 78.3
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443807251_20260630_135010.jpg",
-  "match_score": 1.03,
-  "vendor_name": ""
  },
  {
   "id": "85f5de87-7ed1-4eb5-917e-d6cd5586fcaf",

@@ -1,6 +1,6 @@
 {
  "brands": {
-  "": 25,
+  "": 24,
   "(White Mousse) WM Concentrates LLC": 4,
   "1-11 LLC": 1,
   "14ER": 3,
@@ -24,7 +24,7 @@
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
   "Hi-Fuel": 8,
-  "High Country Management Group": 20,
+  "High Country Management Group": 18,
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
@@ -51,7 +51,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 401,
+   "count": 400,
    "subcategories": {
     "budder": 10,
     "cartridge": 186,
@@ -63,7 +63,7 @@
     "shatter": 15,
     "solventless": 25,
     "syringe": 9,
-    "wax": 102
+    "wax": 101
    }
   },
   "edible": {
@@ -78,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 262,
+   "count": 260,
    "subcategories": {
-    "hybrid": 194,
+    "hybrid": 192,
     "indica": 18,
     "other": 36,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 762,
+ "hits": 759,
  "results": [
   {
    "availability": "",
@@ -2201,167 +2201,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1288",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
-    "license": "403R-00521",
-    "medical": false,
-    "name": "High Country Management Group",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "09239fc0-9e49-4ab1-8638-d58576da377f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "High County Cones 2 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/high-country-management-group-high-county-cones-2-pack-sugar-bomb-616283",
-   "subcategory": "hybrid",
-   "suggest": "high county cones 2 pack high country management group flower hybrid sugar bomb",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "616283",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sugar Bomb",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 18.12,
-       "min_percentage": 18.12
-      }
-     },
-     "price": 403,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 323
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1812",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
-    "license": "403R-00521",
-    "medical": false,
-    "name": "High Country Management Group",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "09239fc0-9e49-4ab1-8638-d58576da377f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "High County Cones 2 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/high-country-management-group-high-county-cones-2-pack-the-gas-616285",
-   "subcategory": "hybrid",
-   "suggest": "high county cones 2 pack high country management group flower hybrid the gas",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "616285",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "The Gas",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 16.3,
-       "min_percentage": 16.3
-      }
-     },
-     "price": 81,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1630",
        "thca": null
       }
      ],
@@ -36692,83 +36531,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "859f98fc-02ca-4729-b7f6-15141db9f458",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "HYPE Wax",
-   "non_trans": false,
-   "rebuild_gen": 1782843604014,
-   "slug": "inventory/variant/hype-wax-sherb-crasher-572690",
-   "subcategory": "wax",
-   "suggest": "hype wax concentrate wax sherb crasher",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572690",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sherb Crasher",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 78.3,
-       "min_percentage": 78.3
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7830",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "dcebb4e5-5aba-41c7-b02a-337ccb015af4",
-    "license": "",
-    "medical": false,
-    "name": "",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
   },
   {
    "availability": "",
