@@ -9,10 +9,10 @@
   "Bespoke extracts colorado LLC.": 7,
   "Blue Cottage LLC": 7,
   "Bud Fox": 4,
-  "CALI BLAZE (OCC)": 3,
+  "CALI BLAZE (OCC)": 9,
   "CC Brands LLC": 9,
   "CLEARWATER BUDS LLC": 3,
-  "Chaos": 13,
+  "Chaos": 12,
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
@@ -54,8 +54,8 @@
    "count": 397,
    "subcategories": {
     "budder": 10,
-    "cartridge": 184,
-    "crumble": 4,
+    "cartridge": 185,
+    "crumble": 3,
     "cured extract": 3,
     "distillate": 22,
     "live extract": 22,
@@ -78,18 +78,18 @@
    }
   },
   "flower": {
-   "count": 260,
+   "count": 266,
    "subcategories": {
-    "hybrid": 192,
+    "hybrid": 198,
     "indica": 18,
     "other": 36,
     "sativa": 14
    }
   },
   "merchandise": {
-   "count": 8,
+   "count": 7,
    "subcategories": {
-    "accessory": 6,
+    "accessory": 5,
     "vape": 2
    }
   },
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 756,
+ "hits": 761,
  "results": [
   {
    "availability": "",
@@ -37868,7 +37868,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-cherry-limeade-565094",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge cherry limeade",
@@ -37945,7 +37945,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-electric-lemonade-565321",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge electric lemonade",
@@ -38022,7 +38022,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
+   "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-grand-daddy-grape-573558",
+   "subcategory": "cartridge",
+   "suggest": "sesh super seshie all in one craft concentrate cartridge grand daddy grape",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573558",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Grand Daddy Grape",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 79.02,
+       "min_percentage": 79.02
+      }
+     },
+     "price": 3387,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7902",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh super Seshie All in One",
+   "non_trans": false,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-orange-creamsicle-565331",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge orange creamsicle",
@@ -38099,7 +38176,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-pineapple-cake-express-565095",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge pineapple cake express",
@@ -38176,7 +38253,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-watermelon-bubblegum-573493",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge watermelon bubblegum",
@@ -38253,7 +38330,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh super Seshie All in One",
    "non_trans": false,
-   "rebuild_gen": 1784305842578,
+   "rebuild_gen": 1784404073160,
    "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-white-runtz-565093",
    "subcategory": "cartridge",
    "suggest": "sesh super seshie all in one craft concentrate cartridge white runtz",
@@ -49911,7 +49988,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-blackberry-gelato-550362",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge blackberry gelato",
@@ -50008,7 +50085,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-blueberry-cake-526505",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge blueberry cake",
@@ -50102,7 +50179,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-cereal-milk-526504",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge cereal milk",
@@ -50196,7 +50273,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-cherry-kush-526888",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge cherry kush",
@@ -50280,7 +50357,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-melon-baller-550364",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge melon baller",
@@ -50364,7 +50441,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-northern-lights-550363",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge northern lights",
@@ -50451,7 +50528,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-papaya-dream-526506",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge papaya dream",
@@ -50548,7 +50625,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-strawguava-532775",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge strawguava",
@@ -50652,7 +50729,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "1G Cart",
    "non_trans": false,
-   "rebuild_gen": 1784310884592,
+   "rebuild_gen": 1784403479454,
    "slug": "inventory/variant/spherex-1g-cart-tropical-runtz-526508",
    "subcategory": "cartridge",
    "suggest": "1g cart spherex concentrate cartridge tropical runtz",
@@ -53752,83 +53829,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Twister Pak",
-   "non_trans": false,
-   "rebuild_gen": 1783889759894,
-   "slug": "inventory/variant/chaos-twister-pak-gelato-cake-unknown-chemical-strawberry-dream-573135",
-   "subcategory": "crumble",
-   "suggest": "twister pak chaos concentrate crumble gelato cake, unknown chemical, strawberry dream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573135",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Gelato Cake, Unknown Chemical, Strawberry Dream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 3000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 82.97,
-       "min_percentage": 72.69
-      }
-     },
-     "price": 2258,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7269-8297",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
-    "license": "404R-00084",
-    "medical": false,
-    "name": "Chaos",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "crumble"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -55606,78 +55606,6 @@
    "name": "Battery",
    "non_trans": false,
    "rebuild_gen": 1783895180142,
-   "slug": "inventory/variant/craft-battery-palm-battery-423161",
-   "subcategory": "accessory",
-   "suggest": "battery craft merchandise accessory palm battery",
-   "suggest_weight": 11,
-   "type": "other",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "423161",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Palm Battery",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 0,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1000,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "merchandise",
-   "weave_subcategory": "accessory"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "merchandise",
-   "default_image": "",
-   "description": "Battery",
-   "id": "d90e0bf3-7a43-4d9b-aec0-697cde54f3e1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Battery",
-   "non_trans": false,
-   "rebuild_gen": 1783895180142,
    "slug": "inventory/variant/craft-battery-round-batteries-427005",
    "subcategory": "accessory",
    "suggest": "battery craft merchandise accessory round batteries",
@@ -55923,7 +55851,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Tarantulas",
    "non_trans": false,
-   "rebuild_gen": 1783895265811,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-blueberry-648741",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid blueberry",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "648741",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blueberry",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 33.21,
+       "min_percentage": 33.21
+      }
+     },
+     "price": 800,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 800
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3321",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
    "slug": "inventory/variant/cali-blaze-occ-tarantulas-cherry-cola-648740",
    "subcategory": "hybrid",
    "suggest": "tarantulas cali blaze (occ) flower hybrid cherry cola",
@@ -55945,7 +55957,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 33.1,
+       "max_percentage": 33.17,
        "min_percentage": 33.1
       }
      },
@@ -55961,6 +55973,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3317",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -56007,7 +56029,245 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Tarantulas",
    "non_trans": false,
-   "rebuild_gen": 1783895265811,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-cherry-lime-651167",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid cherry lime",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651167",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Lime",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 33.68,
+       "min_percentage": 33.68
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3368",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-cinnamon-churro-648737",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid cinnamon churro",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "648737",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cinnamon Churro",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 31.43,
+       "min_percentage": 31.43
+      }
+     },
+     "price": 800,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 800
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3143",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-dragon-fruit-651164",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid dragon fruit",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651164",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Dragon Fruit",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 34.41,
+       "min_percentage": 34.41
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3441",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
    "slug": "inventory/variant/cali-blaze-occ-tarantulas-green-apple-648691",
    "subcategory": "hybrid",
    "suggest": "tarantulas cali blaze (occ) flower hybrid green apple",
@@ -56091,7 +56351,168 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Tarantulas",
    "non_trans": false,
-   "rebuild_gen": 1783895265811,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-mango-651165",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid mango",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651165",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mango",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 33.21,
+       "min_percentage": 33.21
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3321",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
+   "slug": "inventory/variant/cali-blaze-occ-tarantulas-strawberry-lemonade-645913",
+   "subcategory": "hybrid",
+   "suggest": "tarantulas cali blaze (occ) flower hybrid strawberry lemonade",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "645913",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Strawberry Lemonade",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1200,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 36.91,
+       "min_percentage": 36.91
+      }
+     },
+     "price": 800,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 645
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3691",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "dd39a853-e6e2-426e-8d93-a23676421dd2",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantulas",
+   "non_trans": false,
+   "rebuild_gen": 1784422220957,
    "slug": "inventory/variant/cali-blaze-occ-tarantulas-watermelon-645909",
    "subcategory": "hybrid",
    "suggest": "tarantulas cali blaze (occ) flower hybrid watermelon",
@@ -56113,7 +56534,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 34.24,
+       "max_percentage": 36.91,
        "min_percentage": 34.24
       }
      },
@@ -56129,6 +56550,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3691",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,

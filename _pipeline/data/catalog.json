@@ -3776,7 +3776,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 85.82,
-  "n_strains": 6,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Cherry Limeade",
@@ -3787,6 +3787,11 @@
     "name": "Electric Lemonade",
     "price": 45.0,
     "thc": 81.43
+   },
+   {
+    "name": "Grand Daddy Grape",
+    "price": 33.87,
+    "thc": 79.02
    },
    {
     "name": "Orange Creamsicle",
@@ -5896,7 +5901,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Battery",
@@ -5906,11 +5911,6 @@
    {
     "name": "Mini Battery",
     "price": 13.0,
-    "thc": null
-   },
-   {
-    "name": "Palm Battery",
-    "price": 10.0,
     "thc": null
    },
    {
@@ -5985,13 +5985,33 @@
   "price_max": 8.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 34.24,
-  "n_strains": 3,
+  "thc_max": 36.91,
+  "n_strains": 9,
   "strains": [
+   {
+    "name": "Blueberry",
+    "price": 8.0,
+    "thc": 33.21
+   },
    {
     "name": "Cherry Cola",
     "price": 8.0,
-    "thc": 33.1
+    "thc": 33.17
+   },
+   {
+    "name": "Cherry Lime",
+    "price": 8.0,
+    "thc": 33.68
+   },
+   {
+    "name": "Cinnamon Churro",
+    "price": 8.0,
+    "thc": 31.43
+   },
+   {
+    "name": "Dragon Fruit",
+    "price": 8.0,
+    "thc": 34.41
    },
    {
     "name": "Green Apple",
@@ -5999,9 +6019,19 @@
     "thc": 34.24
    },
    {
+    "name": "Mango",
+    "price": 8.0,
+    "thc": 33.21
+   },
+   {
+    "name": "Strawberry Lemonade",
+    "price": 8.0,
+    "thc": 36.91
+   },
+   {
     "name": "Watermelon",
     "price": 8.0,
-    "thc": 34.24
+    "thc": 36.91
    }
   ],
   "description": "",
