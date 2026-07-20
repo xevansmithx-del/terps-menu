@@ -2486,8 +2486,8 @@
   "brand": "One-Eleven",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 6.45,
-  "price_max": 6.45,
+  "price_min": 2.42,
+  "price_max": 2.42,
   "unit": "",
   "unit_kind": "",
   "thc_max": 17.1,
@@ -2495,7 +2495,7 @@
   "strains": [
    {
     "name": "Sunshine Daydream",
-    "price": 6.45,
+    "price": 2.42,
     "thc": 17.1
    }
   ],
@@ -4526,8 +4526,8 @@
   "brand": "Egozi",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 36.29,
-  "price_max": 36.29,
+  "price_min": 45.0,
+  "price_max": 45.0,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
   "thc_max": 23.63,
@@ -4535,7 +4535,7 @@
   "strains": [
    {
     "name": "Half",
-    "price": 36.29,
+    "price": 45.0,
     "thc": 23.63
    }
   ],

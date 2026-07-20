@@ -9,7 +9,7 @@
   "Bespoke extracts colorado LLC.": 7,
   "Blue Cottage LLC": 7,
   "Bud Fox": 4,
-  "CALI BLAZE (OCC)": 9,
+  "CALI BLAZE (OCC)": 12,
   "CC Brands LLC": 9,
   "CLEARWATER BUDS LLC": 4,
   "Chaos": 12,
@@ -79,9 +79,9 @@
    }
   },
   "flower": {
-   "count": 268,
+   "count": 271,
    "subcategories": {
-    "hybrid": 200,
+    "hybrid": 203,
     "indica": 18,
     "other": 36,
     "sativa": 14
@@ -104,7 +104,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 763,
  "results": [
   {
    "availability": "",
@@ -25490,7 +25490,7 @@
        "min_percentage": 17.1
       }
      },
-     "price": 645,
+     "price": 242,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -43395,7 +43395,7 @@
        "min_percentage": 20.9
       }
      },
-     "price": 3629,
+     "price": 4500,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -45005,6 +45005,247 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "b08e1850-ca7d-4592-ba36-efb81d938b88",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantuals 3pk",
+   "non_trans": false,
+   "rebuild_gen": 1784560357845,
+   "slug": "inventory/variant/cali-blaze-occ-tarantuals-3pk-cherry-cola-651194",
+   "subcategory": "hybrid",
+   "suggest": "tarantuals 3pk cali blaze (occ) flower hybrid cherry cola",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651194",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Cola",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 34.22,
+       "min_percentage": 34.22
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3422",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "b08e1850-ca7d-4592-ba36-efb81d938b88",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantuals 3pk",
+   "non_trans": false,
+   "rebuild_gen": 1784560357845,
+   "slug": "inventory/variant/cali-blaze-occ-tarantuals-3pk-mojito-651193",
+   "subcategory": "hybrid",
+   "suggest": "tarantuals 3pk cali blaze (occ) flower hybrid mojito",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651193",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mojito",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 37.07,
+       "min_percentage": 37.07
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3707",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "b08e1850-ca7d-4592-ba36-efb81d938b88",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Tarantuals 3pk",
+   "non_trans": false,
+   "rebuild_gen": 1784560357845,
+   "slug": "inventory/variant/cali-blaze-occ-tarantuals-3pk-tropical-smoothie-651195",
+   "subcategory": "hybrid",
+   "suggest": "tarantuals 3pk cali blaze (occ) flower hybrid tropical smoothie",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651195",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Tropical Smoothie",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3500,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 36.49,
+       "min_percentage": 36.49
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3649",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3649",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3f497d25-c20c-4454-91cf-8e9a6bae4c25",
+    "license": "404R-00528",
+    "medical": false,
+    "name": "CALI BLAZE (OCC)",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
