@@ -1986,7 +1986,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.64,
-  "n_strains": 14,
+  "n_strains": 13,
   "strains": [
    {
     "name": "Banana Float",
@@ -2052,11 +2052,6 @@
     "name": "Subzero",
     "price": 6.0,
     "thc": 59.68
-   },
-   {
-    "name": "Zushi Party",
-    "price": 6.0,
-    "thc": 63.32
    }
   ],
   "description": "",

@@ -16,7 +16,7 @@
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
   "Craft": 131,
-  "David Jackson LLC": 16,
+  "David Jackson LLC": 15,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 23,
@@ -50,7 +50,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 388,
+   "count": 387,
    "subcategories": {
     "budder": 10,
     "cartridge": 184,
@@ -62,7 +62,7 @@
     "shatter": 15,
     "solventless": 24,
     "syringe": 9,
-    "wax": 97
+    "wax": 96
    }
   },
   "edible": {
@@ -102,7 +102,7 @@
    }
   }
  },
- "hits": 756,
+ "hits": 755,
  "results": [
   {
    "availability": "",
@@ -20762,83 +20762,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "5968",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783890052804,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-zushi-party-569693",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax zushi party",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569693",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Zushi Party",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 63.32,
-       "min_percentage": 63.32
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6332",
        "thca": null
       }
      ],
