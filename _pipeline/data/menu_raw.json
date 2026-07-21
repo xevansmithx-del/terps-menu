@@ -2,7 +2,6 @@
  "brands": {
   "": 24,
   "(White Mousse) WM Concentrates LLC": 4,
-  "1-11 LLC": 1,
   "14ER": 3,
   "AO Extracts": 37,
   "Antero Sciences": 56,
@@ -16,14 +15,14 @@
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 135,
+  "Craft": 131,
   "David Jackson LLC": 16,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 24,
-  "Hi-Fuel": 8,
+  "Hi-Fuel": 7,
   "High Country Management Group": 18,
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
@@ -47,24 +46,23 @@
   "TBB Llc": 10,
   "The Clear": 18,
   "Twax": 2,
-  "Vera": 24,
-  "Willoughby Enterprises LLC": 1
+  "Vera": 24
  },
  "categories": {
   "concentrate": {
-   "count": 394,
+   "count": 388,
    "subcategories": {
     "budder": 10,
-    "cartridge": 185,
+    "cartridge": 184,
     "crumble": 3,
     "cured extract": 3,
     "distillate": 22,
-    "live extract": 21,
+    "live extract": 19,
     "resin": 2,
     "shatter": 15,
-    "solventless": 25,
+    "solventless": 24,
     "syringe": 9,
-    "wax": 99
+    "wax": 97
    }
   },
   "edible": {
@@ -79,10 +77,10 @@
    }
   },
   "flower": {
-   "count": 271,
+   "count": 270,
    "subcategories": {
     "hybrid": 203,
-    "indica": 18,
+    "indica": 17,
     "other": 36,
     "sativa": 14
    }
@@ -104,7 +102,7 @@
    }
   }
  },
- "hits": 763,
+ "hits": 756,
  "results": [
   {
    "availability": "",
@@ -5734,7 +5732,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5828,91 +5826,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-divine-kush-breath-556363",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract divine kush breath",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "556363",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Divine Kush Breath",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.1,
-       "min_percentage": 74.1
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7410",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -5935,7 +5849,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 77.51,
-       "min_percentage": 75.8
+       "min_percentage": 77.51
       }
      },
      "price": 1300,
@@ -5959,16 +5873,6 @@
        "dthc": null,
        "thc": "7751",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7580",
-       "thca": null
       }
      ],
      "tags": [
@@ -6006,7 +5910,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
@@ -6090,7 +5994,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -6184,7 +6088,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -6207,7 +6111,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 77.21,
-       "min_percentage": 73
+       "min_percentage": 77.21
       }
      },
      "price": 1300,
@@ -6230,36 +6134,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7721",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7721",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7452",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7300",
        "thca": null
       }
      ],
@@ -6298,91 +6172,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lilac-diesel-558034",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract lilac diesel",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "558034",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Lilac Diesel",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67.88,
-       "min_percentage": 67.88
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6788",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -6466,7 +6256,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1784492828036,
+   "rebuild_gen": 1784592630446,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-strawberry-lemonade-572128",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract strawberry lemonade",
@@ -14285,83 +14075,6 @@
    "name": "Sesh Infused Nug Cone",
    "non_trans": false,
    "rebuild_gen": 1784492852337,
-   "slug": "inventory/variant/craft-sesh-infused-nug-cone-apricot-scone-x-chem-rock-runtz-565662",
-   "subcategory": "wax",
-   "suggest": "sesh infused nug cone craft concentrate wax apricot scone x chem rock runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565662",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Apricot Scone x Chem Rock Runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 750,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 16.3,
-       "min_percentage": 16.3
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1630",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Infused Nug Cone",
-   "non_trans": false,
-   "rebuild_gen": 1784492852337,
    "slug": "inventory/variant/craft-sesh-infused-nug-cone-apricot-scone-x-orange-julius-565664",
    "subcategory": "wax",
    "suggest": "sesh infused nug cone craft concentrate wax apricot scone x orange julius",
@@ -21688,83 +21401,6 @@
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
    "rebuild_gen": 1784053838520,
-   "slug": "inventory/variant/craft-oil-cartridge-1000-mg-blueberry-bubble-369987",
-   "subcategory": "cartridge",
-   "suggest": "oil cartridge 1000 mg craft concentrate cartridge blueberry bubble",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "369987",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blueberry Bubble",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 87.75,
-       "min_percentage": 87.75
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8775",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "53498334-3bdb-4665-a989-b5f907ecb7cf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Cartridge 1000 mg",
-   "non_trans": false,
-   "rebuild_gen": 1784053838520,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-fresh-squeeze-392025",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge fresh squeeze",
@@ -25447,83 +25083,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "57a85372-1798-49ef-b814-a3f037fae7f3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rosin Stick",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/1-11-llc-rosin-stick-sunshine-daydream-639691",
-   "subcategory": "solventless",
-   "suggest": "rosin stick 1-11 llc concentrate solventless flower other sunshine daydream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639691",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sunshine Daydream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 700,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.1,
-       "min_percentage": 17.1
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1710",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "26e54fbd-57cb-43c0-b10c-e2ff56efb467",
-    "license": "404R-00138",
-    "medical": false,
-    "name": "1-11 LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "other"
   },
   {
    "availability": "",
@@ -36553,78 +36112,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "other"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "8a35c958-914f-4dc8-b799-f481c0c112d0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "sample",
-   "non_trans": false,
-   "rebuild_gen": 1784491506037,
-   "slug": "inventory/variant/willoughby-enterprises-llc-sample-1g-573323",
-   "subcategory": "wax",
-   "suggest": "sample willoughby enterprises llc concentrate wax 1g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573323",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "1g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
-    "license": "404r-00594",
-    "medical": false,
-    "name": "Willoughby Enterprises LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
   },
   {
    "availability": "",
@@ -56689,83 +56176,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "df62bf53-4a16-418e-b5b5-51cd110a0ddc",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Permanent Chimera",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/hi-fuel-permanent-chimera-loose-632573",
-   "subcategory": "indica",
-   "suggest": "permanent chimera hi-fuel flower indica loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "632573",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23,
-       "min_percentage": 23
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2300",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "9824c515-3752-4f47-ac94-ce4dadf55c15",
-    "license": "403R-00828",
-    "medical": false,
-    "name": "Hi-Fuel",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "indica"
   },
   {
    "availability": "",

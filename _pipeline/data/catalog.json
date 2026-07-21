@@ -586,17 +586,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.01,
-  "n_strains": 9,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Bubba Haze",
     "price": 13.0,
     "thc": 77.48
-   },
-   {
-    "name": "Divine Kush Breath",
-    "price": 13.0,
-    "thc": 74.1
    },
    {
     "name": "Glueball",
@@ -617,11 +612,6 @@
     "name": "Lemon Cookies",
     "price": 13.0,
     "thc": 77.21
-   },
-   {
-    "name": "Lilac Diesel",
-    "price": 13.0,
-    "thc": 67.88
    },
    {
     "name": "MAC",
@@ -1251,13 +1241,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 19.79,
-  "n_strains": 2,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "Apricot Scone x Chem Rock Runtz",
-    "price": 6.0,
-    "thc": 16.3
-   },
    {
     "name": "Apricot Scone x Orange Julius",
     "price": 6.0,
@@ -2160,18 +2145,13 @@
   "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 87.75,
-  "n_strains": 12,
+  "thc_max": 86.1,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Banana Kush",
     "price": 9.68,
     "thc": 86.1
-   },
-   {
-    "name": "Blueberry Bubble",
-    "price": 9.68,
-    "thc": 87.75
    },
    {
     "name": "Fresh Squeeze",
@@ -2478,31 +2458,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443235685_IMG_1388.jpeg",
   "match_score": 1.045,
   "vendor_name": "Antero Sciences"
- },
- {
-  "id": "57a85372-1798-49ef-b814-a3f037fae7f3",
-  "slug": "rosin-stick",
-  "name": "Rosin Stick",
-  "brand": "One-Eleven",
-  "category": "concentrate",
-  "subcategory": "solventless",
-  "price_min": 2.42,
-  "price_max": 2.42,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 17.1,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Sunshine Daydream",
-    "price": 2.42,
-    "thc": 17.1
-   }
-  ],
-  "description": "",
-  "wm_img": "",
-  "match_score": 0.485,
-  "vendor_name": "1-11 LLC"
  },
  {
   "id": "58191d4c-0a32-43fd-8ace-2daba871619d",
@@ -6048,31 +6003,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594280_Image_260610_134528.jpeg",
   "match_score": 1.14,
   "vendor_name": "Vera"
- },
- {
-  "id": "df62bf53-4a16-418e-b5b5-51cd110a0ddc",
-  "slug": "permanent-chimera",
-  "name": "Permanent Chimera",
-  "brand": "Hi-Fuel",
-  "category": "flower",
-  "subcategory": "indica",
-  "price_min": 8.47,
-  "price_max": 8.47,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 23,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 8.47,
-    "thc": 23
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442660436_20260408_103959__1_.jpg",
-  "match_score": 1.084,
-  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "e0146c56-d7d2-417b-9d5f-ee30d8f23079",
