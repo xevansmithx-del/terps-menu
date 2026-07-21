@@ -3180,8 +3180,8 @@
   "price_max": 12.1,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 89.95,
-  "n_strains": 9,
+  "thc_max": 85.81,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3197,11 +3197,6 @@
     "name": "Churroz",
     "price": 12.0,
     "thc": 82.36
-   },
-   {
-    "name": "Electric Lemonade",
-    "price": 12.0,
-    "thc": 89.95
    },
    {
     "name": "Grand Daddy Grape",
