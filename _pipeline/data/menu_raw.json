@@ -15,8 +15,8 @@
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 130,
-  "David Jackson LLC": 15,
+  "Craft": 129,
+  "David Jackson LLC": 14,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 23,
@@ -50,19 +50,19 @@
  },
  "categories": {
   "concentrate": {
-   "count": 387,
+   "count": 385,
    "subcategories": {
     "budder": 10,
     "cartridge": 185,
     "crumble": 3,
     "cured extract": 3,
     "distillate": 22,
-    "live extract": 19,
+    "live extract": 18,
     "resin": 2,
     "shatter": 15,
     "solventless": 24,
     "syringe": 8,
-    "wax": 96
+    "wax": 95
    }
   },
   "edible": {
@@ -102,7 +102,7 @@
    }
   }
  },
- "hits": 757,
+ "hits": 755,
  "results": [
   {
    "availability": "",
@@ -5755,90 +5755,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7751",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1784685876651,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goji-berry-572126",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract goji berry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572126",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Goji Berry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 77.06,
-       "min_percentage": 77.06
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7706",
        "thca": null
       }
      ],
@@ -20806,83 +20722,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7365",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784685849837,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-subzero-569769",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax subzero",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569769",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Subzero",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 59.68,
-       "min_percentage": 59.68
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "5968",
        "thca": null
       }
      ],

@@ -581,7 +581,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.01,
-  "n_strains": 7,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Bubba Haze",
@@ -592,11 +592,6 @@
     "name": "Glueball",
     "price": 13.0,
     "thc": 77.51
-   },
-   {
-    "name": "Goji Berry",
-    "price": 13.0,
-    "thc": 77.06
    },
    {
     "name": "Kake Kush",
@@ -1991,7 +1986,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.64,
-  "n_strains": 13,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Banana Float",
@@ -2052,11 +2047,6 @@
     "name": "Pookie Style",
     "price": 6.0,
     "thc": 73.65
-   },
-   {
-    "name": "Subzero",
-    "price": 6.0,
-    "thc": 59.68
    }
   ],
   "description": "",
