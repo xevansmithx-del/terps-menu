@@ -1091,7 +1091,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 76.69,
-  "n_strains": 3,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Sherbaccio",
@@ -1100,11 +1100,6 @@
    },
    {
     "name": "subzero",
-    "price": 50.0,
-    "thc": 76.69
-   },
-   {
-    "name": "Trippy Paradise",
     "price": 50.0,
     "thc": 76.69
    }
@@ -1366,7 +1361,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.2,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1377,11 +1372,6 @@
     "name": "Baked Banana",
     "price": 35.0,
     "thc": 80.7
-   },
-   {
-    "name": "Blueberry Swirl",
-    "price": 35.0,
-    "thc": 73.98
    },
    {
     "name": "Cherry Slush",
@@ -1941,8 +1931,13 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.29,
-  "n_strains": 5,
+  "n_strains": 8,
   "strains": [
+   {
+    "name": "Apple Fizz",
+    "price": 15.0,
+    "thc": 79.7
+   },
    {
     "name": "Cherry Limeade",
     "price": 15.0,
@@ -1964,9 +1959,19 @@
     "thc": 83.29
    },
    {
+    "name": "Pineapple Cake Express",
+    "price": 15.0,
+    "thc": 78.84
+   },
+   {
     "name": "Rootbeer Kush",
     "price": 15.0,
     "thc": 76.21
+   },
+   {
+    "name": "Watermelon Bubblegum",
+    "price": 15.0,
+    "thc": 77.47
    }
   ],
   "description": "",
@@ -2361,12 +2366,12 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 35.0,
+  "price_min": 29.03,
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 81.6,
-  "n_strains": 9,
+  "thc_max": 83.34,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Chem Lemons",
@@ -2379,6 +2384,11 @@
     "thc": 71.73
    },
    {
+    "name": "Ghost Haze",
+    "price": 29.03,
+    "thc": 72.49
+   },
+   {
     "name": "Grape Gorilla",
     "price": 35.0,
     "thc": 77.86
@@ -2389,9 +2399,14 @@
     "thc": 81.6
    },
    {
+    "name": "Hazy Citrus",
+    "price": 29.03,
+    "thc": 71.84
+   },
+   {
     "name": "Orange Sorbet",
     "price": 35.0,
-    "thc": 76.34
+    "thc": 83.34
    },
    {
     "name": "Purple Skunk",
@@ -3851,12 +3866,17 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.55,
-  "n_strains": 5,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Banana Kush",
     "price": 15.0,
     "thc": 71.96
+   },
+   {
+    "name": "Blueberry Bubble",
+    "price": 15.0,
+    "thc": 68.08
    },
    {
     "name": "Fresh Squeeze",
@@ -3867,6 +3887,16 @@
     "name": "Grand Daddy Purps",
     "price": 15.0,
     "thc": 77.34
+   },
+   {
+    "name": "Green Skunk",
+    "price": 15.0,
+    "thc": 76.94
+   },
+   {
+    "name": "Maui Wowie",
+    "price": 15.0,
+    "thc": 80.34
    },
    {
     "name": "OG Kush",
