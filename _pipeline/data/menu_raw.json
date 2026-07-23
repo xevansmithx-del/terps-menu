@@ -47,11 +47,11 @@
   "The Clear": 18,
   "Twax": 2,
   "Vera": 24,
-  "Willoughby Enterprises LLC": 9
+  "Willoughby Enterprises LLC": 15
  },
  "categories": {
   "concentrate": {
-   "count": 392,
+   "count": 398,
    "subcategories": {
     "budder": 15,
     "cartridge": 183,
@@ -63,7 +63,7 @@
     "shatter": 15,
     "solventless": 24,
     "syringe": 8,
-    "wax": 96
+    "wax": 102
    }
   },
   "edible": {
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 766,
  "results": [
   {
    "availability": "",
@@ -19614,6 +19614,468 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-blueberry-pancakes-573754",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax blueberry pancakes",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573754",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blueberry Pancakes",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-fever-dream-573753",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax fever dream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573753",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Fever Dream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-orange-soda-573752",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax orange soda",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573752",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Orange Soda",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-peach-passion-573750",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax peach passion",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573750",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Peach Passion",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-purple-punch-573751",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax purple punch",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573751",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Purple Punch",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extract Wax",
+   "non_trans": false,
+   "rebuild_gen": 1784772034681,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-watermelon-o-g-573755",
+   "subcategory": "wax",
+   "suggest": "nine extract wax willoughby enterprises llc concentrate wax watermelon o.g.",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573755",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Watermelon O.G.",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67,
+       "min_percentage": 67
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6700",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
   },
   {
    "availability": "",
