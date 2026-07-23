@@ -10,14 +10,14 @@
   "Bud Fox": 4,
   "CALI BLAZE (OCC)": 12,
   "CC Brands LLC": 9,
-  "CLEARWATER BUDS LLC": 4,
-  "Chaos": 12,
+  "CLEARWATER BUDS LLC": 3,
+  "Chaos": 11,
   "Clearview Industries": 6,
   "Cold Baked": 32,
   "Colorado's Best Dabs": 5,
-  "Craft": 129,
+  "Craft": 127,
   "David Jackson LLC": 14,
-  "Denver Dab Co": 56,
+  "Denver Dab Co": 57,
   "Denver Packaging Company": 1,
   "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -39,37 +39,38 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 9,
-  "NATTY REMS LLC": 33,
+  "NATTY REMS LLC": 32,
   "SPHEREX": 15,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
   "The Clear": 18,
   "Twax": 2,
-  "Vera": 24
+  "Vera": 24,
+  "Willoughby Enterprises LLC": 9
  },
  "categories": {
   "concentrate": {
-   "count": 385,
+   "count": 392,
    "subcategories": {
-    "budder": 10,
-    "cartridge": 185,
-    "crumble": 3,
+    "budder": 15,
+    "cartridge": 183,
+    "crumble": 2,
     "cured extract": 3,
     "distillate": 22,
-    "live extract": 18,
+    "live extract": 22,
     "resin": 2,
     "shatter": 15,
     "solventless": 24,
     "syringe": 8,
-    "wax": 95
+    "wax": 96
    }
   },
   "edible": {
-   "count": 79,
+   "count": 78,
    "subcategories": {
     "candy": 23,
-    "capsule": 2,
+    "capsule": 1,
     "chocolate": 10,
     "drink": 16,
     "gummies": 26,
@@ -77,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 273,
+   "count": 272,
    "subcategories": {
-    "hybrid": 204,
+    "hybrid": 203,
     "indica": 17,
     "other": 38,
     "sativa": 14
@@ -102,7 +103,7 @@
    }
   }
  },
- "hits": 755,
+ "hits": 760,
  "results": [
   {
    "availability": "",
@@ -159,83 +160,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7845",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "0287e89b-4c14-4986-a8da-893315964da0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Black Tip Live Resin1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/natty-rems-llc-black-tip-live-resin1000mg-natty-og-x-garlic-apples-569568",
-   "subcategory": "cartridge",
-   "suggest": "black tip live resin1000mg natty rems llc concentrate cartridge natty og x garlic apples",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569568",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Natty OG x Garlic Apples",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 80.66,
-       "min_percentage": 80.66
-      }
-     },
-     "price": 2800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8066",
        "thca": null
       }
      ],
@@ -6139,7 +6063,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-chemtrails-562795",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien chemtrails",
@@ -6216,7 +6140,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-alien-runtz-565318",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax alien runtz",
@@ -6293,7 +6217,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-bio-chem-ice-565593",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax bio chem ice",
@@ -6370,7 +6294,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-cement-sherbert-cake-566999",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax cement sherbert cake",
@@ -6447,7 +6371,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-chem-gmo-cake-565323",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax chem gmo cake",
@@ -6524,7 +6448,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-chemdawg-4-573678",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax chemdawg 4",
@@ -6601,7 +6525,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
+   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-diesel-chemdawg-562783",
+   "subcategory": "wax",
+   "suggest": "denver dab wax 1g denver dab co concentrate wax diesel chemdawg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "562783",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Diesel Chemdawg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 63.5,
+       "min_percentage": 63.5
+      }
+     },
+     "price": 700,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6350",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
+    "license": "404R-00357",
+    "medical": false,
+    "name": "Denver Dab Co",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Denver Dab Wax 1g",
+   "non_trans": false,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dip-n-grapes-564501",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dip n grapes",
@@ -6678,7 +6679,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-driver-n-grapes-564503",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax driver n grapes",
@@ -6755,7 +6756,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dulce-syrup-571358",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dulce syrup",
@@ -6832,7 +6833,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-durban-face-off-567130",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax durban face off",
@@ -6909,7 +6910,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-flo-white-7-567000",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax flo white #7",
@@ -6986,7 +6987,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-forbidden-dreams-569444",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax forbidden dreams",
@@ -7063,7 +7064,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gas-face-marshmello-569443",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gas face marshmello",
@@ -7140,7 +7141,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gg4-butter-565592",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gg4 butter",
@@ -7217,7 +7218,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-gmo-banana-571348",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax gmo banana",
@@ -7294,7 +7295,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-goldmember-567320",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax goldmember",
@@ -7371,7 +7372,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-head-banger-sherbert-571357",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax head banger sherbert",
@@ -7448,7 +7449,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-monkey-spunk-567321",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax monkey spunk",
@@ -7525,7 +7526,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-og-grape-kush-567304",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax og grape kush",
@@ -7602,7 +7603,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pablo-s-driver-564500",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pablo's driver",
@@ -7679,7 +7680,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-peanut-butter-pancakes-565322",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax peanut butter pancakes",
@@ -7756,7 +7757,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-pie-breath-571363",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax pie breath",
@@ -7833,7 +7834,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-platinum-driver-x-565591",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax platinum driver x",
@@ -7910,7 +7911,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-purple-thai-567131",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax purple thai",
@@ -7987,7 +7988,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-red-dawn-573520",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax red dawn",
@@ -8064,7 +8065,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-red-velvet-cake-567305",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax red velvet cake",
@@ -8141,7 +8142,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-scoops-567306",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax scoops",
@@ -8218,7 +8219,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sfv-chem-571346",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sfv chem",
@@ -8295,7 +8296,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sfv-og-573509",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sfv og",
@@ -8372,7 +8373,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sherbanger-567319",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sherbanger",
@@ -8449,7 +8450,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-soap-573510",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax soap",
@@ -8526,7 +8527,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-sour-durban-569452",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax sour durban",
@@ -8603,7 +8604,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-571362",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg",
@@ -8680,7 +8681,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-stardawg-guava-567122",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax stardawg guava",
@@ -8757,7 +8758,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-banana-573507",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana banana",
@@ -8834,7 +8835,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-tropicana-cherry-565599",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax tropicana cherry",
@@ -8911,7 +8912,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-truffle-breath-567003",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax truffle breath",
@@ -8988,7 +8989,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-truffle-gas-cake-573511",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax truffle gas cake",
@@ -9065,7 +9066,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-uva-banger-571364",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax uva banger",
@@ -9142,7 +9143,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-watermelonz-573508",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax watermelonz",
@@ -9219,7 +9220,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
-   "rebuild_gen": 1784683096034,
+   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-wicked-glueball-565350",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax wicked glueball",
@@ -18396,6 +18397,391 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "46e54a02-bc12-4126-a898-46b4531d5a33",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extracts",
+   "non_trans": false,
+   "rebuild_gen": 1784771130861,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extracts-almost-always-573749",
+   "subcategory": "budder",
+   "suggest": "nine extracts willoughby enterprises llc concentrate budder almost always",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573749",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Almost Always",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.2,
+       "min_percentage": 75.2
+      }
+     },
+     "price": 1000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7520",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "46e54a02-bc12-4126-a898-46b4531d5a33",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extracts",
+   "non_trans": false,
+   "rebuild_gen": 1784771130861,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extracts-cherry-mintz-573747",
+   "subcategory": "budder",
+   "suggest": "nine extracts willoughby enterprises llc concentrate budder cherry mintz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573747",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Mintz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 76.2,
+       "min_percentage": 76.2
+      }
+     },
+     "price": 1000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7620",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "46e54a02-bc12-4126-a898-46b4531d5a33",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extracts",
+   "non_trans": false,
+   "rebuild_gen": 1784771130861,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extracts-glueball-573744",
+   "subcategory": "budder",
+   "suggest": "nine extracts willoughby enterprises llc concentrate budder glueball",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573744",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Glueball",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 73.6,
+       "min_percentage": 73.6
+      }
+     },
+     "price": 1000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7360",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "46e54a02-bc12-4126-a898-46b4531d5a33",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extracts",
+   "non_trans": false,
+   "rebuild_gen": 1784771130861,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extracts-gussied-up-573748",
+   "subcategory": "budder",
+   "suggest": "nine extracts willoughby enterprises llc concentrate budder gussied up",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573748",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gussied Up",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 73.6,
+       "min_percentage": 73.6
+      }
+     },
+     "price": 1000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7360",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "46e54a02-bc12-4126-a898-46b4531d5a33",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Nine Extracts",
+   "non_trans": false,
+   "rebuild_gen": 1784771130861,
+   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extracts-wedding-cake-573746",
+   "subcategory": "budder",
+   "suggest": "nine extracts willoughby enterprises llc concentrate budder wedding cake",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573746",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Wedding Cake",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.2,
+       "min_percentage": 75.2
+      }
+     },
+     "price": 1000,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7520",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "concentrate",
    "default_image": "",
@@ -21189,83 +21575,6 @@
    },
    "weave_category": "topical",
    "weave_subcategory": "balm"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "53498334-3bdb-4665-a989-b5f907ecb7cf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Cartridge 1000 mg",
-   "non_trans": false,
-   "rebuild_gen": 1784685961962,
-   "slug": "inventory/variant/craft-oil-cartridge-1000-mg-banana-kush-366693",
-   "subcategory": "cartridge",
-   "suggest": "oil cartridge 1000 mg craft concentrate cartridge banana kush",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "366693",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana Kush",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 86.1,
-       "min_percentage": 86.1
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8610",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
@@ -26556,83 +26865,6 @@
     "license": "403R-01063",
     "medical": false,
     "name": "Vera",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "5e9e5ebd-64df-45c0-9914-35de420b3600",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AB x Runtz #40",
-   "non_trans": false,
-   "rebuild_gen": 1784490433446,
-   "slug": "inventory/variant/clearwater-buds-llc-ab-x-runtz-40-loose-642541",
-   "subcategory": "hybrid",
-   "suggest": "ab x runtz #40 clearwater buds llc flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "642541",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 22.87,
-       "min_percentage": 22.87
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2287",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "c48d85c8-e74c-4f0c-8736-0a223f1d51fb",
-    "license": "403R-01103",
-    "medical": false,
-    "name": "CLEARWATER BUDS LLC",
     "state": "CO"
    },
    "weave_category": "flower",
@@ -38075,78 +38307,6 @@
    "name": "Dablets",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/craft-dablets-energy-110436",
-   "subcategory": "capsule",
-   "suggest": "dablets craft edible capsule energy",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "110436",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "ENERGY",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 484,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "capsule"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": "",
-   "id": "9395052f-19ed-446f-9ee9-b7de2f9fba29",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Dablets",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/craft-dablets-sleep-110438",
    "subcategory": "capsule",
    "suggest": "dablets craft edible capsule sleep",
@@ -43918,6 +44078,314 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "ae96525c-7a86-464d-a06d-de56015c078d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Badder",
+   "non_trans": false,
+   "rebuild_gen": 1784770232983,
+   "slug": "inventory/variant/willoughby-enterprises-llc-live-badder-joy-toy-573741",
+   "subcategory": "live extract",
+   "suggest": "live badder willoughby enterprises llc concentrate live extract joy toy",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573741",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Joy Toy",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 74.8,
+       "min_percentage": 74.8
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7480",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "ae96525c-7a86-464d-a06d-de56015c078d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Badder",
+   "non_trans": false,
+   "rebuild_gen": 1784770232983,
+   "slug": "inventory/variant/willoughby-enterprises-llc-live-badder-lead-head-573743",
+   "subcategory": "live extract",
+   "suggest": "live badder willoughby enterprises llc concentrate live extract lead head",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573743",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lead Head",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 74.8,
+       "min_percentage": 74.8
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7480",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "ae96525c-7a86-464d-a06d-de56015c078d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Badder",
+   "non_trans": false,
+   "rebuild_gen": 1784770232983,
+   "slug": "inventory/variant/willoughby-enterprises-llc-live-badder-neon-noir-573742",
+   "subcategory": "live extract",
+   "suggest": "live badder willoughby enterprises llc concentrate live extract neon noir",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573742",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Neon Noir",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72.3,
+       "min_percentage": 72.3
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7230",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": "",
+   "id": "ae96525c-7a86-464d-a06d-de56015c078d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Live Badder",
+   "non_trans": false,
+   "rebuild_gen": 1784770232983,
+   "slug": "inventory/variant/willoughby-enterprises-llc-live-badder-preem-573745",
+   "subcategory": "live extract",
+   "suggest": "live badder willoughby enterprises llc concentrate live extract preem",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573745",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Preem",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 72.3,
+       "min_percentage": 72.3
+      }
+     },
+     "price": 1400,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7230",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
+    "license": "404r-00594",
+    "medical": false,
+    "name": "Willoughby Enterprises LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "live extract"
   },
   {
    "availability": "",
@@ -52849,83 +53317,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "indica"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Twister Pak",
-   "non_trans": false,
-   "rebuild_gen": 1784492683438,
-   "slug": "inventory/variant/chaos-twister-pak-blue-dog-divine-kush-breath-purple-runtz-573137",
-   "subcategory": "crumble",
-   "suggest": "twister pak chaos concentrate crumble blue dog, divine kush breath, purple runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573137",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blue Dog, Divine Kush Breath, Purple Runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 3000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 80.87,
-       "min_percentage": 71.49
-      }
-     },
-     "price": 2258,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7149-8087",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
-    "license": "404R-00084",
-    "medical": false,
-    "name": "Chaos",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "crumble"
   },
   {
    "availability": "",

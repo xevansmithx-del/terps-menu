@@ -45,10 +45,10 @@
 <div class="gallery"><img src="../img/products/0287e89b-4c14-4986-a8da-893315964da0.jpg" fetchpriority="high" decoding="async" width="450" height="600" alt="Black Tip Live Resin1000mg by Natty Rems — concentrates available at Terps Dispensary, Pueblo, CO"></div>
 <div class="info">
 <div class="brand">Natty Rems</div><h1>Black Tip Live Resin1000mg</h1>
-<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">81% THC</span><span class="pill">3 strains</span></div>
+<div class="meta"><span class="pill">Concentrates</span><span class="pill">Cartridge</span><span class="pill gold">78% THC</span><span class="pill">2 strains</span></div>
 <div class="priceline" id="priceline">$28.00</div>
 <div class="otd" id="otdline">≈ $34.65 out the door · taxes included</div>
-<div class="strain-sel"><p class="h4">Choose a strain (3)</p><div class="strain-grid"><button class="strain-opt" data-strain="Glue x Major Tom" data-price="28.0"><div class="sn">Glue x Major Tom</div><div class="sd">$28.00 · 78% THC</div></button><button class="strain-opt" data-strain="Natty OG x Garlic Apples" data-price="28.0"><div class="sn">Natty OG x Garlic Apples</div><div class="sd">$28.00 · 81% THC</div></button><button class="strain-opt" data-strain="Wedding Cake x Sundae Driver" data-price="28.0"><div class="sn">Wedding Cake x Sundae Driver</div><div class="sd">$28.00 · 77% THC</div></button></div></div>
+<div class="strain-sel"><p class="h4">Choose a strain (2)</p><div class="strain-grid"><button class="strain-opt" data-strain="Glue x Major Tom" data-price="28.0"><div class="sn">Glue x Major Tom</div><div class="sd">$28.00 · 78% THC</div></button><button class="strain-opt" data-strain="Wedding Cake x Sundae Driver" data-price="28.0"><div class="sn">Wedding Cake x Sundae Driver</div><div class="sd">$28.00 · 77% THC</div></button></div></div>
 <div class="addrow"><div class="qty"><button onclick="qc(-1)">−</button><span id="qty">1</span><button onclick="qc(1)">+</button></div>
 <button class="btn btn-gold btn-lg" style="flex:1;justify-content:center" onclick="addPDP()">Add to pickup order</button></div>
 <div class="desc"><p class="h4">About this product</p><p>Black Tip Live Resin1000mg is a vape cartridge from NATTY REMS LLC, stocked on the live menu at Terps Dispensary in Pueblo, Colorado. It tests at 80.7% THC. Choose from 3 options including Glue x Major Tom, Natty OG x Garlic Apples, Wedding Cake x Sundae Driver. It is priced at $28. Reserve it online and pay in store at pickup — recreational sales only, 21+ with valid ID.</p></div>
@@ -83,7 +83,7 @@
 <span>Live menu powered by our POS · Updated in real time</span></div></div></footer>
 <script src="../js/config.js"></script><script src="../js/orders.js"></script><script src="../js/app.js"></script>
 <script>
-const PROD={"id": "0287e89b-4c14-4986-a8da-893315964da0", "name": "Black Tip Live Resin1000mg", "brand": "Natty Rems", "photo": "../img/products/0287e89b-4c14-4986-a8da-893315964da0.jpg", "price": 28.0, "unit": "", "unit_label": "", "strains": [{"name": "Glue x Major Tom", "price": 28.0, "thc": 78.45}, {"name": "Natty OG x Garlic Apples", "price": 28.0, "thc": 80.66}, {"name": "Wedding Cake x Sundae Driver", "price": 28.0, "thc": 76.85}]};
+const PROD={"id": "0287e89b-4c14-4986-a8da-893315964da0", "name": "Black Tip Live Resin1000mg", "brand": "Natty Rems", "photo": "../img/products/0287e89b-4c14-4986-a8da-893315964da0.jpg", "price": 28.0, "unit": "", "unit_label": "", "strains": [{"name": "Glue x Major Tom", "price": 28.0, "thc": 78.45}, {"name": "Wedding Cake x Sundae Driver", "price": 28.0, "thc": 76.85}]};
 let selStrain=PROD.strains.length===1?PROD.strains[0]:null, qty=1;
 function qc(d){qty=Math.max(1,qty+d);document.getElementById('qty').textContent=qty;}
 document.querySelectorAll('.strain-opt').forEach(b=>b.onclick=()=>{
