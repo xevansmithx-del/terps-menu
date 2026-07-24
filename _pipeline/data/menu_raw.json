@@ -3,7 +3,7 @@
   "": 24,
   "(White Mousse) WM Concentrates LLC": 4,
   "14ER": 3,
-  "AO Extracts": 38,
+  "AO Extracts": 37,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 10,
   "Blue Cottage LLC": 7,
@@ -51,7 +51,7 @@
  },
  "categories": {
   "concentrate": {
-   "count": 410,
+   "count": 409,
    "subcategories": {
     "budder": 15,
     "cartridge": 191,
@@ -63,7 +63,7 @@
     "shatter": 15,
     "solventless": 24,
     "syringe": 8,
-    "wax": 102
+    "wax": 101
    }
   },
   "edible": {
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 780,
+ "hits": 779,
  "results": [
   {
    "availability": "",
@@ -56447,90 +56447,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6740",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Wax",
-   "non_trans": false,
-   "rebuild_gen": 1784135837353,
-   "slug": "inventory/variant/ao-extracts-ao-wax-sunset-sherbet-562135",
-   "subcategory": "wax",
-   "suggest": "ao wax ao extracts concentrate wax sunset sherbet",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "562135",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sunset Sherbet",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 71.7,
-       "min_percentage": 71.7
-      }
-     },
-     "price": 800,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 800
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7170",
        "thca": null
       }
      ],

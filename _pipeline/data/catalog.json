@@ -5791,7 +5791,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 73,
-  "n_strains": 12,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Black Inferno",
@@ -5842,11 +5842,6 @@
     "name": "Sunrise Sherbert",
     "price": 8.0,
     "thc": 67.4
-   },
-   {
-    "name": "Sunset Sherbet",
-    "price": 8.0,
-    "thc": 71.7
    },
    {
     "name": "Trop Cherry",
