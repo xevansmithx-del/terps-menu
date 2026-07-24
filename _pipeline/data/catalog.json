@@ -626,7 +626,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.6,
-  "n_strains": 42,
+  "n_strains": 41,
   "strains": [
    {
     "name": "Alien Chemtrails",
@@ -657,11 +657,6 @@
     "name": "Chemdawg 4",
     "price": 7.0,
     "thc": 73.2
-   },
-   {
-    "name": "Diesel Chemdawg",
-    "price": 7.0,
-    "thc": 63.5
    },
    {
     "name": "Dip N Grapes",
@@ -5251,7 +5246,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 75.91,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Bubba Kush",
@@ -5272,11 +5267,6 @@
     "name": "Skylin OG",
     "price": 8.06,
     "thc": 61.28
-   },
-   {
-    "name": "Sunset Punch",
-    "price": 8.07,
-    "thc": 71.4
    }
   ],
   "description": "",
@@ -6971,7 +6961,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.4,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Berry Cobbler",
@@ -7012,11 +7002,6 @@
     "name": "Munchie Menace",
     "price": 8.06,
     "thc": 69.04
-   },
-   {
-    "name": "Peach Cadillac",
-    "price": 8.06,
-    "thc": 71.19
    },
    {
     "name": "Sunny Side Sammie",

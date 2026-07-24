@@ -7,17 +7,17 @@
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 10,
   "Blue Cottage LLC": 7,
-  "Bud Fox": 4,
+  "Bud Fox": 3,
   "CALI BLAZE (OCC)": 12,
   "CC Brands LLC": 9,
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 10,
   "Clearview Industries": 6,
-  "Cold Baked": 32,
+  "Cold Baked": 31,
   "Colorado's Best Dabs": 5,
-  "Craft": 139,
+  "Craft": 142,
   "David Jackson LLC": 14,
-  "Denver Dab Co": 57,
+  "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 23,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -34,7 +34,7 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 20,
-  "Loud Labs LLC": 35,
+  "Loud Labs LLC": 34,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
@@ -51,19 +51,19 @@
  },
  "categories": {
   "concentrate": {
-   "count": 409,
+   "count": 406,
    "subcategories": {
     "budder": 15,
-    "cartridge": 191,
+    "cartridge": 190,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
     "live extract": 22,
     "resin": 2,
-    "shatter": 15,
+    "shatter": 14,
     "solventless": 24,
     "syringe": 8,
-    "wax": 101
+    "wax": 100
    }
   },
   "edible": {
@@ -78,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 272,
+   "count": 274,
    "subcategories": {
-    "hybrid": 203,
+    "hybrid": 205,
     "indica": 17,
     "other": 38,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 779,
+ "hits": 778,
  "results": [
   {
    "availability": "",
@@ -6526,83 +6526,6 @@
    "name": "Denver Dab Wax 1g",
    "non_trans": false,
    "rebuild_gen": 1784769586479,
-   "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-diesel-chemdawg-562783",
-   "subcategory": "wax",
-   "suggest": "denver dab wax 1g denver dab co concentrate wax diesel chemdawg",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "562783",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Diesel Chemdawg",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 63.5,
-       "min_percentage": 63.5
-      }
-     },
-     "price": 700,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6350",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1774a060-2407-4b19-9dbe-5d98b9e6cd44",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dab Wax 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784769586479,
    "slug": "inventory/variant/denver-dab-co-denver-dab-wax-1g-dip-n-grapes-564501",
    "subcategory": "wax",
    "suggest": "denver dab wax 1g denver dab co concentrate wax dip n grapes",
@@ -12522,83 +12445,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "indica"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "1d208444-9f6a-4066-aa4f-2291b91fb474",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "PREROLLS",
-   "non_trans": false,
-   "rebuild_gen": 1784053601217,
-   "slug": "inventory/variant/bud-fox-prerolls-field-trip-650299",
-   "subcategory": "hybrid",
-   "suggest": "prerolls bud fox flower hybrid field trip",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "650299",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Field Trip",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 600,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 14.4,
-       "min_percentage": 14.4
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1440",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "4f62f508-32a5-4aec-ac3b-be91cfdede90",
-    "license": "403R-00930",
-    "medical": false,
-    "name": "Bud Fox",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
   },
   {
    "availability": "",
@@ -36611,6 +36457,237 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "84c59cc3-278a-4cc3-b69a-07e130554f42",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh 2Pack",
+   "non_trans": false,
+   "rebuild_gen": 1784913731769,
+   "slug": "inventory/variant/craft-sesh-2pack-alien-juice-x-cherry-snax-651417",
+   "subcategory": "hybrid",
+   "suggest": "sesh 2pack craft flower hybrid alien juice x cherry snax",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651417",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Alien Juice X Cherry Snax",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 17.56,
+       "min_percentage": 17.56
+      }
+     },
+     "price": 900,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1756",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "84c59cc3-278a-4cc3-b69a-07e130554f42",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh 2Pack",
+   "non_trans": false,
+   "rebuild_gen": 1784913731769,
+   "slug": "inventory/variant/craft-sesh-2pack-black-cherry-soda-x-gmo-651418",
+   "subcategory": "hybrid",
+   "suggest": "sesh 2pack craft flower hybrid black cherry soda x gmo",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651418",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Black Cherry Soda X GMO",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 19.37,
+       "min_percentage": 19.37
+      }
+     },
+     "price": 900,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1937",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": "",
+   "id": "84c59cc3-278a-4cc3-b69a-07e130554f42",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Sesh 2Pack",
+   "non_trans": false,
+   "rebuild_gen": 1784913731769,
+   "slug": "inventory/variant/craft-sesh-2pack-trop-cherry-x-cherry-snax-651419",
+   "subcategory": "hybrid",
+   "suggest": "sesh 2pack craft flower hybrid trop cherry x cherry snax",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "651419",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Trop Cherry X Cherry Snax",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 2000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 21.03,
+       "min_percentage": 21.03
+      }
+     },
+     "price": 900,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2103",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "44206cc8-a03a-4775-a447-b21fecede358",
+    "license": "404R-00170",
+    "medical": false,
+    "name": "Craft",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -51226,83 +51303,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rippys",
-   "non_trans": false,
-   "rebuild_gen": 1784136764356,
-   "slug": "inventory/variant/loud-labs-llc-rippys-sunset-punch-573393",
-   "subcategory": "cartridge",
-   "suggest": "rippys loud labs llc concentrate cartridge sunset punch",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573393",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sunset Punch",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 71.4,
-       "min_percentage": 71.4
-      }
-     },
-     "price": 807,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7140",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -56952,7 +56952,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "X 4g Disposable",
    "non_trans": false,
-   "rebuild_gen": 1784856670367,
+   "rebuild_gen": 1784905709080,
    "slug": "inventory/variant/spherex-x-4g-disposable-blackberry-gelato-556053",
    "subcategory": "distillate",
    "suggest": "x 4g disposable spherex concentrate distillate blackberry gelato",
@@ -56983,6 +56983,26 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8150",
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8150",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -57079,20 +57099,20 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "X 4g Disposable",
    "non_trans": false,
-   "rebuild_gen": 1784856670367,
-   "slug": "inventory/variant/spherex-x-4g-disposable-melon-baller-555779",
+   "rebuild_gen": 1784905709080,
+   "slug": "inventory/variant/spherex-x-4g-disposable-northern-lights-553351",
    "subcategory": "distillate",
-   "suggest": "x 4g disposable spherex concentrate distillate melon baller",
+   "suggest": "x 4g disposable spherex concentrate distillate northern lights",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
     {
      "added_concentrate": 0,
-     "cpc": "555779",
+     "cpc": "553351",
      "excise": 0,
      "hidden_from_menu": false,
      "id": "",
-     "name": "Melon Baller",
+     "name": "Northern Lights",
      "online_minimum_stock": 0,
      "packaging": {
       "count": 1000,
@@ -57101,8 +57121,8 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 82.8,
-       "min_percentage": 76.6
+       "max_percentage": 85.8,
+       "min_percentage": 83
       }
      },
      "price": 4032,
@@ -57117,7 +57137,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8580",
        "thca": null
       },
       {
@@ -57127,7 +57147,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8580",
        "thca": null
       },
       {
@@ -57137,7 +57157,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "8280",
+       "thc": "8580",
        "thca": null
       },
       {
@@ -57147,7 +57167,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8300",
        "thca": null
       },
       {
@@ -57157,7 +57177,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8580",
        "thca": null
       },
       {
@@ -57167,7 +57187,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8300",
        "thca": null
       },
       {
@@ -57177,7 +57197,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8580",
        "thca": null
       },
       {
@@ -57187,7 +57207,7 @@
        "cbg": null,
        "cbn": null,
        "dthc": null,
-       "thc": "7660",
+       "thc": "8580",
        "thca": null
       }
      ],
@@ -65486,90 +65506,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6904",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "shatter"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "ff193c75-0255-4416-a6f7-c16024a84ac1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Shatter",
-   "non_trans": false,
-   "rebuild_gen": 1782835406768,
-   "slug": "inventory/variant/cold-baked-shatter-peach-cadillac-563150",
-   "subcategory": "shatter",
-   "suggest": "shatter cold baked concentrate peach cadillac",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "563150",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Peach Cadillac",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 71.19,
-       "min_percentage": 71.19
-      }
-     },
-     "price": 806,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 800
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7119",
        "thca": null
       }
      ],
