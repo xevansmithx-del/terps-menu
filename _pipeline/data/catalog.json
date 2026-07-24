@@ -1360,13 +1360,13 @@
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 86.2,
-  "n_strains": 10,
+  "thc_max": 86.4,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
     "price": 35.0,
-    "thc": 80.61
+    "thc": 86.4
    },
    {
     "name": "Baked Banana",
@@ -1382,6 +1382,11 @@
     "name": "Citrus Splash",
     "price": 35.0,
     "thc": 73.95
+   },
+   {
+    "name": "Mango Squeeze",
+    "price": 35.0,
+    "thc": 70.87
    },
    {
     "name": "Maple Drip",
@@ -2181,7 +2186,7 @@
    {
     "name": "Sour Diesel",
     "price": 9.68,
-    "thc": 76.83
+    "thc": 82.21
    },
    {
     "name": "Super Lemon Haze",
@@ -4201,12 +4206,22 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.18,
-  "n_strains": 2,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Indica Multipack",
     "price": 34.0,
     "thc": 84.18
+   },
+   {
+    "name": "Twist #1 Pack",
+    "price": 34.0,
+    "thc": 76.62
+   },
+   {
+    "name": "Twist #2 Pack",
+    "price": 34.0,
+    "thc": 83.09
    },
    {
     "name": "Twist #3",
@@ -4340,9 +4355,14 @@
   "price_max": 15.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 84.48,
-  "n_strains": 10,
+  "thc_max": 91.91,
+  "n_strains": 12,
   "strains": [
+   {
+    "name": "Apple Sauce",
+    "price": 15.0,
+    "thc": 84.43
+   },
    {
     "name": "Baked Banana",
     "price": 15.0,
@@ -4362,6 +4382,11 @@
     "name": "Citrus Splash",
     "price": 15.0,
     "thc": 76.04
+   },
+   {
+    "name": "Mango Squeeze",
+    "price": 15.0,
+    "thc": 91.91
    },
    {
     "name": "Maple Drip",
@@ -4436,10 +4461,15 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 2,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Crushed Pineapple",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "Strawberry Fieldtrip",
     "price": 8.06,
     "thc": null
    },
@@ -5190,13 +5220,13 @@
   "price_max": 36.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 85.5,
+  "thc_max": 92.94,
   "n_strains": 2,
   "strains": [
    {
     "name": "Pack #1",
     "price": 36.0,
-    "thc": 84.69
+    "thc": 92.94
    },
    {
     "name": "Pack #2",
