@@ -2371,7 +2371,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.34,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Chem Lemons",
@@ -2412,11 +2412,6 @@
     "name": "Purple Skunk",
     "price": 35.0,
     "thc": 79.23
-   },
-   {
-    "name": "Sweet Peach",
-    "price": 35.0,
-    "thc": 79.95
    },
    {
     "name": "Tangie Tart",

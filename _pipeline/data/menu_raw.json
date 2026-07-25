@@ -15,7 +15,7 @@
   "Clearview Industries": 6,
   "Cold Baked": 31,
   "Colorado's Best Dabs": 5,
-  "Craft": 142,
+  "Craft": 141,
   "David Jackson LLC": 14,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 406,
+   "count": 405,
    "subcategories": {
     "budder": 15,
-    "cartridge": 190,
+    "cartridge": 189,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 776,
+ "hits": 775,
  "results": [
   {
    "availability": "",
@@ -24843,83 +24843,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7923",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Distillate Tanker",
-   "non_trans": false,
-   "rebuild_gen": 1784832100401,
-   "slug": "inventory/variant/craft-oil-distillate-tanker-sweet-peach-523606",
-   "subcategory": "cartridge",
-   "suggest": "oil distillate tanker craft concentrate cartridge sweet peach",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "523606",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Sweet Peach",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 79.95,
-       "min_percentage": 79.95
-      }
-     },
-     "price": 3500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7995",
        "thca": null
       }
      ],
