@@ -1085,23 +1085,18 @@
   "price_max": 50.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 76.69,
-  "n_strains": 2,
+  "thc_max": 72.12,
+  "n_strains": 1,
   "strains": [
    {
     "name": "Sherbaccio",
     "price": 50.0,
     "thc": 72.12
-   },
-   {
-    "name": "subzero",
-    "price": 50.0,
-    "thc": 76.69
    }
   ],
   "description": "",
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443479187_Screenshot_2026-06-02_122226.png",
-  "match_score": 0.791,
+  "match_score": 0.918,
   "vendor_name": "Green Dot (OCC)"
  },
  {
@@ -6225,8 +6220,8 @@
   "price_max": 17.74,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 67.65,
-  "n_strains": 2,
+  "thc_max": 71.46,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Blueberry Head Band",
@@ -6234,9 +6229,29 @@
     "thc": 58.16
    },
    {
+    "name": "Diesel Dawg",
+    "price": 17.74,
+    "thc": 71.46
+   },
+   {
+    "name": "Flavor Pebbles",
+    "price": 17.74,
+    "thc": 70.74
+   },
+   {
     "name": "Frosted Melonz",
     "price": 17.74,
     "thc": 67.65
+   },
+   {
+    "name": "Frozen Pie",
+    "price": 17.74,
+    "thc": 65.32
+   },
+   {
+    "name": "Gorilla Runtz",
+    "price": 17.74,
+    "thc": 57.27
    }
   ],
   "description": "",

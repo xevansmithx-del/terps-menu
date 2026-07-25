@@ -16,12 +16,12 @@
   "Cold Baked": 31,
   "Colorado's Best Dabs": 5,
   "Craft": 141,
-  "David Jackson LLC": 14,
+  "David Jackson LLC": 18,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 22,
   "FOREST ST MANUFACTURING LLC": 6,
-  "Green Dot (OCC)": 23,
+  "Green Dot (OCC)": 22,
   "Hi-Fuel": 7,
   "High Country Management Group": 18,
   "In House LLC": 3,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 405,
+   "count": 408,
    "subcategories": {
-    "budder": 15,
-    "cartridge": 189,
+    "budder": 19,
+    "cartridge": 188,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 775,
+ "hits": 778,
  "results": [
   {
    "availability": "",
@@ -12173,90 +12173,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7212",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "d2afad61-c703-45c4-bc73-ae2093450a92",
-    "license": "404R-00358",
-    "medical": false,
-    "name": "Green Dot (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1ceeac17-2e7f-4b4b-bfc0-51f138230b0e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Minirip",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/green-dot-occ-minirip-subzero-571276",
-   "subcategory": "cartridge",
-   "suggest": "minirip green dot (occ) concentrate cartridge subzero",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571276",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "subzero",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 76.69,
-       "min_percentage": 76.69
-      }
-     },
-     "price": 5000,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 4500
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7669",
        "thca": null
       }
      ],
@@ -59575,7 +59491,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1783890510512,
+   "rebuild_gen": 1785004909114,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-blueberry-head-band-560092",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder blueberry head band",
@@ -59652,7 +59568,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1783890510512,
+   "rebuild_gen": 1785004909114,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-diesel-dawg-573848",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder diesel dawg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573848",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Diesel Dawg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 71.46,
+       "min_percentage": 71.46
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7146",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785004909114,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-flavor-pebbles-573847",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder flavor pebbles",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573847",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Flavor Pebbles",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 70.74,
+       "min_percentage": 70.74
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7074",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785004909114,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frosted-melonz-562773",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frosted melonz",
@@ -59691,6 +59761,160 @@
        "cbn": null,
        "dthc": null,
        "thc": "6765",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785004909114,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frozen-pie-573852",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frozen pie",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573852",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Frozen Pie",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 65.32,
+       "min_percentage": 65.32
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6532",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785004909114,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-gorilla-runtz-573851",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder gorilla runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573851",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gorilla Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 57.27,
+       "min_percentage": 57.27
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "5727",
        "thca": null
       }
      ],
