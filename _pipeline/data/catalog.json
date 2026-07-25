@@ -4541,7 +4541,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 10,
-  "n_strains": 6,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Bubba Kush Root Beer",
@@ -4565,11 +4565,6 @@
    },
    {
     "name": "Pineapple X-press",
-    "price": 6.0,
-    "thc": null
-   },
-   {
-    "name": "Purple Passion Grape",
     "price": 6.0,
     "thc": null
    }
@@ -6420,31 +6415,6 @@
   "vendor_name": "Antero Sciences"
  },
  {
-  "id": "edf1fe37-3d97-45aa-ae2d-078ec0847b21",
-  "slug": "black-ice",
-  "name": "Black Ice",
-  "brand": "Egozi",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 45.0,
-  "price_max": 45.0,
-  "unit": " \u00b7 14g half",
-  "unit_kind": "half",
-  "thc_max": 23.7,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Half",
-    "price": 45.0,
-    "thc": 23.7
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443240742_IMG_0532.jpeg",
-  "match_score": 0.977,
-  "vendor_name": "Egozi"
- },
- {
   "id": "ee55a42f-2d36-4951-a0ad-b75baf8d0ea7",
   "slug": "the-bakery-brothers-dark-plasma",
   "name": "The Bakery Brothers - Dark Plasma",
@@ -6596,7 +6566,7 @@
  },
  {
   "id": "f65f79e1-1640-4457-b481-adec3bf1d4b7",
-  "slug": "black-ice-2",
+  "slug": "black-ice",
   "name": "Black Ice",
   "brand": "Egozi",
   "category": "flower",

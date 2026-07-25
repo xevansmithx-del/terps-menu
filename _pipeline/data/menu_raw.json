@@ -19,7 +19,7 @@
   "David Jackson LLC": 14,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
-  "Egozi": 23,
+  "Egozi": 22,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 23,
   "Hi-Fuel": 7,
@@ -30,7 +30,7 @@
   "Juicy": 7,
   "Juicy Concentrates": 1,
   "Kebar LLC": 1,
-  "Keef Cola": 10,
+  "Keef Cola": 9,
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 20,
@@ -67,20 +67,20 @@
    }
   },
   "edible": {
-   "count": 80,
+   "count": 79,
    "subcategories": {
     "candy": 25,
     "capsule": 1,
     "chocolate": 10,
-    "drink": 16,
+    "drink": 15,
     "gummies": 26,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 274,
+   "count": 273,
    "subcategories": {
-    "hybrid": 205,
+    "hybrid": 204,
     "indica": 17,
     "other": 38,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 778,
+ "hits": 776,
  "results": [
   {
    "availability": "",
@@ -45136,78 +45136,6 @@
    "category": "edible",
    "default_image": "",
    "description": "",
-   "id": "acc415c3-e790-453f-8e70-26ba463ede2c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "10mg Keef Cola",
-   "non_trans": false,
-   "rebuild_gen": 1784685996833,
-   "slug": "inventory/variant/keef-cola-10mg-keef-cola-purple-passion-grape-110742",
-   "subcategory": "drink",
-   "suggest": "10mg keef cola keef cola edible drink purple passion grape",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "110742",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Purple Passion Grape",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 10,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "6fb374e3-b1bc-4cff-962f-a62f595019cf",
-    "license": "404R-00175",
-    "medical": false,
-    "name": "Keef Cola",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "drink"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "edible",
-   "default_image": "",
-   "description": "",
    "id": "ad24a878-4f7d-4a64-b793-7bb0b0ffe038",
    "images": [
     {
@@ -60966,83 +60894,6 @@
     "license": "403R-00163",
     "medical": false,
     "name": "Antero Sciences",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "edf1fe37-3d97-45aa-ae2d-078ec0847b21",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Black Ice",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-black-ice-half-638205",
-   "subcategory": "hybrid",
-   "suggest": "black ice egozi flower hybrid half",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "638205",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Half",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 14000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23.7,
-       "min_percentage": 23.7
-      }
-     },
-     "price": 4500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2370",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "prepack"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
     "state": "CO"
    },
    "weave_category": "flower",
