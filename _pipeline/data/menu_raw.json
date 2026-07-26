@@ -13,10 +13,10 @@
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 10,
   "Clearview Industries": 6,
-  "Cold Baked": 31,
+  "Cold Baked": 30,
   "Colorado's Best Dabs": 5,
   "Craft": 141,
-  "David Jackson LLC": 18,
+  "David Jackson LLC": 27,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
   "Egozi": 22,
@@ -38,7 +38,7 @@
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
-  "Mountain High Suckers": 9,
+  "Mountain High Suckers": 6,
   "NATTY REMS LLC": 32,
   "SPHEREX": 17,
   "Silver Lake": 23,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 408,
+   "count": 416,
    "subcategories": {
-    "budder": 19,
-    "cartridge": 188,
+    "budder": 20,
+    "cartridge": 187,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
@@ -63,13 +63,13 @@
     "shatter": 14,
     "solventless": 24,
     "syringe": 8,
-    "wax": 100
+    "wax": 108
    }
   },
   "edible": {
-   "count": 79,
+   "count": 76,
    "subcategories": {
-    "candy": 25,
+    "candy": 22,
     "capsule": 1,
     "chocolate": 10,
     "drink": 15,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 778,
+ "hits": 783,
  "results": [
   {
    "availability": "",
@@ -2709,164 +2709,6 @@
    "name": "Mountain High Suckers 10mg",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/mountain-high-suckers-mountain-high-suckers-10mg-blue-raspberry-142501",
-   "subcategory": "candy",
-   "suggest": "mountain high suckers 10mg mountain high suckers edible candy blue raspberry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "142501",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blue Raspberry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 10,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 323
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0d2e768c-03b7-43a7-a1b7-e078b0b04d90",
-    "license": "404R-00039",
-    "medical": false,
-    "name": "Mountain High Suckers",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "candy"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": "Suckers",
-   "id": "0ce9cd11-b2fb-4016-a71c-91c1c28e781f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Mountain High Suckers 10mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/mountain-high-suckers-mountain-high-suckers-10mg-blueberry-142514",
-   "subcategory": "candy",
-   "suggest": "mountain high suckers 10mg mountain high suckers edible candy blueberry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "142514",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "blueberry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 10,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 323
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0d2e768c-03b7-43a7-a1b7-e078b0b04d90",
-    "license": "404R-00039",
-    "medical": false,
-    "name": "Mountain High Suckers",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "candy"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": "Suckers",
-   "id": "0ce9cd11-b2fb-4016-a71c-91c1c28e781f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Mountain High Suckers 10mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/mountain-high-suckers-mountain-high-suckers-10mg-grape-116407",
    "subcategory": "candy",
    "suggest": "mountain high suckers 10mg mountain high suckers edible candy grape",
@@ -3244,85 +3086,6 @@
      "potency_result": {},
      "price": 400,
      "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0d2e768c-03b7-43a7-a1b7-e078b0b04d90",
-    "license": "404R-00039",
-    "medical": false,
-    "name": "Mountain High Suckers",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "candy"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "edible",
-   "default_image": "",
-   "description": "Suckers",
-   "id": "0ce9cd11-b2fb-4016-a71c-91c1c28e781f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Mountain High Suckers 10mg",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/mountain-high-suckers-mountain-high-suckers-10mg-strawberry-142499",
-   "subcategory": "candy",
-   "suggest": "mountain high suckers 10mg mountain high suckers edible candy strawberry",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "142499",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Strawberry",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 10,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 323
-      }
-     ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -11663,83 +11426,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8150",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Cartridges 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784680718546,
-   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rocket-power-572157",
-   "subcategory": "cartridge",
-   "suggest": "ao cartridges 1g ao extracts concentrate cartridge rocket power",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572157",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Rocket Power",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.1,
-       "min_percentage": 72.1
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7210",
        "thca": null
       }
      ],
@@ -20654,7 +20340,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-banana-float-564578",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax banana float",
@@ -20731,7 +20417,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-banana-runtz-572180",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax banana runtz",
@@ -20808,7 +20494,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-bursted-grapes-541066",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax bursted grapes",
@@ -20885,7 +20571,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-cereal-milk-572184",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax cereal milk",
@@ -20962,7 +20648,238 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-diesel-cookies-573866",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax diesel cookies",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573866",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Diesel Cookies",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 66.48,
+       "min_percentage": 66.48
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6648",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-double-runtz-573869",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax double runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573869",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Double Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 62.22,
+       "min_percentage": 62.22
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6222",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-double-trap-573870",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax double trap",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573870",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Double Trap",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 64.92,
+       "min_percentage": 64.92
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6492",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-dream-kush-c-ke-569768",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax dream kush c@ke",
@@ -21039,7 +20956,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-flavor-pebbles-572191",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax flavor pebbles",
@@ -21116,7 +21033,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-gg-564580",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax gg",
@@ -21193,7 +21110,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-hollywood-slapz-572192",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax hollywood slapz",
@@ -21224,6 +21141,16 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6105",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -21270,7 +21197,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-ice-jam-pie-573863",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax ice jam pie",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573863",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Ice Jam Pie",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 63.4,
+       "min_percentage": 63.4
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6340",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-kush-mintz-572179",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax kush mintz",
@@ -21347,7 +21351,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-lemon-ice-cream-573867",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax lemon ice cream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573867",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Lemon Ice Cream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 64.39,
+       "min_percentage": 64.39
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6439",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-mellowz-562770",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax mellowz",
@@ -21424,7 +21505,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-peach-cloud-573865",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax peach cloud",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573865",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Peach Cloud",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 63.88,
+       "min_percentage": 63.88
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6388",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-poison-peaches-572183",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax poison peaches",
@@ -21501,7 +21659,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1784685849837,
+   "rebuild_gen": 1785014768616,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-pookie-style-542429",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax pookie style",
@@ -21565,9 +21723,86 @@
   {
    "availability": "",
    "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 1g",
+   "non_trans": false,
+   "rebuild_gen": 1785014768616,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-thirst-trap-573860",
+   "subcategory": "wax",
+   "suggest": "timberline extracts 1g david jackson llc concentrate wax thirst trap",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573860",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Thirst Trap",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 64.85,
+       "min_percentage": 64.85
+      }
+     },
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6485",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "51f6b306-f527-4eac-a724-813627e6662d",
    "images": [
     {
@@ -21578,7 +21813,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "White Mousse Jousse",
    "non_trans": false,
-   "rebuild_gen": 1782845411914,
+   "rebuild_gen": 1785009570636,
    "slug": "inventory/variant/white-mousse-wm-concentrates-llc-white-mousse-jousse-coco-berry-145893",
    "subcategory": "drink",
    "suggest": "white mousse jousse (white mousse) wm concentrates llc edible drink coco berry",
@@ -21639,7 +21874,7 @@
    "cannabis": true,
    "category": "edible",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "51f6b306-f527-4eac-a724-813627e6662d",
    "images": [
     {
@@ -21650,7 +21885,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "White Mousse Jousse",
    "non_trans": false,
-   "rebuild_gen": 1782845411914,
+   "rebuild_gen": 1785009570636,
    "slug": "inventory/variant/white-mousse-wm-concentrates-llc-white-mousse-jousse-orange-creamsicle-145892",
    "subcategory": "drink",
    "suggest": "white mousse jousse (white mousse) wm concentrates llc edible drink orange creamsicle",
@@ -21711,7 +21946,7 @@
    "cannabis": true,
    "category": "edible",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "51f6b306-f527-4eac-a724-813627e6662d",
    "images": [
     {
@@ -21722,7 +21957,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "White Mousse Jousse",
    "non_trans": false,
-   "rebuild_gen": 1782845411914,
+   "rebuild_gen": 1785009570636,
    "slug": "inventory/variant/white-mousse-wm-concentrates-llc-white-mousse-jousse-peach-passion-fruit-145891",
    "subcategory": "drink",
    "suggest": "white mousse jousse (white mousse) wm concentrates llc edible drink peach passion fruit",
@@ -21783,7 +22018,7 @@
    "cannabis": true,
    "category": "edible",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "51f6b306-f527-4eac-a724-813627e6662d",
    "images": [
     {
@@ -21794,7 +22029,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "White Mousse Jousse",
    "non_trans": false,
-   "rebuild_gen": 1782845411914,
+   "rebuild_gen": 1785009570636,
    "slug": "inventory/variant/white-mousse-wm-concentrates-llc-white-mousse-jousse-strawberry-banana-145894",
    "subcategory": "drink",
    "suggest": "white mousse jousse (white mousse) wm concentrates llc edible drink strawberry banana",
@@ -21811,7 +22046,7 @@
      "online_minimum_stock": 0,
      "packaging": {
       "count": 1000,
-      "thc_weight": 1000,
+      "thc_weight": 100,
       "uom": "ct"
      },
      "potency_result": {},
@@ -55475,7 +55710,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-inferno-570680",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black inferno",
@@ -55552,7 +55787,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-black-truffle-570679",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax black truffle",
@@ -55629,7 +55864,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-bloo-berry-572223",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax bloo berry",
@@ -55706,7 +55941,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-boo-berry-569092",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax boo berry",
@@ -55783,7 +56018,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-cadillac-rainbow-573389",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax cadillac rainbow",
@@ -55860,7 +56095,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-great-white-shark-573388",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax great white shark",
@@ -55937,7 +56172,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-rainbow-belts-570666",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rainbow belts",
@@ -56014,7 +56249,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-roast-mellow-572144",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax roast mellow",
@@ -56091,7 +56326,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
+   "slug": "inventory/variant/ao-extracts-ao-wax-rocket-power-573871",
+   "subcategory": "wax",
+   "suggest": "ao wax ao extracts concentrate wax rocket power",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573871",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "rocket power",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.1,
+       "min_percentage": 80.1
+      }
+     },
+     "price": 800,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "8010",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
+    "license": "404R-00454",
+    "medical": false,
+    "name": "AO Extracts",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "wax"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d80a3c20-aa08-4542-aaf3-ff95c21d7ef1",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "AO Wax",
+   "non_trans": false,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-rx-sugar-556260",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax rx sugar",
@@ -56175,7 +56487,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-sunrise-sherbert-569093",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax sunrise sherbert",
@@ -56252,7 +56564,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "AO Wax",
    "non_trans": false,
-   "rebuild_gen": 1784135837353,
+   "rebuild_gen": 1785021527516,
    "slug": "inventory/variant/ao-extracts-ao-wax-trop-cherry-573387",
    "subcategory": "wax",
    "suggest": "ao wax ao extracts concentrate wax trop cherry",
@@ -59491,7 +59803,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-blueberry-head-band-560092",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder blueberry head band",
@@ -59568,7 +59880,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-diesel-dawg-573848",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder diesel dawg",
@@ -59645,7 +59957,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-flavor-pebbles-573847",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder flavor pebbles",
@@ -59722,7 +60034,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frosted-melonz-562773",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frosted melonz",
@@ -59799,7 +60111,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frozen-pie-573852",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frozen pie",
@@ -59876,7 +60188,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785004909114,
+   "rebuild_gen": 1785014275217,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-gorilla-runtz-573851",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder gorilla runtz",
@@ -59915,6 +60227,160 @@
        "cbn": null,
        "dthc": null,
        "thc": "5727",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785014275217,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-green-gas-573853",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder green gas",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573853",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Green Gas",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 66.73,
+       "min_percentage": 66.73
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6673",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
+    "license": "404R-00533",
+    "medical": false,
+    "name": "David Jackson LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "budder"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Timberline Extracts 4g Jar",
+   "non_trans": false,
+   "rebuild_gen": 1785014275217,
+   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-rainbow-snowcone-573868",
+   "subcategory": "budder",
+   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder rainbow snowcone",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573868",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Rainbow Snowcone",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 4000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 67.75,
+       "min_percentage": 67.75
+      }
+     },
+     "price": 1774,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "6775",
        "thca": null
       }
      ],
@@ -61532,83 +61998,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "other"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "f4910b45-c276-40c0-a534-21643b69548d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "4g Bucket",
-   "non_trans": false,
-   "rebuild_gen": 1783895252113,
-   "slug": "inventory/variant/cold-baked-4g-bucket-blue-dream-572901",
-   "subcategory": "budder",
-   "suggest": "4g bucket cold baked concentrate budder blue dream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572901",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blue Dream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 69.6,
-       "min_percentage": 69.6
-      }
-     },
-     "price": 2800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6960",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
   },
   {
    "availability": "",

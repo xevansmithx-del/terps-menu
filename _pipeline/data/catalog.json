@@ -256,20 +256,10 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 9,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Apple",
-    "price": 4.0,
-    "thc": null
-   },
-   {
-    "name": "Blue Raspberry",
-    "price": 4.0,
-    "thc": null
-   },
-   {
-    "name": "blueberry",
     "price": 4.0,
     "thc": null
    },
@@ -295,11 +285,6 @@
    },
    {
     "name": "Pineapple (Blue Dream)",
-    "price": 4.0,
-    "thc": null
-   },
-   {
-    "name": "Strawberry",
     "price": 4.0,
     "thc": null
    }
@@ -981,12 +966,12 @@
   "brand": "AO Extracts",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 8.0,
+  "price_min": 12.0,
   "price_max": 12.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87,
-  "n_strains": 16,
+  "n_strains": 15,
   "strains": [
    {
     "name": "Apples & Bananas",
@@ -1047,11 +1032,6 @@
     "name": "Rocket Pop",
     "price": 12.0,
     "thc": 81.5
-   },
-   {
-    "name": "Rocket Power",
-    "price": 8.0,
-    "thc": 72.1
    },
    {
     "name": "Soda Pop",
@@ -1986,7 +1966,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.64,
-  "n_strains": 12,
+  "n_strains": 19,
   "strains": [
    {
     "name": "Banana Float",
@@ -2009,6 +1989,21 @@
     "thc": 62.67
    },
    {
+    "name": "Diesel Cookies",
+    "price": 6.0,
+    "thc": 66.48
+   },
+   {
+    "name": "Double Runtz",
+    "price": 6.0,
+    "thc": 62.22
+   },
+   {
+    "name": "Double Trap",
+    "price": 6.0,
+    "thc": 64.92
+   },
+   {
     "name": "Dream Kush C@ke",
     "price": 6.0,
     "thc": 61.38
@@ -2029,14 +2024,29 @@
     "thc": 61.05
    },
    {
+    "name": "Ice Jam Pie",
+    "price": 6.0,
+    "thc": 63.4
+   },
+   {
     "name": "Kush Mintz",
     "price": 6.0,
     "thc": 62.67
    },
    {
+    "name": "Lemon Ice Cream",
+    "price": 6.0,
+    "thc": 64.39
+   },
+   {
     "name": "Mellowz",
     "price": 6.0,
     "thc": 71.52
+   },
+   {
+    "name": "Peach Cloud",
+    "price": 6.0,
+    "thc": 63.88
    },
    {
     "name": "Poison Peaches",
@@ -2047,6 +2057,11 @@
     "name": "Pookie Style",
     "price": 6.0,
     "thc": 73.65
+   },
+   {
+    "name": "Thirst Trap",
+    "price": 6.0,
+    "thc": 64.85
    }
   ],
   "description": "",
@@ -5765,8 +5780,8 @@
   "price_max": 8.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 73,
-  "n_strains": 11,
+  "thc_max": 80.1,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Black Inferno",
@@ -5807,6 +5822,11 @@
     "name": "Roast Mellow",
     "price": 8.0,
     "thc": 68.5
+   },
+   {
+    "name": "rocket power",
+    "price": 8.0,
+    "thc": 80.1
    },
    {
     "name": "RX Sugar",
@@ -6221,7 +6241,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 71.46,
-  "n_strains": 6,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Blueberry Head Band",
@@ -6252,6 +6272,16 @@
     "name": "Gorilla Runtz",
     "price": 17.74,
     "thc": 57.27
+   },
+   {
+    "name": "Green Gas",
+    "price": 17.74,
+    "thc": 66.73
+   },
+   {
+    "name": "Rainbow Snowcone",
+    "price": 17.74,
+    "thc": 67.75
    }
   ],
   "description": "",
@@ -6523,31 +6553,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436219858_5pk.jfif",
   "match_score": 0.91,
   "vendor_name": "Craft"
- },
- {
-  "id": "f4910b45-c276-40c0-a534-21643b69548d",
-  "slug": "4g-bucket",
-  "name": "4g Bucket",
-  "brand": "Cold Baked",
-  "category": "concentrate",
-  "subcategory": "budder",
-  "price_min": 28.0,
-  "price_max": 28.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 69.6,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Blue Dream",
-    "price": 28.0,
-    "thc": 69.6
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/439540360_IMG_5392.jpg",
-  "match_score": 0.76,
-  "vendor_name": "Cold Baked"
  },
  {
   "id": "f5e8fc47-d444-47fd-a7d6-0ebb13ab1bda",
