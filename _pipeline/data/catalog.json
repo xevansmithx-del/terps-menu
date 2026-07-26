@@ -1331,7 +1331,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1382,11 +1382,6 @@
     "name": "Tropsicle",
     "price": 35.0,
     "thc": 70.64
-   },
-   {
-    "name": "Watermelon Ice",
-    "price": 35.0,
-    "thc": 76.92
    }
   ],
   "description": "",
