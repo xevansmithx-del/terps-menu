@@ -3,7 +3,7 @@
   "": 24,
   "(White Mousse) WM Concentrates LLC": 4,
   "14ER": 3,
-  "AO Extracts": 37,
+  "AO Extracts": 36,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 10,
   "Blue Cottage LLC": 7,
@@ -13,9 +13,9 @@
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 10,
   "Clearview Industries": 6,
-  "Cold Baked": 30,
+  "Cold Baked": 29,
   "Colorado's Best Dabs": 5,
-  "Craft": 140,
+  "Craft": 138,
   "David Jackson LLC": 27,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
@@ -51,16 +51,16 @@
  },
  "categories": {
   "concentrate": {
-   "count": 415,
+   "count": 411,
    "subcategories": {
     "budder": 20,
-    "cartridge": 186,
+    "cartridge": 183,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
     "live extract": 22,
     "resin": 2,
-    "shatter": 14,
+    "shatter": 13,
     "solventless": 24,
     "syringe": 8,
     "wax": 108
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 782,
+ "hits": 778,
  "results": [
   {
    "availability": "",
@@ -11099,90 +11099,6 @@
    "name": "AO Cartridges 1g",
    "non_trans": false,
    "rebuild_gen": 1784680718546,
-   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-peach-532380",
-   "subcategory": "cartridge",
-   "suggest": "ao cartridges 1g ao extracts concentrate cartridge peach",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "532380",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Peach",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 80.5,
-       "min_percentage": 80.5
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8050",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Cartridges 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784680718546,
    "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-rainbow-belts-532377",
    "subcategory": "cartridge",
    "suggest": "ao cartridges 1g ao extracts concentrate cartridge rainbow belts",
@@ -14350,83 +14266,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8170",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "2c901e6b-dff9-48e0-9b5f-66bd8ba7ae23",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Tanker",
-   "non_trans": false,
-   "rebuild_gen": 1785084013878,
-   "slug": "inventory/variant/craft-oil-twist-tanker-citrus-splash-569921",
-   "subcategory": "cartridge",
-   "suggest": "oil twist tanker craft concentrate cartridge citrus splash",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569921",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Citrus Splash",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 73.95,
-       "min_percentage": 73.95
-      }
-     },
-     "price": 3500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7395",
        "thca": null
       }
      ],
@@ -24521,83 +24360,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7786",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Distillate Tanker",
-   "non_trans": false,
-   "rebuild_gen": 1785084279872,
-   "slug": "inventory/variant/craft-oil-distillate-tanker-hawaiian-sour-524647",
-   "subcategory": "cartridge",
-   "suggest": "oil distillate tanker craft concentrate cartridge hawaiian sour",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "524647",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Hawaiian Sour",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.6,
-       "min_percentage": 81.6
-      }
-     },
-     "price": 3500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8160",
        "thca": null
       }
      ],
@@ -65329,83 +65091,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7642",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "shatter"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "ff193c75-0255-4416-a6f7-c16024a84ac1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Shatter",
-   "non_trans": false,
-   "rebuild_gen": 1785084135675,
-   "slug": "inventory/variant/cold-baked-shatter-klone-cake-569494",
-   "subcategory": "shatter",
-   "suggest": "shatter cold baked concentrate klone cake",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "569494",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Klone Cake",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 68.16,
-       "min_percentage": 68.16
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6816",
        "thca": null
       }
      ],

@@ -971,7 +971,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87,
-  "n_strains": 15,
+  "n_strains": 14,
   "strains": [
    {
     "name": "Apples & Bananas",
@@ -1012,11 +1012,6 @@
     "name": "Lychee",
     "price": 12.0,
     "thc": 87
-   },
-   {
-    "name": "Peach",
-    "price": 12.0,
-    "thc": 80.5
    },
    {
     "name": "Rainbow Belts",
@@ -1331,7 +1326,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1347,11 +1342,6 @@
     "name": "Cherry Slush",
     "price": 35.0,
     "thc": 81.7
-   },
-   {
-    "name": "Citrus Splash",
-    "price": 35.0,
-    "thc": 73.95
    },
    {
     "name": "Mango Squeeze",
@@ -2376,7 +2366,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.34,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Chem Lemons",
@@ -2397,11 +2387,6 @@
     "name": "Grape Gorilla",
     "price": 35.0,
     "thc": 77.86
-   },
-   {
-    "name": "Hawaiian Sour",
-    "price": 35.0,
-    "thc": 81.6
    },
    {
     "name": "Hazy Citrus",
@@ -6941,7 +6926,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 81.4,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Berry Cobbler",
@@ -6962,11 +6947,6 @@
     "name": "Ghost Glue",
     "price": 8.06,
     "thc": 76.42
-   },
-   {
-    "name": "Klone Cake",
-    "price": 8.06,
-    "thc": 68.16
    },
    {
     "name": "Kush Mints",
