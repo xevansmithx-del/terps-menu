@@ -1956,7 +1956,7 @@
   "brand": "Timberline Extracts",
   "category": "concentrate",
   "subcategory": "wax",
-  "price_min": 4.84,
+  "price_min": 4.03,
   "price_max": 6.01,
   "unit": "",
   "unit_kind": "",
@@ -1985,7 +1985,7 @@
    },
    {
     "name": "Diesel Cookies",
-    "price": 6.0,
+    "price": 4.03,
     "thc": 66.48
    },
    {
@@ -2841,8 +2841,8 @@
   "brand": "Egozi",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 45.0,
-  "price_max": 45.0,
+  "price_min": 36.29,
+  "price_max": 36.29,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
   "thc_max": 19.19,
@@ -2850,7 +2850,7 @@
   "strains": [
    {
     "name": "Half",
-    "price": 45.0,
+    "price": 36.29,
     "thc": 19.19
    }
   ],
