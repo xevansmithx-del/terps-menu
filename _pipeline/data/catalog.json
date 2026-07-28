@@ -1326,7 +1326,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1362,11 +1362,6 @@
     "name": "Punchberry",
     "price": 35.0,
     "thc": 86.2
-   },
-   {
-    "name": "Strawberry Shortcake",
-    "price": 35.0,
-    "thc": 80.3
    },
    {
     "name": "Tropsicle",
@@ -2136,7 +2131,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.08,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Fresh Squeeze",
@@ -2157,11 +2152,6 @@
     "name": "Maui Wowie",
     "price": 9.68,
     "thc": 81.9
-   },
-   {
-    "name": "OG Kush",
-    "price": 9.68,
-    "thc": 72.34
    },
    {
     "name": "Purple Punch",
