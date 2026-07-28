@@ -13,9 +13,9 @@
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 10,
   "Clearview Industries": 6,
-  "Cold Baked": 29,
-  "Colorado's Best Dabs": 5,
-  "Craft": 138,
+  "Cold Baked": 28,
+  "Colorado's Best Dabs": 4,
+  "Craft": 135,
   "David Jackson LLC": 27,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
@@ -34,7 +34,7 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 20,
-  "Loud Labs LLC": 34,
+  "Loud Labs LLC": 33,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
@@ -51,16 +51,16 @@
  },
  "categories": {
   "concentrate": {
-   "count": 411,
+   "count": 405,
    "subcategories": {
     "budder": 20,
-    "cartridge": 183,
+    "cartridge": 179,
     "crumble": 1,
     "cured extract": 3,
     "distillate": 27,
-    "live extract": 22,
+    "live extract": 21,
     "resin": 2,
-    "shatter": 13,
+    "shatter": 12,
     "solventless": 24,
     "syringe": 8,
     "wax": 108
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 778,
+ "hits": 772,
  "results": [
   {
    "availability": "",
@@ -17290,83 +17290,6 @@
    "name": "Shatter 4g",
    "non_trans": false,
    "rebuild_gen": 1782683798335,
-   "slug": "inventory/variant/cold-baked-shatter-4g-fried-fuit-pie-572649",
-   "subcategory": "shatter",
-   "suggest": "shatter 4g cold baked concentrate shatter fried fuit pie",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572649",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Fried Fuit Pie",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 70.71,
-       "min_percentage": 70.71
-      }
-     },
-     "price": 3000,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7071",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "67ea1dfd-b20c-4b8a-ab71-8a1c826b9b3a",
-    "license": "404R-00209",
-    "medical": false,
-    "name": "Cold Baked",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "shatter"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "45d714d4-85bb-4546-bac4-c556840e1c6c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Shatter 4g",
-   "non_trans": false,
-   "rebuild_gen": 1782683798335,
    "slug": "inventory/variant/cold-baked-shatter-4g-jam-sandwich-572650",
    "subcategory": "shatter",
    "suggest": "shatter 4g cold baked concentrate shatter jam sandwich",
@@ -22149,83 +22072,6 @@
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
    "rebuild_gen": 1785084060688,
-   "slug": "inventory/variant/craft-oil-cartridge-1000-mg-green-skunk-369403",
-   "subcategory": "cartridge",
-   "suggest": "oil cartridge 1000 mg craft concentrate cartridge green skunk",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "369403",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Green Skunk",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.37,
-       "min_percentage": 74.37
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7437",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "53498334-3bdb-4665-a989-b5f907ecb7cf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Cartridge 1000 mg",
-   "non_trans": false,
-   "rebuild_gen": 1785084060688,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-mango-kush-367948",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge mango kush",
@@ -24056,83 +23902,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "sativa"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "55840e91-65a6-49ac-a8a4-91ce609e66e0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Distillate Tanker",
-   "non_trans": false,
-   "rebuild_gen": 1785084279872,
-   "slug": "inventory/variant/craft-oil-distillate-tanker-chem-lemons-523597",
-   "subcategory": "cartridge",
-   "suggest": "oil distillate tanker craft concentrate cartridge chem lemons",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "523597",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Chem Lemons",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.6,
-       "min_percentage": 81.6
-      }
-     },
-     "price": 3500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8160",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
   },
   {
    "availability": "",
@@ -41402,90 +41171,6 @@
    "name": "Oil 4 Pack",
    "non_trans": false,
    "rebuild_gen": 1784837348773,
-   "slug": "inventory/variant/craft-oil-4-pack-twist-2-pack-561832",
-   "subcategory": "cartridge",
-   "suggest": "oil 4 pack craft concentrate cartridge twist #2 pack",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "561832",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Twist #2 Pack",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 83.09,
-       "min_percentage": 69.12
-      }
-     },
-     "price": 3400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6912-8309",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "a33fd0b3-bdbb-4982-bb6a-decf9e6aceb0",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil 4 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1784837348773,
    "slug": "inventory/variant/craft-oil-4-pack-twist-3-564848",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge twist #3",
@@ -50671,83 +50356,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7086",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rippys",
-   "non_trans": false,
-   "rebuild_gen": 1785083763080,
-   "slug": "inventory/variant/loud-labs-llc-rippys-crosswalker-573392",
-   "subcategory": "cartridge",
-   "suggest": "rippys loud labs llc concentrate cartridge crosswalker",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573392",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Crosswalker",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 75.91,
-       "min_percentage": 75.91
-      }
-     },
-     "price": 807,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7591",
        "thca": null
       }
      ],
@@ -64463,83 +64071,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7667",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "f26f8086-d47d-4d43-a33e-8f6d51478325",
-    "license": "404R-00345",
-    "medical": false,
-    "name": "Colorado's Best Dabs",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "feb879eb-afbd-4d68-8540-f31ce536e382",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Liquid Diamonds",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/colorado-s-best-dabs-liquid-diamonds-ice-cream-cake-572155",
-   "subcategory": "live extract",
-   "suggest": "liquid diamonds colorado's best dabs concentrate live extract ice cream cake",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572155",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Ice Cream Cake",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 73.35,
-       "min_percentage": 73.35
-      }
-     },
-     "price": 2400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7335",
        "thca": null
       }
      ],

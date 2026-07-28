@@ -2136,7 +2136,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.08,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Fresh Squeeze",
@@ -2145,11 +2145,6 @@
    },
    {
     "name": "Grand Daddy Purps",
-    "price": 9.68,
-    "thc": 74.37
-   },
-   {
-    "name": "Green Skunk",
     "price": 9.68,
     "thc": 74.37
    },
@@ -2366,13 +2361,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.34,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
-   {
-    "name": "Chem Lemons",
-    "price": 35.0,
-    "thc": 81.6
-   },
    {
     "name": "Diesel Dawg",
     "price": 35.0,
@@ -4186,7 +4176,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.18,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Indica Multipack",
@@ -4197,11 +4187,6 @@
     "name": "Twist #1 Pack",
     "price": 34.0,
     "thc": 76.62
-   },
-   {
-    "name": "Twist #2 Pack",
-    "price": 34.0,
-    "thc": 83.09
    },
    {
     "name": "Twist #3",
@@ -5225,8 +5210,8 @@
   "price_max": 8.07,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 75.91,
-  "n_strains": 4,
+  "thc_max": 70.86,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Bubba Kush",
@@ -5237,11 +5222,6 @@
     "name": "Bubonic Chronic",
     "price": 8.07,
     "thc": 70.86
-   },
-   {
-    "name": "Crosswalker",
-    "price": 8.07,
-    "thc": 75.91
    },
    {
     "name": "Skylin OG",
@@ -6881,17 +6861,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 80.23,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Fortissimo",
     "price": 24.0,
     "thc": 76.67
-   },
-   {
-    "name": "Ice Cream Cake",
-    "price": 24.0,
-    "thc": 73.35
    },
    {
     "name": "MAC Cake",
