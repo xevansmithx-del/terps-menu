@@ -6475,31 +6475,6 @@
   "vendor_name": "Craft"
  },
  {
-  "id": "f5e8fc47-d444-47fd-a7d6-0ebb13ab1bda",
-  "slug": "virgin-mary-llc-flaming-hot-cheetoz",
-  "name": "Virgin Mary LLC - Flaming Hot Cheetoz",
-  "brand": "Terps",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 12.99,
-  "price_max": 12.99,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 17.51,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 12.99,
-    "thc": 17.51
-   }
-  ],
-  "description": "",
-  "wm_img": "",
-  "match_score": 0.49,
-  "vendor_name": ""
- },
- {
   "id": "f65f79e1-1640-4457-b481-adec3bf1d4b7",
   "slug": "black-ice",
   "name": "Black Ice",

@@ -1,6 +1,6 @@
 {
  "brands": {
-  "": 24,
+  "": 23,
   "(White Mousse) WM Concentrates LLC": 4,
   "14ER": 3,
   "AO Extracts": 36,
@@ -78,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 271,
+   "count": 270,
    "subcategories": {
-    "hybrid": 202,
+    "hybrid": 201,
     "indica": 17,
     "other": 38,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 768,
+ "hits": 767,
  "results": [
   {
    "availability": "",
@@ -60921,83 +60921,6 @@
     "license": "403R-01432",
     "medical": false,
     "name": "TBB Llc",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "f5e8fc47-d444-47fd-a7d6-0ebb13ab1bda",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Virgin Mary LLC - Flaming Hot Cheetoz",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/virgin-mary-llc-flaming-hot-cheetoz-loose-647354",
-   "subcategory": "hybrid",
-   "suggest": "virgin mary llc - flaming hot cheetoz flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "647354",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.51,
-       "min_percentage": 17.51
-      }
-     },
-     "price": 371,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1751",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "a5c6bed7-0bcf-4b1d-8bdc-b0b9d4949bff",
-    "license": "",
-    "medical": false,
-    "name": "",
     "state": "CO"
    },
    "weave_category": "flower",
