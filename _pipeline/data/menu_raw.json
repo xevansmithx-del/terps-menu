@@ -22,7 +22,7 @@
   "Egozi": 22,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 22,
-  "Hi-Fuel": 7,
+  "Hi-Fuel": 6,
   "High Country Management Group": 18,
   "In House LLC": 3,
   "JKC Manufacturing LLC": 10,
@@ -39,7 +39,7 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 6,
-  "NATTY REMS LLC": 32,
+  "NATTY REMS LLC": 31,
   "SPHEREX": 17,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
@@ -78,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 273,
+   "count": 271,
    "subcategories": {
-    "hybrid": 204,
+    "hybrid": 202,
     "indica": 17,
     "other": 38,
     "sativa": 14
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 770,
+ "hits": 768,
  "results": [
   {
    "availability": "",
@@ -59480,83 +59480,6 @@
   },
   {
    "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "ea0ce9d8-4ec3-4278-9155-a78668a8bb30",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "5280",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/hi-fuel-5280-loose-626182",
-   "subcategory": "hybrid",
-   "suggest": "5280 hi-fuel flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "626182",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 26.3,
-       "min_percentage": 26.3
-      }
-     },
-     "price": 202,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2630",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "9824c515-3752-4f47-ac94-ce4dadf55c15",
-    "license": "403R-00828",
-    "medical": false,
-    "name": "Hi-Fuel",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
    "cannabis": true,
    "category": "flower",
    "default_image": "",
@@ -59844,67 +59767,6 @@
        "thca": null
       }
      ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492163142,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-ghost-train-haze-649711",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid ghost train haze",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "649711",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Ghost Train Haze",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [],
      "tags": [
       {
        "id": "",

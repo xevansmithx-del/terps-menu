@@ -6265,31 +6265,6 @@
   "vendor_name": "Egozi"
  },
  {
-  "id": "ea0ce9d8-4ec3-4278-9155-a78668a8bb30",
-  "slug": "5280",
-  "name": "5280",
-  "brand": "Hi-Fuel",
-  "category": "flower",
-  "subcategory": "hybrid",
-  "price_min": 7.07,
-  "price_max": 7.07,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 26.3,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 7.07,
-    "thc": 26.3
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429574910_20231205_123651.jpg",
-  "match_score": 0.699,
-  "vendor_name": "Hi-Fuel"
- },
- {
   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
   "slug": "haze-silver-preroll",
   "name": "Haze Silver Preroll",
@@ -6301,7 +6276,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 14.7,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6322,11 +6297,6 @@
     "name": "Gelato cake",
     "price": 2.42,
     "thc": 11.31
-   },
-   {
-    "name": "Ghost Train Haze",
-    "price": 2.42,
-    "thc": null
    },
    {
     "name": "Golden Goat",
