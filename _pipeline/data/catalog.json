@@ -561,7 +561,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78.01,
-  "n_strains": 6,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Bubba Haze",
@@ -574,9 +574,19 @@
     "thc": 77.51
    },
    {
+    "name": "Goddess Breath",
+    "price": 13.0,
+    "thc": 77.3
+   },
+   {
     "name": "Kake Kush",
     "price": 13.0,
     "thc": 76.82
+   },
+   {
+    "name": "Lemon Cake",
+    "price": 13.0,
+    "thc": 75.1
    },
    {
     "name": "Lemon Cookies",
@@ -587,6 +597,11 @@
     "name": "MAC",
     "price": 13.0,
     "thc": 68.2
+   },
+   {
+    "name": "starfire cream",
+    "price": 13.0,
+    "thc": 77.18
    },
    {
     "name": "Strawberry Lemonade",
@@ -1326,7 +1341,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 8,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1339,9 +1354,19 @@
     "thc": 80.7
    },
    {
+    "name": "Blueberry Swirl",
+    "price": 35.0,
+    "thc": 82
+   },
+   {
     "name": "Cherry Slush",
     "price": 35.0,
     "thc": 81.7
+   },
+   {
+    "name": "Citrus Splash",
+    "price": 35.0,
+    "thc": 85
    },
    {
     "name": "Mango Squeeze",
@@ -1362,6 +1387,11 @@
     "name": "Punchberry",
     "price": 35.0,
     "thc": 86.2
+   },
+   {
+    "name": "Strawberry Shortcake",
+    "price": 35.0,
+    "thc": 80.3
    },
    {
     "name": "Tropsicle",
@@ -2130,9 +2160,14 @@
   "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 84.08,
-  "n_strains": 8,
+  "thc_max": 87.75,
+  "n_strains": 10,
   "strains": [
+   {
+    "name": "Blueberry Bubble",
+    "price": 9.68,
+    "thc": 87.75
+   },
    {
     "name": "Fresh Squeeze",
     "price": 9.68,
@@ -2140,6 +2175,11 @@
    },
    {
     "name": "Grand Daddy Purps",
+    "price": 9.68,
+    "thc": 74.79
+   },
+   {
+    "name": "Green Skunk",
     "price": 9.68,
     "thc": 74.37
    },
@@ -2351,7 +2391,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.34,
-  "n_strains": 8,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Diesel Dawg",
@@ -2374,6 +2414,11 @@
     "thc": 71.84
    },
    {
+    "name": "Jungle Punch",
+    "price": 29.03,
+    "thc": 83.3
+   },
+   {
     "name": "Orange Sorbet",
     "price": 35.0,
     "thc": 83.34
@@ -2382,6 +2427,11 @@
     "name": "Purple Skunk",
     "price": 35.0,
     "thc": 79.23
+   },
+   {
+    "name": "Sweet Peach",
+    "price": 35.0,
+    "thc": 79.95
    },
    {
     "name": "Tangie Tart",
@@ -3830,8 +3880,8 @@
   "price_max": 15.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 83.55,
-  "n_strains": 8,
+  "thc_max": 87.25,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Banana Kush",
@@ -3846,7 +3896,7 @@
    {
     "name": "Fresh Squeeze",
     "price": 15.0,
-    "thc": 71.05
+    "thc": 87.25
    },
    {
     "name": "Grand Daddy Purps",
@@ -3859,6 +3909,11 @@
     "thc": 76.94
    },
    {
+    "name": "Mango Kush",
+    "price": 15.0,
+    "thc": 74.66
+   },
+   {
     "name": "Maui Wowie",
     "price": 15.0,
     "thc": 80.34
@@ -3867,6 +3922,11 @@
     "name": "OG Kush",
     "price": 15.0,
     "thc": 83.55
+   },
+   {
+    "name": "Purple Punch",
+    "price": 15.0,
+    "thc": 82
    },
    {
     "name": "Super Lemon Haze",
@@ -4165,18 +4225,33 @@
   "price_max": 34.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 84.18,
-  "n_strains": 3,
+  "thc_max": 87.75,
+  "n_strains": 6,
   "strains": [
+   {
+    "name": "Hybrid Multipack",
+    "price": 34.0,
+    "thc": 87.75
+   },
    {
     "name": "Indica Multipack",
     "price": 34.0,
-    "thc": 84.18
+    "thc": 86
+   },
+   {
+    "name": "Sativa Multipack",
+    "price": 34.0,
+    "thc": 82.21
    },
    {
     "name": "Twist #1 Pack",
     "price": 34.0,
     "thc": 76.62
+   },
+   {
+    "name": "Twist #2 Pack",
+    "price": 34.0,
+    "thc": 87.3
    },
    {
     "name": "Twist #3",
@@ -5621,7 +5696,7 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 150.0,
+  "price_min": 104.0,
   "price_max": 150.0,
   "unit": "",
   "unit_kind": "",
@@ -5630,7 +5705,7 @@
   "strains": [
    {
     "name": "Garlic Ice Cream",
-    "price": 150.0,
+    "price": 104.0,
     "thc": 72.82
    },
    {
@@ -5668,31 +5743,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442586938_midnite.jpg",
   "match_score": 0.994,
   "vendor_name": "Vera"
- },
- {
-  "id": "d78cca6b-5dcf-47f1-880b-a8f1fe2618de",
-  "slug": "wax",
-  "name": "wax",
-  "brand": "Heartland Industries",
-  "category": "concentrate",
-  "subcategory": "wax",
-  "price_min": 7.0,
-  "price_max": 7.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 67.76,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Ice Breath",
-    "price": 7.0,
-    "thc": 67.76
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443730519_7274.jpg",
-  "match_score": 1.091,
-  "vendor_name": "Chaos"
  },
  {
   "id": "d7a2d3d6-250d-4dc5-8441-c3f89e01867d",
@@ -6246,8 +6296,8 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 42.0,
-  "price_max": 42.0,
+  "price_min": 26.0,
+  "price_max": 26.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 72.33,
@@ -6255,7 +6305,7 @@
   "strains": [
    {
     "name": "Garlic Ice Cream",
-    "price": 42.0,
+    "price": 26.0,
     "thc": 72.33
    }
   ],
@@ -6276,7 +6326,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 14.7,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6292,11 +6342,6 @@
     "name": "Freedom OG",
     "price": 2.42,
     "thc": 14.07
-   },
-   {
-    "name": "Gelato cake",
-    "price": 2.42,
-    "thc": 11.31
    },
    {
     "name": "Golden Goat",
