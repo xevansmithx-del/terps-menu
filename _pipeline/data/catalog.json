@@ -10,14 +10,9 @@
   "price_max": 28.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 78.45,
-  "n_strains": 2,
+  "thc_max": 76.85,
+  "n_strains": 1,
   "strains": [
-   {
-    "name": "Glue x Major Tom",
-    "price": 28.0,
-    "thc": 78.45
-   },
    {
     "name": "Wedding Cake x Sundae Driver",
     "price": 28.0,
@@ -401,8 +396,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 24.62,
@@ -410,7 +405,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 24.62
    }
   ],
@@ -560,8 +555,8 @@
   "price_max": 13.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 78.01,
-  "n_strains": 9,
+  "thc_max": 77.51,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Bubba Haze",
@@ -602,11 +597,6 @@
     "name": "starfire cream",
     "price": 13.0,
     "thc": 77.18
-   },
-   {
-    "name": "Strawberry Lemonade",
-    "price": 13.0,
-    "thc": 78.01
    }
   ],
   "description": "",
@@ -956,8 +946,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 26.99,
@@ -965,7 +955,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 26.99
    }
   ],
@@ -1311,8 +1301,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 26.79,
@@ -1320,7 +1310,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 26.79
    }
   ],
@@ -1636,8 +1626,8 @@
   "brand": "Silver Lake Farms",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 26.35,
@@ -1645,7 +1635,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 26.35
    }
   ],
@@ -1916,7 +1906,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.29,
-  "n_strains": 8,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Apple Fizz",
@@ -1927,11 +1917,6 @@
     "name": "Cherry Limeade",
     "price": 15.0,
     "thc": 83.15
-   },
-   {
-    "name": "Churroz",
-    "price": 15.0,
-    "thc": 79.67
    },
    {
     "name": "Electric Lemonade",
@@ -1947,11 +1932,6 @@
     "name": "Pineapple Cake Express",
     "price": 15.0,
     "thc": 78.84
-   },
-   {
-    "name": "Rootbeer Kush",
-    "price": 15.0,
-    "thc": 76.21
    },
    {
     "name": "Watermelon Bubblegum",
@@ -2305,13 +2285,13 @@
   "price_max": 45.0,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
-  "thc_max": 22.97,
+  "thc_max": 20.42,
   "n_strains": 1,
   "strains": [
    {
     "name": "Half",
     "price": 45.0,
-    "thc": 22.97
+    "thc": 20.42
    }
   ],
   "description": "",
@@ -2361,8 +2341,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 25.72,
@@ -2370,7 +2350,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 25.72
    }
   ],
@@ -2500,86 +2480,6 @@
   "vendor_name": "Antero Sciences"
  },
  {
-  "id": "58c47752-381a-45ce-b15e-d8aa113381a3",
-  "slug": "808-dabs",
-  "name": "808 Dabs",
-  "brand": "Terps",
-  "category": "concentrate",
-  "subcategory": "wax",
-  "price_min": 3.23,
-  "price_max": 6.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 81.77,
-  "n_strains": 12,
-  "strains": [
-   {
-    "name": "Apricot Cookies",
-    "price": 6.0,
-    "thc": 68.67
-   },
-   {
-    "name": "Blue Tiki",
-    "price": 6.0,
-    "thc": 66
-   },
-   {
-    "name": "Cotton Kandy Cookies",
-    "price": 6.0,
-    "thc": 55.4
-   },
-   {
-    "name": "French MAC",
-    "price": 6.0,
-    "thc": 81.77
-   },
-   {
-    "name": "Galaxy Mintz",
-    "price": 6.0,
-    "thc": 61.7
-   },
-   {
-    "name": "Gary Payton",
-    "price": 6.0,
-    "thc": 71.7
-   },
-   {
-    "name": "Ice Berry Cake",
-    "price": 4.84,
-    "thc": 68.4
-   },
-   {
-    "name": "Monkey Cookies",
-    "price": 6.0,
-    "thc": 69.9
-   },
-   {
-    "name": "OG Double Mintz",
-    "price": 6.0,
-    "thc": 77
-   },
-   {
-    "name": "Peyote Cookies",
-    "price": 6.0,
-    "thc": 65.49
-   },
-   {
-    "name": "Tallymon Gold",
-    "price": 3.23,
-    "thc": 69.4
-   },
-   {
-    "name": "Ultra Mintz",
-    "price": 4.84,
-    "thc": 68.6
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/429721715_PXL_20231221_212643309.jpg",
-  "match_score": 0.705,
-  "vendor_name": ""
- },
- {
   "id": "5995095d-7eed-4d24-b992-ccc37640c631",
   "slug": "tally-mon",
   "name": "Tally Mon",
@@ -2628,31 +2528,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/443594268_Image_260610_134431__1_.jpeg",
   "match_score": 1.064,
   "vendor_name": "Vera"
- },
- {
-  "id": "5fa0604f-50f7-4061-a351-e729b445f1bb",
-  "slug": "super-buff-cherry",
-  "name": "Super Buff Cherry",
-  "brand": "Hi-Fuel",
-  "category": "flower",
-  "subcategory": "other",
-  "price_min": 8.47,
-  "price_max": 8.47,
-  "unit": " \u00b7 3.5g eighth",
-  "unit_kind": "eighth",
-  "thc_max": 20,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Loose",
-    "price": 8.47,
-    "thc": 20
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442566098_IMG_8339.jpg",
-  "match_score": 1.042,
-  "vendor_name": "Hi-Fuel"
  },
  {
   "id": "62151e5d-84a9-4d2c-9ced-efc2b042eb27",
@@ -2806,8 +2681,8 @@
   "brand": "Silver Lake Farms",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 33,
@@ -2815,7 +2690,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 33
    }
   ],
@@ -3456,8 +3331,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 24.08,
@@ -3465,7 +3340,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 24.08
    }
   ],
@@ -3506,8 +3381,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.48,
@@ -3515,7 +3390,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 29.48
    }
   ],
@@ -3571,8 +3446,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.55,
@@ -3580,7 +3455,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 29.55
    }
   ],
@@ -3721,7 +3596,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 33.87,
+  "price_min": 45.0,
   "price_max": 45.0,
   "unit": "",
   "unit_kind": "",
@@ -3740,7 +3615,7 @@
    },
    {
     "name": "Grand Daddy Grape",
-    "price": 33.87,
+    "price": 45.0,
     "thc": 79.02
    },
    {
@@ -3755,7 +3630,7 @@
    },
    {
     "name": "Watermelon Bubblegum",
-    "price": 33.87,
+    "price": 45.0,
     "thc": 75.27
    },
    {
@@ -4021,8 +3896,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "indica",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 25.23,
@@ -4030,7 +3905,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 25.23
    }
   ],
@@ -4146,8 +4021,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 28.79,
@@ -4155,7 +4030,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 28.79
    }
   ],
@@ -4276,7 +4151,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 89.95,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -4287,11 +4162,6 @@
     "name": "Cherry Limeade",
     "price": 12.0,
     "thc": 80.92
-   },
-   {
-    "name": "Churroz",
-    "price": 12.0,
-    "thc": 76.97
    },
    {
     "name": "Electric Lemonade",
@@ -4886,8 +4756,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.25,
@@ -4895,7 +4765,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 27.25
    }
   ],
@@ -5065,8 +4935,8 @@
   "price_max": 8.06,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 31.8,
-  "n_strains": 2,
+  "thc_max": 31.9,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Banana Cream",
@@ -5077,6 +4947,11 @@
     "name": "Pure Pear",
     "price": 8.06,
     "thc": 30
+   },
+   {
+    "name": "XJ-13",
+    "price": 8.06,
+    "thc": 31.9
    }
   ],
   "description": "",
@@ -5331,8 +5206,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "indica",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 24.3,
@@ -5340,7 +5215,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 24.3
    }
   ],
@@ -5646,8 +5521,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "indica",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 28.06,
@@ -5655,7 +5530,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 28.06
    }
   ],
@@ -6136,8 +6011,8 @@
   "brand": "Nerd Bar",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 23.58,
@@ -6145,7 +6020,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 23.58
    }
   ],
@@ -6451,8 +6326,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 27.09,
@@ -6460,7 +6335,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 27.09
    }
   ],
@@ -6476,8 +6351,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 28.9,
@@ -6485,7 +6360,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 28.9
    }
   ],
@@ -6656,8 +6531,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 29.48,
@@ -6665,7 +6540,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 29.48
    }
   ],
@@ -6811,8 +6686,8 @@
   "brand": "Silver Lake",
   "category": "flower",
   "subcategory": "sativa",
-  "price_min": 8.47,
-  "price_max": 8.47,
+  "price_min": 8.02,
+  "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
   "thc_max": 30.08,
@@ -6820,7 +6695,7 @@
   "strains": [
    {
     "name": "Loose",
-    "price": 8.47,
+    "price": 8.02,
     "thc": 30.08
    }
   ],
