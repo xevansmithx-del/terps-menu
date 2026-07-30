@@ -23139,7 +23139,7 @@
        "min_percentage": 20.26
       }
      },
-     "price": 1210,
+     "price": 484,
      "pricing": [
       {
        "default": false,
@@ -27439,7 +27439,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1785367664859,
+   "rebuild_gen": 1785423067692,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-disolable-143787",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies disolable",
@@ -27511,7 +27511,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1785367664859,
+   "rebuild_gen": 1785423067692,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-gummie-137207",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies gummie",
@@ -27676,16 +27676,6 @@
        "dthc": null,
        "thc": null,
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
       }
      ],
      "tags": [
@@ -27723,7 +27713,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1785367664859,
+   "rebuild_gen": 1785423067692,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-max-relief-138702",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies max relief",
@@ -27795,7 +27785,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1785367664859,
+   "rebuild_gen": 1785423067692,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-riplet-139986",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies riplet",
@@ -27897,7 +27887,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1785367664859,
+   "rebuild_gen": 1785423067692,
    "slug": "inventory/variant/lifestyle-foods-inc-sample-smashed-watermelon-sour-indica-129228",
    "subcategory": "gummies",
    "suggest": "sample lifestyle foods inc edible gummies smashed watermelon sour indica",
@@ -42737,7 +42727,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript",
    "non_trans": false,
-   "rebuild_gen": 1784838871364,
+   "rebuild_gen": 1785423026894,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-crushed-pineapple-143527",
    "subcategory": "candy",
    "suggest": "ript lifestyle foods inc edible candy crushed pineapple",
@@ -42829,7 +42819,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript",
    "non_trans": false,
-   "rebuild_gen": 1784838871364,
+   "rebuild_gen": 1785423026894,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-strawberry-fieldtrip-134666",
    "subcategory": "candy",
    "suggest": "ript lifestyle foods inc edible candy strawberry fieldtrip",
@@ -42855,56 +42845,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -42951,7 +42891,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Ript",
    "non_trans": false,
-   "rebuild_gen": 1784838871364,
+   "rebuild_gen": 1785423026894,
    "slug": "inventory/variant/lifestyle-foods-inc-ript-wild-cherry-134654",
    "subcategory": "candy",
    "suggest": "ript lifestyle foods inc edible candy wild cherry",
@@ -43228,7 +43168,7 @@
        "min_percentage": 20.9
       }
      },
-     "price": 4500,
+     "price": 3629,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,

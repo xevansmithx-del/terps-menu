@@ -4396,8 +4396,8 @@
   "brand": "Egozi",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 45.0,
-  "price_max": 45.0,
+  "price_min": 36.29,
+  "price_max": 36.29,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
   "thc_max": 23.63,
@@ -4405,7 +4405,7 @@
   "strains": [
    {
     "name": "Half",
-    "price": 45.0,
+    "price": 36.29,
     "thc": 23.63
    }
   ],
