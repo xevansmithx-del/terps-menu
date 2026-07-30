@@ -1955,23 +1955,13 @@
   "price_max": 6.01,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 77.64,
-  "n_strains": 19,
+  "thc_max": 71.52,
+  "n_strains": 15,
   "strains": [
-   {
-    "name": "Banana Float",
-    "price": 6.0,
-    "thc": 66.9
-   },
    {
     "name": "Banana Runtz",
     "price": 4.84,
     "thc": 61.38
-   },
-   {
-    "name": "Bursted Grapes",
-    "price": 6.0,
-    "thc": 77.64
    },
    {
     "name": "Cereal Milk",
@@ -2002,11 +1992,6 @@
     "name": "Flavor Pebbles",
     "price": 6.01,
     "thc": 70.74
-   },
-   {
-    "name": "GG",
-    "price": 6.0,
-    "thc": 67.54
    },
    {
     "name": "Hollywood Slapz",
@@ -2042,11 +2027,6 @@
     "name": "Poison Peaches",
     "price": 6.0,
     "thc": 62.11
-   },
-   {
-    "name": "Pookie Style",
-    "price": 6.0,
-    "thc": 73.65
    },
    {
     "name": "Thirst Trap",
@@ -2386,7 +2366,7 @@
    {
     "name": "Grape Gorilla",
     "price": 35.0,
-    "thc": 77.86
+    "thc": 73.64
    },
    {
     "name": "Hazy Citrus",
@@ -2735,13 +2715,13 @@
   "price_max": 36.29,
   "unit": " \u00b7 14g half",
   "unit_kind": "half",
-  "thc_max": 19.19,
+  "thc_max": 16.53,
   "n_strains": 1,
   "strains": [
    {
     "name": "Half",
     "price": 36.29,
-    "thc": 19.19
+    "thc": 16.53
    }
   ],
   "description": "",
@@ -6116,13 +6096,8 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 71.46,
-  "n_strains": 8,
+  "n_strains": 6,
   "strains": [
-   {
-    "name": "Blueberry Head Band",
-    "price": 17.74,
-    "thc": 58.16
-   },
    {
     "name": "Diesel Dawg",
     "price": 17.74,
@@ -6132,11 +6107,6 @@
     "name": "Flavor Pebbles",
     "price": 17.74,
     "thc": 70.74
-   },
-   {
-    "name": "Frosted Melonz",
-    "price": 17.74,
-    "thc": 67.65
    },
    {
     "name": "Frozen Pie",
@@ -6175,13 +6145,13 @@
   "price_max": 26.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 72.33,
+  "thc_max": 68.84,
   "n_strains": 1,
   "strains": [
    {
     "name": "Garlic Ice Cream",
     "price": 26.0,
-    "thc": 72.33
+    "thc": 68.84
    }
   ],
   "description": "",
@@ -6200,8 +6170,8 @@
   "price_max": 2.42,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 14.7,
-  "n_strains": 7,
+  "thc_max": 14.07,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6222,21 +6192,6 @@
     "name": "Golden Goat",
     "price": 2.42,
     "thc": 8.5
-   },
-   {
-    "name": "Grape Cream Cake",
-    "price": 2.42,
-    "thc": 11.4
-   },
-   {
-    "name": "Shawshank",
-    "price": 2.42,
-    "thc": 11.43
-   },
-   {
-    "name": "Space Cat",
-    "price": 2.42,
-    "thc": 14.7
    }
   ],
   "description": "",
@@ -6556,12 +6511,12 @@
   "brand": "Natty Rems",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 2.42,
+  "price_min": 4.0,
   "price_max": 4.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 24.77,
-  "n_strains": 11,
+  "thc_max": 23.17,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6574,11 +6529,6 @@
     "thc": 16.14
    },
    {
-    "name": "Flo Driver",
-    "price": 4.0,
-    "thc": 17.51
-   },
-   {
     "name": "GMO",
     "price": 4.0,
     "thc": 23.17
@@ -6587,11 +6537,6 @@
     "name": "Golden Goat",
     "price": 4.0,
     "thc": 21.57
-   },
-   {
-    "name": "Gorilla Pie",
-    "price": 4.0,
-    "thc": 24.77
    },
    {
     "name": "Grape Essence",
@@ -6607,11 +6552,6 @@
     "name": "Lemon Tree Punch",
     "price": 4.0,
     "thc": 19.82
-   },
-   {
-    "name": "runtz",
-    "price": 2.42,
-    "thc": 15.85
    },
    {
     "name": "super boof",

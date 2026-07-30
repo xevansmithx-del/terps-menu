@@ -1,6 +1,6 @@
 {
  "brands": {
-  "": 11,
+  "": 10,
   "(White Mousse) WM Concentrates LLC": 4,
   "14ER": 3,
   "AO Extracts": 36,
@@ -16,15 +16,15 @@
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
   "Craft": 144,
-  "David Jackson LLC": 27,
+  "David Jackson LLC": 21,
   "Denver Dab Co": 56,
   "Denver Packaging Company": 1,
-  "Egozi": 22,
+  "Egozi": 18,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 22,
   "Hi-Fuel": 5,
   "High Country Management Group": 18,
-  "In House LLC": 3,
+  "In House LLC": 1,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
   "Juicy": 7,
@@ -39,7 +39,7 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 6,
-  "NATTY REMS LLC": 29,
+  "NATTY REMS LLC": 23,
   "SPHEREX": 18,
   "Silver Lake": 23,
   "Starbuds Mips": 10,
@@ -51,9 +51,9 @@
  },
  "categories": {
   "concentrate": {
-   "count": 401,
+   "count": 390,
    "subcategories": {
-    "budder": 20,
+    "budder": 18,
     "cartridge": 187,
     "crumble": 1,
     "cured extract": 3,
@@ -61,9 +61,9 @@
     "live extract": 23,
     "resin": 2,
     "shatter": 12,
-    "solventless": 24,
+    "solventless": 19,
     "syringe": 8,
-    "wax": 95
+    "wax": 91
    }
   },
   "edible": {
@@ -78,10 +78,10 @@
    }
   },
   "flower": {
-   "count": 270,
+   "count": 262,
    "subcategories": {
-    "hybrid": 200,
-    "indica": 17,
+    "hybrid": 193,
+    "indica": 16,
     "other": 39,
     "sativa": 14
    }
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 765,
+ "hits": 746,
  "results": [
   {
    "availability": "",
@@ -367,7 +367,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784320816941,
+   "rebuild_gen": 1785374493960,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-black-label-bacon-573505",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax black label bacon",
@@ -444,7 +444,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784320816941,
+   "rebuild_gen": 1785374493960,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-don-mega-573518",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax don mega",
@@ -521,7 +521,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784320816941,
+   "rebuild_gen": 1785374493960,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-jilly-bean-573516",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax jilly bean",
@@ -598,7 +598,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784320816941,
+   "rebuild_gen": 1785374493960,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-tropicana-banana-573515",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax tropicana banana",
@@ -629,16 +629,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7850",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -685,7 +675,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Denver Dabs 4g",
    "non_trans": false,
-   "rebuild_gen": 1784320816941,
+   "rebuild_gen": 1785374493960,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-4g-vanilla-kush-573512",
    "subcategory": "wax",
    "suggest": "denver dabs 4g denver dab co concentrate wax vanilla kush",
@@ -5225,7 +5215,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-bubba-haze-572127",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract bubba haze",
@@ -5309,7 +5299,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
@@ -5393,7 +5383,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-goddess-breath-574016",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract goddess breath",
@@ -5470,7 +5460,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-kake-kush-572381",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract kake kush",
@@ -5564,7 +5554,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cake-574020",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cake",
@@ -5641,7 +5631,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-lemon-cookies-558422",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract lemon cookies",
@@ -5725,7 +5715,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-mac-564014",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract mac",
@@ -5809,7 +5799,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Panacea Live Resin Cart 1000mg",
    "non_trans": false,
-   "rebuild_gen": 1785343968561,
+   "rebuild_gen": 1785374560684,
    "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-starfire-cream-572902",
    "subcategory": "live extract",
    "suggest": "panacea live resin cart 1000mg craft concentrate live extract starfire cream",
@@ -12741,7 +12731,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1784492489393,
+   "rebuild_gen": 1785374628260,
    "slug": "inventory/variant/craft-sample-sample-511723",
    "subcategory": "cartridge",
    "suggest": "sample craft concentrate cartridge",
@@ -12781,16 +12771,6 @@
        "dthc": null,
        "thc": "8293",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
       }
      ],
      "tags": [
@@ -12828,7 +12808,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sample",
    "non_trans": false,
-   "rebuild_gen": 1784492489393,
+   "rebuild_gen": 1785374628260,
    "slug": "inventory/variant/craft-sample-tug-564939",
    "subcategory": "cartridge",
    "suggest": "sample craft concentrate cartridge tug",
@@ -14108,7 +14088,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-apple-sauce-538016",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge apple sauce",
@@ -14195,7 +14175,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-baked-banana-549675",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge baked banana",
@@ -14272,7 +14252,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-blueberry-swirl-538017",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge blueberry swirl",
@@ -14349,7 +14329,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-cherry-slush-549673",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge cherry slush",
@@ -14436,7 +14416,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-citrus-splash-569921",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge citrus splash",
@@ -14459,7 +14439,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 85,
-       "min_percentage": 73.95
+       "min_percentage": 85
       }
      },
      "price": 3500,
@@ -14475,16 +14455,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8500",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7395",
        "thca": null
       }
      ],
@@ -14523,7 +14493,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-mango-squeeze-538018",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge mango squeeze",
@@ -14600,7 +14570,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-maple-drip-560300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge maple drip",
@@ -14677,7 +14647,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-orange-krush-556300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge orange krush",
@@ -14754,7 +14724,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-punchberry-538019",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge punchberry",
@@ -14851,7 +14821,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-strawberry-shortcake-549679",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge strawberry shortcake",
@@ -14882,16 +14852,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8030",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -14938,7 +14898,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341153756,
+   "rebuild_gen": 1785374545557,
    "slug": "inventory/variant/craft-oil-twist-tanker-tropsicle-538015",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge tropsicle",
@@ -19350,7 +19310,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -19364,7 +19324,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "GG4",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785376179861,
    "slug": "inventory/variant/egozi-gg4-half-636983",
    "subcategory": "hybrid",
    "suggest": "gg4 egozi flower hybrid half",
@@ -19386,7 +19346,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 25.76,
+       "max_percentage": 24.16,
        "min_percentage": 24.16
       }
      },
@@ -19410,16 +19370,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "2416",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2576",
        "thca": null
       }
      ],
@@ -20059,84 +20009,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-banana-float-564578",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax banana float",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "564578",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana Float",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 66.9,
-       "min_percentage": 66.9
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6690",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-banana-runtz-572180",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax banana runtz",
@@ -20213,84 +20086,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-bursted-grapes-541066",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax bursted grapes",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "541066",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Bursted Grapes",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 77.64,
-       "min_percentage": 77.64
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7764",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-cereal-milk-572184",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax cereal milk",
@@ -20367,7 +20163,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-diesel-cookies-573866",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax diesel cookies",
@@ -20444,7 +20240,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-double-runtz-573869",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax double runtz",
@@ -20521,7 +20317,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-double-trap-573870",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax double trap",
@@ -20598,7 +20394,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-dream-kush-c-ke-569768",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax dream kush c@ke",
@@ -20675,7 +20471,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-flavor-pebbles-572191",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax flavor pebbles",
@@ -20752,84 +20548,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-gg-564580",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax gg",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "564580",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "GG",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67.54,
-       "min_percentage": 67.54
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6754",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-hollywood-slapz-572192",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax hollywood slapz",
@@ -20916,7 +20635,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-ice-jam-pie-573863",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax ice jam pie",
@@ -20993,7 +20712,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-kush-mintz-572179",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax kush mintz",
@@ -21070,7 +20789,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-lemon-ice-cream-573867",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax lemon ice cream",
@@ -21147,7 +20866,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-mellowz-562770",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax mellowz",
@@ -21224,7 +20943,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-peach-cloud-573865",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax peach cloud",
@@ -21301,7 +21020,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-poison-peaches-572183",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax poison peaches",
@@ -21378,84 +21097,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 1g",
    "non_trans": false,
-   "rebuild_gen": 1785084088575,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-pookie-style-542429",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax pookie style",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "542429",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Pookie Style",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 73.65,
-       "min_percentage": 73.65
-      }
-     },
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7365",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1785084088575,
+   "rebuild_gen": 1785377472971,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-thirst-trap-573860",
    "subcategory": "wax",
    "suggest": "timberline extracts 1g david jackson llc concentrate wax thirst trap",
@@ -21978,7 +21620,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-blueberry-bubble-369987",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge blueberry bubble",
@@ -22055,7 +21697,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-fresh-squeeze-392025",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge fresh squeeze",
@@ -22142,7 +21784,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-grand-daddy-purps-367950",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge grand daddy purps",
@@ -22229,7 +21871,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-green-skunk-369403",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge green skunk",
@@ -22260,16 +21902,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7437",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -22316,7 +21948,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-mango-kush-367948",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge mango kush",
@@ -22403,7 +22035,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-maui-wowie-368032",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge maui wowie",
@@ -22480,7 +22112,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-purple-punch-390607",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge purple punch",
@@ -22557,7 +22189,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-sour-diesel-363988",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge sour diesel",
@@ -22644,7 +22276,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-super-lemon-haze-369991",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge super lemon haze",
@@ -22731,7 +22363,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Cartridge 1000 mg",
    "non_trans": false,
-   "rebuild_gen": 1785342042872,
+   "rebuild_gen": 1785374643676,
    "slug": "inventory/variant/craft-oil-cartridge-1000-mg-tangerine-haze-367225",
    "subcategory": "cartridge",
    "suggest": "oil cartridge 1000 mg craft concentrate cartridge tangerine haze",
@@ -24067,7 +23699,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-diesel-dawg-523598",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge diesel dawg",
@@ -24144,7 +23776,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-ghost-haze-524646",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge ghost haze",
@@ -24228,7 +23860,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-grape-gorilla-523599",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge grape gorilla",
@@ -24250,7 +23882,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 77.86,
+       "max_percentage": 73.64,
        "min_percentage": 73.64
       }
      },
@@ -24267,16 +23899,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7364",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7786",
        "thca": null
       }
      ],
@@ -24315,7 +23937,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-hazy-citrus-524648",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge hazy citrus",
@@ -24399,7 +24021,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-jungle-punch-524649",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge jungle punch",
@@ -24483,7 +24105,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-orange-sorbet-523603",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge orange sorbet",
@@ -24570,7 +24192,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-purple-skunk-523605",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge purple skunk",
@@ -24647,7 +24269,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-sweet-peach-523606",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge sweet peach",
@@ -24724,7 +24346,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tangie-tart-523608",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tangie tart",
@@ -24801,7 +24423,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785341286057,
+   "rebuild_gen": 1785374425960,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tropical-punch-523609",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tropical punch",
@@ -28412,7 +28034,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -28426,7 +28048,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Candy Fumez",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785376050041,
    "slug": "inventory/variant/egozi-candy-fumez-half-636053",
    "subcategory": "hybrid",
    "suggest": "candy fumez egozi flower hybrid half",
@@ -28448,7 +28070,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 19.19,
+       "max_percentage": 16.53,
        "min_percentage": 16.53
       }
      },
@@ -28465,16 +28087,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1653",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1919",
        "thca": null
       }
      ],
@@ -28809,83 +28421,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "734e6993-e88e-4d82-a522-bc07e9e2ca0e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Peach Pit",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/egozi-peach-pit-half-636979",
-   "subcategory": "indica",
-   "suggest": "peach pit egozi flower indica half",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "636979",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Half",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 14000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 29.49,
-       "min_percentage": 29.49
-      }
-     },
-     "price": 4500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2949",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "prepack"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "indica"
   },
   {
    "availability": "",
@@ -30433,84 +29968,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890316513,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-captain-cream-563457",
-   "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin egozi concentrate solventless captain cream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "563457",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Captain Cream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 72.38,
-       "min_percentage": 72.38
-      }
-     },
-     "price": 1613,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7238",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "780f92c9-5eca-4caa-8bc5-530da83583ea",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin",
-   "non_trans": false,
-   "rebuild_gen": 1783890316513,
+   "rebuild_gen": 1785375890563,
    "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-garlic-ice-cream-563458",
    "subcategory": "solventless",
    "suggest": "egozi 1st wash rosin egozi concentrate solventless garlic ice cream",
@@ -30587,7 +30045,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi 1st Wash Rosin",
    "non_trans": false,
-   "rebuild_gen": 1783890316513,
+   "rebuild_gen": 1785375890563,
    "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-wilfunk-559980",
    "subcategory": "solventless",
    "suggest": "egozi 1st wash rosin egozi concentrate solventless wilfunk",
@@ -40598,7 +40056,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-hybrid-multipack-533057",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge hybrid multipack",
@@ -40692,7 +40150,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-indica-multipack-533055",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge indica multipack",
@@ -40786,7 +40244,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-sativa-multipack-533056",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge sativa multipack",
@@ -40870,7 +40328,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-twist-1-pack-561831",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge twist #1 pack",
@@ -40954,7 +40412,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-twist-2-pack-561832",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge twist #2 pack",
@@ -41001,16 +40459,6 @@
        "dthc": null,
        "thc": "6900-8730",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6912-8309",
-       "thca": null
       }
      ],
      "tags": [
@@ -41048,7 +40496,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil 4 Pack",
    "non_trans": false,
-   "rebuild_gen": 1785339696680,
+   "rebuild_gen": 1785374454319,
    "slug": "inventory/variant/craft-oil-4-pack-twist-3-564848",
    "subcategory": "cartridge",
    "suggest": "oil 4 pack craft concentrate cartridge twist #3",
@@ -41086,16 +40534,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6800-7909",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -45123,160 +44561,6 @@
   {
    "availability": "",
    "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "af1402c9-855b-41ce-9d20-ae7cc0201f3d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783890323392,
-   "slug": "inventory/variant/egozi-egozi-rosin-1g-peach-cobbler-559898",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 1g egozi concentrate solventless peach cobbler",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559898",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Peach Cobbler",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.65,
-       "min_percentage": 74.65
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7465",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "af1402c9-855b-41ce-9d20-ae7cc0201f3d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 1g",
-   "non_trans": false,
-   "rebuild_gen": 1783890323392,
-   "slug": "inventory/variant/egozi-egozi-rosin-1g-spritzer-559851",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 1g egozi concentrate solventless spritzer",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559851",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Spritzer",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 69.78,
-       "min_percentage": 69.78
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6978",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -46182,7 +45466,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-apple-sauce-530461",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge apple sauce",
@@ -46259,7 +45543,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-baked-banana-549685",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge baked banana",
@@ -46346,7 +45630,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-blueberry-swirl-530462",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge blueberry swirl",
@@ -46433,7 +45717,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
@@ -46510,7 +45794,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-citrus-splash-564897",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge citrus splash",
@@ -46587,7 +45871,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-mango-squeezed-530463",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge mango squeezed",
@@ -46684,7 +45968,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-maple-drip-559097",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge maple drip",
@@ -46781,7 +46065,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-orange-krush-556296",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge orange krush",
@@ -46868,7 +46152,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-punchberry-530464",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge punchberry",
@@ -46899,16 +46183,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7663",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -46955,7 +46229,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-strawberry-shortcake-549684",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge strawberry shortcake",
@@ -47052,7 +46326,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-tropsicle-530465",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge tropsicle",
@@ -47129,7 +46403,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Cartridge",
    "non_trans": false,
-   "rebuild_gen": 1785342128358,
+   "rebuild_gen": 1785374657265,
    "slug": "inventory/variant/craft-oil-twist-cartridge-watermelon-ice-530466",
    "subcategory": "cartridge",
    "suggest": "oil twist cartridge craft concentrate cartridge watermelon ice",
@@ -47199,174 +46473,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b6de1e36-6127-4140-8290-6d9136e9a62b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "InHouse Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/in-house-llc-inhouse-rosin-2g-c-fumez-bx3-558058",
-   "subcategory": "solventless",
-   "suggest": "inhouse rosin 2g in house llc concentrate solventless c.fumez bx3",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "558058",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "C.Fumez BX3",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67.2,
-       "min_percentage": 67.2
-      }
-     },
-     "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3000
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6720",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "ab51e0fb-ac41-47a1-9d02-3c7ebdcbf59e",
-    "license": "404R-00489",
-    "medical": false,
-    "name": "In House LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b6de1e36-6127-4140-8290-6d9136e9a62b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "InHouse Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/in-house-llc-inhouse-rosin-2g-gm-x-rg-5-559386",
-   "subcategory": "solventless",
-   "suggest": "inhouse rosin 2g in house llc concentrate solventless gm x rg #5",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559386",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "GM x RG #5",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 69.1,
-       "min_percentage": 69.1
-      }
-     },
-     "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 3000
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6910",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "ab51e0fb-ac41-47a1-9d02-3c7ebdcbf59e",
-    "license": "404R-00489",
-    "medical": false,
-    "name": "In House LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
   },
   {
    "availability": "",
@@ -50044,7 +49150,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785083763080,
+   "rebuild_gen": 1785374575659,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubba-kush-571091",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubba kush",
@@ -50128,7 +49234,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785083763080,
+   "rebuild_gen": 1785374575659,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubonic-chronic-571089",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubonic chronic",
@@ -50212,7 +49318,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785083763080,
+   "rebuild_gen": 1785374575659,
    "slug": "inventory/variant/loud-labs-llc-rippys-skylin-og-571090",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge skylin og",
@@ -52395,83 +51501,6 @@
     "license": "403R-00163",
     "medical": false,
     "name": "Antero Sciences",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "d2b3e296-7338-4e09-ad45-44ee91fc1403",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Chronic Thearapy : Applelatti",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/chronic-thearapy-applelatti-loose-638142",
-   "subcategory": "hybrid",
-   "suggest": "chronic thearapy : applelatti flower hybrid loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "638142",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 16.93,
-       "min_percentage": 16.93
-      }
-     },
-     "price": 121,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1693",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "dcebb4e5-5aba-41c7-b02a-337ccb015af4",
-    "license": "",
-    "medical": false,
-    "name": "",
     "state": "CO"
    },
    "weave_category": "flower",
@@ -58826,84 +57855,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-blueberry-head-band-560092",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder blueberry head band",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "560092",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blueberry Head Band",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 58.16,
-       "min_percentage": 58.16
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "5816",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-diesel-dawg-573848",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder diesel dawg",
@@ -58980,7 +57932,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-flavor-pebbles-573847",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder flavor pebbles",
@@ -59057,84 +58009,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frosted-melonz-562773",
-   "subcategory": "budder",
-   "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frosted melonz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "562773",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Frosted Melonz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67.65,
-       "min_percentage": 67.65
-      }
-     },
-     "price": 1774,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6765",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "e939952e-8d17-4386-803b-321aeab3a15c",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 4g Jar",
-   "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-frozen-pie-573852",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder frozen pie",
@@ -59211,7 +58086,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-gorilla-runtz-573851",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder gorilla runtz",
@@ -59288,7 +58163,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-green-gas-573853",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder green gas",
@@ -59365,7 +58240,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Timberline Extracts 4g Jar",
    "non_trans": false,
-   "rebuild_gen": 1785014275217,
+   "rebuild_gen": 1785377499057,
    "slug": "inventory/variant/david-jackson-llc-timberline-extracts-4g-jar-rainbow-snowcone-573868",
    "subcategory": "budder",
    "suggest": "timberline extracts 4g jar david jackson llc concentrate budder rainbow snowcone",
@@ -59442,7 +58317,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 2g",
    "non_trans": false,
-   "rebuild_gen": 1784057752614,
+   "rebuild_gen": 1785376152258,
    "slug": "inventory/variant/egozi-egozi-rosin-2g-garlic-ice-cream-559983",
    "subcategory": "solventless",
    "suggest": "egozi rosin 2g egozi concentrate solventless garlic ice cream",
@@ -59464,7 +58339,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 72.33,
+       "max_percentage": 68.84,
        "min_percentage": 68.84
       }
      },
@@ -59481,16 +58356,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6884",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7233",
        "thca": null
       }
      ],
@@ -59529,7 +58394,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492163142,
+   "rebuild_gen": 1785376713259,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-alien-haze-632504",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid alien haze",
@@ -59606,7 +58471,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492163142,
+   "rebuild_gen": 1785376713259,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-blueberry-muffin-644638",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid blueberry muffin",
@@ -59683,7 +58548,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492163142,
+   "rebuild_gen": 1785376713259,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-freedom-og-641545",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid freedom og",
@@ -59760,7 +58625,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492163142,
+   "rebuild_gen": 1785376713259,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-golden-goat-644639",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid golden goat",
@@ -59799,257 +58664,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "850",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492163142,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-grape-cream-cake-639672",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid grape cream cake",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639672",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Grape Cream Cake",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 11.4,
-       "min_percentage": 11.4
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1140",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1140",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1140",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492163142,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-shawshank-631054",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid shawshank",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "631054",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Shawshank",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 11.43,
-       "min_percentage": 11.43
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1143",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492163142,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-space-cat-639671",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid space cat",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639671",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Space Cat",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 14.7,
-       "min_percentage": 14.7
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1470",
        "thca": null
       }
      ],
@@ -62179,7 +60793,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-alien-haze-644739",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid alien haze",
@@ -62256,7 +60870,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-blueberry-muffin-649743",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid blueberry muffin",
@@ -62333,84 +60947,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
-   "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-flo-driver-634397",
-   "subcategory": "hybrid",
-   "suggest": "natty rems preroll natty rems llc flower hybrid flo driver",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "634397",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Flo Driver",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 17.51,
-       "min_percentage": 17.51
-      }
-     },
-     "price": 400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1751",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Natty Rems Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-gmo-649744",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid gmo",
@@ -62487,7 +61024,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-golden-goat-631068",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid golden goat",
@@ -62564,84 +61101,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
-   "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-gorilla-pie-635138",
-   "subcategory": "hybrid",
-   "suggest": "natty rems preroll natty rems llc flower hybrid gorilla pie",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "635138",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Gorilla Pie",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 24.77,
-       "min_percentage": 24.77
-      }
-     },
-     "price": 400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2477",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Natty Rems Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-grape-essence-644644",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid grape essence",
@@ -62728,7 +61188,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-jungle-cake-646719",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid jungle cake",
@@ -62805,7 +61265,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-lemon-tree-punch-646718",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid lemon tree punch",
@@ -62882,84 +61342,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Natty Rems Preroll",
    "non_trans": false,
-   "rebuild_gen": 1784492667238,
-   "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-runtz-639686",
-   "subcategory": "hybrid",
-   "suggest": "natty rems preroll natty rems llc flower hybrid runtz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "639686",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "runtz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 15.85,
-       "min_percentage": 15.85
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1585",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "f9d02ea4-0b3a-40f2-97fd-dc440ff6ba7a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Natty Rems Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1784492667238,
+   "rebuild_gen": 1785376640458,
    "slug": "inventory/variant/natty-rems-llc-natty-rems-preroll-super-boof-644738",
    "subcategory": "hybrid",
    "suggest": "natty rems preroll natty rems llc flower hybrid super boof",
@@ -63921,7 +62304,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-berry-cobbler-567296",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate berry cobbler",
@@ -63998,7 +62381,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-blue-dream-553759",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate blue dream",
@@ -64085,7 +62468,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-dante-s-inferno-569493",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate dante's inferno",
@@ -64162,7 +62545,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-ghost-glue-547666",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate ghost glue",
@@ -64239,7 +62622,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-kush-mints-569498",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate kush mints",
@@ -64316,7 +62699,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-lazar-563149",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate lazar",
@@ -64393,7 +62776,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-munchie-menace-547768",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate munchie menace",
@@ -64470,7 +62853,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-sunny-side-sammie-572682",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate sunny side sammie",
@@ -64547,7 +62930,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Shatter",
    "non_trans": false,
-   "rebuild_gen": 1785084135675,
+   "rebuild_gen": 1785374673067,
    "slug": "inventory/variant/cold-baked-shatter-vanilla-glaze-569490",
    "subcategory": "shatter",
    "suggest": "shatter cold baked concentrate vanilla glaze",
