@@ -476,7 +476,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 33.7,
-  "n_strains": 7,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Blueberry",
@@ -491,12 +491,17 @@
    {
     "name": "Lime Sorbet",
     "price": 12.0,
-    "thc": 25.95
+    "thc": 29.73
+   },
+   {
+    "name": "Rocket Pop",
+    "price": 12.0,
+    "thc": 28.12
    },
    {
     "name": "Strawnana",
     "price": 12.0,
-    "thc": 26.66
+    "thc": 30.56
    },
    {
     "name": "Sweet Grape",
@@ -1952,11 +1957,11 @@
   "category": "concentrate",
   "subcategory": "wax",
   "price_min": 4.03,
-  "price_max": 6.01,
+  "price_max": 6.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 71.52,
-  "n_strains": 15,
+  "n_strains": 14,
   "strains": [
    {
     "name": "Banana Runtz",
@@ -1987,11 +1992,6 @@
     "name": "Dream Kush C@ke",
     "price": 6.0,
     "thc": 61.38
-   },
-   {
-    "name": "Flavor Pebbles",
-    "price": 6.01,
-    "thc": 70.74
    },
    {
     "name": "Hollywood Slapz",
@@ -2665,13 +2665,13 @@
   "price_max": 8.02,
   "unit": " \u00b7 3.5g eighth",
   "unit_kind": "eighth",
-  "thc_max": 33,
+  "thc_max": 25.4,
   "n_strains": 1,
   "strains": [
    {
     "name": "Loose",
     "price": 8.02,
-    "thc": 33
+    "thc": 25.4
    }
   ],
   "description": "",
@@ -3115,18 +3115,13 @@
   "price_max": 12.9,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 78.8,
-  "n_strains": 10,
+  "thc_max": 78,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Animal Mints",
     "price": 12.0,
     "thc": 72.4
-   },
-   {
-    "name": "Banana Split",
-    "price": 12.0,
-    "thc": 78.8
    },
    {
     "name": "Biscotti Sherb",
@@ -3390,8 +3385,8 @@
   "price_max": 14.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 24.04,
-  "n_strains": 4,
+  "thc_max": 22.41,
+  "n_strains": 3,
   "strains": [
    {
     "name": "D-Lish",
@@ -3402,11 +3397,6 @@
     "name": "Paloma",
     "price": 14.0,
     "thc": 22.41
-   },
-   {
-    "name": "Red Froot",
-    "price": 14.0,
-    "thc": 24.04
    },
    {
     "name": "Red Rose",
@@ -4077,7 +4067,7 @@
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 34.0,
-  "price_max": 34.0,
+  "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
@@ -4105,7 +4095,7 @@
    },
    {
     "name": "Twist #2 Pack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 87.3
    },
    {
@@ -4650,6 +4640,56 @@
   "vendor_name": "Antero Sciences"
  },
  {
+  "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+  "slug": "keef-cola-10mg",
+  "name": "Keef Cola 10mg",
+  "brand": "Keef Brands",
+  "category": "edible",
+  "subcategory": "drink",
+  "price_min": 4.84,
+  "price_max": 6.0,
+  "unit": "",
+  "unit_kind": "",
+  "thc_max": 10,
+  "n_strains": 6,
+  "strains": [
+   {
+    "name": "Blue Raz",
+    "price": 6.0,
+    "thc": 10
+   },
+   {
+    "name": "C.R.E.A.M.",
+    "price": 6.0,
+    "thc": null
+   },
+   {
+    "name": "Mr. Puffer",
+    "price": 4.84,
+    "thc": 10
+   },
+   {
+    "name": "Orange Kush",
+    "price": 6.0,
+    "thc": 10
+   },
+   {
+    "name": "Pineapple x-press",
+    "price": 4.84,
+    "thc": 10
+   },
+   {
+    "name": "Purple Passion",
+    "price": 6.0,
+    "thc": 10
+   }
+  ],
+  "description": "",
+  "wm_img": "https://images.weedmaps.com/products/000/029/945/avatar/1628610982-keef-classics-og-cola-can-ca.png",
+  "match_score": 0.682,
+  "vendor_name": "Denver Packaging Company"
+ },
+ {
   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
   "slug": "oil-twist-cartridge",
   "name": "Oil Twist Cartridge",
@@ -4915,8 +4955,8 @@
   "price_max": 8.06,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 31.9,
-  "n_strains": 3,
+  "thc_max": 31.8,
+  "n_strains": 2,
   "strains": [
    {
     "name": "Banana Cream",
@@ -4927,11 +4967,6 @@
     "name": "Pure Pear",
     "price": 8.06,
     "thc": 30
-   },
-   {
-    "name": "XJ-13",
-    "price": 8.06,
-    "thc": 31.9
    }
   ],
   "description": "",
@@ -4951,7 +4986,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": null,
-  "n_strains": 9,
+  "n_strains": 10,
   "strains": [
    {
     "name": "1:1 Hybrid",
@@ -4985,6 +5020,11 @@
    },
    {
     "name": "RSO Hybrid",
+    "price": 8.06,
+    "thc": null
+   },
+   {
+    "name": "RSO Indica",
     "price": 8.06,
     "thc": null
    },
@@ -5127,11 +5167,11 @@
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 8.06,
-  "price_max": 8.07,
+  "price_max": 9.68,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 70.86,
-  "n_strains": 3,
+  "thc_max": 77.74,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Bubba Kush",
@@ -5144,9 +5184,29 @@
     "thc": 70.86
    },
    {
+    "name": "Crosswalker",
+    "price": 9.68,
+    "thc": 75.91
+   },
+   {
+    "name": "Double Rainbow",
+    "price": 9.68,
+    "thc": 77.61
+   },
+   {
+    "name": "Jealousy",
+    "price": 9.68,
+    "thc": 77.74
+   },
+   {
     "name": "Skylin OG",
     "price": 8.06,
     "thc": 61.28
+   },
+   {
+    "name": "Wedding Vixen",
+    "price": 9.68,
+    "thc": 73.09
    }
   ],
   "description": "",
@@ -6171,7 +6231,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 14.07,
-  "n_strains": 4,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6187,6 +6247,11 @@
     "name": "Freedom OG",
     "price": 2.42,
     "thc": 14.07
+   },
+   {
+    "name": "Ghost Train Haze",
+    "price": 2.42,
+    "thc": 10.14
    },
    {
     "name": "Golden Goat",

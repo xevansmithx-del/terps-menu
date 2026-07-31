@@ -11,17 +11,17 @@
   "CALI BLAZE (OCC)": 12,
   "CC Brands LLC": 9,
   "CLEARWATER BUDS LLC": 3,
-  "Chaos": 9,
+  "Chaos": 13,
   "Clearview Industries": 6,
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
   "Craft": 144,
-  "David Jackson LLC": 21,
-  "Denver Dab Co": 56,
-  "Denver Packaging Company": 1,
+  "David Jackson LLC": 20,
+  "Denver Dab Co": 55,
+  "Denver Packaging Company": 12,
   "Egozi": 18,
   "FOREST ST MANUFACTURING LLC": 6,
-  "Green Dot (OCC)": 22,
+  "Green Dot (OCC)": 21,
   "Hi-Fuel": 5,
   "High Country Management Group": 18,
   "In House LLC": 1,
@@ -34,28 +34,28 @@
   "Kind Goods LLC": 1,
   "Kodo": 1,
   "Lifestyle Foods Inc": 20,
-  "Loud Labs LLC": 33,
+  "Loud Labs LLC": 39,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 6,
-  "NATTY REMS LLC": 23,
+  "NATTY REMS LLC": 24,
   "SPHEREX": 18,
-  "Silver Lake": 23,
+  "Silver Lake": 22,
   "Starbuds Mips": 10,
   "TBB Llc": 10,
-  "The Clear": 19,
+  "The Clear": 18,
   "Twax": 2,
   "Vera": 24,
   "Willoughby Enterprises LLC": 15
  },
  "categories": {
   "concentrate": {
-   "count": 390,
+   "count": 396,
    "subcategories": {
     "budder": 18,
-    "cartridge": 187,
-    "crumble": 1,
+    "cartridge": 191,
+    "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
     "live extract": 23,
@@ -63,27 +63,27 @@
     "shatter": 12,
     "solventless": 19,
     "syringe": 8,
-    "wax": 91
+    "wax": 89
    }
   },
   "edible": {
-   "count": 76,
+   "count": 88,
    "subcategories": {
     "candy": 22,
     "capsule": 1,
     "chocolate": 10,
-    "drink": 15,
-    "gummies": 26,
+    "drink": 26,
+    "gummies": 27,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 262,
+   "count": 261,
    "subcategories": {
-    "hybrid": 193,
+    "hybrid": 194,
     "indica": 16,
-    "other": 39,
-    "sativa": 14
+    "other": 38,
+    "sativa": 13
    }
   },
   "merchandise": {
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 746,
+ "hits": 763,
  "results": [
   {
    "availability": "",
@@ -4510,7 +4510,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-blueberry-641789",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other blueberry",
@@ -4604,7 +4604,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-green-apple-641790",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other green apple",
@@ -4698,7 +4698,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-lime-sorbet-641788",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other lime sorbet",
@@ -4720,7 +4720,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 25.95,
+       "max_percentage": 29.73,
        "min_percentage": 25.95
       }
      },
@@ -4730,12 +4730,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2973",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -4782,7 +4792,91 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
+   "slug": "inventory/variant/loud-labs-llc-doinks-blunts-rocket-pop-641786",
+   "subcategory": "other",
+   "suggest": "doinks blunts loud labs llc flower other rocket pop",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "641786",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Rocket Pop",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1250,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 28.12,
+       "min_percentage": 28.12
+      }
+     },
+     "price": 1200,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 1200
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2812",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "other"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "1613fc84-c31b-4993-99cf-ee07a481bc2d",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Doinks Blunts",
+   "non_trans": false,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-strawnana-641791",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other strawnana",
@@ -4804,7 +4898,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 26.66,
+       "max_percentage": 30.56,
        "min_percentage": 26.66
       }
      },
@@ -4814,12 +4908,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "3056",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -4866,7 +4970,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-sweet-grape-641784",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other sweet grape",
@@ -4889,7 +4993,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 29.44,
-       "min_percentage": 29.44
+       "min_percentage": 27.96
       }
      },
      "price": 1200,
@@ -4898,12 +5002,22 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1000
+       "price": 1200
       }
      ],
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "2796",
+       "thca": null
+      },
       {
        "cbc": null,
        "cbd": null,
@@ -4950,7 +5064,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-unflavored-641787",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other unflavored",
@@ -5034,7 +5148,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Doinks Blunts",
    "non_trans": false,
-   "rebuild_gen": 1784140213252,
+   "rebuild_gen": 1785457392090,
    "slug": "inventory/variant/loud-labs-llc-doinks-blunts-wild-melon-641785",
    "subcategory": "other",
    "suggest": "doinks blunts loud labs llc flower other wild melon",
@@ -12071,7 +12185,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": " ",
@@ -12085,7 +12199,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Modified Grapes",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459147489,
    "slug": "inventory/variant/silver-lake-modified-grapes-loose-612354",
    "subcategory": "hybrid",
    "suggest": "modified grapes silver lake flower hybrid loose",
@@ -12116,16 +12230,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2669",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -15625,7 +15729,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -15639,7 +15743,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-animal-mints-144471",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies animal mints",
@@ -15661,14 +15765,7 @@
      },
      "potency_result": {},
      "price": 2400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2000
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -15704,7 +15801,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -15718,7 +15815,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-cherry-st-144304",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies cherry st",
@@ -15776,7 +15873,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -15790,7 +15887,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-fourteener-fruits-144305",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies fourteener fruits",
@@ -15848,7 +15945,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -15862,7 +15959,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-hybrid-142493",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies hybrid",
@@ -15930,7 +16027,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -15944,7 +16041,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-indica-142495",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies indica",
@@ -15979,16 +16076,6 @@
        "dthc": null,
        "thc": null,
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
       }
      ],
      "tags": [
@@ -16012,7 +16099,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -16026,7 +16113,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "DIALED IN GUMMIES",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785455302392,
    "slug": "inventory/variant/forest-st-manufacturing-llc-dialed-in-gummies-sour-chem-144303",
    "subcategory": "gummies",
    "suggest": "dialed in gummies forest st manufacturing llc edible gummies sour chem",
@@ -20433,83 +20520,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "6138",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "3c6a0514-02ce-4286-bd35-81bdf1061798",
-    "license": "404R-00533",
-    "medical": false,
-    "name": "David Jackson LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "51dd7d61-2ead-407c-98fe-408cb4125ea9",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Timberline Extracts 1g",
-   "non_trans": false,
-   "rebuild_gen": 1785377472971,
-   "slug": "inventory/variant/david-jackson-llc-timberline-extracts-1g-flavor-pebbles-572191",
-   "subcategory": "wax",
-   "suggest": "timberline extracts 1g david jackson llc concentrate wax flavor pebbles",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572191",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Flavor Pebbles",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 70.74,
-       "min_percentage": 70.74
-      }
-     },
-     "price": 601,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7074",
        "thca": null
       }
      ],
@@ -27338,7 +27348,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -27352,7 +27362,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Tropicana Cookies",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459278090,
    "slug": "inventory/variant/silver-lake-tropicana-cookies-loose-624949",
    "subcategory": "sativa",
    "suggest": "tropicana cookies silver lake flower sativa loose",
@@ -27374,7 +27384,7 @@
      },
      "potency_result": {
       "thc": {
-       "max_percentage": 33,
+       "max_percentage": 25.4,
        "min_percentage": 25.4
       }
      },
@@ -27391,16 +27401,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "2540",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3300",
        "thca": null
       }
      ],
@@ -32417,83 +32417,6 @@
    "name": "Denver Dabs 2G",
    "non_trans": false,
    "rebuild_gen": 1784491715540,
-   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-banana-split-573501",
-   "subcategory": "wax",
-   "suggest": "denver dabs 2g denver dab co concentrate wax banana split",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573501",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Banana Split",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 78.8,
-       "min_percentage": 78.8
-      }
-     },
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7880",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dabs 2G",
-   "non_trans": false,
-   "rebuild_gen": 1784491715540,
    "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-biscotti-sherb-562786",
    "subcategory": "wax",
    "suggest": "denver dabs 2g denver dab co concentrate wax biscotti sherb",
@@ -33679,7 +33602,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785334823457,
+   "rebuild_gen": 1785455179100,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-garlic-ice-cream-563419",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless garlic ice cream",
@@ -33729,16 +33652,6 @@
        "dthc": null,
        "thc": "7282",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7282",
-       "thca": null
       }
      ],
      "tags": [
@@ -33776,7 +33689,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785334823457,
+   "rebuild_gen": 1785455179100,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritz-scotti-565660",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritz scotti",
@@ -33860,7 +33773,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785334823457,
+   "rebuild_gen": 1785455179100,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritzer-559935",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritzer",
@@ -33944,7 +33857,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785334823457,
+   "rebuild_gen": 1785455179100,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-zmuckers-565658",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless zmuckers",
@@ -35412,90 +35325,6 @@
    "name": "Greendot Black label 1G prerolls",
    "non_trans": false,
    "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/green-dot-occ-greendot-black-label-1g-prerolls-red-froot-623662",
-   "subcategory": "other",
-   "suggest": "greendot black label 1g prerolls green dot (occ) flower other red froot",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "623662",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Red Froot",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 24.04,
-       "min_percentage": 24.04
-      }
-     },
-     "price": 1400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2404",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "d2afad61-c703-45c4-bc73-ae2093450a92",
-    "license": "404R-00358",
-    "medical": false,
-    "name": "Green Dot (OCC)",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "other"
-  },
-  {
-   "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "8a0bf113-f85f-48a4-9a54-ed71778b536f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Greendot Black label 1G prerolls",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
    "slug": "inventory/variant/green-dot-occ-greendot-black-label-1g-prerolls-red-rose-098589",
    "subcategory": "other",
    "suggest": "greendot black label 1g prerolls green dot (occ) flower other red rose",
@@ -35565,7 +35394,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -35579,7 +35408,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Fruity Pebbles",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459083191,
    "slug": "inventory/variant/silver-lake-fruity-pebbles-loose-055892",
    "subcategory": "hybrid",
    "suggest": "fruity pebbles silver lake flower hybrid loose",
@@ -35610,16 +35439,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2955",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -36995,6 +36814,78 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "91c33459-b0e9-4b07-866b-1dc6b340f798",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "10MG Keef",
+   "non_trans": false,
+   "rebuild_gen": 1785444513986,
+   "slug": "inventory/variant/denver-packaging-company-10mg-keef-bubba-kush-root-beer-144401",
+   "subcategory": "drink",
+   "suggest": "10mg keef denver packaging company edible drink bubba kush root beer",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "144401",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Bubba Kush Root Beer",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 644,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "bda6c066-adb9-436d-a88c-0fd950622377",
+    "license": "404R-00338",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
   },
   {
    "availability": "",
@@ -38691,7 +38582,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -38705,7 +38596,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Meat Breath",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459034692,
    "slug": "inventory/variant/silver-lake-meat-breath-loose-092378",
    "subcategory": "indica",
    "suggest": "meat breath silver lake flower indica loose",
@@ -38728,7 +38619,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 25.23,
-       "min_percentage": 23.85
+       "min_percentage": 25.23
       }
      },
      "price": 229,
@@ -38736,16 +38627,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2385",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -38775,6 +38656,314 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "indica"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "9c68a7db-eb66-4208-a863-03fd8c1e1cfa",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100mg Keef Extreme",
+   "non_trans": false,
+   "rebuild_gen": 1785450007423,
+   "slug": "inventory/variant/denver-packaging-company-100mg-keef-extreme-bubba-kush-100mg-144128",
+   "subcategory": "drink",
+   "suggest": "100mg keef extreme denver packaging company edible drink bubba kush 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "144128",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Bubba Kush 100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 100,
+       "min_percentage": 100
+      }
+     },
+     "price": 1260,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "10000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "bda6c066-adb9-436d-a88c-0fd950622377",
+    "license": "404R-00338",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "9c68a7db-eb66-4208-a863-03fd8c1e1cfa",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100mg Keef Extreme",
+   "non_trans": false,
+   "rebuild_gen": 1785450007423,
+   "slug": "inventory/variant/denver-packaging-company-100mg-keef-extreme-cherry-cola-100mg-144684",
+   "subcategory": "drink",
+   "suggest": "100mg keef extreme denver packaging company edible drink cherry cola 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "144684",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Cherry Cola 100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 100,
+       "min_percentage": 100
+      }
+     },
+     "price": 1288,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "10000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "bda6c066-adb9-436d-a88c-0fd950622377",
+    "license": "404R-00338",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "9c68a7db-eb66-4208-a863-03fd8c1e1cfa",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100mg Keef Extreme",
+   "non_trans": false,
+   "rebuild_gen": 1785450007423,
+   "slug": "inventory/variant/denver-packaging-company-100mg-keef-extreme-high-octane-100mg-144129",
+   "subcategory": "drink",
+   "suggest": "100mg keef extreme denver packaging company edible drink high octane 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "144129",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "High Octane 100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 100,
+       "min_percentage": 100
+      }
+     },
+     "price": 1260,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "10000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "bda6c066-adb9-436d-a88c-0fd950622377",
+    "license": "404R-00338",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": "",
+   "id": "9c68a7db-eb66-4208-a863-03fd8c1e1cfa",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "100mg Keef Extreme",
+   "non_trans": false,
+   "rebuild_gen": 1785450007423,
+   "slug": "inventory/variant/denver-packaging-company-100mg-keef-extreme-orange-kush-100mg-144683",
+   "subcategory": "drink",
+   "suggest": "100mg keef extreme denver packaging company edible drink orange kush 100mg",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "144683",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Orange Kush 100mg",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 100,
+       "min_percentage": 100
+      }
+     },
+     "price": 1446,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "10000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "bda6c066-adb9-436d-a88c-0fd950622377",
+    "license": "404R-00338",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
   },
   {
    "availability": "",
@@ -40428,7 +40617,7 @@
        "min_percentage": 69
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -45315,6 +45504,484 @@
   },
   {
    "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-blue-raz-132216",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink blue raz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "132216",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Raz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10,
+       "min_percentage": 10
+      }
+     },
+     "price": 600,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 403
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-c-r-e-a-m-139793",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink c.r.e.a.m.",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "139793",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "C.R.E.A.M.",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 600,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-mr-puffer-132220",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink mr. puffer",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "132220",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Mr. Puffer",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10,
+       "min_percentage": 10
+      }
+     },
+     "price": 484,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-orange-kush-132226",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink orange kush",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "132226",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Orange Kush",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10,
+       "min_percentage": 10
+      }
+     },
+     "price": 600,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 403
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-pineapple-x-press-142101",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink pineapple x-press",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "142101",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Pineapple x-press",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10,
+       "min_percentage": 10
+      }
+     },
+     "price": 484,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "b5a1fd32-78b1-44d4-89e6-051d6b48d0da",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Keef Cola 10mg",
+   "non_trans": false,
+   "rebuild_gen": 1785450225716,
+   "slug": "inventory/variant/denver-packaging-company-keef-cola-10mg-purple-passion-132227",
+   "subcategory": "drink",
+   "suggest": "keef cola 10mg denver packaging company edible drink purple passion",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "132227",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Purple Passion",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 10,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10,
+       "min_percentage": 10
+      }
+     },
+     "price": 600,
+     "pricing": [
+      {
+       "default": false,
+       "group": "Employee",
+       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
+       "price": 403
+      }
+     ],
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1000",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "ee1d3907-e28e-4479-a14e-6785dd8a8dbf",
+    "license": "404R-00175",
+    "medical": false,
+    "name": "Denver Packaging Company",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "drink"
+  },
+  {
+   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -47508,83 +48175,6 @@
   {
    "availability": "",
    "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "bc360d22-4b65-4d96-9b4d-7a87501c0e0f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "twax 1g Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1785366948560,
-   "slug": "inventory/variant/the-clear-twax-1g-preroll-xj-13-646606",
-   "subcategory": "other",
-   "suggest": "twax 1g preroll the clear flower other xj-13",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "646606",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "XJ-13",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 31.9,
-       "min_percentage": 31.9
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3190",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "fe92c854-1a41-464e-8b8c-20eb3e88d948",
-    "license": "404R-0073",
-    "medical": false,
-    "name": "The Clear",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "other"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
    "category": "edible",
    "default_image": "",
    "description": " ",
@@ -47598,7 +48188,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-hybrid-143004",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 hybrid",
@@ -47670,7 +48260,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-indica-143005",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 indica",
@@ -47742,7 +48332,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-1-1-sativa-143003",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies 1:1 sativa",
@@ -47814,7 +48404,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-hybrid-143001",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies hybrid",
@@ -47916,7 +48506,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-indica-143002",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies indica",
@@ -47998,7 +48588,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-midnight-fruit-gummies-145512",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies midnight fruit gummies",
@@ -48080,7 +48670,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-rso-hybrid-143007",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies rso hybrid",
@@ -48115,6 +48705,16 @@
        "dthc": null,
        "thc": null,
        "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
       }
      ],
      "tags": [
@@ -48152,20 +48752,20 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
-   "slug": "inventory/variant/loud-labs-llc-zoobies-rso-sativa-143006",
+   "rebuild_gen": 1785457962595,
+   "slug": "inventory/variant/loud-labs-llc-zoobies-rso-indica-143008",
    "subcategory": "gummies",
-   "suggest": "zoobies loud labs llc edible gummies rso sativa",
+   "suggest": "zoobies loud labs llc edible gummies rso indica",
    "suggest_weight": 11,
    "type": "cannabis",
    "variants": [
     {
      "added_concentrate": 0,
-     "cpc": "143006",
+     "cpc": "143008",
      "excise": 0,
      "hidden_from_menu": false,
      "id": "",
-     "name": "RSO Sativa",
+     "name": "RSO Indica",
      "online_minimum_stock": 0,
      "packaging": {
       "count": 1000,
@@ -48224,7 +48824,89 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Zoobies",
    "non_trans": false,
-   "rebuild_gen": 1784140027263,
+   "rebuild_gen": 1785457962595,
+   "slug": "inventory/variant/loud-labs-llc-zoobies-rso-sativa-143006",
+   "subcategory": "gummies",
+   "suggest": "zoobies loud labs llc edible gummies rso sativa",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "143006",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "RSO Sativa",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 100,
+      "uom": "ct"
+     },
+     "potency_result": {},
+     "price": 806,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      },
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": null,
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "edible",
+   "weave_subcategory": "gummies"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "edible",
+   "default_image": "",
+   "description": " ",
+   "id": "bc3ed501-8e7d-43d3-9db1-9e44530412a4",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Zoobies",
+   "non_trans": false,
+   "rebuild_gen": 1785457962595,
    "slug": "inventory/variant/loud-labs-llc-zoobies-sativa-143000",
    "subcategory": "gummies",
    "suggest": "zoobies loud labs llc edible gummies sativa",
@@ -48771,113 +49453,6 @@
   },
   {
    "availability": "",
-   "cannabis": false,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "bfdaf2fa-8cbc-40bd-b5bc-59f7999f88f7",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Lemon Pound Cake",
-   "non_trans": false,
-   "rebuild_gen": 1782400072612,
-   "slug": "inventory/variant/silver-lake-lemon-pound-cake-loose-097116",
-   "subcategory": "sativa",
-   "suggest": "lemon pound cake silver lake flower sativa loose",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "097116",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Loose",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 31.7,
-       "min_percentage": 28.23
-      }
-     },
-     "price": 229,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2823",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2823",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3170",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3170",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "loose"
-    }
-   ],
-   "vendor": {
-    "id": "54ddf406-12fd-4513-b978-3784712d5b44",
-    "license": "403R-00834",
-    "medical": false,
-    "name": "Silver Lake",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "sativa"
-  },
-  {
-   "availability": "",
    "cannabis": true,
    "category": "concentrate",
    "default_image": "",
@@ -49079,7 +49654,7 @@
    "cannabis": true,
    "category": "concentrate",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
    "images": [
     {
@@ -49090,7 +49665,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785374575659,
+   "rebuild_gen": 1785459072186,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubba-kush-571091",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubba kush",
@@ -49163,7 +49738,7 @@
    "cannabis": true,
    "category": "concentrate",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
    "images": [
     {
@@ -49174,7 +49749,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785374575659,
+   "rebuild_gen": 1785459072186,
    "slug": "inventory/variant/loud-labs-llc-rippys-bubonic-chronic-571089",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge bubonic chronic",
@@ -49247,7 +49822,7 @@
    "cannabis": true,
    "category": "concentrate",
    "default_image": "",
-   "description": "",
+   "description": " ",
    "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
    "images": [
     {
@@ -49258,7 +49833,238 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Rippys",
    "non_trans": false,
-   "rebuild_gen": 1785374575659,
+   "rebuild_gen": 1785459072186,
+   "slug": "inventory/variant/loud-labs-llc-rippys-crosswalker-573392",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge crosswalker",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573392",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Crosswalker",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 75.91,
+       "min_percentage": 75.91
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7591",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1785459072186,
+   "slug": "inventory/variant/loud-labs-llc-rippys-double-rainbow-574126",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge double rainbow",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "574126",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Double Rainbow",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 77.61,
+       "min_percentage": 77.61
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7761",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1785459072186,
+   "slug": "inventory/variant/loud-labs-llc-rippys-jealousy-574128",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge jealousy",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "574128",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Jealousy",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 77.74,
+       "min_percentage": 77.74
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7774",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1785459072186,
    "slug": "inventory/variant/loud-labs-llc-rippys-skylin-og-571090",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge skylin og",
@@ -49297,6 +50103,83 @@
        "cbn": null,
        "dthc": null,
        "thc": "6128",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
+    "license": "404R-00168",
+    "medical": false,
+    "name": "Loud Labs LLC",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "cartridge"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Rippys",
+   "non_trans": false,
+   "rebuild_gen": 1785459072186,
+   "slug": "inventory/variant/loud-labs-llc-rippys-wedding-vixen-574127",
+   "subcategory": "cartridge",
+   "suggest": "rippys loud labs llc concentrate cartridge wedding vixen",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "574127",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Wedding Vixen",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 73.09,
+       "min_percentage": 73.09
+      }
+     },
+     "price": 968,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7309",
        "thca": null
       }
      ],
@@ -52969,7 +53852,161 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Twister Pak",
    "non_trans": false,
-   "rebuild_gen": 1785083832580,
+   "rebuild_gen": 1785454833492,
+   "slug": "inventory/variant/chaos-twister-pak-blue-dog-divine-kush-breath-purple-runtz-573137",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble blue dog, divine kush breath, purple runtz",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573137",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Dog, Divine Kush Breath, Purple Runtz",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 71.49
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7149-8087",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1785454833492,
+   "slug": "inventory/variant/chaos-twister-pak-blue-dog-mach-cake-divine-dream-574121",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble blue dog, mach cake, divine dream",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "574121",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Blue Dog, Mach Cake, Divine Dream",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 70.93
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7093-8087",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1785454833492,
    "slug": "inventory/variant/chaos-twister-pak-blue-dog-mach-cake-galactic-mac-572083",
    "subcategory": "crumble",
    "suggest": "twister pak chaos concentrate crumble blue dog, mach cake, galactic mac",
@@ -53008,6 +54045,160 @@
        "cbn": null,
        "dthc": null,
        "thc": "8040-8224",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1785454833492,
+   "slug": "inventory/variant/chaos-twister-pak-galactic-dreams-mr-g-aviator-574131",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble galactic dreams, mr. g, aviator",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "574131",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Galactic Dreams, Mr. G, Aviator",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 79.54
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7954-8087",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "02b1e701-7a20-48f1-a30f-580b1f941968",
+    "license": "404R-00084",
+    "medical": false,
+    "name": "Chaos",
+    "state": "CO"
+   },
+   "weave_category": "concentrate",
+   "weave_subcategory": "crumble"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "concentrate",
+   "default_image": "",
+   "description": " ",
+   "id": "d505c685-de23-4ee9-b16c-d1d3fd475815",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Twister Pak",
+   "non_trans": false,
+   "rebuild_gen": 1785454833492,
+   "slug": "inventory/variant/chaos-twister-pak-gelato-cake-aviator-blue-dog-573136",
+   "subcategory": "crumble",
+   "suggest": "twister pak chaos concentrate crumble gelato cake, aviator, blue dog",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "573136",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Gelato Cake, Aviator, Blue Dog",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 3000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 80.87,
+       "min_percentage": 74.14
+      }
+     },
+     "price": 2258,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "7414-8087",
        "thca": null
       }
      ],
@@ -57215,7 +58406,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -57229,7 +58420,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Strawnana",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459003496,
    "slug": "inventory/variant/silver-lake-strawnana-loose-636448",
    "subcategory": "hybrid",
    "suggest": "strawnana silver lake flower hybrid loose",
@@ -57252,7 +58443,7 @@
      "potency_result": {
       "thc": {
        "max_percentage": 23.58,
-       "min_percentage": 23.57
+       "min_percentage": 23.58
       }
      },
      "price": 229,
@@ -57260,26 +58451,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2358",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2357",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -58334,7 +59505,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1785376713259,
+   "rebuild_gen": 1785459424496,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-alien-haze-632504",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid alien haze",
@@ -58411,7 +59582,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1785376713259,
+   "rebuild_gen": 1785459424496,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-blueberry-muffin-644638",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid blueberry muffin",
@@ -58488,7 +59659,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1785376713259,
+   "rebuild_gen": 1785459424496,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-freedom-og-641545",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid freedom og",
@@ -58565,7 +59736,84 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Haze Silver Preroll",
    "non_trans": false,
-   "rebuild_gen": 1785376713259,
+   "rebuild_gen": 1785459424496,
+   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-ghost-train-haze-649711",
+   "subcategory": "hybrid",
+   "suggest": "haze silver preroll natty rems llc flower hybrid ghost train haze",
+   "suggest_weight": 11,
+   "type": "cannabis",
+   "variants": [
+    {
+     "added_concentrate": 0,
+     "cpc": "649711",
+     "excise": 0,
+     "hidden_from_menu": false,
+     "id": "",
+     "name": "Ghost Train Haze",
+     "online_minimum_stock": 0,
+     "packaging": {
+      "count": 1000,
+      "thc_weight": 1000,
+      "uom": "ct"
+     },
+     "potency_result": {
+      "thc": {
+       "max_percentage": 10.14,
+       "min_percentage": 10.14
+      }
+     },
+     "price": 242,
+     "pricing": null,
+     "pricing_group": null,
+     "quantity": 1,
+     "raw_potency": [
+      {
+       "cbc": null,
+       "cbd": null,
+       "cbda": null,
+       "cbg": null,
+       "cbn": null,
+       "dthc": null,
+       "thc": "1014",
+       "thca": null
+      }
+     ],
+     "tags": [
+      {
+       "id": "",
+       "name": ""
+      }
+     ],
+     "type": "unit"
+    }
+   ],
+   "vendor": {
+    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
+    "license": "404R-00259",
+    "medical": false,
+    "name": "NATTY REMS LLC",
+    "state": "CO"
+   },
+   "weave_category": "flower",
+   "weave_subcategory": "hybrid"
+  },
+  {
+   "availability": "",
+   "cannabis": true,
+   "category": "flower",
+   "default_image": "",
+   "description": " ",
+   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
+   "images": [
+    {
+     "default": true,
+     "url": ""
+    }
+   ],
+   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
+   "name": "Haze Silver Preroll",
+   "non_trans": false,
+   "rebuild_gen": 1785459424496,
    "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-golden-goat-644639",
    "subcategory": "hybrid",
    "suggest": "haze silver preroll natty rems llc flower hybrid golden goat",
@@ -58876,7 +60124,7 @@
   },
   {
    "availability": "",
-   "cannabis": false,
+   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -58890,7 +60138,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "The Bakery Brothers - Dark Plasma",
    "non_trans": false,
-   "rebuild_gen": 1782400072612,
+   "rebuild_gen": 1785459673686,
    "slug": "inventory/variant/tbb-llc-the-bakery-brothers-dark-plasma-loose-643513",
    "subcategory": "hybrid",
    "suggest": "the bakery brothers - dark plasma tbb llc flower hybrid loose",
