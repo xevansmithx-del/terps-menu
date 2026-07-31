@@ -15,11 +15,11 @@
   "Clearview Industries": 6,
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
-  "Craft": 144,
+  "Craft": 143,
   "David Jackson LLC": 20,
   "Denver Dab Co": 55,
   "Denver Packaging Company": 12,
-  "Egozi": 18,
+  "Egozi": 17,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 21,
   "Hi-Fuel": 5,
@@ -39,7 +39,7 @@
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
   "Mountain High Suckers": 6,
-  "NATTY REMS LLC": 24,
+  "NATTY REMS LLC": 23,
   "SPHEREX": 18,
   "Silver Lake": 22,
   "Starbuds Mips": 10,
@@ -51,17 +51,17 @@
  },
  "categories": {
   "concentrate": {
-   "count": 396,
+   "count": 394,
    "subcategories": {
     "budder": 18,
-    "cartridge": 191,
+    "cartridge": 190,
     "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
     "live extract": 23,
     "resin": 2,
     "shatter": 12,
-    "solventless": 19,
+    "solventless": 18,
     "syringe": 8,
     "wax": 89
    }
@@ -78,9 +78,9 @@
    }
   },
   "flower": {
-   "count": 261,
+   "count": 260,
    "subcategories": {
-    "hybrid": 194,
+    "hybrid": 193,
     "indica": 16,
     "other": 38,
     "sativa": 13
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 763,
+ "hits": 760,
  "results": [
   {
    "availability": "",
@@ -23812,7 +23812,7 @@
        "min_percentage": 72.49
       }
      },
-     "price": 2903,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -23973,7 +23973,7 @@
        "min_percentage": 71.84
       }
      },
-     "price": 2903,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -24057,7 +24057,7 @@
        "min_percentage": 83.3
       }
      },
-     "price": 2903,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -33844,90 +33844,6 @@
   {
    "availability": "",
    "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "81ea7f39-6561-484e-b1f0-3aca34beecd6",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 4g",
-   "non_trans": false,
-   "rebuild_gen": 1785455179100,
-   "slug": "inventory/variant/egozi-egozi-rosin-4g-zmuckers-565658",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 4g egozi concentrate solventless zmuckers",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565658",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Zmuckers",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 63.64,
-       "min_percentage": 63.64
-      }
-     },
-     "price": 7500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 7500
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6364",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -41280,83 +41196,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8441",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "a392163f-bc88-4816-80e4-ab62f0ee86b8",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh 1000 cart",
-   "non_trans": false,
-   "rebuild_gen": 1785364274963,
-   "slug": "inventory/variant/craft-sesh-1000-cart-watermelon-bubble-gum-553365",
-   "subcategory": "cartridge",
-   "suggest": "sesh 1000 cart craft concentrate cartridge watermelon bubble gum",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "553365",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Watermelon Bubble Gum",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 84.5,
-       "min_percentage": 84.5
-      }
-     },
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8450",
        "thca": null
       }
      ],
@@ -59698,83 +59537,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1407",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "915f17e1-18b7-4aa0-8a1c-a9b1d4540ec1",
-    "license": "404R-00259",
-    "medical": false,
-    "name": "NATTY REMS LLC",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": " ",
-   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Haze Silver Preroll",
-   "non_trans": false,
-   "rebuild_gen": 1785459424496,
-   "slug": "inventory/variant/natty-rems-llc-haze-silver-preroll-ghost-train-haze-649711",
-   "subcategory": "hybrid",
-   "suggest": "haze silver preroll natty rems llc flower hybrid ghost train haze",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "649711",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Ghost Train Haze",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 10.14,
-       "min_percentage": 10.14
-      }
-     },
-     "price": 242,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1014",
        "thca": null
       }
      ],

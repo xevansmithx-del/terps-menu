@@ -2346,7 +2346,7 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 29.03,
+  "price_min": 35.0,
   "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
@@ -2360,7 +2360,7 @@
    },
    {
     "name": "Ghost Haze",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 72.49
    },
    {
@@ -2370,12 +2370,12 @@
    },
    {
     "name": "Hazy Citrus",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 71.84
    },
    {
     "name": "Jungle Punch",
-    "price": 29.03,
+    "price": 35.0,
     "thc": 83.3
    },
    {
@@ -3246,7 +3246,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 72.82,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Garlic Ice Cream",
@@ -3262,11 +3262,6 @@
     "name": "Spritzer",
     "price": 75.0,
     "thc": 72.55
-   },
-   {
-    "name": "Zmuckers",
-    "price": 75.0,
-    "thc": 63.64
    }
   ],
   "description": "",
@@ -4121,7 +4116,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 89.95,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -4157,11 +4152,6 @@
     "name": "Root Beer Kush",
     "price": 12.0,
     "thc": 84.41
-   },
-   {
-    "name": "Watermelon Bubble Gum",
-    "price": 12.0,
-    "thc": 84.5
    },
    {
     "name": "White Runtz",
@@ -6231,7 +6221,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 14.07,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6247,11 +6237,6 @@
     "name": "Freedom OG",
     "price": 2.42,
     "thc": 14.07
-   },
-   {
-    "name": "Ghost Train Haze",
-    "price": 2.42,
-    "thc": 10.14
    },
    {
     "name": "Golden Goat",
