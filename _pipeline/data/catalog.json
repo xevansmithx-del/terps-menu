@@ -560,18 +560,13 @@
   "price_max": 13.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 77.51,
-  "n_strains": 8,
+  "thc_max": 77.48,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Bubba Haze",
     "price": 13.0,
     "thc": 77.48
-   },
-   {
-    "name": "Glueball",
-    "price": 13.0,
-    "thc": 77.51
    },
    {
     "name": "Goddess Breath",
@@ -980,8 +975,8 @@
   "price_max": 12.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 87,
-  "n_strains": 14,
+  "thc_max": 86.7,
+  "n_strains": 13,
   "strains": [
    {
     "name": "Apples & Bananas",
@@ -1017,11 +1012,6 @@
     "name": "Lime Sorbet",
     "price": 12.0,
     "thc": 85.8
-   },
-   {
-    "name": "Lychee",
-    "price": 12.0,
-    "thc": 87
    },
    {
     "name": "Rainbow Belts",
@@ -3241,7 +3231,7 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 75.0,
+  "price_min": 12.1,
   "price_max": 75.0,
   "unit": "",
   "unit_kind": "",
@@ -3250,7 +3240,7 @@
   "strains": [
    {
     "name": "Garlic Ice Cream",
-    "price": 75.0,
+    "price": 12.1,
     "thc": 72.82
    },
    {
@@ -4062,7 +4052,7 @@
   "category": "concentrate",
   "subcategory": "cartridge",
   "price_min": 34.0,
-  "price_max": 35.0,
+  "price_max": 34.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
@@ -4090,7 +4080,7 @@
    },
    {
     "name": "Twist #2 Pack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 87.3
    },
    {
@@ -5601,7 +5591,7 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 104.0,
+  "price_min": 24.19,
   "price_max": 150.0,
   "unit": "",
   "unit_kind": "",
@@ -5610,7 +5600,7 @@
   "strains": [
    {
     "name": "Garlic Ice Cream",
-    "price": 104.0,
+    "price": 24.19,
     "thc": 72.82
    },
    {
@@ -6183,31 +6173,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/436729551_1000009515.jpg",
   "match_score": 0.562,
   "vendor_name": "David Jackson LLC"
- },
- {
-  "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
-  "slug": "egozi-rosin-2g",
-  "name": "Egozi Rosin 2g",
-  "brand": "Egozi",
-  "category": "concentrate",
-  "subcategory": "solventless",
-  "price_min": 26.0,
-  "price_max": 26.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 68.84,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Garlic Ice Cream",
-    "price": 26.0,
-    "thc": 68.84
-   }
-  ],
-  "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442734715_1000012607.jpg",
-  "match_score": 1.132,
-  "vendor_name": "Egozi"
  },
  {
   "id": "ea1a5089-5ba0-4a4a-ac84-f2c7b9de9810",

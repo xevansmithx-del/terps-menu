@@ -3,7 +3,7 @@
   "": 10,
   "(White Mousse) WM Concentrates LLC": 4,
   "14ER": 3,
-  "AO Extracts": 36,
+  "AO Extracts": 35,
   "Antero Sciences": 56,
   "Bespoke extracts colorado LLC.": 11,
   "Blue Cottage LLC": 7,
@@ -15,11 +15,11 @@
   "Clearview Industries": 6,
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
-  "Craft": 143,
+  "Craft": 142,
   "David Jackson LLC": 20,
   "Denver Dab Co": 55,
   "Denver Packaging Company": 12,
-  "Egozi": 17,
+  "Egozi": 15,
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 21,
   "Hi-Fuel": 5,
@@ -51,17 +51,17 @@
  },
  "categories": {
   "concentrate": {
-   "count": 394,
+   "count": 390,
    "subcategories": {
     "budder": 18,
-    "cartridge": 190,
+    "cartridge": 189,
     "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
-    "live extract": 23,
+    "live extract": 22,
     "resin": 2,
     "shatter": 12,
-    "solventless": 18,
+    "solventless": 16,
     "syringe": 8,
     "wax": 89
    }
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 760,
+ "hits": 756,
  "results": [
   {
    "availability": "",
@@ -5375,90 +5375,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7748",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "16de6e83-479d-4af6-9dea-f83854be0168",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Panacea Live Resin Cart 1000mg",
-   "non_trans": false,
-   "rebuild_gen": 1785374560684,
-   "slug": "inventory/variant/craft-panacea-live-resin-cart-1000mg-glueball-571435",
-   "subcategory": "live extract",
-   "suggest": "panacea live resin cart 1000mg craft concentrate live extract glueball",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571435",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Glueball",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 77.51,
-       "min_percentage": 77.51
-      }
-     },
-     "price": 1300,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1300
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7751",
        "thca": null
       }
      ],
@@ -11135,90 +11051,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8580",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "e98c4801-638b-45a4-aeba-07a9525f65df",
-    "license": "404R-00454",
-    "medical": false,
-    "name": "AO Extracts",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "1abcd69f-1ea9-4a8c-82db-7dd284b6999a",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "AO Cartridges 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784680718546,
-   "slug": "inventory/variant/ao-extracts-ao-cartridges-1g-lychee-535397",
-   "subcategory": "cartridge",
-   "suggest": "ao cartridges 1g ao extracts concentrate cartridge lychee",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "535397",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Lychee",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 87,
-       "min_percentage": 87
-      }
-     },
-     "price": 1200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8700",
        "thca": null
       }
      ],
@@ -26426,90 +26258,6 @@
   {
    "availability": "",
    "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "6437cda1-913b-490e-9351-eaf5de6f8871",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi 1st Wash Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1783890851407,
-   "slug": "inventory/variant/egozi-egozi-1st-wash-rosin-2g-biscotti-chunks-559964",
-   "subcategory": "solventless",
-   "suggest": "egozi 1st wash rosin 2g egozi concentrate solventless biscotti chunks",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559964",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Biscotti Chunks",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 69.6,
-       "min_percentage": 69.6
-      }
-     },
-     "price": 4200,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 4200
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6960",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -33602,7 +33350,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785455179100,
+   "rebuild_gen": 1785527588824,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-garlic-ice-cream-563419",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless garlic ice cream",
@@ -33628,7 +33376,7 @@
        "min_percentage": 68.84
       }
      },
-     "price": 7500,
+     "price": 1210,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
@@ -33689,7 +33437,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785455179100,
+   "rebuild_gen": 1785527588824,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritz-scotti-565660",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritz scotti",
@@ -33773,7 +33521,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 4g",
    "non_trans": false,
-   "rebuild_gen": 1785455179100,
+   "rebuild_gen": 1785527588824,
    "slug": "inventory/variant/egozi-egozi-rosin-4g-spritzer-559935",
    "subcategory": "solventless",
    "suggest": "egozi rosin 4g egozi concentrate solventless spritzer",
@@ -40533,7 +40281,7 @@
        "min_percentage": 69
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -54183,7 +53931,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 8g",
    "non_trans": false,
-   "rebuild_gen": 1782767165243,
+   "rebuild_gen": 1785528973731,
    "slug": "inventory/variant/egozi-egozi-rosin-8g-garlic-ice-cream-563384",
    "subcategory": "solventless",
    "suggest": "egozi rosin 8g egozi concentrate solventless garlic ice cream",
@@ -54209,15 +53957,8 @@
        "min_percentage": 68.84
       }
      },
-     "price": 10400,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 12500
-      }
-     ],
+     "price": 2419,
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -54239,16 +53980,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7282",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6884",
        "thca": null
       }
      ],
@@ -54287,7 +54018,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Egozi Rosin 8g",
    "non_trans": false,
-   "rebuild_gen": 1782767165243,
+   "rebuild_gen": 1785528973731,
    "slug": "inventory/variant/egozi-egozi-rosin-8g-spritzer-563380",
    "subcategory": "solventless",
    "suggest": "egozi rosin 8g egozi concentrate solventless spritzer",
@@ -54319,7 +54050,7 @@
        "default": false,
        "group": "Employee",
        "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 12500
+       "price": 15000
       }
      ],
      "pricing_group": null,
@@ -59250,83 +58981,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "budder"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "e95bee32-c145-4cab-9b26-30d721edf7b1",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Egozi Rosin 2g",
-   "non_trans": false,
-   "rebuild_gen": 1785376152258,
-   "slug": "inventory/variant/egozi-egozi-rosin-2g-garlic-ice-cream-559983",
-   "subcategory": "solventless",
-   "suggest": "egozi rosin 2g egozi concentrate solventless garlic ice cream",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "559983",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Garlic Ice Cream",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 68.84,
-       "min_percentage": 68.84
-      }
-     },
-     "price": 2600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6884",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "0f4d2564-c0b3-4410-acd3-aba053cbfafc",
-    "license": "404R-00442",
-    "medical": false,
-    "name": "Egozi",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "solventless"
   },
   {
    "availability": "",
