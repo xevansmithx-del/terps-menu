@@ -15,7 +15,7 @@
   "Clearview Industries": 6,
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
-  "Craft": 142,
+  "Craft": 141,
   "David Jackson LLC": 20,
   "Denver Dab Co": 55,
   "Denver Packaging Company": 12,
@@ -51,10 +51,10 @@
  },
  "categories": {
   "concentrate": {
-   "count": 390,
+   "count": 389,
    "subcategories": {
     "budder": 18,
-    "cartridge": 189,
+    "cartridge": 188,
     "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 756,
+ "hits": 755,
  "results": [
   {
    "availability": "",
@@ -45873,83 +45873,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7469",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "b66ada0c-f871-42ea-9eca-7e6918a669d3",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Oil Twist Cartridge",
-   "non_trans": false,
-   "rebuild_gen": 1785374657265,
-   "slug": "inventory/variant/craft-oil-twist-cartridge-cherry-slush-549686",
-   "subcategory": "cartridge",
-   "suggest": "oil twist cartridge craft concentrate cartridge cherry slush",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "549686",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Cherry Slush",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 74.95,
-       "min_percentage": 74.95
-      }
-     },
-     "price": 968,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7495",
        "thca": null
       }
      ],

@@ -4681,7 +4681,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.41,
-  "n_strains": 12,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -4697,11 +4697,6 @@
     "name": "Blueberry Swirl",
     "price": 9.68,
     "thc": 74.69
-   },
-   {
-    "name": "Cherry Slush",
-    "price": 9.68,
-    "thc": 74.95
    },
    {
     "name": "Citrus Splash",
