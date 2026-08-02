@@ -14024,7 +14024,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-apple-sauce-538016",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge apple sauce",
@@ -14111,7 +14111,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-baked-banana-549675",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge baked banana",
@@ -14188,7 +14188,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-blueberry-swirl-538017",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge blueberry swirl",
@@ -14265,7 +14265,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-cherry-slush-549673",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge cherry slush",
@@ -14352,7 +14352,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-citrus-splash-569921",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge citrus splash",
@@ -14429,7 +14429,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-mango-squeeze-538018",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge mango squeeze",
@@ -14506,7 +14506,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-maple-drip-560300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge maple drip",
@@ -14583,7 +14583,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-orange-krush-556300",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge orange krush",
@@ -14660,7 +14660,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-punchberry-538019",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge punchberry",
@@ -14691,16 +14691,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8620",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -14757,7 +14747,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-strawberry-shortcake-549679",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge strawberry shortcake",
@@ -14834,7 +14824,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Twist Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374545557,
+   "rebuild_gen": 1785695855495,
    "slug": "inventory/variant/craft-oil-twist-tanker-tropsicle-538015",
    "subcategory": "cartridge",
    "suggest": "oil twist tanker craft concentrate cartridge tropsicle",
@@ -19250,7 +19240,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-apple-fizz-570320",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate apple fizz",
@@ -19334,7 +19324,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-cherry-limeade-565048",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate cherry limeade",
@@ -19428,7 +19418,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-electric-lemonade-565037",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate electric lemonade",
@@ -19475,16 +19465,6 @@
        "dthc": null,
        "thc": "8084",
        "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8084",
-       "thca": null
       }
      ],
      "tags": [
@@ -19522,7 +19502,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-orange-creamsicle-569660",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate orange creamsicle",
@@ -19606,7 +19586,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-pineapple-cake-express-565047",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate pineapple cake express",
@@ -19690,7 +19670,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Seshie 1gram",
    "non_trans": false,
-   "rebuild_gen": 1785363653958,
+   "rebuild_gen": 1785696503997,
    "slug": "inventory/variant/craft-seshie-1gram-watermelon-bubblegum-565049",
    "subcategory": "distillate",
    "suggest": "seshie 1gram craft concentrate distillate watermelon bubblegum",
@@ -23464,7 +23444,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-diesel-dawg-523598",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge diesel dawg",
@@ -23541,7 +23521,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-ghost-haze-524646",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge ghost haze",
@@ -23568,14 +23548,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -23625,7 +23598,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-grape-gorilla-523599",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge grape gorilla",
@@ -23702,7 +23675,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-hazy-citrus-524648",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge hazy citrus",
@@ -23729,14 +23702,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2581
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -23786,7 +23752,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-jungle-punch-524649",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge jungle punch",
@@ -23813,14 +23779,7 @@
       }
      },
      "price": 3500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 2339
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -23870,7 +23829,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-orange-sorbet-523603",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge orange sorbet",
@@ -23957,7 +23916,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-purple-skunk-523605",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge purple skunk",
@@ -24034,7 +23993,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-sweet-peach-523606",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge sweet peach",
@@ -24111,7 +24070,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tangie-tart-523608",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tangie tart",
@@ -24188,7 +24147,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Oil Distillate Tanker",
    "non_trans": false,
-   "rebuild_gen": 1785374425960,
+   "rebuild_gen": 1785695846500,
    "slug": "inventory/variant/craft-oil-distillate-tanker-tropical-punch-523609",
    "subcategory": "cartridge",
    "suggest": "oil distillate tanker craft concentrate cartridge tropical punch",
@@ -31019,7 +30978,7 @@
        "min_percentage": 86.4
       }
      },
-     "price": 6000,
+     "price": 4032,
      "pricing": [
       {
        "default": false,
@@ -31103,7 +31062,7 @@
        "min_percentage": 81
       }
      },
-     "price": 6000,
+     "price": 4032,
      "pricing": [
       {
        "default": false,
@@ -31187,7 +31146,7 @@
        "min_percentage": 83.1
       }
      },
-     "price": 6000,
+     "price": 4032,
      "pricing": [
       {
        "default": false,
@@ -31322,7 +31281,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-apple-fizz-og-553699",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe apple fizz og",
@@ -31406,7 +31365,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-cherry-limeade-558765",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe cherry limeade",
@@ -31444,16 +31403,6 @@
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8092",
-       "thca": null
-      },
       {
        "cbc": null,
        "cbd": null,
@@ -31510,7 +31459,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-churroz-553696",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe churroz",
@@ -31594,7 +31543,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-grand-daddy-grape-553695",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe grand daddy grape",
@@ -31688,7 +31637,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-root-beer-kush-553700",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe root beer kush",
@@ -31772,7 +31721,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-watermelon-bubblegum-553697",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe watermelon bubblegum",
@@ -31849,7 +31798,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1784832690779,
+   "rebuild_gen": 1785696460296,
    "slug": "inventory/variant/craft-sesh-syringe-1g-white-runtz-558766",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe white runtz",
@@ -39617,7 +39566,7 @@
        "min_percentage": 67.76
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -39711,7 +39660,7 @@
        "min_percentage": 72.34
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -39805,7 +39754,7 @@
        "min_percentage": 74
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -39889,7 +39838,7 @@
        "min_percentage": 75
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -39973,7 +39922,7 @@
        "min_percentage": 69
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -40057,7 +40006,7 @@
        "min_percentage": 68
       }
      },
-     "price": 3500,
+     "price": 3400,
      "pricing": [
       {
        "default": false,
@@ -40115,7 +40064,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-apple-fizz-og-553362",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge apple fizz og",
@@ -40192,7 +40141,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-cherry-limeade-563082",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge cherry limeade",
@@ -40269,7 +40218,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-electric-lemonade-553357",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge electric lemonade",
@@ -40356,7 +40305,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-grand-daddy-grape-553361",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge grand daddy grape",
@@ -40433,7 +40382,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-orange-creamsicle-553356",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge orange creamsicle",
@@ -40520,7 +40469,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-pineapple-cake-express-553360",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge pineapple cake express",
@@ -40597,7 +40546,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-root-beer-kush-553359",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge root beer kush",
@@ -40674,7 +40623,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh 1000 cart",
    "non_trans": false,
-   "rebuild_gen": 1785364274963,
+   "rebuild_gen": 1785696473098,
    "slug": "inventory/variant/craft-sesh-1000-cart-white-runtz-558757",
    "subcategory": "cartridge",
    "suggest": "sesh 1000 cart craft concentrate cartridge white runtz",
@@ -48545,7 +48494,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh infused 5-Pack",
    "non_trans": false,
-   "rebuild_gen": 1783712744324,
+   "rebuild_gen": 1785696493100,
    "slug": "inventory/variant/craft-sesh-infused-5-pack-variety-pack-534770",
    "subcategory": "hybrid",
    "suggest": "sesh infused 5-pack craft flower hybrid concentrate distillate variety pack",
@@ -48591,26 +48540,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "1200-1225",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1300-1756",
-       "thca": null
-      },
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "1600-2103",
        "thca": null
       },
       {

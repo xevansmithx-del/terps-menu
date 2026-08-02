@@ -4036,8 +4036,8 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 35.0,
-  "price_max": 35.0,
+  "price_min": 34.0,
+  "price_max": 34.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
@@ -4045,32 +4045,32 @@
   "strains": [
    {
     "name": "Hybrid Multipack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 87.75
    },
    {
     "name": "Indica Multipack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 86
    },
    {
     "name": "Sativa Multipack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 82.21
    },
    {
     "name": "Twist #1 Pack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 76.62
    },
    {
     "name": "Twist #2 Pack",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 87.3
    },
    {
     "name": "Twist #3",
-    "price": 35.0,
+    "price": 34.0,
     "thc": 79.09
    }
   ],
