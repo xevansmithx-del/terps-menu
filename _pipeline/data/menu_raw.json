@@ -15,9 +15,9 @@
   "Clearview Industries": 6,
   "Cold Baked": 28,
   "Colorado's Best Dabs": 4,
-  "Craft": 141,
+  "Craft": 139,
   "David Jackson LLC": 20,
-  "Denver Dab Co": 55,
+  "Denver Dab Co": 54,
   "Denver Packaging Company": 12,
   "Egozi": 15,
   "FOREST ST MANUFACTURING LLC": 6,
@@ -33,8 +33,8 @@
   "Keef Cola": 9,
   "Kind Goods LLC": 1,
   "Kodo": 1,
-  "Lifestyle Foods Inc": 20,
-  "Loud Labs LLC": 39,
+  "Lifestyle Foods Inc": 19,
+  "Loud Labs LLC": 37,
   "Medically Correct LLC": 15,
   "Miracle Farms": 1,
   "Misson Holdings US INC": 1,
@@ -47,14 +47,14 @@
   "The Clear": 18,
   "Twax": 2,
   "Vera": 24,
-  "Willoughby Enterprises LLC": 15
+  "Willoughby Enterprises LLC": 14
  },
  "categories": {
   "concentrate": {
-   "count": 389,
+   "count": 383,
    "subcategories": {
     "budder": 18,
-    "cartridge": 188,
+    "cartridge": 185,
     "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
@@ -62,14 +62,14 @@
     "resin": 2,
     "shatter": 12,
     "solventless": 16,
-    "syringe": 8,
-    "wax": 89
+    "syringe": 7,
+    "wax": 87
    }
   },
   "edible": {
-   "count": 88,
+   "count": 87,
    "subcategories": {
-    "candy": 22,
+    "candy": 21,
     "capsule": 1,
     "chocolate": 10,
     "drink": 26,
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 755,
+ "hits": 748,
  "results": [
   {
    "availability": "",
@@ -19153,83 +19153,6 @@
   {
    "availability": "",
    "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Nine Extract Wax",
-   "non_trans": false,
-   "rebuild_gen": 1784772034681,
-   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-watermelon-o-g-573755",
-   "subcategory": "wax",
-   "suggest": "nine extract wax willoughby enterprises llc concentrate wax watermelon o.g.",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573755",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Watermelon O.G.",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67,
-       "min_percentage": 67
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6700",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
-    "license": "404r-00594",
-    "medical": false,
-    "name": "Willoughby Enterprises LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
    "category": "flower",
    "default_image": "",
    "description": "",
@@ -31766,83 +31689,6 @@
    "name": "Sesh Syringe 1g",
    "non_trans": false,
    "rebuild_gen": 1784832690779,
-   "slug": "inventory/variant/craft-sesh-syringe-1g-pineapple-cake-express-553702",
-   "subcategory": "syringe",
-   "suggest": "sesh syringe 1g craft concentrate syringe pineapple cake express",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "553702",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Pineapple Cake Express",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 84.93,
-       "min_percentage": 84.93
-      }
-     },
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8493",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "syringe"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c4fe770-83f4-44fc-afe3-91a661ab04bf",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh Syringe 1g",
-   "non_trans": false,
-   "rebuild_gen": 1784832690779,
    "slug": "inventory/variant/craft-sesh-syringe-1g-root-beer-kush-553700",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe root beer kush",
@@ -32357,83 +32203,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7800",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "9e6848be-72c9-4257-8448-d0e6c40e8ac7",
-    "license": "404R-00357",
-    "medical": false,
-    "name": "Denver Dab Co",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7ce490a4-62f6-4780-a0d2-b3d89c7bba9f",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Denver Dabs 2G",
-   "non_trans": false,
-   "rebuild_gen": 1784491715540,
-   "slug": "inventory/variant/denver-dab-co-denver-dabs-2g-jilly-bean-573514",
-   "subcategory": "wax",
-   "suggest": "denver dabs 2g denver dab co concentrate wax jilly bean",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573514",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Jilly Bean",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 77.3,
-       "min_percentage": 77.3
-      }
-     },
-     "price": 1200,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7730",
        "thca": null
       }
      ],
@@ -35995,83 +35764,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7528",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "44206cc8-a03a-4775-a447-b21fecede358",
-    "license": "404R-00170",
-    "medical": false,
-    "name": "Craft",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "9168e49f-340d-416d-979b-5bb55999af9b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Sesh super Seshie All in One",
-   "non_trans": false,
-   "rebuild_gen": 1784491872990,
-   "slug": "inventory/variant/craft-sesh-super-seshie-all-in-one-electric-lemonade-565321",
-   "subcategory": "cartridge",
-   "suggest": "sesh super seshie all in one craft concentrate cartridge electric lemonade",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "565321",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Electric Lemonade",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 4000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81.43,
-       "min_percentage": 81.43
-      }
-     },
-     "price": 4500,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8143",
        "thca": null
       }
      ],
@@ -39925,7 +39617,7 @@
        "min_percentage": 67.76
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -40019,7 +39711,7 @@
        "min_percentage": 72.34
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -40113,7 +39805,7 @@
        "min_percentage": 74
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -40197,7 +39889,7 @@
        "min_percentage": 75
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -40281,7 +39973,7 @@
        "min_percentage": 69
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -40365,7 +40057,7 @@
        "min_percentage": 68
       }
      },
-     "price": 3400,
+     "price": 3500,
      "pricing": [
       {
        "default": false,
@@ -49260,90 +48952,6 @@
    "name": "Rippys",
    "non_trans": false,
    "rebuild_gen": 1785459072186,
-   "slug": "inventory/variant/loud-labs-llc-rippys-bubonic-chronic-571089",
-   "subcategory": "cartridge",
-   "suggest": "rippys loud labs llc concentrate cartridge bubonic chronic",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571089",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Bubonic Chronic",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 70.86,
-       "min_percentage": 70.86
-      }
-     },
-     "price": 807,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 807
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "7086",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rippys",
-   "non_trans": false,
-   "rebuild_gen": 1785459072186,
    "slug": "inventory/variant/loud-labs-llc-rippys-crosswalker-573392",
    "subcategory": "cartridge",
    "suggest": "rippys loud labs llc concentrate cartridge crosswalker",
@@ -49536,83 +49144,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "7774",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "02fb291f-0724-4c69-a2b0-390cca8f71f7",
-    "license": "404R-00168",
-    "medical": false,
-    "name": "Loud Labs LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "c16f44c1-687a-4b1f-93b7-37e846c7ff6b",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Rippys",
-   "non_trans": false,
-   "rebuild_gen": 1785459072186,
-   "slug": "inventory/variant/loud-labs-llc-rippys-skylin-og-571090",
-   "subcategory": "cartridge",
-   "suggest": "rippys loud labs llc concentrate cartridge skylin og",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "571090",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Skylin OG",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 61.28,
-       "min_percentage": 61.28
-      }
-     },
-     "price": 806,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6128",
        "thca": null
       }
      ],
@@ -62432,78 +61963,6 @@
    },
    "weave_category": "concentrate",
    "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "fc45057c-f1ef-4dc8-98cb-11bc26656174",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Ript",
-   "non_trans": false,
-   "rebuild_gen": 1784838246287,
-   "slug": "inventory/variant/lifestyle-foods-inc-ript-blazed-blue-razz-143037",
-   "subcategory": "candy",
-   "suggest": "ript lifestyle foods inc edible candy blazed blue razz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "143037",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blazed Blue Razz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 403,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "053d5339-a816-4c8a-92b2-9134da7985ee",
-    "license": "404R-00177",
-    "medical": false,
-    "name": "Lifestyle Foods Inc",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "candy"
   },
   {
    "availability": "",

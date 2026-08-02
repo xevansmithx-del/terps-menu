@@ -3046,7 +3046,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 85.81,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3067,11 +3067,6 @@
     "name": "Grand Daddy Grape",
     "price": 12.0,
     "thc": 83.01
-   },
-   {
-    "name": "Pineapple Cake Express",
-    "price": 12.0,
-    "thc": 84.93
    },
    {
     "name": "Root Beer Kush",
@@ -3106,7 +3101,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 78,
-  "n_strains": 9,
+  "n_strains": 8,
   "strains": [
    {
     "name": "Animal Mints",
@@ -3127,11 +3122,6 @@
     "name": "Donny Burger",
     "price": 12.0,
     "thc": 78
-   },
-   {
-    "name": "Jilly Bean",
-    "price": 12.0,
-    "thc": 77.3
    },
    {
     "name": "Mad Mango",
@@ -3556,17 +3546,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 85.82,
-  "n_strains": 7,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Cherry Limeade",
     "price": 45.0,
     "thc": 75.28
-   },
-   {
-    "name": "Electric Lemonade",
-    "price": 45.0,
-    "thc": 81.43
    },
    {
     "name": "Grand Daddy Grape",
@@ -4051,8 +4036,8 @@
   "brand": "Craft Concentrates",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 34.0,
-  "price_max": 34.0,
+  "price_min": 35.0,
+  "price_max": 35.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
@@ -4060,32 +4045,32 @@
   "strains": [
    {
     "name": "Hybrid Multipack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 87.75
    },
    {
     "name": "Indica Multipack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 86
    },
    {
     "name": "Sativa Multipack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 82.21
    },
    {
     "name": "Twist #1 Pack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 76.62
    },
    {
     "name": "Twist #2 Pack",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 87.3
    },
    {
     "name": "Twist #3",
-    "price": 34.0,
+    "price": 35.0,
     "thc": 79.09
    }
   ],
@@ -5146,17 +5131,12 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.74,
-  "n_strains": 7,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Bubba Kush",
     "price": 8.06,
     "thc": 64.03
-   },
-   {
-    "name": "Bubonic Chronic",
-    "price": 8.07,
-    "thc": 70.86
    },
    {
     "name": "Crosswalker",
@@ -5172,11 +5152,6 @@
     "name": "Jealousy",
     "price": 9.68,
     "thc": 77.74
-   },
-   {
-    "name": "Skylin OG",
-    "price": 8.06,
-    "thc": 61.28
    },
    {
     "name": "Wedding Vixen",
