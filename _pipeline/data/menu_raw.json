@@ -31391,7 +31391,7 @@
        "min_percentage": 77.3
       }
      },
-     "price": 1200,
+     "price": 1500,
      "pricing": [
       {
        "default": false,
@@ -40167,7 +40167,7 @@
        "min_percentage": 80.92
       }
      },
-     "price": 1200,
+     "price": 1500,
      "pricing": null,
      "pricing_group": null,
      "quantity": 1,
