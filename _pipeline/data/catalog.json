@@ -3221,7 +3221,7 @@
   "brand": "Egozi",
   "category": "concentrate",
   "subcategory": "solventless",
-  "price_min": 12.1,
+  "price_min": 24.19,
   "price_max": 75.0,
   "unit": "",
   "unit_kind": "",
@@ -3230,7 +3230,7 @@
   "strains": [
    {
     "name": "Garlic Ice Cream",
-    "price": 12.1,
+    "price": 24.19,
     "thc": 72.82
    },
    {
@@ -4666,7 +4666,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.41,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -4702,11 +4702,6 @@
     "name": "Orange Krush",
     "price": 9.68,
     "thc": 77.82
-   },
-   {
-    "name": "Punchberry",
-    "price": 9.68,
-    "thc": 76.63
    },
    {
     "name": "Strawberry Shortcake",
