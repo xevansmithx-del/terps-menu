@@ -6,8 +6,8 @@
   "brand": "Natty Rems",
   "category": "concentrate",
   "subcategory": "cartridge",
-  "price_min": 28.0,
-  "price_max": 28.0,
+  "price_min": 16.13,
+  "price_max": 16.13,
   "unit": "",
   "unit_kind": "",
   "thc_max": 76.85,
@@ -15,7 +15,7 @@
   "strains": [
    {
     "name": "Wedding Cake x Sundae Driver",
-    "price": 28.0,
+    "price": 16.13,
     "thc": 76.85
    }
   ],
@@ -1188,31 +1188,6 @@
   "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/440888617_268692_IMG_1785.jpg",
   "match_score": 0.605,
   "vendor_name": "JKC Manufacturing LLC"
- },
- {
-  "id": "269851a7-bf15-4485-adb0-d2b7fd2a62fe",
-  "slug": "sesh-infused-nug-cone",
-  "name": "Sesh Infused Nug Cone",
-  "brand": "Craft Concentrates",
-  "category": "concentrate",
-  "subcategory": "wax",
-  "price_min": 6.0,
-  "price_max": 6.0,
-  "unit": "",
-  "unit_kind": "",
-  "thc_max": 19.79,
-  "n_strains": 1,
-  "strains": [
-   {
-    "name": "Apricot Scone x Orange Julius",
-    "price": 6.0,
-    "thc": 19.79
-   }
-  ],
-  "description": "",
-  "wm_img": "",
-  "match_score": 0.426,
-  "vendor_name": "Craft"
  },
  {
   "id": "2772ab70-afeb-4867-9c34-8c793c18bf43",
@@ -3011,8 +2986,8 @@
   "brand": "Heartland Farms",
   "category": "concentrate",
   "subcategory": "shatter",
-  "price_min": 8.0,
-  "price_max": 8.0,
+  "price_min": 5.0,
+  "price_max": 5.0,
   "unit": "",
   "unit_kind": "",
   "thc_max": 46.53,
@@ -3020,7 +2995,7 @@
   "strains": [
    {
     "name": "Lemon Cake",
-    "price": 8.0,
+    "price": 5.0,
     "thc": 46.53
    }
   ],
@@ -3040,8 +3015,8 @@
   "price_max": 15.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 85.81,
-  "n_strains": 7,
+  "thc_max": 84.64,
+  "n_strains": 5,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3052,11 +3027,6 @@
     "name": "Cherry Limeade",
     "price": 15.0,
     "thc": 80.92
-   },
-   {
-    "name": "Churroz",
-    "price": 12.0,
-    "thc": 82.36
    },
    {
     "name": "Grand Daddy Grape",
@@ -3072,11 +3042,6 @@
     "name": "Watermelon Bubblegum",
     "price": 12.1,
     "thc": 74.78
-   },
-   {
-    "name": "White Runtz",
-    "price": 12.0,
-    "thc": 85.81
    }
   ],
   "description": "",
@@ -4036,7 +4001,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
-  "n_strains": 6,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Hybrid Multipack",
@@ -4052,16 +4017,6 @@
     "name": "Sativa Multipack",
     "price": 34.0,
     "thc": 82.21
-   },
-   {
-    "name": "Twist #1 Pack",
-    "price": 34.0,
-    "thc": 76.62
-   },
-   {
-    "name": "Twist #2 Pack",
-    "price": 34.0,
-    "thc": 87.3
    },
    {
     "name": "Twist #3",
@@ -6140,33 +6095,18 @@
   "price_max": 2.42,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 14.07,
-  "n_strains": 4,
+  "thc_max": 7.39,
+  "n_strains": 1,
   "strains": [
    {
-    "name": "Alien Haze",
-    "price": 2.42,
-    "thc": 13.67
-   },
-   {
-    "name": "Blueberry Muffin",
+    "name": "confucius kush",
     "price": 2.42,
     "thc": 7.39
-   },
-   {
-    "name": "Freedom OG",
-    "price": 2.42,
-    "thc": 14.07
-   },
-   {
-    "name": "Golden Goat",
-    "price": 2.42,
-    "thc": 8.5
    }
   ],
   "description": "",
-  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/438204059_180215_54292_Prerolls_1.jpg?txt64=UHJvZHVjdCBleGFtcGxl&txt-fit=max&txt-color=666&txt-lead=0&txt-size=24&txt-font=Avenir+Next+Medium&txt-align=center,bottom",
-  "match_score": 0.903,
+  "wm_img": "https://images.weedmaps.com/pictures/users/005/842/690/442323109_genric_preroll_pic.jpg",
+  "match_score": 1.03,
   "vendor_name": "NATTY REMS LLC"
  },
  {
@@ -6481,8 +6421,8 @@
   "brand": "Natty Rems",
   "category": "flower",
   "subcategory": "hybrid",
-  "price_min": 4.0,
-  "price_max": 4.0,
+  "price_min": 2.42,
+  "price_max": 2.42,
   "unit": "",
   "unit_kind": "",
   "thc_max": 23.17,
@@ -6490,42 +6430,42 @@
   "strains": [
    {
     "name": "Alien Haze",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 16.11
    },
    {
     "name": "Blueberry Muffin",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 16.14
    },
    {
     "name": "GMO",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 23.17
    },
    {
     "name": "Golden Goat",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 21.57
    },
    {
     "name": "Grape Essence",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 21.35
    },
    {
     "name": "Jungle Cake",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 20.45
    },
    {
     "name": "Lemon Tree Punch",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 19.82
    },
    {
     "name": "super boof",
-    "price": 4.0,
+    "price": 2.42,
     "thc": 20.91
    }
   ],
