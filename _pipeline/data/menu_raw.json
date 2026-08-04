@@ -1,11 +1,11 @@
 {
  "brands": {
   "": 10,
-  "(White Mousse) WM Concentrates LLC": 4,
+  "(White Mousse) WM Concentrates LLC": 3,
   "14ER": 3,
   "AO Extracts": 35,
   "Antero Sciences": 56,
-  "Bespoke extracts colorado LLC.": 11,
+  "Bespoke extracts colorado LLC.": 10,
   "Blue Cottage LLC": 7,
   "Bud Fox": 3,
   "CALI BLAZE (OCC)": 12,
@@ -23,7 +23,7 @@
   "FOREST ST MANUFACTURING LLC": 6,
   "Green Dot (OCC)": 21,
   "Hi-Fuel": 5,
-  "High Country Management Group": 18,
+  "High Country Management Group": 17,
   "In House LLC": 1,
   "JKC Manufacturing LLC": 10,
   "Jolet Ventures LLC": 3,
@@ -47,11 +47,11 @@
   "The Clear": 18,
   "Twax": 2,
   "Vera": 24,
-  "Willoughby Enterprises LLC": 14
+  "Willoughby Enterprises LLC": 13
  },
  "categories": {
   "concentrate": {
-   "count": 382,
+   "count": 381,
    "subcategories": {
     "budder": 18,
     "cartridge": 184,
@@ -63,24 +63,24 @@
     "shatter": 12,
     "solventless": 16,
     "syringe": 7,
-    "wax": 87
+    "wax": 86
    }
   },
   "edible": {
-   "count": 87,
+   "count": 86,
    "subcategories": {
     "candy": 21,
     "capsule": 1,
     "chocolate": 10,
-    "drink": 26,
+    "drink": 25,
     "gummies": 27,
     "tincture": 2
    }
   },
   "flower": {
-   "count": 260,
+   "count": 258,
    "subcategories": {
-    "hybrid": 193,
+    "hybrid": 191,
     "indica": 16,
     "other": 38,
     "sativa": 13
@@ -103,7 +103,7 @@
    }
   }
  },
- "hits": 747,
+ "hits": 743,
  "results": [
   {
    "availability": "",
@@ -16612,83 +16612,6 @@
   },
   {
    "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": "",
-   "id": "3b6a8577-f4a8-4125-965b-75fc68c30d72",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Employee Sample",
-   "non_trans": false,
-   "rebuild_gen": 1784672746942,
-   "slug": "inventory/variant/bespoke-extracts-colorado-llc-employee-sample-preroll-1g-643400",
-   "subcategory": "hybrid",
-   "suggest": "employee sample bespoke extracts colorado llc. flower hybrid preroll-1g",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "643400",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Preroll-1g",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 31.07,
-       "min_percentage": 31.07
-      }
-     },
-     "price": 1,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "3107",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "prepack"
-    }
-   ],
-   "vendor": {
-    "id": "94aa2233-3ac9-42df-970e-b01e174978a9",
-    "license": "404r-00162",
-    "medical": false,
-    "name": "Bespoke extracts colorado LLC.",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
    "cannabis": false,
    "category": "flower",
    "default_image": "",
@@ -18754,83 +18677,6 @@
    },
    "weave_category": "flower",
    "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "4ee7b217-060f-46d6-b514-906f9f743c22",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Nine Extract Wax",
-   "non_trans": false,
-   "rebuild_gen": 1784772034681,
-   "slug": "inventory/variant/willoughby-enterprises-llc-nine-extract-wax-blueberry-pancakes-573754",
-   "subcategory": "wax",
-   "suggest": "nine extract wax willoughby enterprises llc concentrate wax blueberry pancakes",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "573754",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blueberry Pancakes",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 67,
-       "min_percentage": 67
-      }
-     },
-     "price": 800,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "6700",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "6bb43ed5-efc4-41a6-8e33-f9172ebfe28c",
-    "license": "404r-00594",
-    "medical": false,
-    "name": "Willoughby Enterprises LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "wax"
   },
   {
    "availability": "",
@@ -21077,78 +20923,6 @@
      "hidden_from_menu": false,
      "id": "",
      "name": "Peach Passion Fruit",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 100,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 600,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "937f21e0-7f0a-4939-9a11-c3f4525d1edb",
-    "license": "404R-00016",
-    "medical": false,
-    "name": "(White Mousse) WM Concentrates LLC",
-    "state": "CO"
-   },
-   "weave_category": "edible",
-   "weave_subcategory": "drink"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "edible",
-   "default_image": "",
-   "description": " ",
-   "id": "51f6b306-f527-4eac-a724-813627e6662d",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "White Mousse Jousse",
-   "non_trans": false,
-   "rebuild_gen": 1785009570636,
-   "slug": "inventory/variant/white-mousse-wm-concentrates-llc-white-mousse-jousse-strawberry-banana-145894",
-   "subcategory": "drink",
-   "suggest": "white mousse jousse (white mousse) wm concentrates llc edible drink strawberry banana",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "145894",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Strawberry Banana",
      "online_minimum_stock": 0,
      "packaging": {
       "count": 1000,
@@ -31281,7 +31055,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-apple-fizz-og-553699",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe apple fizz og",
@@ -31365,7 +31139,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-cherry-limeade-558765",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe cherry limeade",
@@ -31392,14 +31166,7 @@
       }
      },
      "price": 1500,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 1100
-      }
-     ],
+     "pricing": null,
      "pricing_group": null,
      "quantity": 1,
      "raw_potency": [
@@ -31459,7 +31226,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-churroz-553696",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe churroz",
@@ -31543,7 +31310,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-grand-daddy-grape-553695",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe grand daddy grape",
@@ -31637,7 +31404,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-root-beer-kush-553700",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe root beer kush",
@@ -31721,7 +31488,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-watermelon-bubblegum-553697",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe watermelon bubblegum",
@@ -31798,7 +31565,7 @@
    "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
    "name": "Sesh Syringe 1g",
    "non_trans": false,
-   "rebuild_gen": 1785696460296,
+   "rebuild_gen": 1785786544693,
    "slug": "inventory/variant/craft-sesh-syringe-1g-white-runtz-558766",
    "subcategory": "syringe",
    "suggest": "sesh syringe 1g craft concentrate syringe white runtz",
@@ -51994,83 +51761,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "2756",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "23edfeaf-1e45-413c-b093-b010c224beae",
-    "license": "403R-00521",
-    "medical": false,
-    "name": "High Country Management Group",
-    "state": "CO"
-   },
-   "weave_category": "flower",
-   "weave_subcategory": "hybrid"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "flower",
-   "default_image": "",
-   "description": "a",
-   "id": "d46eac2a-3a78-4b49-9dd8-d3a496e20563",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "High County Cones 5 Pack",
-   "non_trans": false,
-   "rebuild_gen": 1783799868023,
-   "slug": "inventory/variant/high-country-management-group-high-county-cones-5-pack-morning-dew-648758",
-   "subcategory": "hybrid",
-   "suggest": "high county cones 5 pack high country management group flower hybrid morning dew",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "648758",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Morning Dew",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2500,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 23.24,
-       "min_percentage": 23.24
-      }
-     },
-     "price": 2258,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "2324",
        "thca": null
       }
      ],
