@@ -561,8 +561,13 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 77.48,
-  "n_strains": 7,
+  "n_strains": 8,
   "strains": [
+   {
+    "name": "Alien Haze",
+    "price": 13.0,
+    "thc": 76.4
+   },
    {
     "name": "Bubba Haze",
     "price": 13.0,
@@ -1301,7 +1306,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 10,
+  "n_strains": 11,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1352,6 +1357,11 @@
     "name": "Tropsicle",
     "price": 35.0,
     "thc": 70.64
+   },
+   {
+    "name": "Watermelon Ice",
+    "price": 35.0,
+    "thc": 78.8
    }
   ],
   "description": "",
@@ -2076,8 +2086,13 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
-  "n_strains": 9,
+  "n_strains": 12,
   "strains": [
+   {
+    "name": "Banana Kush",
+    "price": 9.68,
+    "thc": 78.3
+   },
    {
     "name": "Blueberry Bubble",
     "price": 9.68,
@@ -2107,6 +2122,16 @@
     "name": "Maui Wowie",
     "price": 9.68,
     "thc": 81.9
+   },
+   {
+    "name": "OG Kush",
+    "price": 9.68,
+    "thc": 72.34
+   },
+   {
+    "name": "Purple Punch",
+    "price": 9.68,
+    "thc": 78.76
    },
    {
     "name": "Sour Diesel",
@@ -2301,8 +2326,13 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 83.34,
-  "n_strains": 10,
+  "n_strains": 12,
   "strains": [
+   {
+    "name": "Chem Lemons",
+    "price": 35.0,
+    "thc": 81.3
+   },
    {
     "name": "Diesel Dawg",
     "price": 35.0,
@@ -2317,6 +2347,11 @@
     "name": "Grape Gorilla",
     "price": 35.0,
     "thc": 73.64
+   },
+   {
+    "name": "Hawaiian Sour",
+    "price": 35.0,
+    "thc": 81.6
    },
    {
     "name": "Hazy Citrus",
@@ -3006,7 +3041,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.64,
-  "n_strains": 4,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3019,9 +3054,19 @@
     "thc": 80.92
    },
    {
+    "name": "Churroz",
+    "price": 12.0,
+    "thc": 83.63
+   },
+   {
     "name": "Grand Daddy Grape",
     "price": 12.0,
     "thc": 83.01
+   },
+   {
+    "name": "Orange Creamsicle",
+    "price": 12.0,
+    "thc": 84.09
    },
    {
     "name": "Watermelon Bubblegum",
@@ -3986,7 +4031,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
-  "n_strains": 3,
+  "n_strains": 6,
   "strains": [
    {
     "name": "Hybrid Multipack",
@@ -3996,12 +4041,27 @@
    {
     "name": "Indica Multipack",
     "price": 34.0,
-    "thc": 86
+    "thc": 86.38
    },
    {
     "name": "Sativa Multipack",
     "price": 34.0,
     "thc": 82.21
+   },
+   {
+    "name": "Twist #1 Pack",
+    "price": 34.0,
+    "thc": 76.62
+   },
+   {
+    "name": "Twist #2 Pack",
+    "price": 34.0,
+    "thc": 87.6
+   },
+   {
+    "name": "Twist #3",
+    "price": 34.0,
+    "thc": 79.09
    }
   ],
   "description": "",
@@ -4021,7 +4081,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 89.95,
-  "n_strains": 8,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -4032,6 +4092,11 @@
     "name": "Cherry Limeade",
     "price": 15.0,
     "thc": 80.92
+   },
+   {
+    "name": "Churroz",
+    "price": 12.0,
+    "thc": 83.63
    },
    {
     "name": "Electric Lemonade",
@@ -4045,7 +4110,7 @@
    },
    {
     "name": "Orange Creamsicle",
-    "price": 12.0,
+    "price": 15.0,
     "thc": 84.09
    },
    {
@@ -4057,6 +4122,11 @@
     "name": "Root Beer Kush",
     "price": 12.0,
     "thc": 84.41
+   },
+   {
+    "name": "Watermelon Bubble Gum",
+    "price": 15.0,
+    "thc": 84.5
    },
    {
     "name": "White Runtz",
@@ -4596,7 +4666,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.41,
-  "n_strains": 10,
+  "n_strains": 12,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -4614,9 +4684,14 @@
     "thc": 74.69
    },
    {
+    "name": "Cherry Slush",
+    "price": 9.68,
+    "thc": 82.4
+   },
+   {
     "name": "Citrus Splash",
     "price": 9.68,
-    "thc": 72.14
+    "thc": 80.08
    },
    {
     "name": "Mango Squeezed",
@@ -4632,6 +4707,11 @@
     "name": "Orange Krush",
     "price": 9.68,
     "thc": 77.82
+   },
+   {
+    "name": "Punchberry",
+    "price": 9.68,
+    "thc": 76.63
    },
    {
     "name": "Strawberry Shortcake",
@@ -4965,18 +5045,13 @@
   "price_max": 40.0,
   "unit": "",
   "unit_kind": "",
-  "thc_max": 76.17,
-  "n_strains": 3,
+  "thc_max": 68.31,
+  "n_strains": 2,
   "strains": [
    {
     "name": "golden goat",
     "price": 40.0,
     "thc": 62.48
-   },
-   {
-    "name": "Grape Cream Cake",
-    "price": 40.0,
-    "thc": 76.17
    },
    {
     "name": "Motor Breath #15",
@@ -5036,7 +5111,7 @@
    {
     "name": "Pack #2",
     "price": 36.0,
-    "thc": 85.5
+    "thc": 89.55
    }
   ],
   "description": "",
