@@ -2076,7 +2076,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
-  "n_strains": 10,
+  "n_strains": 9,
   "strains": [
    {
     "name": "Blueberry Bubble",
@@ -2107,11 +2107,6 @@
     "name": "Maui Wowie",
     "price": 9.68,
     "thc": 81.9
-   },
-   {
-    "name": "Purple Punch",
-    "price": 9.68,
-    "thc": 78.76
    },
    {
     "name": "Sour Diesel",
