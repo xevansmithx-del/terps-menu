@@ -1301,7 +1301,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 86.4,
-  "n_strains": 11,
+  "n_strains": 10,
   "strains": [
    {
     "name": "Apple Sauce",
@@ -1337,11 +1337,6 @@
     "name": "Maple Drip",
     "price": 35.0,
     "thc": 74.11
-   },
-   {
-    "name": "Orange Krush",
-    "price": 35.0,
-    "thc": 85.67
    },
    {
     "name": "Punchberry",
@@ -3016,7 +3011,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 84.64,
-  "n_strains": 5,
+  "n_strains": 4,
   "strains": [
    {
     "name": "Apple Fizz OG",
@@ -3032,11 +3027,6 @@
     "name": "Grand Daddy Grape",
     "price": 12.0,
     "thc": 83.01
-   },
-   {
-    "name": "Root Beer Kush",
-    "price": 12.0,
-    "thc": 84.41
    },
    {
     "name": "Watermelon Bubblegum",
@@ -4001,7 +3991,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 87.75,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Hybrid Multipack",
@@ -4017,11 +4007,6 @@
     "name": "Sativa Multipack",
     "price": 34.0,
     "thc": 82.21
-   },
-   {
-    "name": "Twist #3",
-    "price": 34.0,
-    "thc": 79.09
    }
   ],
   "description": "",
@@ -6426,7 +6411,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 23.17,
-  "n_strains": 8,
+  "n_strains": 7,
   "strains": [
    {
     "name": "Alien Haze",
@@ -6442,11 +6427,6 @@
     "name": "GMO",
     "price": 2.42,
     "thc": 23.17
-   },
-   {
-    "name": "Golden Goat",
-    "price": 2.42,
-    "thc": 21.57
    },
    {
     "name": "Grape Essence",
