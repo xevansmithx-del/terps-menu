@@ -6616,7 +6616,7 @@
   "unit": "",
   "unit_kind": "",
   "thc_max": 80.23,
-  "n_strains": 4,
+  "n_strains": 3,
   "strains": [
    {
     "name": "Fortissimo",
@@ -6627,11 +6627,6 @@
     "name": "MAC Cake",
     "price": 24.0,
     "thc": 80.23
-   },
-   {
-    "name": "The Fizz",
-    "price": 24.0,
-    "thc": null
    },
    {
     "name": "Troplato",

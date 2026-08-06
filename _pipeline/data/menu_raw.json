@@ -9,12 +9,12 @@
   "Blue Cottage LLC": 7,
   "Bud Fox": 3,
   "CALI BLAZE (OCC)": 12,
-  "CC Brands LLC": 9,
+  "CC Brands LLC": 8,
   "CLEARWATER BUDS LLC": 3,
   "Chaos": 13,
   "Clearview Industries": 6,
   "Cold Baked": 27,
-  "Colorado's Best Dabs": 4,
+  "Colorado's Best Dabs": 3,
   "Craft": 145,
   "David Jackson LLC": 20,
   "Denver Dab Co": 54,
@@ -50,14 +50,14 @@
  },
  "categories": {
   "concentrate": {
-   "count": 386,
+   "count": 384,
    "subcategories": {
     "budder": 18,
-    "cartridge": 191,
+    "cartridge": 190,
     "crumble": 5,
     "cured extract": 3,
     "distillate": 26,
-    "live extract": 23,
+    "live extract": 22,
     "resin": 2,
     "shatter": 11,
     "solventless": 16,
@@ -102,7 +102,7 @@
    }
   }
  },
- "hits": 743,
+ "hits": 741,
  "results": [
   {
    "availability": "",
@@ -31034,90 +31034,6 @@
    "name": "Packwoods 2g Disposable",
    "non_trans": false,
    "rebuild_gen": 1784057624543,
-   "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-blue-slurpie-514292",
-   "subcategory": "cartridge",
-   "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge blue slurpie",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "514292",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "Blue Slurpie",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 2000,
-      "uom": "ct"
-     },
-     "potency_result": {
-      "thc": {
-       "max_percentage": 81,
-       "min_percentage": 81
-      }
-     },
-     "price": 4032,
-     "pricing": [
-      {
-       "default": false,
-       "group": "Employee",
-       "id": "80f6f37e-b9bb-430d-8a99-cbea4a2ea4ea",
-       "price": 6000
-      }
-     ],
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": "8100",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "919b4700-90da-4d3a-b649-67a94bc47801",
-    "license": "404R-00047",
-    "medical": false,
-    "name": "CC Brands LLC",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "cartridge"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": " ",
-   "id": "7c0de1d6-ccc7-4447-b750-52eee1e69f3e",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Packwoods 2g Disposable",
-   "non_trans": false,
-   "rebuild_gen": 1784057624543,
    "slug": "inventory/variant/cc-brands-llc-packwoods-2g-disposable-donut-shop-2g-562631",
    "subcategory": "cartridge",
    "suggest": "packwoods 2g disposable cc brands llc concentrate cartridge donut shop 2g",
@@ -61687,78 +61603,6 @@
        "cbn": null,
        "dthc": null,
        "thc": "8023",
-       "thca": null
-      }
-     ],
-     "tags": [
-      {
-       "id": "",
-       "name": ""
-      }
-     ],
-     "type": "unit"
-    }
-   ],
-   "vendor": {
-    "id": "f26f8086-d47d-4d43-a33e-8f6d51478325",
-    "license": "404R-00345",
-    "medical": false,
-    "name": "Colorado's Best Dabs",
-    "state": "CO"
-   },
-   "weave_category": "concentrate",
-   "weave_subcategory": "live extract"
-  },
-  {
-   "availability": "",
-   "cannabis": true,
-   "category": "concentrate",
-   "default_image": "",
-   "description": "",
-   "id": "feb879eb-afbd-4d68-8540-f31ce536e382",
-   "images": [
-    {
-     "default": true,
-     "url": ""
-    }
-   ],
-   "location_id": "bcb66b17-88c8-4139-a6d4-f8dd8099521e",
-   "name": "Liquid Diamonds",
-   "non_trans": false,
-   "rebuild_gen": 1785854871561,
-   "slug": "inventory/variant/colorado-s-best-dabs-liquid-diamonds-the-fizz-572148",
-   "subcategory": "live extract",
-   "suggest": "liquid diamonds colorado's best dabs concentrate live extract the fizz",
-   "suggest_weight": 11,
-   "type": "cannabis",
-   "variants": [
-    {
-     "added_concentrate": 0,
-     "cpc": "572148",
-     "excise": 0,
-     "hidden_from_menu": false,
-     "id": "",
-     "name": "The Fizz",
-     "online_minimum_stock": 0,
-     "packaging": {
-      "count": 1000,
-      "thc_weight": 1000,
-      "uom": "ct"
-     },
-     "potency_result": {},
-     "price": 2400,
-     "pricing": null,
-     "pricing_group": null,
-     "quantity": 1,
-     "raw_potency": [
-      {
-       "cbc": null,
-       "cbd": null,
-       "cbda": null,
-       "cbg": null,
-       "cbn": null,
-       "dthc": null,
-       "thc": null,
        "thca": null
       }
      ],
